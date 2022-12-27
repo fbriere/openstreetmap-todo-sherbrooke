@@ -125,7 +125,7 @@
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3037181' action='modify' lat='45.37577904079' lon='-71.84291482508'>
-    <tag k='TODO:note' v='Rues Champigny (au nord) et Atto (au sud, jusqu&apos;à Moulton Hill)' />
+    <tag k='TODO:note' v='Confirmer: Rues Champigny (au nord) et Atto (au sud, jusqu&apos;à Moulton Hill)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='name' />
   </node>
