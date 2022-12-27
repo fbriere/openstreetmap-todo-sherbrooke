@@ -1,0 +1,48 @@
+node["TODO:type"]
+{
+    symbol-shape: circle;
+    symbol-size: 7;
+    text: "TODO:note";
+}
+node["TODO:certain"="yes"]
+{
+    font-size: 10;
+    font-weight: bold;
+}
+
+
+node["TODO:type"="oneway"]
+{
+    text: eval(concat(" → ", tag("TODO:note")));
+    text-color: white;
+    symbol-fill-color: white;
+}
+
+node["TODO:type"="restriction"]
+{
+    text: eval(concat(" ✘ ", tag("TODO:note")));
+    text-color: white;
+    symbol-fill-color: white;
+}
+
+node["TODO:type"="stop"]
+{
+    text-color: red;
+    symbol-fill-color: red;
+    symbol-shape: octagon;
+}
+
+node["TODO:type"="surface"]
+{
+    text: "TODO:note";
+    text-color: lightblue;
+    symbol-fill-color: lightblue;
+}
+
+node["TODO:type"="traffic_signal"]
+{
+    symbol-fill-color: yellow;
+    text-color: yellow;
+}
+
+/* vi: set syn=css: */
