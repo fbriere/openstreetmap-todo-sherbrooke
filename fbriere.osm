@@ -139,9 +139,4 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='surface' />
   </node>
-  <node id='-3037189' action='modify' lat='45.36761075252' lon='-71.87185048009'>
-    <tag k='TODO:minutes' v='2019-02-04' />
-    <tag k='TODO:note' v='Pavage de la rue Watson (de la rue McMurray à la rue Duncan-Bruce)' />
-    <tag k='TODO:type' v='surface' />
-  </node>
 </osm>
