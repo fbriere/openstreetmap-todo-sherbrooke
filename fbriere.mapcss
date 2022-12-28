@@ -13,14 +13,14 @@ node["TODO:certain"="yes"]
 
 node["TODO:type"="oneway"]
 {
-    text: eval(concat(" → ", tag("TODO:note")));
+    text: concat(" → ", tag("TODO:note"));
     text-color: white;
     symbol-fill-color: white;
 }
 
 node["TODO:type"="restriction"]
 {
-    text: eval(concat(" ✘ ", tag("TODO:note")));
+    text: concat(" ✘ ", tag("TODO:note"));
     text-color: white;
     symbol-fill-color: white;
 }
