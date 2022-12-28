@@ -31,6 +31,10 @@ node["TODO:type"="stop"]
     symbol-fill-color: red;
     symbol-shape: octagon;
 }
+node["TODO:type"="stop"]["TODO:note"="Arrêt toutes directions"]
+{
+    text: "";
+}
 
 node["TODO:type"="surface"]
 {
