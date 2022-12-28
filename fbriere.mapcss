@@ -36,12 +36,6 @@ node["TODO:type"="stop"]["TODO:note"="Arrêt toutes directions"]
     text: "";
 }
 
-node["TODO:type"="surface"]
-{
-    text-color: lightblue;
-    symbol-fill-color: lightblue;
-}
-
 node["TODO:type"="traffic_signal"]
 {
     text-color: yellow;

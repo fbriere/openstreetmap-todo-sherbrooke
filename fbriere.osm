@@ -129,14 +129,4 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='name' />
   </node>
-  <node id='-3037186' action='modify' lat='45.31888557906' lon='-72.0490050372'>
-    <tag k='TODO:note' v='Pavage de la rue Villeneuve' />
-    <tag k='TODO:type' v='surface' />
-  </node>
-  <node id='-3037187' action='modify' lat='45.30925849194' lon='-72.04602241005'>
-    <tag k='TODO:minutes' v='2018-04-16' />
-    <tag k='TODO:note' v='Pavage de la rue du Trianon (au complet)' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='surface' />
-  </node>
 </osm>
