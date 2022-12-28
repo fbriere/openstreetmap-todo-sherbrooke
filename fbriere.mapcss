@@ -1,8 +1,8 @@
 node["TODO:type"]
 {
+    text: "TODO:note";
     symbol-shape: circle;
     symbol-size: 7;
-    text: "TODO:note";
 }
 node["TODO:certain"="yes"]
 {
@@ -34,15 +34,14 @@ node["TODO:type"="stop"]
 
 node["TODO:type"="surface"]
 {
-    text: "TODO:note";
     text-color: lightblue;
     symbol-fill-color: lightblue;
 }
 
 node["TODO:type"="traffic_signal"]
 {
-    symbol-fill-color: yellow;
     text-color: yellow;
+    symbol-fill-color: yellow;
 }
 
 /* vi: set syn=css: */
