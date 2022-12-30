@@ -1,313 +1,313 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' upload='false' generator='JOSM'>
-  <node id='-3037196' action='modify' lat='45.3874763817' lon='-71.89842045969'>
-    <tag k='TODO:check_date' v='2022-09' />
-    <tag k='TODO:minutes' v='2017-03-06' />
+<osm version='0.6' upload='never' generator='JOSM'>
+  <node id='-3037484' action='modify' lat='45.46758768479' lon='-71.93745196402'>
+    <tag k='TODO:minutes' v='2017-10-02' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037197' action='modify' lat='45.42128859312' lon='-71.88041846633'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037198' action='modify' lat='45.38844243645' lon='-71.99558671931'>
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037199' action='modify' lat='45.36816853353' lon='-71.97094202972'>
-    <tag k='TODO:check_date' v='2019-06' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037200' action='modify' lat='45.40155745941' lon='-71.9217234943'>
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037201' action='modify' lat='45.36703789304' lon='-71.9717681501'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037202' action='modify' lat='45.35141087135' lon='-71.99307732887'>
+  <node id='-3037485' action='modify' lat='45.35141087187' lon='-71.99307732493'>
     <tag k='TODO:check_date' v='2022-09' />
     <tag k='TODO:minutes' v='2017-07-03' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037203' action='modify' lat='45.38218130295' lon='-71.92949333569'>
-    <tag k='TODO:certain' v='yes' />
+  <node id='-3037495' action='modify' lat='45.38747638222' lon='-71.89842045575'>
+    <tag k='TODO:check_date' v='2022-09' />
+    <tag k='TODO:minutes' v='2017-03-06' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037204' action='modify' lat='45.40373275593' lon='-71.84992414032'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037205' action='modify' lat='45.36885886794' lon='-71.86935600567'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037206' action='modify' lat='45.42690765119' lon='-71.86802612273'>
-    <tag k='TODO:check_date' v='2017-08' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037207' action='modify' lat='45.38686474382' lon='-71.88906082615'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037208' action='modify' lat='45.39516151476' lon='-71.93385780788'>
+  <node id='-3037500' action='modify' lat='45.39516151528' lon='-71.93385780394'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:minutes' v='2016-10-03' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037209' action='modify' lat='45.40271725462' lon='-71.84617859442'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037210' action='modify' lat='45.38490313802' lon='-71.99096203781'>
+  <node id='-3037501' action='modify' lat='45.38490313854' lon='-71.99096203387'>
     <tag k='TODO:check_date' v='2019-05-12' />
     <tag k='TODO:minutes' v='2016-10-03' />
     <tag k='TODO:note' v='Arrêt toutes directions (face à Mondrian)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037211' action='modify' lat='45.37577715615' lon='-71.84287191368'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037212' action='modify' lat='45.37080133192' lon='-71.97776566775'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037213' action='modify' lat='45.36341511849' lon='-71.86090879138'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037214' action='modify' lat='45.42201500752' lon='-71.94744990925'>
-    <tag k='TODO:minutes' v='2022-04-05' />
-    <tag k='TODO:note' v='Retrait des arrêts sur Lionel-Groulx et installation de feux clignottants pour piétons' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037215' action='modify' lat='45.46758768427' lon='-71.93745196796'>
-    <tag k='TODO:minutes' v='2017-10-02' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037216' action='modify' lat='45.36963456371' lon='-71.86313332058'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037217' action='modify' lat='45.38702860513' lon='-71.96945769157'>
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037218' action='modify' lat='45.34105383094' lon='-71.84321912793'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037219' action='modify' lat='45.3717403302' lon='-71.86212390538'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037220' action='modify' lat='45.37974747139' lon='-71.9867401776'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037221' action='modify' lat='45.46945545132' lon='-71.93786666659'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037222' action='modify' lat='45.47039001373' lon='-71.93602033153'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037223' action='modify' lat='45.36051174581' lon='-71.92949541547'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037224' action='modify' lat='45.371315362' lon='-71.96521282858'>
+  <node id='-3037545' action='modify' lat='45.37131536252' lon='-71.96521282464'>
     <tag k='TODO:check_date' v='2019-09-07' />
     <tag k='TODO:note' v='Retrait de l&apos;arrêt en septembre 2019' />
     <tag k='TODO:source' v='survey' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037225' action='modify' lat='45.38993490463' lon='-71.89148131075'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037226' action='modify' lat='45.38948017105' lon='-71.9340413626'>
-    <tag k='TODO:check_date' v='2016-09' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037227' action='modify' lat='45.36687960157' lon='-71.9551384542'>
+  <node id='-3037557' action='modify' lat='45.36687960209' lon='-71.95513845026'>
     <tag k='TODO:minutes' v='2021-02-08' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037228' action='modify' lat='45.38757625084' lon='-71.99327495229'>
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+  <node id='-3037566' action='modify' lat='45.42201500804' lon='-71.94744990531'>
+    <tag k='TODO:minutes' v='2022-04-05' />
+    <tag k='TODO:note' v='Retrait des arrêts sur Lionel-Groulx et installation de feux clignottants pour piétons' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037229' action='modify' lat='45.38695491004' lon='-71.88695897213'>
+  <node id='-3037590' action='modify' lat='45.36963456423' lon='-71.86313331664'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037230' action='modify' lat='45.38735549042' lon='-71.99188260824'>
+  <node id='-3037591' action='modify' lat='45.40155745993' lon='-71.92172349036'>
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037231' action='modify' lat='45.34965652552' lon='-71.94603986829'>
+  <node id='-3037592' action='modify' lat='45.36816853405' lon='-71.97094202578'>
+    <tag k='TODO:check_date' v='2019-06' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037593' action='modify' lat='45.36703789356' lon='-71.97176814616'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037232' action='modify' lat='45.37697745212' lon='-71.98924721348'>
+  <node id='-3037595' action='modify' lat='45.37577715667' lon='-71.84287190974'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037596' action='modify' lat='45.36885886846' lon='-71.86935600173'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037597' action='modify' lat='45.40463990975' lon='-71.882266305'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037598' action='modify' lat='45.38948017157' lon='-71.93404135866'>
+    <tag k='TODO:check_date' v='2016-09' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037599' action='modify' lat='45.37174033072' lon='-71.86212390144'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037600' action='modify' lat='45.38702860565' lon='-71.96945768763'>
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037601' action='modify' lat='45.36497953941' lon='-71.866049037'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037602' action='modify' lat='45.36840559296' lon='-71.85448098055'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037603' action='modify' lat='45.47413756494' lon='-71.94583489623'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037604' action='modify' lat='45.47103127644' lon='-71.94436608585'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037605' action='modify' lat='45.40798182123' lon='-71.88129033904'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037606' action='modify' lat='45.38367774929' lon='-71.88878355549'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037607' action='modify' lat='45.38378224378' lon='-71.88668038593'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037608' action='modify' lat='45.47281386634' lon='-71.90431344756'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037609' action='modify' lat='45.36051174633' lon='-71.92949541153'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037610' action='modify' lat='45.38695491056' lon='-71.88695896819'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037611' action='modify' lat='45.34965652604' lon='-71.94603986435'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037612' action='modify' lat='45.37080133244' lon='-71.97776566381'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037613' action='modify' lat='45.34105383146' lon='-71.84321912399'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037614' action='modify' lat='45.38361638936' lon='-71.88984338229'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037615' action='modify' lat='45.36890978579' lon='-71.86315337896'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037616' action='modify' lat='45.37040711922' lon='-71.86316406009'>
+    <tag k='TODO:certain' v='yes' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037617' action='modify' lat='45.37697745264' lon='-71.98924720954'>
     <tag k='TODO:check_date' v='2022-09' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037233' action='modify' lat='45.39961143522' lon='-71.86505925592'>
+  <node id='-3037618' action='modify' lat='45.38325284843' lon='-71.99315802225'>
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037619' action='modify' lat='45.41269963995' lon='-71.95635516474'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037234' action='modify' lat='45.3704071187' lon='-71.86316406403'>
+  <node id='-3037620' action='modify' lat='45.38993490515' lon='-71.89148130681'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037235' action='modify' lat='45.34087379642' lon='-71.84852525105'>
+  <node id='-3037621' action='modify' lat='45.46945545184' lon='-71.93786666265'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037236' action='modify' lat='45.38361638884' lon='-71.88984338623'>
+  <node id='-3037622' action='modify' lat='45.47039001425' lon='-71.93602032759'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037237' action='modify' lat='45.36890978527' lon='-71.8631533829'>
+  <node id='-3037623' action='modify' lat='45.37974747191' lon='-71.98674017366'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037238' action='modify' lat='45.38378224326' lon='-71.88668038987'>
+  <node id='-3037624' action='modify' lat='45.38735549094' lon='-71.9918826043'>
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037625' action='modify' lat='45.38757625136' lon='-71.99327494835'>
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037626' action='modify' lat='45.36341511901' lon='-71.86090878744'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037239' action='modify' lat='45.38367774877' lon='-71.88878355943'>
+  <node id='-3037627' action='modify' lat='45.38218130347' lon='-71.92949333175'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037240' action='modify' lat='45.47281386582' lon='-71.9043134515'>
+  <node id='-3037628' action='modify' lat='45.38844243697' lon='-71.99558671537'>
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037629' action='modify' lat='45.42128859364' lon='-71.88041846239'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037241' action='modify' lat='45.47103127592' lon='-71.94436608979'>
+  <node id='-3037630' action='modify' lat='45.40271725514' lon='-71.84617859048'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037242' action='modify' lat='45.47413756442' lon='-71.94583490017'>
+  <node id='-3037631' action='modify' lat='45.38686474434' lon='-71.88906082221'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037243' action='modify' lat='45.40463990923' lon='-71.88226630894'>
+  <node id='-3037632' action='modify' lat='45.42690765171' lon='-71.86802611879'>
+    <tag k='TODO:check_date' v='2017-08' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:type' v='stop' />
+  </node>
+  <node id='-3037633' action='modify' lat='45.40373275645' lon='-71.84992413638'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037244' action='modify' lat='45.40798182071' lon='-71.88129034298'>
+  <node id='-3037634' action='modify' lat='45.34087379694' lon='-71.84852524711'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3037245' action='modify' lat='45.41269963943' lon='-71.95635516868'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037246' action='modify' lat='45.36497953889' lon='-71.86604904094'>
-    <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037247' action='modify' lat='45.38325284791' lon='-71.99315802619'>
-    <tag k='TODO:note' v='Arrêt toutes directions' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-  </node>
-  <node id='-3037248' action='modify' lat='45.36840559244' lon='-71.85448098449'>
+  <node id='-3037635' action='modify' lat='45.39961143574' lon='-71.86505925198'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
