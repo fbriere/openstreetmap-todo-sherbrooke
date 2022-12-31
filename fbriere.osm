@@ -1,284 +1,296 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='never' generator='JOSM'>
-  <node id='-3041043' action='modify' lat='45.37107807821' lon='-71.93274341552'>
+  <node id='-3041437' action='modify' lat='45.37107807821' lon='-71.93274341552'>
     <tag k='TODO:note' v='Ajouter: Allées du Mont-Sainte-Anne' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041048' action='modify' lat='45.41210329113' lon='-71.83706431713'>
+  <node id='-3041442' action='modify' lat='45.41210329113' lon='-71.83706431713'>
     <tag k='TODO:note' v='Ajouter: Jetté (sur toute la longueur)' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041051' action='modify' lat='45.39911789189' lon='-71.89065978785'>
+  <node id='-3041445' action='modify' lat='45.39911789189' lon='-71.89065978785'>
     <tag k='TODO:note' v='Retirer: Sanborn (entre Brooks et Gordon)' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041064' action='modify' lat='45.40378510383' lon='-71.89302222547'>
+  <node id='-3041458' action='modify' lat='45.40378510383' lon='-71.89302222547'>
     <tag k='TODO:note' v='Ajouter: de Lorraine' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041076' action='modify' lat='45.39486015444' lon='-71.9203153266'>
+  <node id='-3041470' action='modify' lat='45.39486015444' lon='-71.9203153266'>
     <tag k='TODO:note' v='Vérifier: Allée du Urbano' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041077' action='modify' lat='45.39431770693' lon='-71.91888839275'>
+  <node id='-3041471' action='modify' lat='45.39431770693' lon='-71.91888839275'>
     <tag k='TODO:note' v='Ajouter: Sortie du stationnement de Nordia' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041091' action='modify' lat='45.41665549935' lon='-71.85162664533'>
+  <node id='-3041485' action='modify' lat='45.41665549935' lon='-71.85162664533'>
     <tag k='TODO:minutes' v='2021-11-22' />
     <tag k='TODO:note' v='Ajouter: Duplessis/Papineau' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3041141' action='modify' lat='45.39750922464' lon='-71.89602792397'>
+  <node id='-3041535' action='modify' lat='45.39750922464' lon='-71.89602792397'>
     <tag k='TODO:minutes' v='2020-10-13' />
     <tag k='TODO:note' v='Virage à gauche (→ des Fusillers)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041145' action='modify' lat='45.40555926364' lon='-71.9531214264'>
+  <node id='-3041539' action='modify' lat='45.40555926364' lon='-71.9531214264'>
     <tag k='TODO:minutes' v='2020-11-16' />
     <tag k='TODO:note' v='Ajouter: Mimi-Shea (portion en anse au sud-ouest)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041146' action='modify' lat='45.41514032308' lon='-71.83174946487'>
+  <node id='-3041540' action='modify' lat='45.41514032308' lon='-71.83174946487'>
     <tag k='TODO:minutes' v='2020-11-16' />
     <tag k='TODO:note' v='Entrée vers Arthur-Maillé' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041148' action='modify' lat='45.40798938755' lon='-71.89445695163'>
+  <node id='-3041542' action='modify' lat='45.40798938755' lon='-71.89445695163'>
     <tag k='TODO:minutes' v='2022-02-01' />
     <tag k='TODO:note' v='Virage à gauche (→ Grandes-Fourches)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041150' action='modify' lat='45.38498329725' lon='-71.96251739292'>
+  <node id='-3041544' action='modify' lat='45.38498329725' lon='-71.96251739292'>
     <tag k='TODO:note' v='Ajouter: Virage à gauche (→ Comtois)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041155' action='modify' lat='45.36681012905' lon='-71.84705488727'>
+  <node id='-3041549' action='modify' lat='45.36681012905' lon='-71.84705488727'>
     <tag k='TODO:note' v='Ajouter: College/St.Francis' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3041156' action='modify' lat='45.39892309792' lon='-71.88689513206'>
+  <node id='-3041550' action='modify' lat='45.39892309792' lon='-71.88689513206'>
     <tag k='TODO:note' v='Retirer: Grandes-Fourches/Maxi (sud)' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3041157' action='modify' lat='45.40188458921' lon='-71.88920753174'>
+  <node id='-3041551' action='modify' lat='45.40188458921' lon='-71.88920753174'>
     <tag k='TODO:note' v='Ajouter: King/Dépôt' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3041158' action='modify' lat='45.3948669982' lon='-72.01083499216'>
+  <node id='-3041552' action='modify' lat='45.3948669982' lon='-72.01083499216'>
     <tag k='TODO:note' v='Ajouter: St-Élie/Nordet' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3041159' action='modify' lat='45.39558922563' lon='-71.97708978004'>
+  <node id='-3041553' action='modify' lat='45.39558922563' lon='-71.97708978004'>
     <tag k='TODO:note' v='Retirer: Industriel/Évariste-Leblanc' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3041160' action='modify' lat='45.40916933648' lon='-71.91845102312'>
+  <node id='-3041554' action='modify' lat='45.40916933648' lon='-71.91845102312'>
     <tag k='TODO:note' v='Ajouter: Jacques-Cartier/Prospect' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3041161' action='modify' lat='45.40386642436' lon='-71.9391374743'>
+  <node id='-3041555' action='modify' lat='45.40386642436' lon='-71.9391374743'>
     <tag k='TODO:note' v='Confirmer: Portland/Wilson (piétons seulement?)' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3041162' action='modify' lat='45.41562373039' lon='-71.93922758639'>
+  <node id='-3041556' action='modify' lat='45.41562373039' lon='-71.93922758639'>
     <tag k='TODO:note' v='Retirer: Honoré-de-Balzac' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041164' action='modify' lat='45.39995666208' lon='-71.88938141942'>
+  <node id='-3041558' action='modify' lat='45.39995666208' lon='-71.88938141942'>
     <tag k='TODO:note' v='Vérifier: Wellington Sud (mesures temporaires?)' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041165' action='modify' lat='45.42203618256' lon='-71.88231647283'>
+  <node id='-3041559' action='modify' lat='45.42203618256' lon='-71.88231647283'>
     <tag k='TODO:note' v='Vérifier: Levée des restrictions de virage vers du Souvenir' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041166' action='modify' lat='45.40904342704' lon='-71.92531563409'>
+  <node id='-3041560' action='modify' lat='45.40904342704' lon='-71.92531563409'>
     <tag k='TODO:note' v='Entrée vers Bouchette (sauf véhicules d&apos;urgence)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041168' action='modify' lat='45.39025859478' lon='-71.87161445752'>
+  <node id='-3041562' action='modify' lat='45.39025859478' lon='-71.87161445752'>
     <tag k='TODO:note' v='Ajouter: Bowen/Caen' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3041169' action='modify' lat='45.4037608402' lon='-71.8674623993'>
+  <node id='-3041563' action='modify' lat='45.4037608402' lon='-71.8674623993'>
     <tag k='TODO:note' v='Ajouter: Conseil/15e avenue' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3041179' action='modify' lat='45.37577716044' lon='-71.84291751265'>
+  <node id='-3041573' action='modify' lat='45.37577716044' lon='-71.84291751265'>
     <tag k='TODO:note' v='Confirmer: Rues Champigny (au nord) et Atto (au sud, jusqu&apos;à Moulton Hill)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='name' />
   </node>
-  <node id='-3041221' action='modify' lat='45.42190441452' lon='-71.94748880625'>
+  <node id='-3041615' action='modify' lat='45.42190441452' lon='-71.94748880625'>
     <tag k='TODO:minutes' v='2022-04-05' />
     <tag k='TODO:note' v='Virages à gauche (→ Laure-Conan) (→ Lionel-Groulx)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041234' action='modify' lat='45.40194164368' lon='-71.88916951686'>
+  <node id='-3041628' action='modify' lat='45.40194164368' lon='-71.88916951686'>
     <tag k='TODO:note' v='Confirmer: Virage à gauche interdit pour tous?' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041235' action='modify' lat='45.40383993625' lon='-71.89038992465'>
+  <node id='-3041629' action='modify' lat='45.40383993625' lon='-71.89038992465'>
     <tag k='TODO:note' v='Vérifier: État du stationnement de la Grenouillère' />
     <tag k='TODO:type' v='misc' />
   </node>
-  <node id='-3041236' action='modify' lat='45.3939654884' lon='-71.88747167721'>
+  <node id='-3041630' action='modify' lat='45.3939654884' lon='-71.88747167721'>
     <tag k='TODO:note' v='Entrée vers Olivier' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041237' action='modify' lat='45.40025045966' lon='-71.87336326587'>
+  <node id='-3041631' action='modify' lat='45.40025045966' lon='-71.87336326587'>
     <tag k='TODO:note' v='Retirer: access=private' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041239' action='modify' lat='45.3986403751' lon='-71.91480397515'>
+  <node id='-3041633' action='modify' lat='45.3986403751' lon='-71.91480397515'>
     <tag k='TODO:note' v='Ajouter: Virage à gauche (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041241' action='modify' lat='45.39890010158' lon='-71.90482959285'>
+  <node id='-3041635' action='modify' lat='45.39890010158' lon='-71.90482959285'>
     <tag k='TODO:note' v='Ajouter: Virages à gauche (→ Québec) (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041242' action='modify' lat='45.39880781791' lon='-71.90343618661'>
+  <node id='-3041636' action='modify' lat='45.39880781791' lon='-71.90343618661'>
     <tag k='TODO:note' v='Ajouter: Virages à gauche (→ London) (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041243' action='modify' lat='45.40045196813' lon='-71.89191073447'>
+  <node id='-3041637' action='modify' lat='45.40045196813' lon='-71.89191073447'>
     <tag k='TODO:note' v='Virage à gauche (Brooks → King Est) [terre-plein ouvert]' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041244' action='modify' lat='45.40265539245' lon='-71.88743412629'>
+  <node id='-3041638' action='modify' lat='45.40265539245' lon='-71.88743412629'>
     <tag k='TODO:note' v='Ajouter: Entrée seulement' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041245' action='modify' lat='45.40368927871' lon='-71.88570410281'>
+  <node id='-3041639' action='modify' lat='45.40368927871' lon='-71.88570410281'>
     <tag k='TODO:note' v='Virage à gauche (→ William-Ives)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041246' action='modify' lat='45.40829915998' lon='-71.86240643531'>
+  <node id='-3041640' action='modify' lat='45.40829915998' lon='-71.86240643531'>
     <tag k='TODO:note' v='Ajouter: Sortie seulement' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041247' action='modify' lat='45.4080524806' lon='-71.86855271727'>
+  <node id='-3041641' action='modify' lat='45.4080524806' lon='-71.86855271727'>
     <tag k='TODO:note' v='Virages à gauche (→ 14e avenue) (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041248' action='modify' lat='45.40340491411' lon='-71.88624322549'>
+  <node id='-3041642' action='modify' lat='45.40340491411' lon='-71.88624322549'>
     <tag k='TODO:note' v='Virage à gauche (King → Saint-François)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041249' action='modify' lat='45.40132393216' lon='-71.89030945569'>
+  <node id='-3041643' action='modify' lat='45.40132393216' lon='-71.89030945569'>
     <tag k='TODO:note' v='Virages à gauche (toutes directions)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041250' action='modify' lat='45.39937376411' lon='-71.89506769314'>
+  <node id='-3041644' action='modify' lat='45.39937376411' lon='-71.89506769314'>
     <tag k='TODO:note' v='Virage à gauche (→ Camirand, dir. sud)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041251' action='modify' lat='45.39857992983' lon='-71.92063987389'>
+  <node id='-3041645' action='modify' lat='45.39857992983' lon='-71.92063987389'>
     <tag k='TODO:note' v='Ajouter: Virages à gauche (→ King Ouest, dir. est) (→ centre commercial)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041252' action='modify' lat='45.39803940328' lon='-71.94068670809'>
+  <node id='-3041646' action='modify' lat='45.39803940328' lon='-71.94068670809'>
     <tag k='TODO:note' v='Demi-tour (est → ouest)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041253' action='modify' lat='45.39612396477' lon='-71.94624960691'>
+  <node id='-3041647' action='modify' lat='45.39612396477' lon='-71.94624960691'>
     <tag k='TODO:note' v='Demi-tour (ouest → est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041254' action='modify' lat='45.38553798192' lon='-71.96310729057'>
+  <node id='-3041648' action='modify' lat='45.38553798192' lon='-71.96310729057'>
     <tag k='TODO:note' v='Demi-tour (ouest → est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041255' action='modify' lat='45.37925326405' lon='-71.97397157684'>
+  <node id='-3041649' action='modify' lat='45.37925326405' lon='-71.97397157684'>
     <tag k='TODO:note' v='Virages interdits à l&apos;intersection' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041256' action='modify' lat='45.37134362573' lon='-71.98805585638'>
+  <node id='-3041650' action='modify' lat='45.37134362573' lon='-71.98805585638'>
     <tag k='TODO:note' v='Demi-tour (ouest → est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041257' action='modify' lat='45.37139732758' lon='-71.98811084166'>
+  <node id='-3041651' action='modify' lat='45.37139732758' lon='-71.98811084166'>
     <tag k='TODO:note' v='Virage à gauche (Bourque → commerce au sud)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041258' action='modify' lat='45.369254867' lon='-71.99173450604'>
+  <node id='-3041652' action='modify' lat='45.369254867' lon='-71.99173450604'>
     <tag k='TODO:note' v='Ajouter: Sens unique sur bretelle demi-tour' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041259' action='modify' lat='45.34169336675' lon='-72.04347029462'>
+  <node id='-3041653' action='modify' lat='45.34169336675' lon='-72.04347029462'>
     <tag k='TODO:note' v='Sens unique sur cette entrée' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041260' action='modify' lat='45.33981089958' lon='-72.04772830144'>
+  <node id='-3041654' action='modify' lat='45.33981089958' lon='-72.04772830144'>
     <tag k='TODO:note' v='Demi-tour (ouest → est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041261' action='modify' lat='45.40288985444' lon='-71.96339160338'>
+  <node id='-3041655' action='modify' lat='45.40288985444' lon='-71.96339160338'>
     <tag k='TODO:note' v='Demi-tour (ouest → est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041262' action='modify' lat='45.40354992092' lon='-71.92566365138'>
+  <node id='-3041656' action='modify' lat='45.40354992092' lon='-71.92566365138'>
     <tag k='TODO:note' v='Portion ouest réservée aux autobus scolaires' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041263' action='modify' lat='45.40373164971' lon='-71.9204641892'>
+  <node id='-3041657' action='modify' lat='45.40373164971' lon='-71.9204641892'>
     <tag k='TODO:note' v='Ajouter: Feux clignotants pour piétons' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3041264' action='modify' lat='45.40354803772' lon='-71.90391495958'>
+  <node id='-3041658' action='modify' lat='45.40354803772' lon='-71.90391495958'>
     <tag k='TODO:note' v='Voies non séparées entre Québec et London' />
     <tag k='TODO:type' v='misc' />
   </node>
-  <node id='-3041265' action='modify' lat='45.40354803866' lon='-71.90328598291'>
+  <node id='-3041659' action='modify' lat='45.40354803866' lon='-71.90328598291'>
     <tag k='TODO:note' v='Virages à gauche (London → Portland, dir. est) (Portland → London, dir. sud)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041266' action='modify' lat='45.40388183399' lon='-71.9017242647'>
+  <node id='-3041660' action='modify' lat='45.40388183399' lon='-71.9017242647'>
     <tag k='TODO:note' v='Virage à droite (Portland → Queen-Victoria)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041267' action='modify' lat='45.40378673272' lon='-71.90172627635'>
+  <node id='-3041661' action='modify' lat='45.40378673272' lon='-71.90172627635'>
     <tag k='TODO:note' v='Virage à gauche (Belvédère → Queen-Victoria)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041268' action='modify' lat='45.40373918203' lon='-71.90160289474'>
+  <node id='-3041662' action='modify' lat='45.40373918203' lon='-71.90160289474'>
     <tag k='TODO:note' v='Virages interdits sur Queen-Victoria et Belvédère' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041269' action='modify' lat='45.40348024237' lon='-71.90160825983'>
+  <node id='-3041663' action='modify' lat='45.40348024237' lon='-71.90160825983'>
     <tag k='TODO:note' v='Virage à gauche (Portland → Queen-Victoria)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041270' action='modify' lat='45.40970012779' lon='-71.89029068023'>
+  <node id='-3041664' action='modify' lat='45.40970012779' lon='-71.89029068023'>
     <tag k='TODO:note' v='Virages à gauche vers Kennedy (8h - 18h)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041271' action='modify' lat='45.4093988492' lon='-71.87696010411'>
+  <node id='-3041665' action='modify' lat='45.4093988492' lon='-71.87696010411'>
     <tag k='TODO:note' v='Ajouter: Dollard' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041272' action='modify' lat='45.39380538971' lon='-71.88674748212'>
+  <node id='-3041666' action='modify' lat='45.39380538971' lon='-71.88674748212'>
     <tag k='TODO:note' v='Virage à gauche (→ Laurier, dir. nord)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041273' action='modify' lat='45.39385059436' lon='-71.88719809324'>
+  <node id='-3041667' action='modify' lat='45.39385059436' lon='-71.88719809324'>
     <tag k='TODO:note' v='Virage à gauche (→ Fédéral)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041327' action='modify' lat='45.4094976684' lon='-71.91519236298'>
+  <node id='-3041668' action='modify' lat='45.4094976684' lon='-71.91519236298'>
     <tag k='TODO:note' v='Ajouter: 2 entrées' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041352' action='modify' lat='45.40574946193' lon='-71.89607084334'>
+  <node id='-3041669' action='modify' lat='45.40574946193' lon='-71.89607084334'>
     <tag k='TODO:note' v='Ajouter: Court (de Dufferin à William)' />
     <tag k='TODO:type' v='oneway' />
+  </node>
+  <node id='-3041678' action='modify' lat='45.4025518155' lon='-71.8940001753'>
+    <tag k='TODO:note' v='Ajouter: Stationnement devant le Séminaire' />
+    <tag k='TODO:type' v='oneway' />
+  </node>
+  <node id='-3041683' action='modify' lat='45.4021827' lon='-71.8940913704'>
+    <tag k='TODO:note' v='Ajouter: Débarcadaire du Séminaire' />
+    <tag k='TODO:type' v='oneway' />
+  </node>
+  <node id='-3041694' action='modify' lat='45.40206970498' lon='-71.89473778278'>
+    <tag k='TODO:note' v='Confirmer: Stationnement connecte sur Peel, pas sur Marquette; ce qu&apos;on voit sur imagerie sont des passages piétons' />
+    <tag k='TODO:type' v='misc' />
   </node>
 </osm>
