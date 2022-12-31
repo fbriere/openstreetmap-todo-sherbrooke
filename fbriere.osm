@@ -121,6 +121,10 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
   </node>
+  <node id='-3041623' action='modify' lat='45.39993405844' lon='-71.88895226061'>
+    <tag k='TODO:note' v='Vérifier: Est-ce que la rue Terrien existe toujours?' />
+    <tag k='TODO:type' v='misc' />
+  </node>
   <node id='-3041628' action='modify' lat='45.40194164368' lon='-71.88916951686'>
     <tag k='TODO:note' v='Confirmer: Virage à gauche interdit pour tous?' />
     <tag k='TODO:type' v='restriction' />
