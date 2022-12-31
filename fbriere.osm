@@ -54,7 +54,7 @@
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041544' action='modify' lat='45.38498329725' lon='-71.96251739292'>
-    <tag k='TODO:note' v='Ajouter: Virage à gauche (→ Comtois) + (Comtois → ouest, 7-9h, 16-18h)' />
+    <tag k='TODO:note' v='Virage à gauche (→ Comtois) + (Comtois → ouest, 7-9h, 16-18h)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
   </node>
@@ -83,14 +83,14 @@
     <tag k='TODO:type' v='traffic_signal' />
   </node>
   <node id='-3041555' action='modify' lat='45.40386642436' lon='-71.9391374743'>
-    <tag k='TODO:note' v='Confirmer: Portland/Wilson (piétons seulement?)' />
+    <tag k='TODO:note' v='Confirmer: Portland/Wilson (feux clignotants pour piétons seulement?)' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
   <node id='-3041556' action='modify' lat='45.41562373039' lon='-71.93922758639'>
     <tag k='TODO:note' v='Retirer: Honoré-de-Balzac' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041558' action='modify' lat='45.39995666208' lon='-71.88938141942'>
+  <node id='-3041558' action='modify' lat='45.40012239423' lon='-71.88945652127'>
     <tag k='TODO:note' v='Vérifier: Wellington Sud (mesures temporaires?)' />
     <tag k='TODO:type' v='oneway' />
   </node>
@@ -142,15 +142,15 @@
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041633' action='modify' lat='45.3986403751' lon='-71.91480397515'>
-    <tag k='TODO:note' v='Ajouter: Virage à gauche (→ King Est)' />
+    <tag k='TODO:note' v='Virage à gauche (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041635' action='modify' lat='45.39890010158' lon='-71.90482959285'>
-    <tag k='TODO:note' v='Ajouter: Virages à gauche (→ Québec) (→ King Est)' />
+    <tag k='TODO:note' v='Virages à gauche (→ Québec) (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041636' action='modify' lat='45.39880781791' lon='-71.90343618661'>
-    <tag k='TODO:note' v='Ajouter: Virages à gauche (→ London) (→ King Est)' />
+    <tag k='TODO:note' v='Virages à gauche (→ London) (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041637' action='modify' lat='45.40045196813' lon='-71.89191073447'>
@@ -158,15 +158,15 @@
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041638' action='modify' lat='45.40265539245' lon='-71.88743412629'>
-    <tag k='TODO:note' v='Ajouter: Entrée seulement' />
-    <tag k='TODO:type' v='oneway' />
+    <tag k='TODO:note' v='Entrée seulement' />
+    <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041639' action='modify' lat='45.40368927871' lon='-71.88570410281'>
     <tag k='TODO:note' v='Virage à gauche (→ William-Ives)' />
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041640' action='modify' lat='45.40829915998' lon='-71.86240643531'>
-    <tag k='TODO:note' v='Ajouter: Sortie seulement' />
+    <tag k='TODO:note' v='Sortie seulement' />
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041641' action='modify' lat='45.4080524806' lon='-71.86855271727'>
@@ -186,7 +186,7 @@
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041645' action='modify' lat='45.39857992983' lon='-71.92063987389'>
-    <tag k='TODO:note' v='Ajouter: Virages à gauche (→ King Ouest, dir. est) (→ centre commercial)' />
+    <tag k='TODO:note' v='Virages à gauche (→ King Ouest, dir. est) (→ centre commercial)' />
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041646' action='modify' lat='45.39803940328' lon='-71.94068670809'>
@@ -202,7 +202,7 @@
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041649' action='modify' lat='45.37925326405' lon='-71.97397157684'>
-    <tag k='TODO:note' v='Virages interdits à l&apos;intersection' />
+    <tag k='TODO:note' v='Virages interdits à l&apos;intersection de cette bretelle' />
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041650' action='modify' lat='45.37134362573' lon='-71.98805585638'>
@@ -218,7 +218,7 @@
     <tag k='TODO:type' v='oneway' />
   </node>
   <node id='-3041653' action='modify' lat='45.34169336675' lon='-72.04347029462'>
-    <tag k='TODO:note' v='Sens unique sur cette entrée' />
+    <tag k='TODO:note' v='Ajouter: Sens unique sur cette entrée' />
     <tag k='TODO:type' v='oneway' />
   </node>
   <node id='-3041654' action='modify' lat='45.33981089958' lon='-72.04772830144'>
