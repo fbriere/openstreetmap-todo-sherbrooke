@@ -54,7 +54,7 @@
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041544' action='modify' lat='45.38498329725' lon='-71.96251739292'>
-    <tag k='TODO:note' v='Ajouter: Virage à gauche (→ Comtois)' />
+    <tag k='TODO:note' v='Ajouter: Virage à gauche (→ Comtois) + (Comtois → ouest, 7-9h, 16-18h)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
   </node>
@@ -291,6 +291,22 @@
   </node>
   <node id='-3041694' action='modify' lat='45.40206970498' lon='-71.89473778278'>
     <tag k='TODO:note' v='Confirmer: Stationnement connecte sur Peel, pas sur Marquette; ce qu&apos;on voit sur imagerie sont des passages piétons' />
+    <tag k='TODO:type' v='misc' />
+  </node>
+  <node id='-3041805' action='modify' lat='45.39926170514' lon='-71.91870063677'>
+    <tag k='TODO:note' v='Confirmer: Virage à gauche permis de Jacques-Cartier vers l&apos;ouest et vers l&apos;est; demi-tour nord→sud interdit' />
+    <tag k='TODO:type' v='restriction' />
+  </node>
+  <node id='-3041813' action='modify' lat='45.42464915416' lon='-71.95829809248'>
+    <tag k='TODO:note' v='Demi-tours (est→ouest et ouest→est)' />
+    <tag k='TODO:type' v='restriction' />
+  </node>
+  <node id='-3041818' action='modify' lat='45.42452114405' lon='-71.96071744502'>
+    <tag k='TODO:note' v='Demi-tours (est→ouest et ouest→est)' />
+    <tag k='TODO:type' v='restriction' />
+  </node>
+  <node id='-3041864' action='modify' lat='45.41141174694' lon='-71.90382778913'>
+    <tag k='TODO:note' v='Confirmer: Le dernier segment est Elgin, pas Hyatt' />
     <tag k='TODO:type' v='misc' />
   </node>
 </osm>
