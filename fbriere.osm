@@ -309,4 +309,12 @@
     <tag k='TODO:note' v='Confirmer: Le dernier segment est Elgin, pas Hyatt' />
     <tag k='TODO:type' v='misc' />
   </node>
+  <node id='-3041936' action='modify' lat='45.39851778146' lon='-71.86763942778'>
+    <tag k='TODO:note' v='Demi-tours (nord→sud et sud→nord)' />
+    <tag k='TODO:type' v='restriction' />
+  </node>
+  <node id='-3041950' action='modify' lat='45.40899211614' lon='-71.86940700084'>
+    <tag k='TODO:note' v='Sortie seulement (et confirmer absence de nom)' />
+    <tag k='TODO:type' v='restriction' />
+  </node>
 </osm>
