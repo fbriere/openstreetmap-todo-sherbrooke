@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='never' generator='JOSM'>
-  <node id='-3041437' action='modify' lat='45.37107807821' lon='-71.93274341552'>
-    <tag k='TODO:note' v='Ajouter: Allées du Mont-Sainte-Anne' />
-    <tag k='TODO:type' v='oneway' />
-  </node>
   <node id='-3041442' action='modify' lat='45.41210329113' lon='-71.83706431713'>
     <tag k='TODO:note' v='Ajouter: Jetté (sur toute la longueur)' />
     <tag k='TODO:type' v='oneway' />
@@ -12,9 +8,41 @@
     <tag k='TODO:note' v='Retirer: Sanborn (entre Brooks et Gordon)' />
     <tag k='TODO:type' v='oneway' />
   </node>
+  <node id='-3041447' action='modify' lat='45.45992342464' lon='-71.99549621243'>
+    <tag k='TODO:note' v='Confirmer &quot;chemin du&quot; Xe rang' />
+    <tag k='TODO:type' v='name' />
+  </node>
+  <node id='-3041454' action='modify' lat='45.40359738492' lon='-71.91714805641'>
+    <tag k='TODO:note' v='Vérifier lien cyclable entre Bryant et Jacques-Cartier' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3041457' action='modify' lat='45.4043071367' lon='-71.89089419631'>
+    <tag k='TODO:note' v='Vérifier: Certains segments du stationnement la Grenouillère' />
+    <tag k='TODO:type' v='oneway' />
+  </node>
   <node id='-3041458' action='modify' lat='45.40378510383' lon='-71.89302222547'>
     <tag k='TODO:note' v='Ajouter: de Lorraine' />
     <tag k='TODO:type' v='oneway' />
+  </node>
+  <node id='-3041461' action='modify' lat='45.43494567703' lon='-71.86816148885'>
+    <tag k='TODO:note' v='Aménagement d&apos;une voie cyclable sur la 12e Avenue Nord (de la rue Brûlotte à la bretelle nord de l&apos;autoroute 610)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2020' />
+    <tag k='TODO:travaux' v='2020' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3041464' action='modify' lat='45.39242286911' lon='-71.91097856641'>
+    <tag k='TODO:note' v='Vérifier jusqu&apos;où le sentier se rend' />
+    <tag k='TODO:type' v='footway' />
+  </node>
+  <node id='-3041466' action='modify' lat='45.4158948643' lon='-71.94884063959'>
+    <tag k='TODO:check_date' v='2019-08-11' />
+    <tag k='TODO:note' v='Prolongement des rues du Chardonnay, McGregor et du Seyval' />
+    <tag k='TODO:planned_end' v='2019-11-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2019-05-06' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='new' />
   </node>
   <node id='-3041470' action='modify' lat='45.39486015444' lon='-71.9203153266'>
     <tag k='TODO:note' v='Vérifier: Allée du Urbano' />
@@ -24,16 +52,137 @@
     <tag k='TODO:note' v='Ajouter: Sortie du stationnement de Nordia' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3041485' action='modify' lat='45.41665549935' lon='-71.85162664533'>
-    <tag k='TODO:minutes' v='2021-11-22' />
-    <tag k='TODO:note' v='Ajouter: Duplessis/Papineau' />
+  <node id='-3041479' action='modify' lat='45.38332070107' lon='-71.92503199116'>
+    <tag k='TODO:minutes' v='2017-06-05' />
+    <tag k='TODO:note' v='Passage pour piétons (quel type?)' />
+    <tag k='TODO:type' v='crossing' />
+  </node>
+  <node id='-3041481' action='modify' lat='45.38890612177' lon='-71.89847946435'>
+    <tag k='TODO:minutes' v='2017-03-06' />
+    <tag k='TODO:note' v='Passage pour piétons (caché par les arbres)' />
+    <tag k='TODO:type' v='crossing' />
+  </node>
+  <node id='-3041486' action='modify' lat='45.3406875762' lon='-72.04586685776'>
+    <tag k='TODO:minutes' v='2018-04-03' />
+    <tag k='TODO:note' v='côté sud, de Dumont jusqu&apos;à existant' />
+    <tag k='TODO:source' v='http://sherbrookeblogue.ca/travaux-prevus-dans-la-semaine-du-22-octobre/' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='sidewalk' />
+  </node>
+  <node id='-3041489' action='modify' lat='45.37308656095' lon='-71.98061944127'>
+    <tag k='TODO:check_date' v='2022-09-01' />
+    <tag k='TODO:minutes' v='2016-09-19' />
+    <tag k='TODO:note' v='Ouverture de la rue Garneau' />
+    <tag k='TODO:type' v='new' />
+  </node>
+  <node id='-3041493' action='modify' lat='45.38931676491' lon='-71.92629665405'>
+    <tag k='TODO:note' v='Confirmer tous les tags sur cette entrée' />
+    <tag k='TODO:type' v='misc' />
+  </node>
+  <node id='-3041494' action='modify' lat='45.39020585361' lon='-71.91967427999'>
+    <tag k='TODO:note' v='Confirmer jusqu&apos;où se rend le trottoir' />
+    <tag k='TODO:type' v='sidewalk' />
+  </node>
+  <node id='-3041500' action='modify' lat='45.41527730535' lon='-71.8320036149'>
+    <tag k='TODO:note' v='Aménagement d&apos;une voie cyclable sur la rue King Est' />
+    <tag k='TODO:planned_end' v='Automne 2019' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='traffic_signal' />
+    <tag k='TODO:travaux' v='2019' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3041501' action='modify' lat='45.37837725072' lon='-71.93326243401'>
+    <tag k='TODO:check_date' v='2023-04-16' />
+    <tag k='TODO:note' v='Nouveau trottoir sur le chemin de Sainte-Catherine, près de l&apos;Université de Sherbrooke' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2019-06-03' />
+    <tag k='TODO:travaux' v='2019' />
+    <tag k='TODO:type' v='sidewalk' />
+  </node>
+  <node id='-3041525' action='modify' lat='45.37573796223' lon='-71.9067870253'>
+    <tag k='TODO:note' v='Vérifier présence de piste cyclable (designated?)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3041526' action='modify' lat='45.37884066659' lon='-72.05688536704'>
+    <tag k='TODO:note' v='Prolongement de la rue du Pimbina / des Coudriers' />
+    <tag k='TODO:planned_end' v='2022-07-22' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2022-07-04' />
+    <tag k='TODO:travaux' v='2022' />
+    <tag k='TODO:type' v='new' />
+  </node>
+  <node id='-3041527' action='modify' lat='45.37047120572' lon='-71.8991339314'>
+    <tag k='TODO:note' v='Prolongement de la rue de la Golconda' />
+    <tag k='TODO:planned_end' v='2024-12-31' />
+    <tag k='TODO:start_date' v='2022-11-16' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='new' />
+  </node>
+  <node id='-3041528' action='modify' lat='45.38487300865' lon='-71.89759971857'>
+    <tag k='TODO:note' v='Ajout de voies cyclables sur la rue Dunant, entre Belvédère Sud et Kingston' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='Printemps 2023' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3041529' action='modify' lat='45.4062240199' lon='-71.95536377192'>
+    <tag k='TODO:comments' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/McCreaweb.pdf' />
+    <tag k='TODO:note' v='Ajout de voies cyclables sur McCrea, entre Portland et Charles-Hamel' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='Printemps 2023' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3041530' action='modify' lat='45.42078990966' lon='-71.96665050745'>
+    <tag k='TODO:note' v='Construction d&apos;un trottoir sur St-Joseph' />
+    <tag k='TODO:planned_end' v='2022-09-09' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2022-09-06' />
+    <tag k='TODO:travaux' v='2022' />
+    <tag k='TODO:type' v='sidewalk' />
+  </node>
+  <node id='-3041531' action='modify' lat='45.38232601933' lon='-71.98405267954'>
+    <tag k='TODO:comments' v='Reporté à 2023' />
+    <tag k='TODO:note' v='Ajout de voies cyclables sur Mi-Vallon, de Bourque jusqu&apos;au bout' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2023' />
+    <tag k='TODO:travaux' v='2022' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3041532' action='modify' lat='45.4158045053' lon='-71.83140282154'>
+    <tag k='TODO:note' v='Réaménagement de King Est, entre Raby et des Rocheuses' />
+    <tag k='TODO:planned_end' v='2022-11-18' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
+    <tag k='TODO:start_date' v='2022-08-25' />
+    <tag k='TODO:travaux' v='2022' />
+    <tag k='TODO:type' v='new' />
+  </node>
+  <node id='-3041533' action='modify' lat='45.40363279591' lon='-71.87886717081'>
+    <tag k='TODO:comments' v='Reporté à 2023' />
+    <tag k='TODO:note' v='Interventions localisées pour sécuriser le lien cyclable de la rue du Conseil' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2023' />
+    <tag k='TODO:travaux' v='2022' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3041534' action='modify' lat='45.42130198219' lon='-71.95547106028'>
+    <tag k='TODO:note' v='Prolongement de la rue Laure-Conan' />
+    <tag k='TODO:planned_end' v='2023-12-16' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2021-12-01' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='new' />
   </node>
   <node id='-3041535' action='modify' lat='45.39750922464' lon='-71.89602792397'>
     <tag k='TODO:minutes' v='2020-10-13' />
     <tag k='TODO:note' v='Virage à gauche (→ des Fusillers)' />
     <tag k='TODO:type' v='restriction' />
+  </node>
+  <node id='-3041538' action='modify' lat='45.37043539825' lon='-71.86128258973'>
+    <tag k='TODO:minutes' v='2021-03-01' />
+    <tag k='TODO:note' v='Passage pour piétons' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='crossing' />
   </node>
   <node id='-3041539' action='modify' lat='45.40555926364' lon='-71.9531214264'>
     <tag k='TODO:minutes' v='2020-11-16' />
@@ -47,39 +196,33 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041542' action='modify' lat='45.40798938755' lon='-71.89445695163'>
-    <tag k='TODO:minutes' v='2022-02-01' />
-    <tag k='TODO:note' v='Virage à gauche (→ Grandes-Fourches)' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='restriction' />
-  </node>
   <node id='-3041544' action='modify' lat='45.38498329725' lon='-71.96251739292'>
     <tag k='TODO:note' v='Virage à gauche (→ Comtois) + (Comtois → ouest, 7-9h, 16-18h)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3041549' action='modify' lat='45.36681012905' lon='-71.84705488727'>
-    <tag k='TODO:note' v='Ajouter: College/St.Francis' />
-    <tag k='TODO:type' v='traffic_signal' />
+  <node id='-3041546' action='modify' lat='45.41494142415' lon='-71.94900078624'>
+    <tag k='TODO:minutes' v='2022-04-05' />
+    <tag k='TODO:note' v='Ajout d&apos;un trottoir entre Nicolas-Scheib et le parc André-Viger' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='Printemps 2023' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3041550' action='modify' lat='45.39892309792' lon='-71.88689513206'>
-    <tag k='TODO:note' v='Retirer: Grandes-Fourches/Maxi (sud)' />
-    <tag k='TODO:type' v='traffic_signal' />
+  <node id='-3041547' action='modify' lat='45.41569184004' lon='-71.85838325637'>
+    <tag k='TODO:note' v='Trottoir entre Paul-Gagné et Coquelicots' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='sidewalk' />
+  </node>
+  <node id='-3041548' action='modify' lat='45.37774602538' lon='-71.85268432277'>
+    <tag k='TODO:note' v='Trottoir entre Atto et Cardinal-Lavigerie' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='sidewalk' />
   </node>
   <node id='-3041551' action='modify' lat='45.40188458921' lon='-71.88920753174'>
     <tag k='TODO:note' v='Ajouter: King/Dépôt' />
-    <tag k='TODO:type' v='traffic_signal' />
-  </node>
-  <node id='-3041552' action='modify' lat='45.3948669982' lon='-72.01083499216'>
-    <tag k='TODO:note' v='Ajouter: St-Élie/Nordet' />
-    <tag k='TODO:type' v='traffic_signal' />
-  </node>
-  <node id='-3041553' action='modify' lat='45.39558922563' lon='-71.97708978004'>
-    <tag k='TODO:note' v='Retirer: Industriel/Évariste-Leblanc' />
-    <tag k='TODO:type' v='traffic_signal' />
-  </node>
-  <node id='-3041554' action='modify' lat='45.40916933648' lon='-71.91845102312'>
-    <tag k='TODO:note' v='Ajouter: Jacques-Cartier/Prospect' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
   <node id='-3041555' action='modify' lat='45.40386642436' lon='-71.9391374743'>
@@ -102,6 +245,10 @@
     <tag k='TODO:note' v='Entrée vers Bouchette (sauf véhicules d&apos;urgence)' />
     <tag k='TODO:type' v='restriction' />
   </node>
+  <node id='-3041561' action='modify' lat='45.35496502457' lon='-71.86481239557'>
+    <tag k='TODO:note' v='Pavage de Haskell Hill?' />
+    <tag k='TODO:type' v='surface' />
+  </node>
   <node id='-3041562' action='modify' lat='45.39025859478' lon='-71.87161445752'>
     <tag k='TODO:note' v='Ajouter: Bowen/Caen' />
     <tag k='TODO:type' v='traffic_signal' />
@@ -109,6 +256,18 @@
   <node id='-3041563' action='modify' lat='45.4037608402' lon='-71.8674623993'>
     <tag k='TODO:note' v='Ajouter: Conseil/15e avenue' />
     <tag k='TODO:type' v='traffic_signal' />
+  </node>
+  <node id='-3041566' action='modify' lat='45.40763444133' lon='-71.89677357942'>
+    <tag k='TODO:note' v='Passage pour piétons (caché par les arbres?)' />
+    <tag k='TODO:type' v='crossing' />
+  </node>
+  <node id='-3041567' action='modify' lat='45.41605300537' lon='-71.91852093011'>
+    <tag k='TODO:note' v='Passage pour piétons?' />
+    <tag k='TODO:type' v='crossing' />
+  </node>
+  <node id='-3041568' action='modify' lat='45.4687652186' lon='-71.95036143333'>
+    <tag k='TODO:note' v='Passage pour piétons?' />
+    <tag k='TODO:type' v='crossing' />
   </node>
   <node id='-3041573' action='modify' lat='45.37577716044' lon='-71.84291751265'>
     <tag k='TODO:note' v='Confirmer: Rues Champigny (au nord) et Atto (au sud, jusqu&apos;à Moulton Hill)' />
@@ -120,6 +279,15 @@
     <tag k='TODO:note' v='Virages à gauche (→ Laure-Conan) (→ Lionel-Groulx)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
+  </node>
+  <node id='-3041617' action='modify' lat='45.37541163456' lon='-71.89389825404'>
+    <tag k='TODO:note' v='Confirmer présence/absence de bande cyclable du côté est' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3041622' action='modify' lat='45.42679140167' lon='-71.86979056478'>
+    <tag k='TODO:note' v='12e avenue: lane ou track?' />
+    <tag k='TODO:source' v='Bing' />
+    <tag k='TODO:type' v='cycleway' />
   </node>
   <node id='-3041623' action='modify' lat='45.39993405844' lon='-71.88895226061'>
     <tag k='TODO:note' v='Vérifier: Est-ce que la rue Terrien existe toujours?' />
@@ -141,9 +309,19 @@
     <tag k='TODO:note' v='Retirer: access=private' />
     <tag k='TODO:type' v='restriction' />
   </node>
+  <node id='-3041632' action='modify' lat='45.39811285343' lon='-71.89893812209'>
+    <tag k='TODO:note' v='Confirmer: Vélos interdits sur la passerelle?' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
   <node id='-3041633' action='modify' lat='45.3986403751' lon='-71.91480397515'>
     <tag k='TODO:note' v='Virage à gauche (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
+  </node>
+  <node id='-3041634' action='modify' lat='45.36082460326' lon='-71.86229914561'>
+    <tag k='TODO:note' v='Turning circle?' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='misc' />
   </node>
   <node id='-3041635' action='modify' lat='45.39890010158' lon='-71.90482959285'>
     <tag k='TODO:note' v='Virages à gauche (→ Québec) (→ King Est)' />
@@ -311,14 +489,66 @@
   </node>
   <node id='-3041864' action='modify' lat='45.41141174694' lon='-71.90382778913'>
     <tag k='TODO:note' v='Confirmer: Le dernier segment est Elgin, pas Hyatt' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='name' />
   </node>
   <node id='-3041936' action='modify' lat='45.39851778146' lon='-71.86763942778'>
     <tag k='TODO:note' v='Demi-tours (nord→sud et sud→nord)' />
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3041950' action='modify' lat='45.40899211614' lon='-71.86940700084'>
-    <tag k='TODO:note' v='Sortie seulement (et confirmer absence de nom)' />
+    <tag k='TODO:note' v='Sortie seulement' />
     <tag k='TODO:type' v='restriction' />
+  </node>
+  <node id='-3042093' action='modify' lat='45.40463087188' lon='-71.96358204424'>
+    <tag k='TODO:note' v='Ajouter: Industriel / 410 [printemps/été 2023]' />
+    <tag k='TODO:planned_end' v='2023-06' />
+    <tag k='TODO:source' v='La Tribune (2023-01-07)' />
+    <tag k='TODO:type' v='traffic_signal' />
+  </node>
+  <node id='-3042104' action='modify' lat='45.38500863261' lon='-71.88327670634'>
+    <tag k='TODO:minutes' v='2023-01-24' />
+    <tag k='TODO:note' v='Passage pour piétons' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='crossing' />
+  </node>
+  <node id='-3042148' action='modify' lat='45.40316951359' lon='-71.89008683234'>
+    <tag k='TODO:minutes' v='2023-02-07' />
+    <tag k='TODO:note' v='Démolition du stationnement Webster' />
+    <tag k='TODO:planned_end' v='2024' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2023-08' />
+    <tag k='TODO:type' v='misc' />
+  </node>
+  <node id='-3042210' action='modify' lat='45.40191528373' lon='-71.98497534871'>
+    <tag k='TODO:minutes' v='2023-02-07' />
+    <tag k='TODO:note' v='Fermeture et vente d&apos;une portion du chemin Labonté' />
+    <tag k='TODO:planned_end' v='2023-09' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='misc' />
+  </node>
+  <node id='-3042250' action='modify' lat='45.48312316122' lon='-71.94202781796'>
+    <tag k='TODO:note' v='Prolongement des rues Gisèle-Trudeau et Jospeh-Émond' />
+    <tag k='TODO:planned_end' v='2024-09-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2023-02-06' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='new' />
+  </node>
+  <node id='-3042277' action='modify' lat='45.38634612961' lon='-71.89615130961'>
+    <tag k='TODO:note' v='L&apos;intersection Dunant/Belvédère Sud sera modifiée pour l&apos;ajout de la bande cyclable' />
+    <tag k='TODO:planned_end' v='2023' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3042285' action='modify' lat='45.3896200644' lon='-71.90564636707'>
+    <tag k='TODO:comments' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/McMananyweb.pdf' />
+    <tag k='TODO:note' v='Ajout de voies cyclables sur la rue McManamy, entre le pont Jacques-Cartier et la rue Belvédère Sud' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3042299' action='modify' lat='45.40902085397' lon='-71.86812220345'>
+    <tag k='TODO:note' v='Confirmer: absence de nom pour cette section' />
+    <tag k='TODO:type' v='name' />
   </node>
 </osm>
