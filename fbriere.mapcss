@@ -4,12 +4,42 @@ node["TODO:type"]
     symbol-shape: circle;
     symbol-size: 7;
 }
+
+node["TODO:status"="completed"],
 node["TODO:certain"="yes"]
 {
     font-size: 10;
     font-weight: bold;
 }
 
+
+node["TODO:type"="crossing"]
+{
+    text: concat(" ///  ", tag("TODO:note"));
+    text-color: limegreen;
+    symbol-fill-color: limegreen;
+}
+
+node["TODO:type"="cycleway"]
+{
+    text: "TODO:note";
+    text-color: magenta;
+    symbol-fill-color: magenta;
+}
+
+node["TODO:type"="footway"]
+{
+    text: "TODO:note";
+    text-color: lime;
+    symbol-fill-color: lime;
+}
+
+node["TODO:type"="new"]
+{
+    text: "TODO:note";
+    text-color: aqua;
+    symbol-fill-color: aqua;
+}
 
 node["TODO:type"="oneway"]
 {
@@ -25,6 +55,14 @@ node["TODO:type"="restriction"]
     symbol-fill-color: white;
 }
 
+node["TODO:type"="sidewalk"]
+{
+    text: "TODO:note";
+    text-color: lime;
+    symbol-fill-color: lime;
+    symbol-shape: square;
+}
+
 node["TODO:type"="stop"]
 {
     text-color: red;
@@ -34,6 +72,13 @@ node["TODO:type"="stop"]
 node["TODO:type"="stop"]["TODO:note"="Arrêt toutes directions"]
 {
     text: "";
+}
+
+node["TODO:type"="surface"]
+{
+    text: "TODO:note";
+    text-color: lightblue;
+    symbol-fill-color: lightblue;
 }
 
 node["TODO:type"="traffic_signal"]
