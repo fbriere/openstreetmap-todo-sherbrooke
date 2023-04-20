@@ -190,6 +190,14 @@
     <tag k='TODO:note' v='Virage à gauche (→ des Fusillers)' />
     <tag k='TODO:type' v='restriction' />
   </node>
+  <node id='-3041537' action='modify' lat='45.39983235887' lon='-71.88772649109'>
+    <tag k='TODO:minutes' v='2021-04-06' />
+    <tag k='TODO:note' v='Construction d&apos;une nouvelle rue, entre les rues du Dépôt et des Grandes-Fourches Sud' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='new' />
+  </node>
   <node id='-3041538' action='modify' lat='45.37043539825' lon='-71.86128258973'>
     <tag k='TODO:minutes' v='2021-03-01' />
     <tag k='TODO:note' v='Passage pour piétons' />
