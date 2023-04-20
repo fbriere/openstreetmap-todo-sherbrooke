@@ -333,4 +333,11 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
+  <node id='-3042300' action='modify' lat='45.3977788438' lon='-71.91392556611'>
+    <tag k='TODO:minutes' v='2023-01-24' />
+    <tag k='TODO:note' v='Arrêt toutes directions' />
+    <tag k='TODO:planned_end' v='2022-12' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='stop' />
+  </node>
 </osm>
