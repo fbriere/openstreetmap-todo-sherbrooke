@@ -84,6 +84,11 @@
     <tag k='TODO:note' v='Ouverture de la rue Garneau' />
     <tag k='TODO:type' v='new' />
   </node>
+  <node id='-3044058' action='modify' lat='45.38266135436' lon='-71.94370152712'>
+    <tag k='TODO:note' v='Retrait de ce passage?' />
+    <tag k='TODO:source' v='Maxar' />
+    <tag k='TODO:type' v='footway' />
+  </node>
   <node id='-3044059' action='modify' lat='45.38931676491' lon='-71.92629665405'>
     <tag k='TODO:note' v='Confirmer tous les tags sur cette entrée' />
     <tag k='TODO:type' v='misc' />
@@ -93,7 +98,7 @@
     <tag k='TODO:type' v='sidewalk' />
   </node>
   <node id='-3044066' action='modify' lat='45.41527730535' lon='-71.8320036149'>
-    <tag k='TODO:note' v='Aménagement de voies cyclables sur la rue King Est' />
+    <tag k='TODO:note' v='Aménagement de voies cyclables sur la rue King Est (de Raby à Rocheuses)' />
     <tag k='TODO:planned_end' v='2022-11-18' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
     <tag k='TODO:start_date' v='2022-08-25' />
@@ -118,6 +123,7 @@
     <tag k='TODO:planned_end' v='2022-07-22' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-07-04' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='new' />
   </node>
@@ -299,6 +305,7 @@
     <tag k='TODO:minutes' v='2022-04-05' />
     <tag k='TODO:note' v='Virages à gauche (→ Laure-Conan) (→ Lionel-Groulx)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3044173' action='modify' lat='45.37541163456' lon='-71.89389825404'>
@@ -851,5 +858,20 @@
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
+  </node>
+  <node id='-3044398' action='modify' lat='45.40974909889' lon='-71.82968618631'>
+    <tag k='TODO:minutes' v='2022-12-06' />
+    <tag k='TODO:note' v='Ajout de trottoir' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='sidewalk' />
+  </node>
+  <node id='-3044637' action='modify' lat='45.42432913964' lon='-72.03254701853'>
+    <tag k='TODO:note' v='Asphalage entre le 1239 et le ch. Georges-Vallières' />
+    <tag k='TODO:planned_end' v='2022-11-18' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2022-10-24' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='surface' />
   </node>
 </osm>

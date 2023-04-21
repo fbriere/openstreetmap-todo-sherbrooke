@@ -41,6 +41,7 @@
     <tag k='TODO:minutes' v='2022-04-05' />
     <tag k='TODO:note' v='Retrait des arrêts sur Lionel-Groulx et installation de feux clignottants pour piétons' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044128' action='modify' lat='45.36963456423' lon='-71.86313331664'>
