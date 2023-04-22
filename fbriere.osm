@@ -903,21 +903,37 @@
     <tag k='TODO:type' v='geometry' />
   </node>
   <node id='-3045497' action='modify' lat='45.40908627279' lon='-71.8395996201'>
-    <tag k='TODO:comments' v='Vérifier si ajout de trottoirs, bandes cyclables' />
-    <tag k='TODO:note' v='Reconstruction de Raby (entre Galvin et Normand)' />
+    <tag k='TODO:note' v='Confirmer: Bandes unidirectionnelles' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2021' />
-    <tag k='TODO:type' v='misc' />
-  </node>
-  <node id='-3045567' action='modify' lat='45.46070632142' lon='-71.93302631915'>
-    <tag k='TODO:note' v='Ajouts de trottoirs dans ce secteur?' />
-    <tag k='TODO:status' v='incertain' />
-    <tag k='TODO:travaux' v='2021' />
-    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:type' v='cycleway' />
   </node>
   <node id='-3045612' action='modify' lat='45.42327020364' lon='-71.96418151394'>
     <tag k='TODO:note' v='Plateforme d&apos;arrêt d&apos;autobus?' />
     <tag k='TODO:source' v='Maxar' />
     <tag k='TODO:type' v='misc' />
+  </node>
+  <node id='-3045917' action='modify' lat='45.36156905473' lon='-71.98649885416'>
+    <tag k='TODO:note' v='Bandes cyclables' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2020' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3045936' action='modify' lat='45.38165909986' lon='-71.93866968691'>
+    <tag k='TODO:note' v='Vérifier nouvelle forme de la piste cyclable' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2020' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3046340' action='modify' lat='45.41113495584' lon='-71.84082806647'>
+    <tag k='TODO:certain' v='no' />
+    <tag k='TODO:note' v='Confirmer: Bande bidirectionnelle du côté ouest' />
+    <tag k='TODO:type' v='cycleway' />
+  </node>
+  <node id='-3046346' action='modify' lat='45.40959091945' lon='-71.83993221402'>
+    <tag k='TODO:note' v='Confirmer: Ajout d&apos;un trottoir (côté ouest)' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2021' />
+    <tag k='TODO:type' v='sidewalk' />
   </node>
 </osm>
