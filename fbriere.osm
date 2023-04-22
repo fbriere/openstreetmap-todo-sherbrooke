@@ -47,7 +47,7 @@
     <tag k='TODO:type' v='new' />
   </node>
   <node id='-3044034' action='modify' lat='45.39609948556' lon='-71.87353492856'>
-    <tag k='TODO:minutes' v='2018-03-19' />
+    <tag k='TODO:meeting' v='2018-03-19' />
     <tag k='TODO:note' v='Aménagement de voies cyclables en bordure de la rue Galt Est (entre Bowen et Lavigerie)' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
     <tag k='TODO:start_date' v='Automne 2023' />
@@ -64,17 +64,17 @@
     <tag k='TODO:type' v='oneway' />
   </node>
   <node id='-3044046' action='modify' lat='45.38332070107' lon='-71.92503199116'>
-    <tag k='TODO:minutes' v='2017-06-05' />
+    <tag k='TODO:meeting' v='2017-06-05' />
     <tag k='TODO:note' v='Passage pour piétons (quel type?)' />
     <tag k='TODO:type' v='crossing' />
   </node>
   <node id='-3044048' action='modify' lat='45.38890612177' lon='-71.89847946435'>
-    <tag k='TODO:minutes' v='2017-03-06' />
+    <tag k='TODO:meeting' v='2017-03-06' />
     <tag k='TODO:note' v='Passage pour piétons (caché par les arbres)' />
     <tag k='TODO:type' v='crossing' />
   </node>
   <node id='-3044052' action='modify' lat='45.3406875762' lon='-72.04586685776'>
-    <tag k='TODO:minutes' v='2018-04-03' />
+    <tag k='TODO:meeting' v='2018-04-03' />
     <tag k='TODO:note' v='Construction d&apos;un trottoir (côté sud, de Dumont jusqu&apos;à existant)' />
     <tag k='TODO:source' v='http://sherbrookeblogue.ca/travaux-prevus-dans-la-semaine-du-22-octobre/' />
     <tag k='TODO:status' v='completed' />
@@ -82,7 +82,7 @@
   </node>
   <node id='-3044055' action='modify' lat='45.37308656095' lon='-71.98061944127'>
     <tag k='TODO:check_date' v='2022-09-01' />
-    <tag k='TODO:minutes' v='2016-09-19' />
+    <tag k='TODO:meeting' v='2016-09-19' />
     <tag k='TODO:note' v='Ouverture de la rue Garneau' />
     <tag k='TODO:type' v='new' />
   </node>
@@ -196,12 +196,12 @@
     <tag k='TODO:type' v='new' />
   </node>
   <node id='-3044101' action='modify' lat='45.39750922464' lon='-71.89602792397'>
-    <tag k='TODO:minutes' v='2020-10-13' />
+    <tag k='TODO:meeting' v='2020-10-13' />
     <tag k='TODO:note' v='Virage à gauche (→ des Fusillers)' />
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3044103' action='modify' lat='45.39983235887' lon='-71.88772649109'>
-    <tag k='TODO:minutes' v='2021-04-06' />
+    <tag k='TODO:meeting' v='2021-04-06' />
     <tag k='TODO:note' v='Construction d&apos;une nouvelle rue, entre les rues du Dépôt et des Grandes-Fourches Sud' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -209,19 +209,19 @@
     <tag k='TODO:type' v='new' />
   </node>
   <node id='-3044104' action='modify' lat='45.37043539825' lon='-71.86128258973'>
-    <tag k='TODO:minutes' v='2021-03-01' />
+    <tag k='TODO:meeting' v='2021-03-01' />
     <tag k='TODO:note' v='Passage pour piétons' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='crossing' />
   </node>
   <node id='-3044105' action='modify' lat='45.40555926364' lon='-71.9531214264'>
-    <tag k='TODO:minutes' v='2020-11-16' />
+    <tag k='TODO:meeting' v='2020-11-16' />
     <tag k='TODO:note' v='Ajouter: Mimi-Shea (portion en anse au sud-ouest)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='oneway' />
   </node>
   <node id='-3044106' action='modify' lat='45.41514032308' lon='-71.83174946487'>
-    <tag k='TODO:minutes' v='2020-11-16' />
+    <tag k='TODO:meeting' v='2020-11-16' />
     <tag k='TODO:note' v='Entrée vers Arthur-Maillé' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
@@ -232,7 +232,7 @@
     <tag k='TODO:type' v='restriction' />
   </node>
   <node id='-3044111' action='modify' lat='45.41494142415' lon='-71.94900078624'>
-    <tag k='TODO:minutes' v='2022-04-05' />
+    <tag k='TODO:meeting' v='2022-04-05' />
     <tag k='TODO:note' v='Ajout d&apos;un trottoir entre Nicolas-Scheib et le parc André-Viger' />
     <tag k='TODO:planned_end' v='± 1 mois' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -306,7 +306,7 @@
     <tag k='TODO:type' v='name' />
   </node>
   <node id='-3044171' action='modify' lat='45.42190441452' lon='-71.94748880625'>
-    <tag k='TODO:minutes' v='2022-04-05' />
+    <tag k='TODO:meeting' v='2022-04-05' />
     <tag k='TODO:note' v='Virages à gauche (→ Laure-Conan) (→ Lionel-Groulx)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='completed' />
@@ -538,13 +538,13 @@
     <tag k='TODO:type' v='traffic_signal' />
   </node>
   <node id='-3044236' action='modify' lat='45.38500863261' lon='-71.88327670634'>
-    <tag k='TODO:minutes' v='2023-01-24' />
+    <tag k='TODO:meeting' v='2023-01-24' />
     <tag k='TODO:note' v='Passage pour piétons' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='crossing' />
   </node>
   <node id='-3044241' action='modify' lat='45.40316951359' lon='-71.89008683234'>
-    <tag k='TODO:minutes' v='2023-02-07' />
+    <tag k='TODO:meeting' v='2023-02-07' />
     <tag k='TODO:note' v='Démolition du stationnement Webster' />
     <tag k='TODO:planned_end' v='2024' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -552,7 +552,7 @@
     <tag k='TODO:type' v='misc' />
   </node>
   <node id='-3044242' action='modify' lat='45.40191528373' lon='-71.98497534871'>
-    <tag k='TODO:minutes' v='2023-02-07' />
+    <tag k='TODO:meeting' v='2023-02-07' />
     <tag k='TODO:note' v='Fermeture et vente d&apos;une portion du chemin Labonté' />
     <tag k='TODO:planned_end' v='2023-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -585,7 +585,7 @@
     <tag k='TODO:type' v='name' />
   </node>
   <node id='-3044250' action='modify' lat='45.3966067459' lon='-72.01398268663'>
-    <tag k='TODO:minutes' v='2023-04-04' />
+    <tag k='TODO:meeting' v='2023-04-04' />
     <tag k='TODO:note' v='Dos d&apos;âne' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -864,7 +864,7 @@
     <tag k='TODO:type' v='sidewalk' />
   </node>
   <node id='-3044398' action='modify' lat='45.40974909889' lon='-71.82968618631'>
-    <tag k='TODO:minutes' v='2022-12-06' />
+    <tag k='TODO:meeting' v='2022-12-06' />
     <tag k='TODO:note' v='Ajout de trottoir' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='completed' />

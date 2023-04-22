@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='never' generator='JOSM'>
   <node id='-3044039' action='modify' lat='45.46758768479' lon='-71.93745196402'>
-    <tag k='TODO:minutes' v='2017-10-02' />
+    <tag k='TODO:meeting' v='2017-10-02' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044040' action='modify' lat='45.35141087187' lon='-71.99307732493'>
     <tag k='TODO:check_date' v='2023-04-16' />
-    <tag k='TODO:minutes' v='2017-07-03' />
+    <tag k='TODO:meeting' v='2017-07-03' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044049' action='modify' lat='45.38747638222' lon='-71.89842045575'>
     <tag k='TODO:check_date' v='2022-09' />
-    <tag k='TODO:minutes' v='2017-03-06' />
+    <tag k='TODO:meeting' v='2017-03-06' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044053' action='modify' lat='45.39516151528' lon='-71.93385780394'>
     <tag k='TODO:certain' v='yes' />
-    <tag k='TODO:minutes' v='2016-10-03' />
+    <tag k='TODO:meeting' v='2016-10-03' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044054' action='modify' lat='45.38490313854' lon='-71.99096203387'>
     <tag k='TODO:check_date' v='2019-05-12' />
-    <tag k='TODO:minutes' v='2016-10-03' />
+    <tag k='TODO:meeting' v='2016-10-03' />
     <tag k='TODO:note' v='Arrêt toutes directions (face à Mondrian)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
@@ -40,13 +40,13 @@
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044102' action='modify' lat='45.36687960209' lon='-71.95513845026'>
-    <tag k='TODO:minutes' v='2021-02-08' />
+    <tag k='TODO:meeting' v='2021-02-08' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044110' action='modify' lat='45.42201500804' lon='-71.94744990531'>
-    <tag k='TODO:minutes' v='2022-04-05' />
+    <tag k='TODO:meeting' v='2022-04-05' />
     <tag k='TODO:note' v='Retrait des arrêts sur Lionel-Groulx et installation de feux clignottants pour piétons' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='completed' />
@@ -299,51 +299,51 @@
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044235' action='modify' lat='45.42991712308' lon='-71.89438841705'>
-    <tag k='TODO:minutes' v='2023-01-24' />
+    <tag k='TODO:meeting' v='2023-01-24' />
     <tag k='TODO:note' v='Remplacer arrêts par un dos d&apos;âne' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044237' action='modify' lat='45.3880641075' lon='-71.9295018965'>
-    <tag k='TODO:minutes' v='2023-01-24' />
+    <tag k='TODO:meeting' v='2023-01-24' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044238' action='modify' lat='45.40466853332' lon='-71.9350594309'>
-    <tag k='TODO:minutes' v='2023-01-24' />
+    <tag k='TODO:meeting' v='2023-01-24' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:planned_end' v='2022-12' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044239' action='modify' lat='45.3847609068' lon='-71.97564661637'>
-    <tag k='TODO:minutes' v='2023-01-24' />
+    <tag k='TODO:meeting' v='2023-01-24' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:planned_end' v='2022-12' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044240' action='modify' lat='45.36723763887' lon='-71.97875529662'>
-    <tag k='TODO:minutes' v='2023-01-24' />
+    <tag k='TODO:meeting' v='2023-01-24' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044243' action='modify' lat='45.35134226984' lon='-71.9987082535'>
-    <tag k='TODO:minutes' v='2023-03-07' />
+    <tag k='TODO:meeting' v='2023-03-07' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044244' action='modify' lat='45.37453738653' lon='-71.88731611311'>
-    <tag k='TODO:minutes' v='2023-03-07' />
+    <tag k='TODO:meeting' v='2023-03-07' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
   <node id='-3044249' action='modify' lat='45.3977788438' lon='-71.91392556611'>
-    <tag k='TODO:minutes' v='2023-01-24' />
+    <tag k='TODO:meeting' v='2023-01-24' />
     <tag k='TODO:note' v='Arrêt toutes directions' />
     <tag k='TODO:planned_end' v='2022-12' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
