@@ -31,6 +31,14 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
+  <node id='-3044090' action='modify' lat='45.37131536252' lon='-71.96521282464'>
+    <tag k='TODO:check_date' v='2023-04-16' />
+    <tag k='TODO:comments' v='Abandonné?' />
+    <tag k='TODO:note' v='Retrait de l&apos;arrêt en septembre 2019' />
+    <tag k='TODO:source' v='survey' />
+    <tag k='TODO:status' v='incertain' />
+    <tag k='TODO:type' v='stop' />
+  </node>
   <node id='-3044102' action='modify' lat='45.36687960209' lon='-71.95513845026'>
     <tag k='TODO:minutes' v='2021-02-08' />
     <tag k='TODO:note' v='Arrêt toutes directions' />

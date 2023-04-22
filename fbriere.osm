@@ -25,9 +25,11 @@
     <tag k='TODO:type' v='oneway' />
   </node>
   <node id='-3044028' action='modify' lat='45.43494567703' lon='-71.86816148885'>
+    <tag k='TODO:comments' v='Reporté à ???' />
     <tag k='TODO:note' v='Aménagement d&apos;une voie cyclable sur la 12e Avenue Nord (de la rue Brûlotte à la bretelle nord de l&apos;autoroute 610)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2020' />
+    <tag k='TODO:status' v='incertain' />
     <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='cycleway' />
   </node>
@@ -35,13 +37,13 @@
     <tag k='TODO:note' v='Vérifier jusqu&apos;où le sentier se rend' />
     <tag k='TODO:type' v='footway' />
   </node>
-  <node id='-3044033' action='modify' lat='45.4158948643' lon='-71.94884063959'>
-    <tag k='TODO:check_date' v='2019-08-11' />
-    <tag k='TODO:note' v='Prolongement des rues du Chardonnay, McGregor et du Seyval' />
-    <tag k='TODO:planned_end' v='2019-11-23' />
+  <node id='-3044033' action='modify' lat='45.41498358593' lon='-71.94719912767'>
+    <tag k='TODO:note' v='Prolongement de la rue du Seyval' />
+    <tag k='TODO:planned_end' v='2024-12-13' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2019-05-06' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:start_date' v='2023-04-17' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
   </node>
   <node id='-3044034' action='modify' lat='45.39609948556' lon='-71.87353492856'>
@@ -110,6 +112,7 @@
     <tag k='TODO:note' v='Nouveau trottoir sur le chemin de Sainte-Catherine, près de l&apos;Université de Sherbrooke' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2019-06-03' />
+    <tag k='TODO:status' v='incertain' />
     <tag k='TODO:travaux' v='2019' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
@@ -153,7 +156,8 @@
     <tag k='TODO:type' v='cycleway' />
   </node>
   <node id='-3044096' action='modify' lat='45.42078990966' lon='-71.96665050745'>
-    <tag k='TODO:note' v='Construction d&apos;un trottoir sur St-Joseph' />
+    <tag k='TODO:comments' v='Ni complété en 2022, ni reporté en 2023?' />
+    <tag k='TODO:note' v='Construction d&apos;un trottoir sur boul. du Plateau St-Joseph' />
     <tag k='TODO:planned_end' v='2022-09-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-09-06' />
@@ -873,5 +877,32 @@
     <tag k='TODO:start_date' v='2022-10-24' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='surface' />
+  </node>
+  <node id='-3044656' action='modify' lat='45.38755173171' lon='-71.86479091913'>
+    <tag k='TODO:note' v='La géométrie de la rue sera modifiée à l&apos;approche de la rue Aubry pour aligner avec la portion existante à l&apos;est' />
+    <tag k='TODO:planned_end' v='± 2 mois' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
+    <tag k='TODO:start_date' v='Printemps 2023' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='misc' />
+  </node>
+  <node id='-3044669' action='modify' lat='45.40610725542' lon='-71.85001731455'>
+    <tag k='TODO:note' v='Mise à niveau de traveses piétonnes' />
+    <tag k='TODO:planned_end' v='± 2 semaines' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='Printemps 2023' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='crossing' />
+  </node>
+  <node id='-3044692' action='modify' lat='45.38544568113' lon='-71.91403628469'>
+    <tag k='TODO:note' v='Chaussée désignée pour cyclistes (à l&apos;ouest de St-Gilles)' />
+    <tag k='TODO:planned_end' v='2023-06-23' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Gilles_correspondance_mars_2023_et_fiche_du_projet.pdf' />
+    <tag k='TODO:start_date' v='2023-04-17' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:travaux' v='2023' />
+    <tag k='TODO:type' v='cycleway' />
   </node>
 </osm>
