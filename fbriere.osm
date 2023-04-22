@@ -323,7 +323,7 @@
   </node>
   <node id='-3044178' action='modify' lat='45.39993405844' lon='-71.88895226061'>
     <tag k='TODO:note' v='Vérifier: Est-ce que la rue Terrien existe toujours?' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='name' />
   </node>
   <node id='-3044183' action='modify' lat='45.40194164368' lon='-71.88916951686'>
     <tag k='TODO:note' v='Confirmer: Virage à gauche interdit pour tous?' />
@@ -353,7 +353,7 @@
   <node id='-3044189' action='modify' lat='45.36082460326' lon='-71.86229914561'>
     <tag k='TODO:note' v='Turning circle?' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='geometry' />
   </node>
   <node id='-3044190' action='modify' lat='45.39890010158' lon='-71.90482959285'>
     <tag k='TODO:note' v='Virages à gauche (→ Québec) (→ King Est)' />
@@ -449,7 +449,7 @@
   </node>
   <node id='-3044213' action='modify' lat='45.40354803772' lon='-71.90391495958'>
     <tag k='TODO:note' v='Voies non séparées entre Québec et London' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='geometry' />
   </node>
   <node id='-3044214' action='modify' lat='45.40354803866' lon='-71.90328598291'>
     <tag k='TODO:note' v='Virages à gauche (London → Portland, dir. est) (Portland → London, dir. sud)' />
@@ -505,7 +505,7 @@
   </node>
   <node id='-3044227' action='modify' lat='45.40206970498' lon='-71.89473778278'>
     <tag k='TODO:note' v='Confirmer: Stationnement connecte sur Peel, pas sur Marquette; ce qu&apos;on voit sur imagerie sont des passages piétons' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='geometry' />
   </node>
   <node id='-3044228' action='modify' lat='45.39926170514' lon='-71.91870063677'>
     <tag k='TODO:note' v='Confirmer: Virage à gauche permis de Jacques-Cartier vers l&apos;ouest et vers l&apos;est; demi-tour nord→sud interdit' />
@@ -764,7 +764,7 @@
     <tag k='TODO:start_date' v='Automne 2023' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='geometry' />
   </node>
   <node id='-3044272' action='modify' lat='45.39634056303' lon='-71.87608838618'>
     <tag k='TODO:note' v='Interdiction d&apos;entrée par Galt' />
@@ -885,7 +885,7 @@
     <tag k='TODO:start_date' v='Printemps 2023' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='geometry' />
   </node>
   <node id='-3044669' action='modify' lat='45.40610725542' lon='-71.85001731455'>
     <tag k='TODO:note' v='Mise à niveau de traveses piétonnes' />
