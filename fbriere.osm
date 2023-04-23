@@ -146,14 +146,13 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044896' action='modify' lat='45.42078990966' lon='-71.96665050745'>
-    <tag k='TODO:comments' v='Aperçu sur la carte travaux 2022, mais pas sur la liste; réfère peut-être à la petite plateforme au nord?' />
-    <tag k='TODO:note' v='Construction d&apos;un trottoir sur boul. du Plateau St-Joseph' />
+  <node id='-3044896' action='modify' lat='45.42327821858' lon='-71.9641949451'>
+    <tag k='TODO:note' v='Plateforme d&apos;arrêt d&apos;autobus' />
     <tag k='TODO:planned_end' v='2022-09-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-09-06' />
-    <tag k='TODO:status' v='incertain' />
-    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='misc' />
   </node>
   <node id='-3044897' action='modify' lat='45.38232601933' lon='-71.98405267954'>
     <tag k='TODO:note' v='Ajout de voies cyclables sur Mi-Vallon, de Bourque jusqu&apos;au bout' />
@@ -907,11 +906,6 @@
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='cycleway' />
-  </node>
-  <node id='-3045612' action='modify' lat='45.42327020364' lon='-71.96418151394'>
-    <tag k='TODO:note' v='Plateforme d&apos;arrêt d&apos;autobus?' />
-    <tag k='TODO:source' v='Maxar' />
-    <tag k='TODO:type' v='misc' />
   </node>
   <node id='-3045917' action='modify' lat='45.36156905473' lon='-71.98649885416'>
     <tag k='TODO:note' v='Bandes cyclables' />
