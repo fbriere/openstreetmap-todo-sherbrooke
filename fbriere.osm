@@ -241,10 +241,6 @@
     <tag k='TODO:note' v='Ajouter: King/Dépôt' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3044915' action='modify' lat='45.40386642436' lon='-71.9391374743'>
-    <tag k='TODO:note' v='Confirmer: Portland/Wilson (feux clignotants pour piétons seulement?)' />
-    <tag k='TODO:type' v='traffic_signal' />
-  </node>
   <node id='-3044916' action='modify' lat='45.41562373039' lon='-71.93922758639'>
     <tag k='TODO:note' v='Retirer: Honoré-de-Balzac' />
     <tag k='TODO:type' v='oneway' />
@@ -427,10 +423,6 @@
   <node id='-3045011' action='modify' lat='45.40354992092' lon='-71.92566365138'>
     <tag k='TODO:note' v='Portion ouest réservée aux autobus scolaires' />
     <tag k='TODO:type' v='restriction' />
-  </node>
-  <node id='-3045012' action='modify' lat='45.40373164971' lon='-71.9204641892'>
-    <tag k='TODO:note' v='Ajouter: Feux clignotants pour piétons' />
-    <tag k='TODO:type' v='traffic_signal' />
   </node>
   <node id='-3045013' action='modify' lat='45.40354803772' lon='-71.90391495958'>
     <tag k='TODO:note' v='Voies non séparées entre Québec et London' />
