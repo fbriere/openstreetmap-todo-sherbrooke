@@ -1196,6 +1196,11 @@
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
+  <node id='-3045085' action='modify' lat='45.36348377024' lon='-71.86425448537'>
+    <tag k='TODO:note' v='Pavage de Parkdale à Charles-Lennox' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='surface' />
+  </node>
   <node id='-3045087' action='modify' lat='45.42432913964' lon='-72.03254701853'>
     <tag k='TODO:note' v='Asphalage entre le 1239 et le ch. Georges-Vallières' />
     <tag k='TODO:planned_end' v='2022-11-18' />
@@ -1270,5 +1275,29 @@
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='sidewalk' />
+  </node>
+  <node id='-3046816' action='modify' lat='45.3869753074' lon='-71.92663997948'>
+    <tag k='TODO:note' v='Conversion des deux passages piétons/cyclistes en passages pour piétons' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+  </node>
+  <node id='-3046826' action='modify' lat='45.41065668262' lon='-71.87483042747'>
+    <tag k='TODO:note' v='Réaménagement géométrique de l’intersection' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='geometry' />
+  </node>
+  <node id='-3046831' action='modify' lat='45.41132325053' lon='-71.87284291327'>
+    <tag k='TODO:note' v='Mise en place d’un terre-plein central à l&apos;intersection' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+  </node>
+  <node id='-3046837' action='modify' lat='45.41165464767' lon='-71.87182903826'>
+    <tag k='TODO:note' v='Mise en place d’un terre-plein central à l&apos;intersection' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
   </node>
 </osm>
