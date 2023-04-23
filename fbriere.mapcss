@@ -22,28 +22,24 @@ node["TODO:type"="crossing"]
 
 node["TODO:type"="cycleway"]
 {
-    text: "TODO:description";
     text-color: magenta;
     symbol-fill-color: magenta;
 }
 
 node["TODO:type"="footway"]
 {
-    text: "TODO:description";
     text-color: lime;
     symbol-fill-color: lime;
 }
 
 node["TODO:type"="geometry"]
 {
-    text: "TODO:description";
     text-color: orange;
     symbol-fill-color: orange;
 }
 
 node["TODO:type"="misc"]
 {
-    text: "TODO:description";
     text-color: white;
     symbol-fill-color: white;
 }
@@ -58,7 +54,6 @@ node["TODO:type"="name"]
 
 node["TODO:type"="new"]
 {
-    text: "TODO:description";
     text-color: aqua;
     symbol-fill-color: aqua;
 }
@@ -79,7 +74,6 @@ node["TODO:type"="restriction"]
 
 node["TODO:type"="sidewalk"]
 {
-    text: "TODO:description";
     text-color: lime;
     symbol-fill-color: lime;
     symbol-shape: square;
@@ -98,7 +92,6 @@ node["TODO:type"="stop"]["TODO:description"="Arrêt toutes directions"]
 
 node["TODO:type"="surface"]
 {
-    text: "TODO:description";
     text-color: lightblue;
     symbol-fill-color: lightblue;
 }
