@@ -185,14 +185,6 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044896' action='modify' lat='45.42327821858' lon='-71.9641949451'>
-    <tag k='TODO:description' v='Plateforme d&apos;arrêt d&apos;autobus' />
-    <tag k='TODO:planned_end' v='2022-09-09' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2022-09-06' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='misc' />
-  </node>
   <node id='-3044897' action='modify' lat='45.38232601933' lon='-71.98405267954'>
     <tag k='TODO:description' v='Ajout de voies cyclables sur Mi-Vallon, de Bourque jusqu&apos;au bout' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallonweb.pdf' />
