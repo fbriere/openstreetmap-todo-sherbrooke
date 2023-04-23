@@ -1,6 +1,6 @@
 node["TODO:type"]
 {
-    text: "TODO:note";
+    text: "TODO:description";
     symbol-shape: circle;
     symbol-size: 7;
 }
@@ -15,56 +15,56 @@ node["TODO:certain"="yes"]
 
 node["TODO:type"="crossing"]
 {
-    text: concat(" ///  ", tag("TODO:note"));
+    text: concat(" ///  ", tag("TODO:description"));
     text-color: limegreen;
     symbol-fill-color: limegreen;
 }
 
 node["TODO:type"="cycleway"]
 {
-    text: "TODO:note";
+    text: "TODO:description";
     text-color: magenta;
     symbol-fill-color: magenta;
 }
 
 node["TODO:type"="footway"]
 {
-    text: "TODO:note";
+    text: "TODO:description";
     text-color: lime;
     symbol-fill-color: lime;
 }
 
 node["TODO:type"="geometry"]
 {
-    text: "TODO:note";
+    text: "TODO:description";
     text-color: orange;
     symbol-fill-color: orange;
 }
 
 node["TODO:type"="new"]
 {
-    text: "TODO:note";
+    text: "TODO:description";
     text-color: aqua;
     symbol-fill-color: aqua;
 }
 
 node["TODO:type"="oneway"]
 {
-    text: concat(" → ", tag("TODO:note"));
+    text: concat(" → ", tag("TODO:description"));
     text-color: white;
     symbol-fill-color: white;
 }
 
 node["TODO:type"="restriction"]
 {
-    text: concat(" ✘ ", tag("TODO:note"));
+    text: concat(" ✘ ", tag("TODO:description"));
     text-color: white;
     symbol-fill-color: white;
 }
 
 node["TODO:type"="sidewalk"]
 {
-    text: "TODO:note";
+    text: "TODO:description";
     text-color: lime;
     symbol-fill-color: lime;
     symbol-shape: square;
@@ -76,14 +76,14 @@ node["TODO:type"="stop"]
     symbol-fill-color: red;
     symbol-shape: octagon;
 }
-node["TODO:type"="stop"]["TODO:note"="Arrêt toutes directions"]
+node["TODO:type"="stop"]["TODO:description"="Arrêt toutes directions"]
 {
     text: "";
 }
 
 node["TODO:type"="surface"]
 {
-    text: "TODO:note";
+    text: "TODO:description";
     text-color: lightblue;
     symbol-fill-color: lightblue;
 }
