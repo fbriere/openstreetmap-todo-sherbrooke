@@ -41,6 +41,21 @@ node["TODO:type"="geometry"]
     symbol-fill-color: orange;
 }
 
+node["TODO:type"="misc"]
+{
+    text: "TODO:description";
+    text-color: white;
+    symbol-fill-color: white;
+}
+
+node["TODO:type"="name"]
+{
+    text: concat("N: ", tag("TODO:description"));
+    text-color: white;
+    symbol-fill-color: white;
+    symbol-shape: square;
+}
+
 node["TODO:type"="new"]
 {
     text: "TODO:description";
