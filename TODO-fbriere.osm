@@ -265,7 +265,7 @@
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044911' action='modify' lat='45.41494142415' lon='-71.94900078624'>
+  <node id='-3044911' action='modify' lat='45.41460251497' lon='-71.94890422672'>
     <tag k='TODO:description' v='Ajout d&apos;un trottoir entre Nicolas-Scheib et le parc André-Viger' />
     <tag k='TODO:meeting' v='2022-04-05' />
     <tag k='TODO:planned_end' v='± 1 mois' />
@@ -991,15 +991,6 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
-  </node>
-  <node id='-3045061' action='modify' lat='45.41495345324' lon='-71.9470059979'>
-    <tag k='TODO:description' v='Prolongement de la rue du Seyval' />
-    <tag k='TODO:planned_end' v='2024-12-13' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-04-17' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
-    <tag k='TODO:type' v='new' />
   </node>
   <node id='-3045062' action='modify' lat='45.40260831821' lon='-71.92062379003'>
     <tag k='TODO:description' v='Reconstruction du trottoir en retrait de la chaussée entre de Portland et Albert-Skinner' />
