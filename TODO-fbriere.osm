@@ -1227,7 +1227,7 @@
     <tag k='TODO:type' v='cycleway' />
   </node>
   <node id='-3045281' action='modify' lat='45.31129570425' lon='-72.02411413729'>
-    <tag k='TODO:description' v='Correction de l&apos;intersection' />
+    <tag k='TODO:description' v='Intersection mal cartographiée' />
     <tag k='TODO:type' v='geometry' />
   </node>
   <node id='-3045497' action='modify' lat='45.40908627279' lon='-71.8395996201'>
