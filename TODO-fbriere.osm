@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='never' generator='JOSM'>
-  <node id='-3044809' action='modify' lat='45.41210329113' lon='-71.83706431713'>
+  <node id='-3049368' action='modify' lat='45.41210329113' lon='-71.83706431713'>
     <tag k='TODO:description' v='Ajouter: Jetté (sur toute la longueur)' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3044812' action='modify' lat='45.39911789189' lon='-71.89065978785'>
+  <node id='-3049371' action='modify' lat='45.39911789189' lon='-71.89065978785'>
     <tag k='TODO:description' v='Retirer: Sanborn (entre Brooks et Gordon)' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3044814' action='modify' lat='45.45992342464' lon='-71.99549621243'>
+  <node id='-3049373' action='modify' lat='45.45992342464' lon='-71.99549621243'>
     <tag k='TODO:description' v='Confirmer &quot;chemin du&quot; Xe rang' />
     <tag k='TODO:type' v='name' />
   </node>
-  <node id='-3044821' action='modify' lat='45.40359738492' lon='-71.91714805641'>
+  <node id='-3049380' action='modify' lat='45.40359738492' lon='-71.91714805641'>
     <tag k='TODO:description' v='Vérifier lien cyclable entre Bryant et Jacques-Cartier' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044824' action='modify' lat='45.4043071367' lon='-71.89089419631'>
+  <node id='-3049383' action='modify' lat='45.4043071367' lon='-71.89089419631'>
     <tag k='TODO:description' v='Vérifier: Certains segments du stationnement la Grenouillère' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3044825' action='modify' lat='45.40378510383' lon='-71.89302222547'>
+  <node id='-3049384' action='modify' lat='45.40378510383' lon='-71.89302222547'>
     <tag k='TODO:description' v='Ajouter: de Lorraine' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3044828' action='modify' lat='45.43494567703' lon='-71.86816148885'>
+  <node id='-3049387' action='modify' lat='45.43494567703' lon='-71.86816148885'>
     <tag k='TODO:comments' v='Complété partiellement?' />
     <tag k='TODO:description' v='Aménagement d&apos;une voie cyclable sur la 12e Avenue Nord (de la rue Brûlotte à la bretelle nord de l&apos;autoroute 610)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -33,11 +33,11 @@
     <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044831' action='modify' lat='45.39242286911' lon='-71.91097856641'>
+  <node id='-3049390' action='modify' lat='45.39242286911' lon='-71.91097856641'>
     <tag k='TODO:description' v='Vérifier jusqu&apos;où le sentier se rend' />
     <tag k='TODO:type' v='footway' />
   </node>
-  <node id='-3044833' action='modify' lat='45.41498358593' lon='-71.94719912767'>
+  <node id='-3049392' action='modify' lat='45.41498358593' lon='-71.94719912767'>
     <tag k='TODO:description' v='Prolongement de la rue du Seyval' />
     <tag k='TODO:planned_end' v='2024-12-13' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -46,7 +46,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
   </node>
-  <node id='-3044834' action='modify' lat='45.39609948556' lon='-71.87353492856'>
+  <node id='-3049393' action='modify' lat='45.39609948556' lon='-71.87353492856'>
     <tag k='TODO:description' v='Aménagement de voies cyclables en bordure de la rue Galt Est (entre Bowen et Lavigerie)' />
     <tag k='TODO:session' v='2018-03-19' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
@@ -55,82 +55,82 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044837' action='modify' lat='45.39486015444' lon='-71.9203153266'>
+  <node id='-3049395' action='modify' lat='45.39486015444' lon='-71.9203153266'>
     <tag k='TODO:description' v='Vérifier: Allée du Urbano' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3044838' action='modify' lat='45.39431770693' lon='-71.91888839275'>
+  <node id='-3049396' action='modify' lat='45.39431770693' lon='-71.91888839275'>
     <tag k='TODO:description' v='Ajouter: Sortie du stationnement de Nordia' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3044839' action='modify' lat='45.46758768479' lon='-71.93745196402'>
+  <node id='-3049397' action='modify' lat='45.46758768479' lon='-71.93745196402'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:session' v='2017-10-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044840' action='modify' lat='45.35141087187' lon='-71.99307732493'>
+  <node id='-3049398' action='modify' lat='45.35141087187' lon='-71.99307732493'>
     <tag k='TODO:check_date' v='2023-04-16' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:session' v='2017-07-03' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044846' action='modify' lat='45.38332070107' lon='-71.92503199116'>
+  <node id='-3049404' action='modify' lat='45.38332070107' lon='-71.92503199116'>
     <tag k='TODO:description' v='Passage pour piétons (quel type?)' />
     <tag k='TODO:session' v='2017-06-05' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3044848' action='modify' lat='45.38890612177' lon='-71.89847946435'>
+  <node id='-3049406' action='modify' lat='45.38890612177' lon='-71.89847946435'>
     <tag k='TODO:description' v='Passage pour piétons (caché par les arbres)' />
     <tag k='TODO:session' v='2017-03-06' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3044849' action='modify' lat='45.38747638222' lon='-71.89842045575'>
+  <node id='-3049407' action='modify' lat='45.38747638222' lon='-71.89842045575'>
     <tag k='TODO:check_date' v='2022-09' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:session' v='2017-03-06' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044852' action='modify' lat='45.3406875762' lon='-72.04586685776'>
+  <node id='-3049410' action='modify' lat='45.3406875762' lon='-72.04586685776'>
     <tag k='TODO:description' v='Construction d&apos;un trottoir (côté sud, de Dumont jusqu&apos;à existant)' />
     <tag k='TODO:session' v='2018-04-03' />
     <tag k='TODO:source' v='http://sherbrookeblogue.ca/travaux-prevus-dans-la-semaine-du-22-octobre/' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3044853' action='modify' lat='45.39516151528' lon='-71.93385780394'>
+  <node id='-3049411' action='modify' lat='45.39516151528' lon='-71.93385780394'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:session' v='2016-10-03' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044854' action='modify' lat='45.38490313854' lon='-71.99096203387'>
+  <node id='-3049412' action='modify' lat='45.38490313854' lon='-71.99096203387'>
     <tag k='TODO:check_date' v='2019-05-12' />
     <tag k='TODO:description' v='Arrêt toutes directions (face à Mondrian)' />
     <tag k='TODO:session' v='2016-10-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044855' action='modify' lat='45.37308656095' lon='-71.98061944127'>
+  <node id='-3049413' action='modify' lat='45.37308656095' lon='-71.98061944127'>
     <tag k='TODO:check_date' v='2022-09-01' />
     <tag k='TODO:description' v='Ouverture de la rue Garneau' />
     <tag k='TODO:session' v='2016-09-19' />
     <tag k='TODO:type' v='new' />
   </node>
-  <node id='-3044858' action='modify' lat='45.38266135436' lon='-71.94370152712'>
+  <node id='-3049416' action='modify' lat='45.38266135436' lon='-71.94370152712'>
     <tag k='TODO:description' v='Retrait de ce passage?' />
     <tag k='TODO:source' v='Maxar' />
     <tag k='TODO:type' v='footway' />
   </node>
-  <node id='-3044859' action='modify' lat='45.38931676491' lon='-71.92629665405'>
+  <node id='-3049417' action='modify' lat='45.38931676491' lon='-71.92629665405'>
     <tag k='TODO:description' v='Confirmer tous les tags sur cette entrée' />
     <tag k='TODO:type' v='misc' />
   </node>
-  <node id='-3044860' action='modify' lat='45.39020585361' lon='-71.91967427999'>
+  <node id='-3049418' action='modify' lat='45.39020585361' lon='-71.91967427999'>
     <tag k='TODO:description' v='Confirmer jusqu&apos;où se rend le trottoir' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3044866' action='modify' lat='45.41527730535' lon='-71.8320036149'>
+  <node id='-3049424' action='modify' lat='45.41527730535' lon='-71.8320036149'>
     <tag k='TODO:description' v='Aménagement de voies cyclables sur la rue King Est (de Raby à Rocheuses)' />
     <tag k='TODO:planned_end' v='2022-11-18' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
@@ -138,7 +138,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044890' action='modify' lat='45.37131536252' lon='-71.96521282464'>
+  <node id='-3049447' action='modify' lat='45.37131536252' lon='-71.96521282464'>
     <tag k='TODO:check_date' v='2023-04-16' />
     <tag k='TODO:comments' v='Abandonné?' />
     <tag k='TODO:description' v='Retrait de l&apos;arrêt en septembre 2019' />
@@ -146,12 +146,12 @@
     <tag k='TODO:status' v='incertain' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044891' action='modify' lat='45.37573796223' lon='-71.9067870253'>
+  <node id='-3049448' action='modify' lat='45.37573796223' lon='-71.9067870253'>
     <tag k='TODO:description' v='Vérifier présence de piste cyclable (designated?)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044892' action='modify' lat='45.37884066659' lon='-72.05688536704'>
+  <node id='-3049449' action='modify' lat='45.37884066659' lon='-72.05688536704'>
     <tag k='TODO:description' v='Prolongement de la rue du Pimbina / des Coudriers' />
     <tag k='TODO:planned_end' v='2022-07-22' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -160,7 +160,7 @@
     <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='new' />
   </node>
-  <node id='-3044893' action='modify' lat='45.37047120572' lon='-71.8991339314'>
+  <node id='-3049450' action='modify' lat='45.37047120572' lon='-71.8991339314'>
     <tag k='TODO:description' v='Prolongement de la rue de la Golconda' />
     <tag k='TODO:planned_end' v='2024-12-31' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -169,7 +169,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
   </node>
-  <node id='-3044894' action='modify' lat='45.38487300865' lon='-71.89759971857'>
+  <node id='-3049451' action='modify' lat='45.38487300865' lon='-71.89759971857'>
     <tag k='TODO:description' v='Ajout de voies cyclables sur la rue Dunant, entre Belvédère Sud et Kingston' />
     <tag k='TODO:planned_end' v='± 1 mois' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/dunantweb.pdf' />
@@ -177,7 +177,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044895' action='modify' lat='45.4062240199' lon='-71.95536377192'>
+  <node id='-3049452' action='modify' lat='45.4062240199' lon='-71.95536377192'>
     <tag k='TODO:description' v='Ajout de voies cyclables sur McCrea, entre Portland et Charles-Hamel' />
     <tag k='TODO:planned_end' v='± 2 semaines' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/McCreaweb.pdf' />
@@ -185,14 +185,14 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044897' action='modify' lat='45.38232601933' lon='-71.98405267954'>
+  <node id='-3049453' action='modify' lat='45.38232601933' lon='-71.98405267954'>
     <tag k='TODO:description' v='Ajout de voies cyclables sur Mi-Vallon, de Bourque jusqu&apos;au bout' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallonweb.pdf' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044898' action='modify' lat='45.4158045053' lon='-71.83140282154'>
+  <node id='-3049454' action='modify' lat='45.4158045053' lon='-71.83140282154'>
     <tag k='TODO:description' v='Réaménagement de King Est, entre Raby et des Rocheuses' />
     <tag k='TODO:planned_end' v='2022-11-18' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
@@ -200,7 +200,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
   </node>
-  <node id='-3044899' action='modify' lat='45.40376838616' lon='-71.86850311518'>
+  <node id='-3049455' action='modify' lat='45.40376838616' lon='-71.86850311518'>
     <tag k='TODO:description' v='Interventions localisées pour sécuriser le lien cyclable de la rue du Conseil (entre la 14e et 15e Avenue)' />
     <tag k='TODO:planned_end' v='± 1 semaine' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -208,7 +208,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044900' action='modify' lat='45.42130198219' lon='-71.95547106028'>
+  <node id='-3049456' action='modify' lat='45.42130198219' lon='-71.95547106028'>
     <tag k='TODO:description' v='Prolongement de la rue Laure-Conan' />
     <tag k='TODO:planned_end' v='2023-12-16' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -216,18 +216,18 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
   </node>
-  <node id='-3044901' action='modify' lat='45.39750922464' lon='-71.89602792397'>
+  <node id='-3049457' action='modify' lat='45.39750922464' lon='-71.89602792397'>
     <tag k='TODO:description' v='Virage à gauche (→ des Fusillers)' />
     <tag k='TODO:session' v='2020-10-13' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044902' action='modify' lat='45.36687960209' lon='-71.95513845026'>
+  <node id='-3049458' action='modify' lat='45.36687960209' lon='-71.95513845026'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:session' v='2021-02-08' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044903' action='modify' lat='45.39983235887' lon='-71.88772649109'>
+  <node id='-3049459' action='modify' lat='45.39983235887' lon='-71.88772649109'>
     <tag k='TODO:description' v='Construction d&apos;une nouvelle rue, entre les rues du Dépôt et des Grandes-Fourches Sud' />
     <tag k='TODO:session' v='2021-04-06' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -235,641 +235,641 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
   </node>
-  <node id='-3044904' action='modify' lat='45.37043539825' lon='-71.86128258973'>
+  <node id='-3049460' action='modify' lat='45.37043539825' lon='-71.86128258973'>
     <tag k='TODO:description' v='Passage pour piétons' />
     <tag k='TODO:session' v='2021-03-01' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3044905' action='modify' lat='45.40555926364' lon='-71.9531214264'>
+  <node id='-3049461' action='modify' lat='45.40555926364' lon='-71.9531214264'>
     <tag k='TODO:description' v='Ajouter: Mimi-Shea (portion en anse au sud-ouest)' />
     <tag k='TODO:session' v='2020-11-16' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3044906' action='modify' lat='45.41514032308' lon='-71.83174946487'>
+  <node id='-3049462' action='modify' lat='45.41514032308' lon='-71.83174946487'>
     <tag k='TODO:description' v='Entrée vers Arthur-Maillé' />
     <tag k='TODO:session' v='2020-11-16' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044909' action='modify' lat='45.38498329725' lon='-71.96251739292'>
+  <node id='-3049465' action='modify' lat='45.38498329725' lon='-71.96251739292'>
     <tag k='TODO:description' v='Virage à gauche (→ Comtois) + (Comtois → ouest, 7-9h, 16-18h)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044910' action='modify' lat='45.42201500804' lon='-71.94744990531'>
+  <node id='-3049466' action='modify' lat='45.42201500804' lon='-71.94744990531'>
     <tag k='TODO:description' v='Retrait des arrêts sur Lionel-Groulx et installation de feux clignottants pour piétons' />
     <tag k='TODO:session' v='2022-04-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044911' action='modify' lat='45.41460251497' lon='-71.94890422672'>
+  <node id='-3049467' action='modify' lat='45.41460251497' lon='-71.94890422672'>
     <tag k='TODO:description' v='Ajout d&apos;un trottoir entre Nicolas-Scheib et le parc André-Viger' />
-    <tag k='TODO:session' v='2022-04-05' />
     <tag k='TODO:planned_end' v='± 1 mois' />
+    <tag k='TODO:session' v='2022-04-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Printemps 2023' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3044913' action='modify' lat='45.37774602538' lon='-71.85268432277'>
+  <node id='-3049468' action='modify' lat='45.37774602538' lon='-71.85268432277'>
     <tag k='TODO:description' v='Construction d&apos;un trottoir entre Atto et Cardinal-Lavigerie' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3044914' action='modify' lat='45.40188458921' lon='-71.88920753174'>
+  <node id='-3049469' action='modify' lat='45.40188458921' lon='-71.88920753174'>
     <tag k='TODO:description' v='Ajouter: King/Dépôt' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3044916' action='modify' lat='45.41562373039' lon='-71.93922758639'>
+  <node id='-3049470' action='modify' lat='45.41562373039' lon='-71.93922758639'>
     <tag k='TODO:description' v='Retirer: Honoré-de-Balzac' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3044917' action='modify' lat='45.40012239423' lon='-71.88945652127'>
+  <node id='-3049471' action='modify' lat='45.40012239423' lon='-71.88945652127'>
     <tag k='TODO:description' v='Vérifier: Wellington Sud (mesures temporaires?)' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3044918' action='modify' lat='45.42203618256' lon='-71.88231647283'>
+  <node id='-3049472' action='modify' lat='45.42203618256' lon='-71.88231647283'>
     <tag k='TODO:description' v='Vérifier: Levée des restrictions de virage vers du Souvenir' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044919' action='modify' lat='45.40904342704' lon='-71.92531563409'>
+  <node id='-3049473' action='modify' lat='45.40904342704' lon='-71.92531563409'>
     <tag k='TODO:description' v='Entrée vers Bouchette (sauf véhicules d&apos;urgence)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044920' action='modify' lat='45.35496502457' lon='-71.86481239557'>
+  <node id='-3049474' action='modify' lat='45.35496502457' lon='-71.86481239557'>
     <tag k='TODO:description' v='Pavage de Haskell Hill?' />
     <tag k='TODO:type' v='surface' />
   </node>
-  <node id='-3044921' action='modify' lat='45.39025859478' lon='-71.87161445752'>
+  <node id='-3049475' action='modify' lat='45.39025859478' lon='-71.87161445752'>
     <tag k='TODO:description' v='Ajouter: Bowen/Caen' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3044922' action='modify' lat='45.4037608402' lon='-71.8674623993'>
+  <node id='-3049476' action='modify' lat='45.4037608402' lon='-71.8674623993'>
     <tag k='TODO:description' v='Ajouter: Conseil/15e avenue' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3044925' action='modify' lat='45.40763444133' lon='-71.89677357942'>
+  <node id='-3049479' action='modify' lat='45.40763444133' lon='-71.89677357942'>
     <tag k='TODO:description' v='Passage pour piétons (caché par les arbres?)' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3044926' action='modify' lat='45.41605300537' lon='-71.91852093011'>
+  <node id='-3049480' action='modify' lat='45.41605300537' lon='-71.91852093011'>
     <tag k='TODO:description' v='Passage pour piétons?' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3044927' action='modify' lat='45.4687652186' lon='-71.95036143333'>
+  <node id='-3049481' action='modify' lat='45.4687652186' lon='-71.95036143333'>
     <tag k='TODO:description' v='Passage pour piétons?' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3044928' action='modify' lat='45.36963456423' lon='-71.86313331664'>
+  <node id='-3049482' action='modify' lat='45.36963456423' lon='-71.86313331664'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044929' action='modify' lat='45.40155745993' lon='-71.92172349036'>
+  <node id='-3049483' action='modify' lat='45.40155745993' lon='-71.92172349036'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044930' action='modify' lat='45.36816853405' lon='-71.97094202578'>
+  <node id='-3049484' action='modify' lat='45.36816853405' lon='-71.97094202578'>
     <tag k='TODO:check_date' v='2019-06' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044931' action='modify' lat='45.36703789356' lon='-71.97176814616'>
+  <node id='-3049485' action='modify' lat='45.36703789356' lon='-71.97176814616'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044932' action='modify' lat='45.37577716044' lon='-71.84291751265'>
+  <node id='-3049486' action='modify' lat='45.37577716044' lon='-71.84291751265'>
     <tag k='TODO:description' v='Confirmer: Rues Champigny (au nord) et Atto (au sud, jusqu&apos;à Moulton Hill)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='name' />
   </node>
-  <node id='-3044933' action='modify' lat='45.37577715667' lon='-71.84287190974'>
+  <node id='-3049487' action='modify' lat='45.37577715667' lon='-71.84287190974'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044934' action='modify' lat='45.36885886846' lon='-71.86935600173'>
+  <node id='-3049488' action='modify' lat='45.36885886846' lon='-71.86935600173'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044935' action='modify' lat='45.40463990975' lon='-71.882266305'>
+  <node id='-3049489' action='modify' lat='45.40463990975' lon='-71.882266305'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044936' action='modify' lat='45.38948017157' lon='-71.93404135866'>
+  <node id='-3049490' action='modify' lat='45.38948017157' lon='-71.93404135866'>
     <tag k='TODO:check_date' v='2016-09' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044937' action='modify' lat='45.37174033072' lon='-71.86212390144'>
+  <node id='-3049491' action='modify' lat='45.37174033072' lon='-71.86212390144'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044938' action='modify' lat='45.38702860565' lon='-71.96945768763'>
+  <node id='-3049492' action='modify' lat='45.38702860565' lon='-71.96945768763'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044939' action='modify' lat='45.36497953941' lon='-71.866049037'>
+  <node id='-3049493' action='modify' lat='45.36497953941' lon='-71.866049037'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044940' action='modify' lat='45.36840559296' lon='-71.85448098055'>
+  <node id='-3049494' action='modify' lat='45.36840559296' lon='-71.85448098055'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044941' action='modify' lat='45.47413756494' lon='-71.94583489623'>
+  <node id='-3049495' action='modify' lat='45.47413756494' lon='-71.94583489623'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044942' action='modify' lat='45.47103127644' lon='-71.94436608585'>
+  <node id='-3049496' action='modify' lat='45.47103127644' lon='-71.94436608585'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044943' action='modify' lat='45.40798182123' lon='-71.88129033904'>
+  <node id='-3049497' action='modify' lat='45.40798182123' lon='-71.88129033904'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044944' action='modify' lat='45.38367774929' lon='-71.88878355549'>
+  <node id='-3049498' action='modify' lat='45.38367774929' lon='-71.88878355549'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044945' action='modify' lat='45.38378224378' lon='-71.88668038593'>
+  <node id='-3049499' action='modify' lat='45.38378224378' lon='-71.88668038593'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044946' action='modify' lat='45.47281386634' lon='-71.90431344756'>
+  <node id='-3049500' action='modify' lat='45.47281386634' lon='-71.90431344756'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044947' action='modify' lat='45.38695491056' lon='-71.88695896819'>
+  <node id='-3049501' action='modify' lat='45.38695491056' lon='-71.88695896819'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044948' action='modify' lat='45.37080133244' lon='-71.97776566381'>
+  <node id='-3049502' action='modify' lat='45.37080133244' lon='-71.97776566381'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044949' action='modify' lat='45.34105383146' lon='-71.84321912399'>
+  <node id='-3049503' action='modify' lat='45.34105383146' lon='-71.84321912399'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044950' action='modify' lat='45.38361638936' lon='-71.88984338229'>
+  <node id='-3049504' action='modify' lat='45.38361638936' lon='-71.88984338229'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044951' action='modify' lat='45.36890978579' lon='-71.86315337896'>
+  <node id='-3049505' action='modify' lat='45.36890978579' lon='-71.86315337896'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044952' action='modify' lat='45.37040711922' lon='-71.86316406009'>
+  <node id='-3049506' action='modify' lat='45.37040711922' lon='-71.86316406009'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044953' action='modify' lat='45.37697745264' lon='-71.98924720954'>
+  <node id='-3049507' action='modify' lat='45.37697745264' lon='-71.98924720954'>
     <tag k='TODO:check_date' v='2022-09' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044954' action='modify' lat='45.38325284843' lon='-71.99315802225'>
+  <node id='-3049508' action='modify' lat='45.38325284843' lon='-71.99315802225'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044955' action='modify' lat='45.41269963995' lon='-71.95635516474'>
+  <node id='-3049509' action='modify' lat='45.41269963995' lon='-71.95635516474'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044956' action='modify' lat='45.38993490515' lon='-71.89148130681'>
+  <node id='-3049510' action='modify' lat='45.38993490515' lon='-71.89148130681'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044957' action='modify' lat='45.46945545184' lon='-71.93786666265'>
+  <node id='-3049511' action='modify' lat='45.46945545184' lon='-71.93786666265'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044958' action='modify' lat='45.47039001425' lon='-71.93602032759'>
+  <node id='-3049512' action='modify' lat='45.47039001425' lon='-71.93602032759'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044959' action='modify' lat='45.37974747191' lon='-71.98674017366'>
+  <node id='-3049513' action='modify' lat='45.37974747191' lon='-71.98674017366'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044960' action='modify' lat='45.38735549094' lon='-71.9918826043'>
+  <node id='-3049514' action='modify' lat='45.38735549094' lon='-71.9918826043'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044961' action='modify' lat='45.38757625136' lon='-71.99327494835'>
+  <node id='-3049515' action='modify' lat='45.38757625136' lon='-71.99327494835'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044962' action='modify' lat='45.36341511901' lon='-71.86090878744'>
+  <node id='-3049516' action='modify' lat='45.36341511901' lon='-71.86090878744'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044963' action='modify' lat='45.38844243697' lon='-71.99558671537'>
+  <node id='-3049517' action='modify' lat='45.38844243697' lon='-71.99558671537'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044964' action='modify' lat='45.42128859364' lon='-71.88041846239'>
+  <node id='-3049518' action='modify' lat='45.42128859364' lon='-71.88041846239'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044965' action='modify' lat='45.40271725514' lon='-71.84617859048'>
+  <node id='-3049519' action='modify' lat='45.40271725514' lon='-71.84617859048'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044966' action='modify' lat='45.38686474434' lon='-71.88906082221'>
+  <node id='-3049520' action='modify' lat='45.38686474434' lon='-71.88906082221'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044967' action='modify' lat='45.42690765171' lon='-71.86802611879'>
+  <node id='-3049521' action='modify' lat='45.42690765171' lon='-71.86802611879'>
     <tag k='TODO:check_date' v='2017-08' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044968' action='modify' lat='45.40373275645' lon='-71.84992413638'>
+  <node id='-3049522' action='modify' lat='45.40373275645' lon='-71.84992413638'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044969' action='modify' lat='45.34087379694' lon='-71.84852524711'>
+  <node id='-3049523' action='modify' lat='45.34087379694' lon='-71.84852524711'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044970' action='modify' lat='45.39961143574' lon='-71.86505925198'>
+  <node id='-3049524' action='modify' lat='45.39961143574' lon='-71.86505925198'>
     <tag k='TODO:certain' v='yes' />
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3044971' action='modify' lat='45.42190441452' lon='-71.94748880625'>
+  <node id='-3049525' action='modify' lat='45.42190441452' lon='-71.94748880625'>
     <tag k='TODO:description' v='Virages à gauche (→ Laure-Conan) (→ Lionel-Groulx)' />
     <tag k='TODO:session' v='2022-04-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044973' action='modify' lat='45.37541163456' lon='-71.89389825404'>
+  <node id='-3049527' action='modify' lat='45.37541163456' lon='-71.89389825404'>
     <tag k='TODO:description' v='Confirmer présence/absence de bande cyclable du côté est' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044977' action='modify' lat='45.42679140167' lon='-71.86979056478'>
+  <node id='-3049531' action='modify' lat='45.42679140167' lon='-71.86979056478'>
     <tag k='TODO:description' v='12e avenue: lane ou track?' />
     <tag k='TODO:source' v='Bing' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044978' action='modify' lat='45.39993405844' lon='-71.88895226061'>
+  <node id='-3049532' action='modify' lat='45.39993405844' lon='-71.88895226061'>
     <tag k='TODO:description' v='Vérifier: Est-ce que la rue Terrien existe toujours?' />
     <tag k='TODO:type' v='name' />
   </node>
-  <node id='-3044983' action='modify' lat='45.40194164368' lon='-71.88916951686'>
+  <node id='-3049537' action='modify' lat='45.40194164368' lon='-71.88916951686'>
     <tag k='TODO:description' v='Confirmer: Virage à gauche interdit pour tous?' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044984' action='modify' lat='45.40383993625' lon='-71.89038992465'>
+  <node id='-3049538' action='modify' lat='45.40383993625' lon='-71.89038992465'>
     <tag k='TODO:description' v='Vérifier: État du stationnement de la Grenouillère' />
     <tag k='TODO:type' v='misc' />
   </node>
-  <node id='-3044985' action='modify' lat='45.3939654884' lon='-71.88747167721'>
+  <node id='-3049539' action='modify' lat='45.3939654884' lon='-71.88747167721'>
     <tag k='TODO:description' v='Entrée vers Olivier' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044986' action='modify' lat='45.40025045966' lon='-71.87336326587'>
+  <node id='-3049540' action='modify' lat='45.40025045966' lon='-71.87336326587'>
     <tag k='TODO:description' v='Retirer: access=private' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044987' action='modify' lat='45.39811285343' lon='-71.89893812209'>
+  <node id='-3049541' action='modify' lat='45.39811285343' lon='-71.89893812209'>
     <tag k='TODO:description' v='Confirmer: Vélos interdits sur la passerelle?' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3044988' action='modify' lat='45.3986403751' lon='-71.91480397515'>
+  <node id='-3049542' action='modify' lat='45.3986403751' lon='-71.91480397515'>
     <tag k='TODO:description' v='Virage à gauche (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044989' action='modify' lat='45.36082460326' lon='-71.86229914561'>
+  <node id='-3049543' action='modify' lat='45.36082460326' lon='-71.86229914561'>
     <tag k='TODO:description' v='Turning circle?' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='geometry' />
   </node>
-  <node id='-3044990' action='modify' lat='45.39890010158' lon='-71.90482959285'>
+  <node id='-3049544' action='modify' lat='45.39890010158' lon='-71.90482959285'>
     <tag k='TODO:description' v='Virages à gauche (→ Québec) (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044991' action='modify' lat='45.39880781791' lon='-71.90343618661'>
+  <node id='-3049545' action='modify' lat='45.39880781791' lon='-71.90343618661'>
     <tag k='TODO:description' v='Virages à gauche (→ London) (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044992' action='modify' lat='45.40045196813' lon='-71.89191073447'>
+  <node id='-3049546' action='modify' lat='45.40045196813' lon='-71.89191073447'>
     <tag k='TODO:description' v='Virage à gauche (Brooks → King Est) [terre-plein ouvert]' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044993' action='modify' lat='45.40265539245' lon='-71.88743412629'>
+  <node id='-3049547' action='modify' lat='45.40265539245' lon='-71.88743412629'>
     <tag k='TODO:description' v='Entrée seulement' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044994' action='modify' lat='45.40368927871' lon='-71.88570410281'>
+  <node id='-3049548' action='modify' lat='45.40368927871' lon='-71.88570410281'>
     <tag k='TODO:description' v='Virage à gauche (→ William-Ives)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044995' action='modify' lat='45.40829915998' lon='-71.86240643531'>
+  <node id='-3049549' action='modify' lat='45.40829915998' lon='-71.86240643531'>
     <tag k='TODO:description' v='Sortie seulement' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044996' action='modify' lat='45.4080524806' lon='-71.86855271727'>
+  <node id='-3049550' action='modify' lat='45.4080524806' lon='-71.86855271727'>
     <tag k='TODO:description' v='Virages à gauche (→ 14e avenue) (→ King Est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044997' action='modify' lat='45.40340491411' lon='-71.88624322549'>
+  <node id='-3049551' action='modify' lat='45.40340491411' lon='-71.88624322549'>
     <tag k='TODO:description' v='Virage à gauche (King → Saint-François)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044998' action='modify' lat='45.40132393216' lon='-71.89030945569'>
+  <node id='-3049552' action='modify' lat='45.40132393216' lon='-71.89030945569'>
     <tag k='TODO:description' v='Virages à gauche (toutes directions)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3044999' action='modify' lat='45.39937376411' lon='-71.89506769314'>
+  <node id='-3049553' action='modify' lat='45.39937376411' lon='-71.89506769314'>
     <tag k='TODO:description' v='Virage à gauche (→ Camirand, dir. sud)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045000' action='modify' lat='45.39857992983' lon='-71.92063987389'>
+  <node id='-3049554' action='modify' lat='45.39857992983' lon='-71.92063987389'>
     <tag k='TODO:description' v='Virages à gauche (→ King Ouest, dir. est) (→ centre commercial)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045001' action='modify' lat='45.39803940328' lon='-71.94068670809'>
+  <node id='-3049555' action='modify' lat='45.39803940328' lon='-71.94068670809'>
     <tag k='TODO:description' v='Demi-tour (est → ouest)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045002' action='modify' lat='45.39612396477' lon='-71.94624960691'>
+  <node id='-3049556' action='modify' lat='45.39612396477' lon='-71.94624960691'>
     <tag k='TODO:description' v='Demi-tour (ouest → est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045003' action='modify' lat='45.38553798192' lon='-71.96310729057'>
+  <node id='-3049557' action='modify' lat='45.38553798192' lon='-71.96310729057'>
     <tag k='TODO:description' v='Demi-tour (ouest → est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045004' action='modify' lat='45.37925326405' lon='-71.97397157684'>
+  <node id='-3049558' action='modify' lat='45.37925326405' lon='-71.97397157684'>
     <tag k='TODO:description' v='Virages interdits à l&apos;intersection de cette bretelle' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045005' action='modify' lat='45.37134362573' lon='-71.98805585638'>
+  <node id='-3049559' action='modify' lat='45.37134362573' lon='-71.98805585638'>
     <tag k='TODO:description' v='Demi-tour (ouest → est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045006' action='modify' lat='45.37139732758' lon='-71.98811084166'>
+  <node id='-3049560' action='modify' lat='45.37139732758' lon='-71.98811084166'>
     <tag k='TODO:description' v='Virage à gauche (Bourque → commerce au sud)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045007' action='modify' lat='45.369254867' lon='-71.99173450604'>
+  <node id='-3049561' action='modify' lat='45.369254867' lon='-71.99173450604'>
     <tag k='TODO:description' v='Ajouter: Sens unique sur bretelle demi-tour' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3045008' action='modify' lat='45.34169336675' lon='-72.04347029462'>
+  <node id='-3049562' action='modify' lat='45.34169336675' lon='-72.04347029462'>
     <tag k='TODO:description' v='Ajouter: Sens unique sur cette entrée' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3045009' action='modify' lat='45.33981089958' lon='-72.04772830144'>
+  <node id='-3049563' action='modify' lat='45.33981089958' lon='-72.04772830144'>
     <tag k='TODO:description' v='Demi-tour (ouest → est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045010' action='modify' lat='45.40288985444' lon='-71.96339160338'>
+  <node id='-3049564' action='modify' lat='45.40288985444' lon='-71.96339160338'>
     <tag k='TODO:description' v='Demi-tour (ouest → est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045011' action='modify' lat='45.40354992092' lon='-71.92566365138'>
+  <node id='-3049565' action='modify' lat='45.40354992092' lon='-71.92566365138'>
     <tag k='TODO:description' v='Portion ouest réservée aux autobus scolaires' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045013' action='modify' lat='45.40354803772' lon='-71.90391495958'>
+  <node id='-3049566' action='modify' lat='45.40354803772' lon='-71.90391495958'>
     <tag k='TODO:description' v='Voies non séparées entre Québec et London' />
     <tag k='TODO:type' v='geometry' />
   </node>
-  <node id='-3045014' action='modify' lat='45.40354803866' lon='-71.90328598291'>
+  <node id='-3049567' action='modify' lat='45.40354803866' lon='-71.90328598291'>
     <tag k='TODO:description' v='Virages à gauche (London → Portland, dir. est) (Portland → London, dir. sud)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045015' action='modify' lat='45.40388183399' lon='-71.9017242647'>
+  <node id='-3049568' action='modify' lat='45.40388183399' lon='-71.9017242647'>
     <tag k='TODO:description' v='Virage à droite (Portland → Queen-Victoria)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045016' action='modify' lat='45.40378673272' lon='-71.90172627635'>
+  <node id='-3049569' action='modify' lat='45.40378673272' lon='-71.90172627635'>
     <tag k='TODO:description' v='Virage à gauche (Belvédère → Queen-Victoria)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045017' action='modify' lat='45.40373918203' lon='-71.90160289474'>
+  <node id='-3049570' action='modify' lat='45.40373918203' lon='-71.90160289474'>
     <tag k='TODO:description' v='Virages interdits sur Queen-Victoria et Belvédère' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045018' action='modify' lat='45.40348024237' lon='-71.90160825983'>
+  <node id='-3049571' action='modify' lat='45.40348024237' lon='-71.90160825983'>
     <tag k='TODO:description' v='Virage à gauche (Portland → Queen-Victoria)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045019' action='modify' lat='45.40970012779' lon='-71.89029068023'>
+  <node id='-3049572' action='modify' lat='45.40970012779' lon='-71.89029068023'>
     <tag k='TODO:description' v='Virages à gauche vers Kennedy (8h - 18h)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045020' action='modify' lat='45.4093988492' lon='-71.87696010411'>
+  <node id='-3049573' action='modify' lat='45.4093988492' lon='-71.87696010411'>
     <tag k='TODO:description' v='Ajouter: Dollard' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3045021' action='modify' lat='45.39380538971' lon='-71.88674748212'>
+  <node id='-3049574' action='modify' lat='45.39380538971' lon='-71.88674748212'>
     <tag k='TODO:description' v='Virage à gauche (→ Laurier, dir. nord)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045022' action='modify' lat='45.39385059436' lon='-71.88719809324'>
+  <node id='-3049575' action='modify' lat='45.39385059436' lon='-71.88719809324'>
     <tag k='TODO:description' v='Virage à gauche (→ Fédéral)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045023' action='modify' lat='45.4094976684' lon='-71.91519236298'>
+  <node id='-3049576' action='modify' lat='45.4094976684' lon='-71.91519236298'>
     <tag k='TODO:description' v='Ajouter: 2 entrées' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3045024' action='modify' lat='45.40574946193' lon='-71.89607084334'>
+  <node id='-3049577' action='modify' lat='45.40574946193' lon='-71.89607084334'>
     <tag k='TODO:description' v='Ajouter: Court (de Dufferin à William)' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3045025' action='modify' lat='45.4025518155' lon='-71.8940001753'>
+  <node id='-3049578' action='modify' lat='45.4025518155' lon='-71.8940001753'>
     <tag k='TODO:description' v='Ajouter: Stationnement devant le Séminaire' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3045026' action='modify' lat='45.4021827' lon='-71.8940913704'>
+  <node id='-3049579' action='modify' lat='45.4021827' lon='-71.8940913704'>
     <tag k='TODO:description' v='Ajouter: Débarcadaire du Séminaire' />
     <tag k='TODO:type' v='oneway' />
   </node>
-  <node id='-3045027' action='modify' lat='45.40206970498' lon='-71.89473778278'>
+  <node id='-3049580' action='modify' lat='45.40206970498' lon='-71.89473778278'>
     <tag k='TODO:description' v='Confirmer: Stationnement connecte sur Peel, pas sur Marquette; ce qu&apos;on voit sur imagerie sont des passages piétons' />
     <tag k='TODO:type' v='geometry' />
   </node>
-  <node id='-3045028' action='modify' lat='45.39926170514' lon='-71.91870063677'>
+  <node id='-3049581' action='modify' lat='45.39926170514' lon='-71.91870063677'>
     <tag k='TODO:description' v='Confirmer: Virage à gauche permis de Jacques-Cartier vers l&apos;ouest et vers l&apos;est; demi-tour nord→sud interdit' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045029' action='modify' lat='45.42464915416' lon='-71.95829809248'>
+  <node id='-3049582' action='modify' lat='45.42464915416' lon='-71.95829809248'>
     <tag k='TODO:description' v='Demi-tours (est→ouest et ouest→est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045030' action='modify' lat='45.42452114405' lon='-71.96071744502'>
+  <node id='-3049583' action='modify' lat='45.42452114405' lon='-71.96071744502'>
     <tag k='TODO:description' v='Demi-tours (est→ouest et ouest→est)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045031' action='modify' lat='45.41141174694' lon='-71.90382778913'>
+  <node id='-3049584' action='modify' lat='45.41141174694' lon='-71.90382778913'>
     <tag k='TODO:description' v='Confirmer: Le dernier segment est Elgin, pas Hyatt' />
     <tag k='TODO:type' v='name' />
   </node>
-  <node id='-3045032' action='modify' lat='45.39851778146' lon='-71.86763942778'>
+  <node id='-3049585' action='modify' lat='45.39851778146' lon='-71.86763942778'>
     <tag k='TODO:description' v='Demi-tours (nord→sud et sud→nord)' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045033' action='modify' lat='45.40899211614' lon='-71.86940700084'>
+  <node id='-3049586' action='modify' lat='45.40899211614' lon='-71.86940700084'>
     <tag k='TODO:description' v='Sortie seulement' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045034' action='modify' lat='45.40463087188' lon='-71.96358204424'>
+  <node id='-3049587' action='modify' lat='45.40463087188' lon='-71.96358204424'>
     <tag k='TODO:description' v='Ajouter: Industriel / 410 [printemps/été 2023]' />
     <tag k='TODO:planned_end' v='2023-06' />
     <tag k='TODO:source' v='La Tribune (2023-01-07)' />
     <tag k='TODO:type' v='traffic_signal' />
   </node>
-  <node id='-3045035' action='modify' lat='45.42991712308' lon='-71.89438841705'>
+  <node id='-3049588' action='modify' lat='45.42991712308' lon='-71.89438841705'>
     <tag k='TODO:description' v='Remplacer arrêts par un dos d&apos;âne' />
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3045036' action='modify' lat='45.38500863261' lon='-71.88327670634'>
+  <node id='-3049589' action='modify' lat='45.38500863261' lon='-71.88327670634'>
     <tag k='TODO:description' v='Passage pour piétons' />
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3045037' action='modify' lat='45.3880641075' lon='-71.9295018965'>
+  <node id='-3049590' action='modify' lat='45.3880641075' lon='-71.9295018965'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3045038' action='modify' lat='45.40466853332' lon='-71.9350594309'>
+  <node id='-3049591' action='modify' lat='45.40466853332' lon='-71.9350594309'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
-    <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:planned_end' v='2022-12' />
+    <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3045039' action='modify' lat='45.3847609068' lon='-71.97564661637'>
+  <node id='-3049592' action='modify' lat='45.3847609068' lon='-71.97564661637'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
-    <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:planned_end' v='2022-12' />
+    <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3045040' action='modify' lat='45.36723763887' lon='-71.97875529662'>
+  <node id='-3049593' action='modify' lat='45.36723763887' lon='-71.97875529662'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3045041' action='modify' lat='45.40316951359' lon='-71.89008683234'>
+  <node id='-3049594' action='modify' lat='45.40316951359' lon='-71.89008683234'>
     <tag k='TODO:description' v='Démolition du stationnement Webster' />
-    <tag k='TODO:session' v='2023-02-07' />
     <tag k='TODO:planned_end' v='2024' />
+    <tag k='TODO:session' v='2023-02-07' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-08' />
     <tag k='TODO:type' v='misc' />
   </node>
-  <node id='-3045042' action='modify' lat='45.40191528373' lon='-71.98497534871'>
+  <node id='-3049595' action='modify' lat='45.40191528373' lon='-71.98497534871'>
     <tag k='TODO:description' v='Fermeture et vente d&apos;une portion du chemin Labonté' />
-    <tag k='TODO:session' v='2023-02-07' />
     <tag k='TODO:planned_end' v='2023-09' />
+    <tag k='TODO:session' v='2023-02-07' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='misc' />
   </node>
-  <node id='-3045043' action='modify' lat='45.35134226984' lon='-71.9987082535'>
+  <node id='-3049596' action='modify' lat='45.35134226984' lon='-71.9987082535'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:session' v='2023-03-07' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3045044' action='modify' lat='45.37453738653' lon='-71.88731611311'>
+  <node id='-3049597' action='modify' lat='45.37453738653' lon='-71.88731611311'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
     <tag k='TODO:session' v='2023-03-07' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3045045' action='modify' lat='45.48312316122' lon='-71.94202781796'>
+  <node id='-3049598' action='modify' lat='45.48312316122' lon='-71.94202781796'>
     <tag k='TODO:description' v='Prolongement des rues Gisèle-Trudeau et Jospeh-Émond' />
     <tag k='TODO:planned_end' v='2024-09-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -877,13 +877,13 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
   </node>
-  <node id='-3045046' action='modify' lat='45.38634612961' lon='-71.89615130961'>
+  <node id='-3049599' action='modify' lat='45.38634612961' lon='-71.89615130961'>
     <tag k='TODO:description' v='L&apos;intersection Dunant/Belvédère Sud sera modifiée pour l&apos;ajout de la bande cyclable' />
     <tag k='TODO:planned_end' v='2023' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045047' action='modify' lat='45.3896200644' lon='-71.90564636707'>
+  <node id='-3049600' action='modify' lat='45.3896200644' lon='-71.90564636707'>
     <tag k='TODO:description' v='Ajout de voies cyclables sur la rue McManamy, entre le pont Jacques-Cartier et la rue Belvédère Sud' />
     <tag k='TODO:planned_end' v='± 1 semaine' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/McMananyweb.pdf' />
@@ -891,25 +891,25 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045048' action='modify' lat='45.40902085397' lon='-71.86812220345'>
+  <node id='-3049601' action='modify' lat='45.40902085397' lon='-71.86812220345'>
     <tag k='TODO:description' v='Confirmer: absence de nom pour cette section' />
     <tag k='TODO:type' v='name' />
   </node>
-  <node id='-3045049' action='modify' lat='45.3977788438' lon='-71.91392556611'>
+  <node id='-3049602' action='modify' lat='45.3977788438' lon='-71.91392556611'>
     <tag k='TODO:description' v='Arrêt toutes directions' />
-    <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:planned_end' v='2022-12' />
+    <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='stop' />
   </node>
-  <node id='-3045050' action='modify' lat='45.3966067459' lon='-72.01398268663'>
+  <node id='-3049603' action='modify' lat='45.3966067459' lon='-72.01398268663'>
     <tag k='TODO:description' v='Dos d&apos;âne' />
     <tag k='TODO:session' v='2023-04-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
   </node>
-  <node id='-3045051' action='modify' lat='45.36608327828' lon='-71.95950623304'>
+  <node id='-3049604' action='modify' lat='45.36608327828' lon='-71.95950623304'>
     <tag k='TODO:description' v='Aménagement de voies cyclables sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
     <tag k='TODO:planned_end' v='± 3 mois' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
@@ -918,7 +918,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045052' action='modify' lat='45.36651347364' lon='-71.95923741173'>
+  <node id='-3049605' action='modify' lat='45.36651347364' lon='-71.95923741173'>
     <tag k='TODO:description' v='Construction d&apos;un trottoir sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
     <tag k='TODO:planned_end' v='± 3 mois' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
@@ -927,7 +927,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045053' action='modify' lat='45.36458805639' lon='-71.9616791978'>
+  <node id='-3049606' action='modify' lat='45.36458805639' lon='-71.9616791978'>
     <tag k='TODO:description' v='FRCR et éclairage aux passages piétonniers' />
     <tag k='TODO:planned_end' v='± 3 mois' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -936,14 +936,14 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3045054' action='modify' lat='45.38160260823' lon='-71.87367443562'>
+  <node id='-3049607' action='modify' lat='45.38160260823' lon='-71.87367443562'>
     <tag k='TODO:description' v='Aménagement de voies cyclables sur la rue Wellington Sud/Queen, entre la côte de l&apos;Acadie et la rue John-Wilson' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045055' action='modify' lat='45.39468313506' lon='-72.02756886005'>
+  <node id='-3049608' action='modify' lat='45.39468313506' lon='-72.02756886005'>
     <tag k='TODO:description' v='Aménagement de voies cyclables sur le chemin de Saint-Élie, entre la rue Croteau et le chemin Laliberté' />
     <tag k='TODO:planned_end' v='± 2 semaines' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -952,7 +952,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045056' action='modify' lat='45.35784497406' lon='-71.97954658985'>
+  <node id='-3049609' action='modify' lat='45.35784497406' lon='-71.97954658985'>
     <tag k='TODO:description' v='Implantation de voies cyclables entre les rues Beauchamp et Mack-Sennett' />
     <tag k='TODO:planned_end' v='± 1 mois' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2023.pdf' />
@@ -960,7 +960,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045057' action='modify' lat='45.37153395144' lon='-71.96748735666'>
+  <node id='-3049610' action='modify' lat='45.37153395144' lon='-71.96748735666'>
     <tag k='TODO:description' v='Construction d&apos;un trottoir entre les rues Bertrand-Fabi et Charlevoix' />
     <tag k='TODO:planned_end' v='± 2 mois' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Charny-2023.pdf' />
@@ -969,30 +969,30 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045058' action='modify' lat='45.39276944562' lon='-71.99436308026'>
+  <node id='-3049611' action='modify' lat='45.39276944562' lon='-71.99436308026'>
     <tag k='TODO:description' v='Ajout d&apos;un trottoir entre le boulevard Industriel et la rue Saint-Patrick' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Jacques-web.pdf' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045059' action='modify' lat='45.39324410131' lon='-71.99436308026'>
+  <node id='-3049612' action='modify' lat='45.39324410131' lon='-71.99436308026'>
     <tag k='TODO:description' v='Ajout de bandes cyclables' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Jacques-web.pdf' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045060' action='modify' lat='45.38798499501' lon='-71.98325873494'>
+  <node id='-3049613' action='modify' lat='45.38798499501' lon='-71.98325873494'>
     <tag k='TODO:description' v='Construction d&apos;un trottoir sur la rue Marcel-Marcotte, entre le boulevard du Mi-Vallon et la rue Malherbe' />
-    <tag k='TODO:planned_end' v='± 1 mois' />
+    <tag k='TODO:planned_end' v='2023-05-26' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/marcel-marcotteweb.pdf' />
-    <tag k='TODO:start_date' v='Printemps 2023' />
+    <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045062' action='modify' lat='45.40260831821' lon='-71.92062379003'>
+  <node id='-3049614' action='modify' lat='45.40260831821' lon='-71.92062379003'>
     <tag k='TODO:description' v='Reconstruction du trottoir en retrait de la chaussée entre de Portland et Albert-Skinner' />
     <tag k='TODO:planned_end' v='2022-12-02' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/WoodRiouxweb.pdf' />
@@ -1000,7 +1000,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045063' action='modify' lat='45.4021488034' lon='-71.92068279326'>
+  <node id='-3049615' action='modify' lat='45.4021488034' lon='-71.92068279326'>
     <tag k='TODO:description' v='Ajout de dos d&apos;âne en zone scolaire' />
     <tag k='TODO:planned_end' v='2022-12-02' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/WoodRiouxweb.pdf' />
@@ -1008,25 +1008,25 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='misc' />
   </node>
-  <node id='-3045064' action='modify' lat='45.40183995339' lon='-71.91064597249'>
+  <node id='-3049616' action='modify' lat='45.40183995339' lon='-71.91064597249'>
     <tag k='TODO:description' v='Trottoir séparé de la chaussée (entre King et Portland)' />
-    <tag k='TODO:planned_end' v='± 2 mois' />
+    <tag k='TODO:planned_end' v='2023-07-07' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Vimy-2023.pdf' />
-    <tag k='TODO:start_date' v='Printemps 2023' />
+    <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045065' action='modify' lat='45.40117704201' lon='-71.91065670133'>
+  <node id='-3049617' action='modify' lat='45.40117704201' lon='-71.91065670133'>
     <tag k='TODO:description' v='Chaussée désignée pour cyclistes (entre King et Portland)' />
-    <tag k='TODO:planned_end' v='± 2 mois' />
+    <tag k='TODO:planned_end' v='2023-07-07' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Vimy-2023.pdf' />
-    <tag k='TODO:start_date' v='Printemps 2023' />
+    <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045066' action='modify' lat='45.42011215946' lon='-71.88833000422'>
+  <node id='-3049618' action='modify' lat='45.42011215946' lon='-71.88833000422'>
     <tag k='TODO:description' v='Implantation de bandes cyclables (entre du Baron et le parc)' />
     <tag k='TODO:planned_end' v='± 2 semaines' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
@@ -1035,14 +1035,14 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045067' action='modify' lat='45.4158948643' lon='-71.89008953333'>
+  <node id='-3049619' action='modify' lat='45.4158948643' lon='-71.89008953333'>
     <tag k='TODO:description' v='Construction d&apos;une piste cyclable (entre Desaulniers et du Cégep)' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045068' action='modify' lat='45.41731070565' lon='-71.89148428202'>
+  <node id='-3049620' action='modify' lat='45.41731070565' lon='-71.89148428202'>
     <tag k='TODO:description' v='Chaussée désignée pour cyclistes (entre des Pèlerins et le parc)' />
     <tag k='TODO:planned_end' v='± 2 semaines' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
@@ -1051,7 +1051,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045069' action='modify' lat='45.39722954501' lon='-71.87632442594'>
+  <node id='-3049621' action='modify' lat='45.39722954501' lon='-71.87632442594'>
     <tag k='TODO:description' v='Ajout d&apos;un trottoir (entre Galt et Woodward)' />
     <tag k='TODO:planned_end' v='± 2 mois' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Murray-2023.pdf' />
@@ -1060,14 +1060,14 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045070' action='modify' lat='45.39567759843' lon='-71.88028337717'>
+  <node id='-3049622' action='modify' lat='45.39567759843' lon='-71.88028337717'>
     <tag k='TODO:description' v='Aménagement d&apos;une bretelle cyclable entre le pont Joffre et l&apos;axe Saint-François' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045071' action='modify' lat='45.39617481979' lon='-71.87798739016'>
+  <node id='-3049623' action='modify' lat='45.39617481979' lon='-71.87798739016'>
     <tag k='TODO:description' v='Retrait de la bretelle de virage' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
     <tag k='TODO:start_date' v='Automne 2023' />
@@ -1075,7 +1075,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='geometry' />
   </node>
-  <node id='-3045072' action='modify' lat='45.39634056303' lon='-71.87608838618'>
+  <node id='-3049624' action='modify' lat='45.39634056303' lon='-71.87608838618'>
     <tag k='TODO:description' v='Interdiction d&apos;entrée par Galt' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
     <tag k='TODO:start_date' v='Automne 2023' />
@@ -1083,7 +1083,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045073' action='modify' lat='45.39632926237' lon='-71.87503159583'>
+  <node id='-3049625' action='modify' lat='45.39632926237' lon='-71.87503159583'>
     <tag k='TODO:description' v='Interdiction d&apos;entrée par Galt' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
     <tag k='TODO:start_date' v='Automne 2023' />
@@ -1091,7 +1091,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='restriction' />
   </node>
-  <node id='-3045074' action='modify' lat='45.38755173171' lon='-71.86489284307'>
+  <node id='-3049626' action='modify' lat='45.38755173171' lon='-71.86489284307'>
     <tag k='TODO:description' v='FRCR et éclairage au passage piétonnier' />
     <tag k='TODO:planned_end' v='± 2 mois' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
@@ -1100,7 +1100,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3045075' action='modify' lat='45.40605829811' lon='-71.8528390038'>
+  <node id='-3049627' action='modify' lat='45.40605829811' lon='-71.8528390038'>
     <tag k='TODO:description' v='Interventions localisées pour sécuriser le lien cyclable de la rue du Conseil (entre Galt et Corbeil)' />
     <tag k='TODO:planned_end' v='± 1 semaine' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1108,7 +1108,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045076' action='modify' lat='45.41153414361' lon='-71.83750749707'>
+  <node id='-3049628' action='modify' lat='45.41153414361' lon='-71.83750749707'>
     <tag k='TODO:description' v='Ajout d&apos;un corridor piétonnier (entre Raby et Marceau)' />
     <tag k='TODO:planned_end' v='2022-11-18' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Normand-2023.pdf' />
@@ -1116,7 +1116,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045077' action='modify' lat='45.41154637611' lon='-71.83480918542'>
+  <node id='-3049629' action='modify' lat='45.41154637611' lon='-71.83480918542'>
     <tag k='TODO:description' v='Passage pour piétons' />
     <tag k='TODO:planned_end' v='2022-11-18' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Normand-2023.pdf' />
@@ -1124,7 +1124,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3045078' action='modify' lat='45.41636179462' lon='-71.83063032389'>
+  <node id='-3049630' action='modify' lat='45.41636179462' lon='-71.83063032389'>
     <tag k='TODO:description' v='Ajout d&apos;un trottoir (entre Raby et Rocheuses)' />
     <tag k='TODO:planned_end' v='2022-11-18' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
@@ -1132,7 +1132,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045079' action='modify' lat='45.47499484022' lon='-71.94086909831'>
+  <node id='-3049631' action='modify' lat='45.47499484022' lon='-71.94086909831'>
     <tag k='TODO:description' v='Conversion en bandes unidirectionnelles (incl. contre-sens)' />
     <tag k='TODO:planned_end' v='2023-04-20' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
@@ -1140,7 +1140,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045080' action='modify' lat='45.47458858166' lon='-71.93957090914'>
+  <node id='-3049632' action='modify' lat='45.47458858166' lon='-71.93957090914'>
     <tag k='TODO:description' v='Conversion en chaussée désignée' />
     <tag k='TODO:planned_end' v='2023-04-20' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
@@ -1148,7 +1148,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045081' action='modify' lat='45.47473716543' lon='-71.94008052617'>
+  <node id='-3049633' action='modify' lat='45.47473716543' lon='-71.94008052617'>
     <tag k='TODO:description' v='Retrait du trottoir du côté nord' />
     <tag k='TODO:planned_end' v='2023-04-20' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
@@ -1156,7 +1156,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045082' action='modify' lat='45.47515658862' lon='-71.94244623452'>
+  <node id='-3049634' action='modify' lat='45.47515658862' lon='-71.94244623452'>
     <tag k='TODO:description' v='Piste bidirectionnelle surélevée et séparée de la zone de stationnement' />
     <tag k='TODO:planned_end' v='2023-04-20' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
@@ -1164,7 +1164,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045083' action='modify' lat='45.47451522723' lon='-71.94052309066'>
+  <node id='-3049635' action='modify' lat='45.47451522723' lon='-71.94052309066'>
     <tag k='TODO:description' v='Retrait du trottoir du côté ouest' />
     <tag k='TODO:planned_end' v='2023-04-20' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
@@ -1172,19 +1172,19 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045084' action='modify' lat='45.40974909889' lon='-71.82968618631'>
+  <node id='-3049636' action='modify' lat='45.40974909889' lon='-71.82968618631'>
     <tag k='TODO:description' v='Ajout de trottoir' />
     <tag k='TODO:session' v='2022-12-06' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3045085' action='modify' lat='45.36348377024' lon='-71.86425448537'>
+  <node id='-3049637' action='modify' lat='45.36348377024' lon='-71.86425448537'>
     <tag k='TODO:description' v='Pavage de Parkdale à Charles-Lennox' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='surface' />
   </node>
-  <node id='-3045087' action='modify' lat='45.42432913964' lon='-72.03254701853'>
+  <node id='-3049639' action='modify' lat='45.42432913964' lon='-72.03254701853'>
     <tag k='TODO:description' v='Asphalage entre le 1239 et le ch. Georges-Vallières' />
     <tag k='TODO:planned_end' v='2022-11-18' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1192,16 +1192,16 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='surface' />
   </node>
-  <node id='-3045088' action='modify' lat='45.38755173171' lon='-71.86479091913'>
+  <node id='-3049640' action='modify' lat='45.38755173171' lon='-71.86479091913'>
     <tag k='TODO:description' v='La géométrie de la rue sera modifiée à l&apos;approche de la rue Aubry pour aligner avec la portion existante à l&apos;est' />
-    <tag k='TODO:planned_end' v='± 2 mois' />
+    <tag k='TODO:planned_end' v='2023-06-09' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
-    <tag k='TODO:start_date' v='Printemps 2023' />
+    <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='geometry' />
   </node>
-  <node id='-3045089' action='modify' lat='45.40610725542' lon='-71.85001731455'>
+  <node id='-3049641' action='modify' lat='45.40610725542' lon='-71.85001731455'>
     <tag k='TODO:description' v='Mise à niveau de traveses piétonnes' />
     <tag k='TODO:planned_end' v='± 2 semaines' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1210,7 +1210,7 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3045090' action='modify' lat='45.38544568113' lon='-71.91403628469'>
+  <node id='-3049642' action='modify' lat='45.38544568113' lon='-71.91403628469'>
     <tag k='TODO:description' v='Chaussée désignée pour cyclistes (à l&apos;ouest de St-Gilles)' />
     <tag k='TODO:planned_end' v='2023-06-23' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Gilles_correspondance_mars_2023_et_fiche_du_projet.pdf' />
@@ -1219,65 +1219,65 @@
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045199' action='modify' lat='45.40889796687' lon='-71.88471973479'>
+  <node id='-3049643' action='modify' lat='45.40889796687' lon='-71.88471973479'>
     <tag k='TODO:description' v='Ajout d&apos;un mur de soutien et pavage de la piste' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045281' action='modify' lat='45.31129570425' lon='-72.02411413729'>
+  <node id='-3049644' action='modify' lat='45.31129570425' lon='-72.02411413729'>
     <tag k='TODO:description' v='Intersection mal cartographiée' />
     <tag k='TODO:type' v='geometry' />
   </node>
-  <node id='-3045497' action='modify' lat='45.40908627279' lon='-71.8395996201'>
+  <node id='-3049646' action='modify' lat='45.40908627279' lon='-71.8395996201'>
     <tag k='TODO:description' v='Confirmer: Bandes unidirectionnelles' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045917' action='modify' lat='45.36156905473' lon='-71.98649885416'>
+  <node id='-3049647' action='modify' lat='45.36156905473' lon='-71.98649885416'>
     <tag k='TODO:description' v='Bandes cyclables' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3045936' action='modify' lat='45.38165909986' lon='-71.93866968691'>
+  <node id='-3049648' action='modify' lat='45.38165909986' lon='-71.93866968691'>
     <tag k='TODO:description' v='Vérifier nouvelle forme de la piste cyclable' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3046340' action='modify' lat='45.41113495584' lon='-71.84082806647'>
+  <node id='-3049649' action='modify' lat='45.41113495584' lon='-71.84082806647'>
     <tag k='TODO:certain' v='no' />
     <tag k='TODO:description' v='Confirmer: Bande bidirectionnelle du côté ouest' />
     <tag k='TODO:type' v='cycleway' />
   </node>
-  <node id='-3046346' action='modify' lat='45.40959091945' lon='-71.83993221402'>
+  <node id='-3049650' action='modify' lat='45.40959091945' lon='-71.83993221402'>
     <tag k='TODO:description' v='Confirmer: Ajout d&apos;un trottoir (côté ouest)' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='sidewalk' />
   </node>
-  <node id='-3046816' action='modify' lat='45.3869753074' lon='-71.92663997948'>
+  <node id='-3049693' action='modify' lat='45.3869753074' lon='-71.92663997948'>
     <tag k='TODO:description' v='Conversion des deux passages piétons/cyclistes en passages pour piétons' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
   </node>
-  <node id='-3046826' action='modify' lat='45.41065668262' lon='-71.87483042747'>
+  <node id='-3049694' action='modify' lat='45.41065668262' lon='-71.87483042747'>
     <tag k='TODO:description' v='Réaménagement géométrique de l’intersection' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='geometry' />
   </node>
-  <node id='-3046831' action='modify' lat='45.41132325053' lon='-71.87284291327'>
+  <node id='-3049695' action='modify' lat='45.41132325053' lon='-71.87284291327'>
     <tag k='TODO:description' v='Mise en place d’un terre-plein central à l&apos;intersection' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
   </node>
-  <node id='-3046837' action='modify' lat='45.41165464767' lon='-71.87182903826'>
+  <node id='-3049696' action='modify' lat='45.41165464767' lon='-71.87182903826'>
     <tag k='TODO:description' v='Mise en place d’un terre-plein central à l&apos;intersection' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
     <tag k='TODO:status' v='planned' />
