@@ -7,7 +7,7 @@ meta
 
 node["TODO:type"]
 {
-    text: "TODO:description";
+    text: "name";
     symbol-shape: circle;
     symbol-size: 7;
 }
@@ -22,7 +22,7 @@ node["TODO:certain"="yes"]
 
 node["TODO:type"="crossing"]
 {
-    text: concat(" ///  ", tag("TODO:description"));
+    text: concat(" ///  ", tag("name"));
     text-color: limegreen;
     symbol-fill-color: limegreen;
 }
@@ -53,7 +53,7 @@ node["TODO:type"="misc"]
 
 node["TODO:type"="name"]
 {
-    text: concat("N: ", tag("TODO:description"));
+    text: concat("N: ", tag("name"));
     text-color: white;
     symbol-fill-color: white;
     symbol-shape: square;
@@ -67,14 +67,14 @@ node["TODO:type"="new"]
 
 node["TODO:type"="oneway"]
 {
-    text: concat(" → ", tag("TODO:description"));
+    text: concat(" → ", tag("name"));
     text-color: white;
     symbol-fill-color: white;
 }
 
 node["TODO:type"="restriction"]
 {
-    text: concat(" ✘ ", tag("TODO:description"));
+    text: concat(" ✘ ", tag("name"));
     text-color: white;
     symbol-fill-color: white;
 }
@@ -92,7 +92,7 @@ node["TODO:type"="stop"]
     symbol-fill-color: red;
     symbol-shape: octagon;
 }
-node["TODO:type"="stop"]["TODO:description"="Arrêt toutes directions"]
+node["TODO:type"="stop"]["name"="Arrêt toutes directions"]
 {
     text: "";
 }
