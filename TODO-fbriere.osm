@@ -321,10 +321,13 @@
     <tag k='name' v='Ajout d&apos;un trottoir entre Nicolas-Scheib et le parc André-Viger' />
   </node>
   <node id='-3318695649' action='modify' lat='45.37774602538' lon='-71.85268432277'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:planned_end' v='2021-10-01' />
+    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/St%20Francis.pdf' />
+    <tag k='TODO:start_date' v='2021-08-09' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='3387' />
     <tag k='name' v='Construction d&apos;un trottoir entre Atto et Cardinal-Lavigerie' />
   </node>
   <node id='-804570073' action='modify' lat='45.40188458921' lon='-71.88920753174'>
@@ -1035,13 +1038,13 @@
     <tag k='name' v='Construction d&apos;un trottoir sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
   </node>
   <node id='-1388227926' action='modify' lat='45.36458805639' lon='-71.9616791978'>
-    <tag k='TODO:comments' v='En lien avec la construction du trottoir (projet 5803)?' />
     <tag k='TODO:planned_end' v='± 3 mois' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='5803' />
     <tag k='name' v='FRCR et éclairage aux passages piétonniers' />
   </node>
   <node id='-3917376573' action='modify' lat='45.38160260823' lon='-71.87367443562'>
@@ -1125,6 +1128,7 @@
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='4090' />
     <tag k='name' v='Ajout de dos d&apos;âne en zone scolaire' />
   </node>
   <node id='-1008137717' action='modify' lat='45.40183995339' lon='-71.91064597249'>
@@ -1162,6 +1166,7 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='5843+' />
     <tag k='name' v='Construction d&apos;une piste cyclable (entre Desaulniers et du Cégep)' />
   </node>
   <node id='-1312355861' action='modify' lat='45.41731070565' lon='-71.89148428202'>
@@ -1220,12 +1225,13 @@
     <tag k='name' v='Interdiction d&apos;entrée par Galt' />
   </node>
   <node id='-650103452' action='modify' lat='45.38756346247' lon='-71.86489208384'>
-    <tag k='TODO:planned_end' v='± 2 mois' />
+    <tag k='TODO:planned_end' v='2023-06-09' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
-    <tag k='TODO:start_date' v='Printemps 2023' />
+    <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='5827' />
     <tag k='name' v='FRCR et éclairage au passage piétonnier' />
   </node>
   <node id='-3073177497' action='modify' lat='45.40605829811' lon='-71.8528390038'>
@@ -1249,12 +1255,13 @@
     <tag k='name' v='Ajout d&apos;un corridor piétonnier (entre Raby et Marceau)' />
   </node>
   <node id='-2379062244' action='modify' lat='45.41154637611' lon='-71.83480918542'>
-    <tag k='TODO:planned_end' v='2022-11-18' />
+    <tag k='TODO:planned_end' v='± 2 mois' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Normand-2023.pdf' />
-    <tag k='TODO:start_date' v='2022-08-25' />
+    <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='5841' />
     <tag k='name' v='Passage pour piétons' />
   </node>
   <node id='-3151182025' action='modify' lat='45.41636179462' lon='-71.83063032389'>
@@ -1387,9 +1394,13 @@
     <tag k='name' v='Intersection mal cartographiée' />
   </node>
   <node id='-1098748155' action='modify' lat='45.40908627279' lon='-71.8395996201'>
+    <tag k='TODO:planned_end' v='2021-08-27' />
+    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Raby.pdf' />
+    <tag k='TODO:start_date' v='2021-05-10' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='3389' />
     <tag k='name' v='Confirmer: Bandes unidirectionnelles' />
   </node>
   <node id='-4122297151' action='modify' lat='45.36156905473' lon='-71.98649885416'>
@@ -1403,6 +1414,7 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='2550' />
     <tag k='name' v='Vérifier nouvelle forme de la piste cyclable' />
   </node>
   <node id='-318650804' action='modify' lat='45.41113495584' lon='-71.84082806647'>
@@ -1411,9 +1423,13 @@
     <tag k='name' v='Confirmer: Bande bidirectionnelle du côté ouest' />
   </node>
   <node id='-368144651' action='modify' lat='45.40959091945' lon='-71.83993221402'>
+    <tag k='TODO:planned_end' v='2021-08-27' />
+    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Raby.pdf' />
+    <tag k='TODO:start_date' v='2021-05-10' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='3389' />
     <tag k='name' v='Confirmer: Ajout d&apos;un trottoir (côté ouest)' />
   </node>
   <node id='-2791098888' action='modify' lat='45.3869753074' lon='-71.92663997948'>
@@ -1757,5 +1773,85 @@
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='5013' />
     <tag k='name' v='Mise en place de dos d&apos;âne' />
+  </node>
+  <node id='-2272090344' action='modify' lat='45.42728836048' lon='-71.87236548543'>
+    <tag k='TODO:planned_end' v='2021-11-19' />
+    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Montpellier.pdf' />
+    <tag k='TODO:start_date' v='2021-08-09' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2021' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='1443' />
+    <tag k='name' v='Ajout d&apos;un corridor piétonnier (côté ouest, entre Brûlotte et Caroline)' />
+  </node>
+  <node id='-3343105994' action='modify' lat='45.42556404525' lon='-71.87219382405'>
+    <tag k='TODO:planned_end' v='2021-11-19' />
+    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Montpellier.pdf' />
+    <tag k='TODO:start_date' v='2021-08-09' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2021' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='1443' />
+    <tag k='name' v='Ajout de corridors piétonniers (deux côtés, entre 12e et Caroline)' />
+  </node>
+  <node id='-3166241484' action='modify' lat='45.43092882117' lon='-71.85350418359'>
+    <tag k='TODO:planned_end' v='2021-11-05' />
+    <tag k='TODO:source' v='Maxar' />
+    <tag k='TODO:start_date' v='2021-09-07' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:travaux' v='2021' />
+    <tag k='TODO:type' v='geometry' />
+    <tag k='TODO:ville:projet' v='3392' />
+    <tag k='name' v='Réaménagement du stationnement du Centre Julien Ducharme' />
+  </node>
+  <node id='-4251233156' action='modify' lat='45.39973536558' lon='-71.87742412359'>
+    <tag k='TODO:planned_end' v='2021-09-17' />
+    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Murray.pdf' />
+    <tag k='TODO:start_date' v='2021-05-31' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2021' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='3391' />
+    <tag k='name' v='Feux clignottants et éclairage distinctif au passage pour piétons' />
+  </node>
+  <node id='-3848026351' action='modify' lat='45.38304942495' lon='-71.97255135119'>
+    <tag k='TODO:planned_end' v='2021-07-31' />
+    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Gr%C3%A9goire.pdf' />
+    <tag k='TODO:start_date' v='2021-05-07' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:travaux' v='2021' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='TODO:ville:projet' v='1080' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-385170685' action='modify' lat='45.37950760613' lon='-71.98341965944'>
+    <tag k='TODO:planned_end' v='2021-07-30' />
+    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Milan.pdf' />
+    <tag k='TODO:start_date' v='2021-05-17' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:travaux' v='2021' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='1527' />
+    <tag k='name' v='Retrait du passage piétonnier (dos-d&apos;âne conservé)' />
+  </node>
+  <node id='-1204455988' action='modify' lat='45.41629400147' lon='-71.86258882552'>
+    <tag k='TODO:planned_end' v='2021-09-22' />
+    <tag k='TODO:source' v='Maxar' />
+    <tag k='TODO:start_date' v='2021-06-14' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2021' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='3512' />
+    <tag k='name' v='Construction d&apos;un jeu d&apos;eau' />
+  </node>
+  <node id='-2173851595' action='modify' lat='45.39928995626' lon='-72.00724840432'>
+    <tag k='TODO:planned_end' v='2021-09-24' />
+    <tag k='TODO:source' v='Maxar' />
+    <tag k='TODO:start_date' v='2021-05-05' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2021' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='3508' />
+    <tag k='name' v='Patinoire avec bandes permanentes + Volley-ball de plage' />
   </node>
 </osm>
