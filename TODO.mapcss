@@ -12,8 +12,12 @@ node["TODO:type"]
     symbol-size: 7;
 }
 
-node["TODO:status"="completed"],
-node["TODO:certain"="yes"]
+node["TODO:status"="completed"]
+{
+    font-size: 10;
+}
+
+node["TODO:status"="certain"]
 {
     font-size: 10;
     font-weight: bold;
