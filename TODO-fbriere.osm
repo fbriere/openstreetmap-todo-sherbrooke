@@ -182,6 +182,7 @@
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='new' />
+    <tag k='TODO:ville:projet' v='4098' />
     <tag k='name' v='Prolongement de la rue du Pimbina / des Coudriers' />
   </node>
   <node id='-3535605900' action='modify' lat='45.37047120572' lon='-71.8991339314'>
@@ -305,6 +306,7 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
+    <tag k='TODO:ville:projet' v='4962' />
     <tag k='name' v='Retrait des arrêts sur Lionel-Groulx et installation de feux clignottants pour piétons' />
   </node>
   <node id='-3920086217' action='modify' lat='45.41460251497' lon='-71.94890422672'>
@@ -636,6 +638,7 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='restriction' />
+    <tag k='TODO:ville:projet' v='4962' />
     <tag k='name' v='Virages à gauche (→ Laure-Conan) (→ Lionel-Groulx)' />
   </node>
   <node id='-2661280359' action='modify' lat='45.43335692875' lon='-71.86837435842'>
@@ -1315,10 +1318,14 @@
     <tag k='name' v='Retrait du trottoir du côté ouest' />
   </node>
   <node id='-951654269' action='modify' lat='45.40974909889' lon='-71.82968618631'>
+    <tag k='TODO:planned_end' v='2022-06-30' />
     <tag k='TODO:session' v='2022-12-06' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2022-06-20' />
     <tag k='TODO:status' v='certain' />
+    <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='4052' />
     <tag k='name' v='Ajout de trottoir (côté est)' />
   </node>
   <node id='-1374413806' action='modify' lat='45.36346670005' lon='-71.86189174743'>
@@ -1679,5 +1686,76 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Ajouter: cycleway=track (bidirectionnelle, côté est) de la bretelle jusqu&apos;à la piste existante' />
+  </node>
+  <node id='-2802888291' action='modify' lat='45.39465155679' lon='-71.92754119702'>
+    <tag k='TODO:planned_end' v='2022-08-12' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2022-07-26' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2022' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='4678' />
+    <tag k='name' v='Aménagement d&apos;une aire de jeux 5-12 ans au parc Lucien-Blanchard' />
+  </node>
+  <node id='-1098928998' action='modify' lat='45.47818838565' lon='-71.97187543988'>
+    <tag k='TODO:comments' v='(Aucune idée de ce que ça implique...)' />
+    <tag k='TODO:planned_end' v='2022-10-22' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2022-10-11' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2022' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='5297' />
+    <tag k='name' v='Mise aux normes de la piste cyclable de la Route Verte' />
+  </node>
+  <node id='-2080665353' action='modify' lat='45.35574249408' lon='-72.00206101075'>
+    <tag k='TODO:comments' v='Implique que surface=grass devrait être changé?' />
+    <tag k='TODO:planned_end' v='2022-06-17' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2021-08-02' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2021' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='3620' />
+    <tag k='name' v='Construction d&apos;un terrain de soccer avec surface synthétique au parc Central' />
+  </node>
+  <node id='-3747832581' action='modify' lat='45.36213442491' lon='-71.8132066834'>
+    <tag k='TODO:planned_end' v='± 2 semaines' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='Août 2022' />
+    <tag k='TODO:travaux' v='2022' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='4685' />
+    <tag k='name' v='Aménagement d&apos;un sentier au parc de View Point' />
+  </node>
+  <node id='-3637013152' action='modify' lat='45.40247271952' lon='-71.86570823461'>
+    <tag k='TODO:planned_end' v='2022-07-08' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2022-03-28' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2022' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='4603' />
+    <tag k='name' v='Transformation de la piscine du Cœur-Immaculé-de-Marie en jeux d&apos;eau' />
+  </node>
+  <node id='-2911784212' action='modify' lat='45.37709131772' lon='-71.98041893609'>
+    <tag k='TODO:planned_end' v='2022-08-29' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2022-08-29' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2022' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='5169' />
+    <tag k='name' v='Ajout de 2 dos d&apos;âne sur la rue du Pavillon' />
+  </node>
+  <node id='-4172089018' action='modify' lat='45.42003684208' lon='-71.94939315856'>
+    <tag k='TODO:planned_end' v='2022-07-11' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2022-07-11' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2022' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='5013' />
+    <tag k='name' v='Mise en place de dos d&apos;âne' />
   </node>
 </osm>
