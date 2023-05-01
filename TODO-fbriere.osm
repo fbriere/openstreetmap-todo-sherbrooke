@@ -1934,4 +1934,87 @@
     <tag k='TODO:type' v='surface' />
     <tag k='name' v='Vérifier si la surface est vraiment pavée' />
   </node>
+  <node id='-1467175116' action='modify' lat='45.39720317345' lon='-71.85961425841'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Ajouter: Chaussée partagée entre Galt et Octave-Gagné' />
+  </node>
+  <node id='-3769973716' action='modify' lat='45.39156396046' lon='-71.87530519724'>
+    <tag k='TODO:check_date' v='2022-12-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='stalled' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Chaussée partagée jusqu&apos;à Galt/Bowen' />
+  </node>
+  <node id='-1243044032' action='modify' lat='45.41330407642' lon='-71.89269662976'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Ajouter: Chaussée partagée jusqu&apos;à Lévesque' />
+  </node>
+  <node id='-3380088927' action='modify' lat='45.41521704781' lon='-71.89788938642'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Ajouter: Chaussée partagée' />
+  </node>
+  <node id='-240955581' action='modify' lat='45.34544968958' lon='-71.9618225956'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Vérifier: Bandes cyclables?' />
+  </node>
+  <node id='-3609003201' action='modify' lat='45.35890044085' lon='-71.94036492348'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Vérifier: Bandes cyclables?' />
+  </node>
+  <node id='-2421142855' action='modify' lat='45.384255103' lon='-71.94882990003'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Vérifier: Bandes cyclables?' />
+  </node>
+  <node id='-2532042535' action='modify' lat='45.45899807625' lon='-71.91746145755'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Vérifier: cycleway=track (côté est) entre Beausecours et du Perche' />
+  </node>
+  <node id='-354073137' action='modify' lat='45.42756696421' lon='-71.91231968164'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Vérifier: Route cyclable d&apos;ici jusqu&apos;à Brompton?' />
+  </node>
+  <node id='-687518059' action='modify' lat='45.35479161316' lon='-71.99111224294'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Ajouter: Bandes cyclables unidirectionnelles entre Bertrand-Fabi et Kennedy' />
+  </node>
+  <node id='-2066130120' action='modify' lat='45.35168155846' lon='-71.99247479975'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Confirmer le prolongement de la piste du côté sud jusqu&apos;à Beauchamp' />
+  </node>
+  <node id='-3324968395' action='modify' lat='45.36718488941' lon='-71.98644520998'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Ajouter: Bandes cyclables unidirectionnelles jusqu&apos;à Bourque' />
+  </node>
+  <node id='-3461576561' action='modify' lat='45.4023220621' lon='-71.92444861472'>
+    <tag k='TODO:planned_end' v='Août 2023' />
+    <tag k='TODO:source' v='La Tribune (2023-02-08)' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Construction de classes modulaires' />
+  </node>
+  <node id='-1556218606' action='modify' lat='45.38203965294' lon='-71.94620132983'>
+    <tag k='TODO:comments' v='Seront installées au pavillon 1' />
+    <tag k='TODO:planned_end' v='Août 2023' />
+    <tag k='TODO:source' v='La Tribune (2023-02-08)' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Construction de classes modulaires' />
+  </node>
 </osm>
