@@ -1916,4 +1916,22 @@
     <tag k='TODO:ville:travaux' v='2019' />
     <tag k='name' v='Améliorer les tags pour ce promontoir pour personnes à mobilité réduite' />
   </node>
+  <node id='-912019869' action='modify' lat='45.35869495077' lon='-71.96008980542'>
+    <tag k='TODO:source' v='Bing' />
+    <tag k='TODO:status' v='n/a' />
+    <tag k='TODO:type' v='surface' />
+    <tag k='name' v='Ces rues sont-elles maintenant pavées?' />
+  </node>
+  <node id='-2387622369' action='modify' lat='45.36944801211' lon='-71.86011314526'>
+    <tag k='TODO:source' v='Bing;Maxar' />
+    <tag k='TODO:status' v='n/a' />
+    <tag k='TODO:type' v='geometry' />
+    <tag k='name' v='Recartographier la piscine du parc Centennial' />
+  </node>
+  <node id='-2617984899' action='modify' lat='45.36258954328' lon='-71.86013057962'>
+    <tag k='TODO:source' v='Bing;Maxar' />
+    <tag k='TODO:status' v='n/a' />
+    <tag k='TODO:type' v='surface' />
+    <tag k='name' v='Vérifier si la surface est vraiment pavée' />
+  </node>
 </osm>
