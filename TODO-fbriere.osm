@@ -265,7 +265,7 @@
     <tag k='TODO:start_date' v='2023' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='new' />
-    <tag k='TODO:ville:projet' v='5800' />
+    <tag k='TODO:ville:projet' v='1437;5800' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;une nouvelle rue, entre les rues du Dépôt et des Grandes-Fourches Sud' />
   </node>
@@ -1898,5 +1898,22 @@
     <tag k='TODO:ville:projet' v='1256;2280' />
     <tag k='TODO:ville:travaux' v='2020' />
     <tag k='name' v='Relocalisation du ruisseau Giroux' />
+  </node>
+  <node id='-1862974384' action='modify' lat='45.30055989068' lon='-72.05221563846'>
+    <tag k='TODO:source' v='Maxar' />
+    <tag k='TODO:status' v='n/a' />
+    <tag k='TODO:type' v='surface' />
+    <tag k='name' v='Vérifier pavage de cette section' />
+  </node>
+  <node id='-242574795' action='modify' lat='45.39694937925' lon='-71.916239709'>
+    <tag k='TODO:comments' v='Ceci n&apos;est pas vraiment un tourism=viewpoint, mais plutôt un &quot;balcon&quot; pour assister aux spectacles' />
+    <tag k='TODO:planned_end' v='2019-07-05' />
+    <tag k='TODO:source' v='https://ici.radio-canada.ca/nouvelle/1224407/ameliorations-parc-jacques-cartier-sherbrooke-personnes-mobilite-reduite-handicap' />
+    <tag k='TODO:start_date' v='2019-05-13' />
+    <tag k='TODO:status' v='n/a' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='1498' />
+    <tag k='TODO:ville:travaux' v='2019' />
+    <tag k='name' v='Améliorer les tags pour ce promontoir pour personnes à mobilité réduite' />
   </node>
 </osm>
