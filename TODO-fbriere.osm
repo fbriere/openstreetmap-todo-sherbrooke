@@ -50,9 +50,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-04-17' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5953' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Prolongement de la rue du Seyval' />
   </node>
   <node id='-3473539338' action='modify' lat='45.39609948556' lon='-71.87353492856'>
@@ -60,9 +60,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
     <tag k='TODO:start_date' v='Automne 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5856' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement de voies cyclables en bordure de la rue Galt Est (entre Bowen et Lavigerie)' />
   </node>
   <node id='-3531117685' action='modify' lat='45.39486015444' lon='-71.9203153266'>
@@ -145,9 +145,9 @@
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
     <tag k='TODO:start_date' v='2022-08-25' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4091' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement de voies cyclables sur la rue King Est (de Raby à Rocheuses)' />
   </node>
   <node id='-4021062881' action='modify' lat='45.41037423701' lon='-71.94312751561'>
@@ -180,9 +180,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-07-04' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='4098' />
+    <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Prolongement de la rue du Pimbina / des Coudriers' />
   </node>
   <node id='-3535605900' action='modify' lat='45.37047120572' lon='-71.8991339314'>
@@ -190,9 +190,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-11-16' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5445' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Prolongement de la rue de la Golconda' />
   </node>
   <node id='-2711153090' action='modify' lat='45.38487300865' lon='-71.89759971857'>
@@ -200,9 +200,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/dunantweb.pdf' />
     <tag k='TODO:start_date' v='Printemps 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4097' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout de voies cyclables sur la rue Dunant, entre Belvédère Sud et Kingston' />
   </node>
   <node id='-3753036845' action='modify' lat='45.4062240199' lon='-71.95536377192'>
@@ -210,9 +210,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/McCreaweb.pdf' />
     <tag k='TODO:start_date' v='Printemps 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4096' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout de voies cyclables sur McCrea, entre Portland et Charles-Hamel' />
   </node>
   <node id='-1198526004' action='modify' lat='45.38232601933' lon='-71.98405267954'>
@@ -220,9 +220,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallonweb.pdf' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4094' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout de voies cyclables sur Mi-Vallon, de Bourque jusqu&apos;au bout' />
   </node>
   <node id='-204576628' action='modify' lat='45.4158045053' lon='-71.83140282154'>
@@ -230,9 +230,9 @@
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
     <tag k='TODO:start_date' v='2022-08-25' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='4091' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Réaménagement de King Est, entre Raby et des Rocheuses' />
   </node>
   <node id='-3105652202' action='modify' lat='45.40376838616' lon='-71.86850311518'>
@@ -240,9 +240,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Printemps 2023 (Tôt en 2023)' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5804' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Interventions localisées pour sécuriser le lien cyclable de la rue du Conseil (entre la 14e et 15e Avenue)' />
   </node>
   <node id='-116934703' action='modify' lat='45.39750922464' lon='-71.89602792397'>
@@ -264,9 +264,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5800' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;une nouvelle rue, entre les rues du Dépôt et des Grandes-Fourches Sud' />
   </node>
   <node id='-186288944' action='modify' lat='45.37043539825' lon='-71.86128258973'>
@@ -315,9 +315,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-05' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5621' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un trottoir entre Nicolas-Scheib et le parc André-Viger' />
   </node>
   <node id='-3318695649' action='modify' lat='45.37774602538' lon='-71.85268432277'>
@@ -325,9 +325,9 @@
     <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/St%20Francis.pdf' />
     <tag k='TODO:start_date' v='2021-08-09' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='3387' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Construction d&apos;un trottoir entre Atto et Cardinal-Lavigerie' />
   </node>
   <node id='-804570073' action='modify' lat='45.40188458921' lon='-71.88920753174'>
@@ -346,9 +346,9 @@
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/400/en-route-vers-une-nouvelle-rue-wellington-sud' />
     <tag k='TODO:start_date' v='2023-04-17' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='oneway' />
     <tag k='TODO:ville:projet' v='4654' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajouter: Wellington Sud vers le nord (après la fin des travaux)' />
   </node>
   <node id='-1317990822' action='modify' lat='45.42203618256' lon='-71.88231647283'>
@@ -975,9 +975,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-02-06' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5669' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Prolongement des rues Gisèle-Trudeau et Jospeh-Émond' />
   </node>
   <node id='-1878766711' action='modify' lat='45.38634612961' lon='-71.89615130961'>
@@ -992,9 +992,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/McMananyweb.pdf' />
     <tag k='TODO:start_date' v='Printemps 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='1243' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout de voies cyclables sur la rue McManamy, entre le pont Jacques-Cartier et la rue Belvédère Sud' />
   </node>
   <node id='-2661005263' action='modify' lat='45.40902085397' lon='-71.86812220345'>
@@ -1022,9 +1022,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5803' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement de voies cyclables sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
   </node>
   <node id='-2082223891' action='modify' lat='45.36651347364' lon='-71.95923741173'>
@@ -1032,9 +1032,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5803' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;un trottoir sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
   </node>
   <node id='-1388227926' action='modify' lat='45.36458805639' lon='-71.9616791978'>
@@ -1042,17 +1042,17 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5803' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='FRCR et éclairage aux passages piétonniers' />
   </node>
   <node id='-3917376573' action='modify' lat='45.38160260823' lon='-71.87367443562'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5806' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement de voies cyclables sur la rue Wellington Sud/Queen, entre la côte de l&apos;Acadie et la rue John-Wilson' />
   </node>
   <node id='-3040965806' action='modify' lat='45.39468313506' lon='-72.02756886005'>
@@ -1060,9 +1060,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5805' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement de voies cyclables sur le chemin de Saint-Élie, entre la rue Croteau et le chemin Laliberté' />
   </node>
   <node id='-1832840761' action='modify' lat='45.35784497406' lon='-71.97954658985'>
@@ -1070,9 +1070,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2023.pdf' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5802' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Implantation de voies cyclables entre les rues Beauchamp et Mack-Sennett' />
   </node>
   <node id='-4092595976' action='modify' lat='45.37153395144' lon='-71.96748735666'>
@@ -1080,25 +1080,25 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Charny-2023.pdf' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5828' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;un trottoir entre les rues Bertrand-Fabi et Charlevoix' />
   </node>
   <node id='-2393222287' action='modify' lat='45.39276944562' lon='-71.99436308026'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Jacques-web.pdf' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='4083' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un trottoir entre le boulevard Industriel et la rue Saint-Patrick' />
   </node>
   <node id='-1950104893' action='modify' lat='45.39324410131' lon='-71.99436308026'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Jacques-web.pdf' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4083' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout de bandes cyclables' />
   </node>
   <node id='-3248661618' action='modify' lat='45.38798499501' lon='-71.98325873494'>
@@ -1106,9 +1106,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/marcel-marcotteweb.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='4071' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;un trottoir sur la rue Marcel-Marcotte, entre le boulevard du Mi-Vallon et la rue Malherbe' />
   </node>
   <node id='-4200494462' action='modify' lat='45.40260831821' lon='-71.92062379003'>
@@ -1116,9 +1116,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/WoodRiouxweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-22' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='4090' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Reconstruction du trottoir en retrait de la chaussée entre de Portland et Albert-Skinner' />
   </node>
   <node id='-4238474819' action='modify' lat='45.4021488034' lon='-71.92068279326'>
@@ -1126,9 +1126,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/WoodRiouxweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-22' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='4090' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout de dos d&apos;âne en zone scolaire' />
   </node>
   <node id='-1008137717' action='modify' lat='45.40183995339' lon='-71.91064597249'>
@@ -1136,9 +1136,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Vimy-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5851' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Trottoir séparé de la chaussée (entre King et Portland)' />
   </node>
   <node id='-3792242837' action='modify' lat='45.40117704201' lon='-71.91065670133'>
@@ -1146,9 +1146,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Vimy-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5851' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Chaussée désignée pour cyclistes (entre King et Portland)' />
   </node>
   <node id='-1482897593' action='modify' lat='45.42011215946' lon='-71.88833000422'>
@@ -1156,17 +1156,17 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
     <tag k='TODO:start_date' v='2023-06' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5843' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Implantation de bandes cyclables (entre du Baron et le parc)' />
   </node>
   <node id='-1369707219' action='modify' lat='45.4158948643' lon='-71.89008953333'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5843+' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;une piste cyclable (entre Desaulniers et du Cégep)' />
   </node>
   <node id='-1312355861' action='modify' lat='45.41731070565' lon='-71.89148428202'>
@@ -1174,9 +1174,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
     <tag k='TODO:start_date' v='2023-06' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5843' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Chaussée désignée pour cyclistes (entre des Pèlerins et le parc)' />
   </node>
   <node id='-3168248329' action='modify' lat='45.39722954501' lon='-71.87632442594'>
@@ -1184,44 +1184,44 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Murray-2023.pdf' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5840' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un trottoir (entre Galt et Woodward)' />
   </node>
   <node id='-1965672162' action='modify' lat='45.39567759843' lon='-71.88028337717'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5817' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement d&apos;une bretelle cyclable entre le pont Joffre et l&apos;axe Saint-François' />
   </node>
   <node id='-3575331726' action='modify' lat='45.39617481979' lon='-71.87798739016'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
     <tag k='TODO:start_date' v='Automne 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='5856' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Retrait de la bretelle de virage' />
   </node>
   <node id='-1266634885' action='modify' lat='45.39634056303' lon='-71.87608838618'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
     <tag k='TODO:start_date' v='Automne 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Interdiction d&apos;entrée par Galt' />
   </node>
   <node id='-875435037' action='modify' lat='45.39632926237' lon='-71.87503159583'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
     <tag k='TODO:start_date' v='Automne 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Interdiction d&apos;entrée par Galt' />
   </node>
   <node id='-650103452' action='modify' lat='45.38756346247' lon='-71.86489208384'>
@@ -1229,9 +1229,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5827' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='FRCR et éclairage au passage piétonnier' />
   </node>
   <node id='-3073177497' action='modify' lat='45.40605829811' lon='-71.8528390038'>
@@ -1239,9 +1239,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Printemps 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5812' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Interventions localisées pour sécuriser le lien cyclable de la rue du Conseil (entre Galt et Corbeil)' />
   </node>
   <node id='-1749354447' action='modify' lat='45.41153414361' lon='-71.83750749707'>
@@ -1249,9 +1249,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Normand-2023.pdf' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5841' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un corridor piétonnier (entre Raby et Marceau)' />
   </node>
   <node id='-2379062244' action='modify' lat='45.41154637611' lon='-71.83480918542'>
@@ -1259,9 +1259,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Normand-2023.pdf' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5841' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Passage pour piétons' />
   </node>
   <node id='-3151182025' action='modify' lat='45.41636179462' lon='-71.83063032389'>
@@ -1269,9 +1269,9 @@
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
     <tag k='TODO:start_date' v='2022-08-25' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='4091' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un trottoir (entre Raby et Rocheuses)' />
   </node>
   <node id='-324858106' action='modify' lat='45.47499484022' lon='-71.94086909831'>
@@ -1279,9 +1279,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4084' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Conversion en bandes unidirectionnelles (incl. contre-sens)' />
   </node>
   <node id='-766013725' action='modify' lat='45.47458858166' lon='-71.93957090914'>
@@ -1289,9 +1289,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4084' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Conversion en chaussée désignée' />
   </node>
   <node id='-1293154692' action='modify' lat='45.47473716543' lon='-71.94008052617'>
@@ -1299,9 +1299,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='4084' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Retrait du trottoir du côté nord' />
   </node>
   <node id='-815141684' action='modify' lat='45.47515658862' lon='-71.94244623452'>
@@ -1309,9 +1309,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4084' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Piste bidirectionnelle surélevée et séparée de la zone de stationnement' />
   </node>
   <node id='-2976137807' action='modify' lat='45.47451522723' lon='-71.94052309066'>
@@ -1319,9 +1319,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='4084' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Retrait du trottoir du côté ouest' />
   </node>
   <node id='-951654269' action='modify' lat='45.40974909889' lon='-71.82968618631'>
@@ -1330,9 +1330,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-06-20' />
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='4052' />
+    <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Ajout de trottoir (côté est)' />
   </node>
   <node id='-1374413806' action='modify' lat='45.36346670005' lon='-71.86189174743'>
@@ -1345,9 +1345,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-10-24' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='4064' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Asphalage entre le 1239 et le ch. Georges-Vallières' />
   </node>
   <node id='-2941785221' action='modify' lat='45.38755173171' lon='-71.86479091913'>
@@ -1355,9 +1355,9 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='5827' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='La géométrie de la rue sera modifiée à l&apos;approche de la rue Aubry pour aligner avec la portion existante à l&apos;est' />
   </node>
   <node id='-4219549450' action='modify' lat='45.40610725542' lon='-71.85001731455'>
@@ -1365,9 +1365,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Printemps 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5833' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Mise à niveau de traveses piétonnes' />
   </node>
   <node id='-1895780362' action='modify' lat='45.38544568113' lon='-71.91403628469'>
@@ -1375,17 +1375,17 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Gilles_correspondance_mars_2023_et_fiche_du_projet.pdf' />
     <tag k='TODO:start_date' v='2023-04-17' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4095' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Chaussée désignée pour cyclistes (à l&apos;ouest de St-Gilles)' />
   </node>
   <node id='-3096659325' action='modify' lat='45.40889796687' lon='-71.88471973479'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4092' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un mur de soutien et pavage de la piste' />
   </node>
   <node id='-58966481' action='modify' lat='45.31129570425' lon='-72.02411413729'>
@@ -1398,24 +1398,24 @@
     <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Raby.pdf' />
     <tag k='TODO:start_date' v='2021-05-10' />
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='3389' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Confirmer: Bandes unidirectionnelles' />
   </node>
   <node id='-4122297151' action='modify' lat='45.36156905473' lon='-71.98649885416'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='2320' />
+    <tag k='TODO:ville:travaux' v='2020' />
     <tag k='name' v='Ajouter: Bandes cyclables unidirectionnelles' />
   </node>
   <node id='-1103779880' action='modify' lat='45.38165909986' lon='-71.93866968691'>
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='2550' />
+    <tag k='TODO:ville:travaux' v='2020' />
     <tag k='name' v='Vérifier nouvelle forme de la piste cyclable' />
   </node>
   <node id='-318650804' action='modify' lat='45.41113495584' lon='-71.84082806647'>
@@ -1428,9 +1428,9 @@
     <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Raby.pdf' />
     <tag k='TODO:start_date' v='2021-05-10' />
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='3389' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Confirmer: Ajout d&apos;un trottoir (côté ouest)' />
   </node>
   <node id='-2791098888' action='modify' lat='45.3869753074' lon='-71.92663997948'>
@@ -1462,9 +1462,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-09-18' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5914' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Parc Ernest-Bergeron - Ajout d&apos;un demi-terrain de basketball' />
   </node>
   <node id='-3822370187' action='modify' lat='45.43202082355' lon='-71.85154504513'>
@@ -1472,9 +1472,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-09-06' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4688' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Reconstruction du terrain de soccer au parc Quintal' />
   </node>
   <node id='-3372570451' action='modify' lat='45.40658490942' lon='-71.83361012766'>
@@ -1482,9 +1482,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-08-07' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5913' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Parc Gilles-Charland - Reconstruction complète de la patinoire' />
   </node>
   <node id='-563591000' action='modify' lat='45.3939947211' lon='-71.86841955736'>
@@ -1492,9 +1492,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Juin 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4680' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement de jardins communautaires au parc Bureau' />
   </node>
   <node id='-919357655' action='modify' lat='45.40161772655' lon='-71.87905166452'>
@@ -1502,9 +1502,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-05-11' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4676' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Réfection des terrains de tennis au parc Antonio-Montour' />
     <tag k='objectid' v='525393' />
   </node>
@@ -1513,9 +1513,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-05-22' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5918' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Parc Atto-Beaver, ajout d&apos;un demi-terrain de basketball' />
   </node>
   <node id='-296613304' action='modify' lat='45.36217382074' lon='-71.81318625365'>
@@ -1523,9 +1523,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Août' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4685' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement d&apos;un sentier au parc de View Point' />
     <tag k='objectid' v='525796' />
   </node>
@@ -1534,9 +1534,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-09-05' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5921' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Parc Belvédère - Reconstruction du terrain de soccer' />
   </node>
   <node id='-3039712167' action='modify' lat='45.38712526909' lon='-71.90530579054'>
@@ -1544,9 +1544,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-09-18' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5932' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Parc Andrew-Sangster - Remplacement des deux jeux rotatifs' />
   </node>
   <node id='-3496185455' action='modify' lat='45.39480961381' lon='-71.89380535428'>
@@ -1554,9 +1554,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-03' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5929' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Parc Alfred-Élie-Dufresne - Aménagement d&apos;une espace famille' />
   </node>
   <node id='-904349551' action='modify' lat='45.39701819499' lon='-71.89409346547'>
@@ -1564,18 +1564,18 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-07-11' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4684' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Réfection du terrain de basketball au parc Judes-O.-Camirand' />
   </node>
   <node id='-1243916953' action='modify' lat='45.38300938538' lon='-71.95665761431'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Juillet 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5931' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Parc du Barrage - Amélioration de la surface et de l&apos;accès à l&apos;enclos canin' />
   </node>
   <node id='-1524702378' action='modify' lat='45.41340002479' lon='-71.88876741003'>
@@ -1584,9 +1584,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-04-17' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5911' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Baseball Victoria' />
   </node>
   <node id='-3029554051' action='modify' lat='45.43038346283' lon='-71.89297068268'>
@@ -1594,9 +1594,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-10-31' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4683' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement d&apos;une aire de jeux 5-12 ans au parc du Debonair' />
   </node>
   <node id='-578892741' action='modify' lat='45.39308043344' lon='-71.87023965828'>
@@ -1604,9 +1604,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4679' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement d&apos;une aire de jeux 2-12 ans au parc Bureau' />
   </node>
   <node id='-3035973746' action='modify' lat='45.38529768244' lon='-71.97312095272'>
@@ -1614,17 +1614,17 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-09-15' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4681' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Réaménagement de l&apos;aire de jeux 2-12 ans au parc Olivier-Chauveau' />
   </node>
   <node id='-3217957028' action='modify' lat='45.39079217313' lon='-71.9875312388'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5814' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='commentaire' v='Échéancier à déterminer.' />
     <tag k='name' v='Prolongement du boulevard du Mi-Vallon jusqu&apos;au boulevard René-Lévesque' />
   </node>
@@ -1633,9 +1633,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-11-01' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5413' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ouverture de la rue Bossé.' />
   </node>
   <node id='-2729379577' action='modify' lat='45.39797470185' lon='-71.88768278548'>
@@ -1643,18 +1643,18 @@
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/projets-majeurs/10/lieu-de-diffusion-jeunesse' />
     <tag k='TODO:start_date' v='2023-03-13' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='5870' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction du lieu de diffusion jeunesse' />
   </node>
   <node id='-2185188696' action='modify' lat='45.40648333207' lon='-71.85191039787'>
     <tag k='TODO:comments' v='Cette caserne remplacera la caserne Hector-Olivier-Camirand (sur Lavigerie)' />
     <tag k='TODO:source' v='La Tribune (2016-12-12)' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='5871' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;une nouvelle caserne au coin de la rue Galt Est et du chemin Galvin' />
   </node>
   <node id='-1300017726' action='modify' lat='45.40513615929' lon='-71.89181076674'>
@@ -1662,9 +1662,9 @@
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/381/fermeture-du-pont-saint-francois' />
     <tag k='TODO:start_date' v='2021-08-30' />
     <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='3458' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Réaménagement de la rue des Grandes-Fourches Nord, de la bretelle Frontenac à la rue Terrill' />
   </node>
   <node id='-2469708005' action='modify' lat='45.363726427' lon='-71.86450261217'>
@@ -1673,9 +1673,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:travaux' v='2023' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='5801' />
+    <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Pavage d&apos;une partie des rues Robert-Peel et Lloyd ainsi que de la totalité de la rue Spring Garden?' />
   </node>
   <node id='-2742479661' action='modify' lat='45.42285914054' lon='-71.88450643206'>
@@ -1709,9 +1709,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-07-26' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4678' />
+    <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Aménagement d&apos;une aire de jeux 5-12 ans au parc Lucien-Blanchard' />
   </node>
   <node id='-1098928998' action='modify' lat='45.47818838565' lon='-71.97187543988'>
@@ -1720,9 +1720,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-10-11' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5297' />
+    <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Mise aux normes de la piste cyclable de la Route Verte' />
   </node>
   <node id='-2080665353' action='modify' lat='45.35574249408' lon='-72.00206101075'>
@@ -1731,18 +1731,18 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2021-08-02' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='3620' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Construction d&apos;un terrain de soccer avec surface synthétique au parc Central' />
   </node>
   <node id='-3747832581' action='modify' lat='45.36213442491' lon='-71.8132066834'>
     <tag k='TODO:planned_end' v='± 2 semaines' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Août 2022' />
-    <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4685' />
+    <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Aménagement d&apos;un sentier au parc de View Point' />
   </node>
   <node id='-3637013152' action='modify' lat='45.40247271952' lon='-71.86570823461'>
@@ -1750,9 +1750,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-03-28' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4603' />
+    <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Transformation de la piscine du Cœur-Immaculé-de-Marie en jeux d&apos;eau' />
   </node>
   <node id='-2911784212' action='modify' lat='45.37709131772' lon='-71.98041893609'>
@@ -1760,9 +1760,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-08-29' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='5169' />
+    <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Ajout de 2 dos d&apos;âne sur la rue du Pavillon' />
   </node>
   <node id='-4172089018' action='modify' lat='45.42003684208' lon='-71.94939315856'>
@@ -1770,9 +1770,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-07-11' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2022' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='5013' />
+    <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Mise en place de dos d&apos;âne' />
   </node>
   <node id='-2272090344' action='modify' lat='45.42728836048' lon='-71.87236548543'>
@@ -1780,9 +1780,9 @@
     <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Montpellier.pdf' />
     <tag k='TODO:start_date' v='2021-08-09' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='1443' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Ajout d&apos;un corridor piétonnier (côté ouest, entre Brûlotte et Caroline)' />
   </node>
   <node id='-3343105994' action='modify' lat='45.42556404525' lon='-71.87219382405'>
@@ -1790,9 +1790,9 @@
     <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Montpellier.pdf' />
     <tag k='TODO:start_date' v='2021-08-09' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='1443' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Ajout de corridors piétonniers (deux côtés, entre 12e et Caroline)' />
   </node>
   <node id='-3166241484' action='modify' lat='45.43092882117' lon='-71.85350418359'>
@@ -1800,9 +1800,9 @@
     <tag k='TODO:source' v='Maxar' />
     <tag k='TODO:start_date' v='2021-09-07' />
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='3392' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Réaménagement du stationnement du Centre Julien Ducharme' />
   </node>
   <node id='-4251233156' action='modify' lat='45.39973536558' lon='-71.87742412359'>
@@ -1810,9 +1810,9 @@
     <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Murray.pdf' />
     <tag k='TODO:start_date' v='2021-05-31' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='3391' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Feux clignottants et éclairage distinctif au passage pour piétons' />
   </node>
   <node id='-3848026351' action='modify' lat='45.38304942495' lon='-71.97255135119'>
@@ -1820,9 +1820,9 @@
     <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Gr%C3%A9goire.pdf' />
     <tag k='TODO:start_date' v='2021-05-07' />
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='stop' />
     <tag k='TODO:ville:projet' v='1080' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-385170685' action='modify' lat='45.37950760613' lon='-71.98341965944'>
@@ -1830,9 +1830,9 @@
     <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Milan.pdf' />
     <tag k='TODO:start_date' v='2021-05-17' />
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='1527' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Retrait du passage piétonnier (dos-d&apos;âne conservé)' />
   </node>
   <node id='-1204455988' action='modify' lat='45.41629400147' lon='-71.86258882552'>
@@ -1840,9 +1840,9 @@
     <tag k='TODO:source' v='Maxar' />
     <tag k='TODO:start_date' v='2021-06-14' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='3512' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Construction d&apos;un jeu d&apos;eau' />
   </node>
   <node id='-2173851595' action='modify' lat='45.39928995626' lon='-72.00724840432'>
@@ -1850,27 +1850,27 @@
     <tag k='TODO:source' v='Maxar' />
     <tag k='TODO:start_date' v='2021-05-05' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2021' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='3508' />
+    <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Patinoire avec bandes permanentes + Volley-ball de plage' />
   </node>
   <node id='-1284195094' action='modify' lat='45.3646672421' lon='-71.86948746711'>
     <tag k='TODO:planned_end' v='2020-09-11' />
     <tag k='TODO:start_date' v='2020-08-12' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='2701' />
+    <tag k='TODO:ville:travaux' v='2020' />
     <tag k='name' v='Ajout balançoires - Parc d&apos;Oxford' />
   </node>
   <node id='-1178536956' action='modify' lat='45.38009070242' lon='-71.98258951575'>
     <tag k='TODO:planned_end' v='2020-06-20' />
     <tag k='TODO:start_date' v='2020-05-12' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='2585' />
+    <tag k='TODO:ville:travaux' v='2020' />
     <tag k='name' v='Aménagement d&apos;un pumptrack' />
   </node>
   <node id='-968927850' action='modify' lat='45.46711365389' lon='-71.96999252379'>
@@ -1884,9 +1884,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2020-07-06' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='1257;2281' />
+    <tag k='TODO:ville:travaux' v='2020' />
     <tag k='name' v='Réaménagement de la berge du ruisseau Kee' />
   </node>
   <node id='-2721401294' action='modify' lat='45.45892846829' lon='-71.9627974792'>
@@ -1894,9 +1894,9 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2020-07-06' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='1256;2280' />
+    <tag k='TODO:ville:travaux' v='2020' />
     <tag k='name' v='Relocalisation du ruisseau Giroux' />
   </node>
 </osm>
