@@ -1408,6 +1408,7 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:travaux' v='2020' />
     <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='2320' />
     <tag k='name' v='Ajouter: Bandes cyclables unidirectionnelles' />
   </node>
   <node id='-1103779880' action='modify' lat='45.38165909986' lon='-71.93866968691'>
@@ -1853,5 +1854,49 @@
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='3508' />
     <tag k='name' v='Patinoire avec bandes permanentes + Volley-ball de plage' />
+  </node>
+  <node id='-1284195094' action='modify' lat='45.3646672421' lon='-71.86948746711'>
+    <tag k='TODO:planned_end' v='2020-09-11' />
+    <tag k='TODO:start_date' v='2020-08-12' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2020' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='2701' />
+    <tag k='name' v='Ajout balançoires - Parc d&apos;Oxford' />
+  </node>
+  <node id='-1178536956' action='modify' lat='45.38009070242' lon='-71.98258951575'>
+    <tag k='TODO:planned_end' v='2020-06-20' />
+    <tag k='TODO:start_date' v='2020-05-12' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2020' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='2585' />
+    <tag k='name' v='Aménagement d&apos;un pumptrack' />
+  </node>
+  <node id='-968927850' action='modify' lat='45.46711365389' lon='-71.96999252379'>
+    <tag k='TODO:source' v='Bing' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='surface' />
+    <tag k='name' v='Surface pavée d&apos;ici jusqu&apos;au 5e rang' />
+  </node>
+  <node id='-2839723883' action='modify' lat='45.46070820242' lon='-71.96495669527'>
+    <tag k='TODO:planned_end' v='2020-09-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2020-07-06' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2020' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='1257;2281' />
+    <tag k='name' v='Réaménagement de la berge du ruisseau Kee' />
+  </node>
+  <node id='-2721401294' action='modify' lat='45.45892846829' lon='-71.9627974792'>
+    <tag k='TODO:planned_end' v='2020-09-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2020-07-06' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:travaux' v='2020' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='1256;2280' />
+    <tag k='name' v='Relocalisation du ruisseau Giroux' />
   </node>
 </osm>
