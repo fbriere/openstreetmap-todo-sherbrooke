@@ -1481,7 +1481,7 @@
   <node id='-3372570451' action='modify' lat='45.40658490942' lon='-71.83361012766'>
     <tag k='TODO:planned_end' v='2023-09-29' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-08-07' />
+    <tag k='TODO:start_date' v='2023-06-26' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5913' />
@@ -2017,5 +2017,15 @@
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Construction de classes modulaires' />
+  </node>
+  <node id='-1976469553' action='modify' lat='45.38033024975' lon='-72.00113934252'>
+    <tag k='TODO:planned_end' v='2025-05-01' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2023-05-02' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='new' />
+    <tag k='TODO:ville:projet' v='6009' />
+    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='name' v='Ouverture de la rue des Cavaliers' />
   </node>
 </osm>
