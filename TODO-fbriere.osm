@@ -1016,7 +1016,7 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
-    <tag k='name' v='Dos d&apos;âne' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-662672270' action='modify' lat='45.36608327828' lon='-71.95950623304'>
     <tag k='TODO:planned_end' v='± 3 mois' />
@@ -2027,5 +2027,12 @@
     <tag k='TODO:ville:projet' v='6009' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ouverture de la rue des Cavaliers' />
+  </node>
+  <node id='-604218504' action='modify' lat='45.39743465703' lon='-72.01669197862'>
+    <tag k='TODO:session' v='2023-04-04' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
 </osm>
