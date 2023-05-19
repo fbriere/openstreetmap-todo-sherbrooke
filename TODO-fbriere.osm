@@ -425,21 +425,9 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-1382262036' action='modify' lat='45.38948017157' lon='-71.93404135866'>
-    <tag k='TODO:check_date' v='2016-09' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-2430646323' action='modify' lat='45.37174033072' lon='-71.86212390144'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-503707112' action='modify' lat='45.38702860565' lon='-71.96945768763'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -917,14 +905,6 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2273437940' action='modify' lat='45.40466853332' lon='-71.9350594309'>
-    <tag k='TODO:planned_end' v='2022-12' />
-    <tag k='TODO:session' v='2023-01-24' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-4032680707' action='modify' lat='45.3847609068' lon='-71.97564661637'>
     <tag k='TODO:planned_end' v='2022-12' />
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1412,13 +1392,6 @@
     <tag k='TODO:ville:travaux' v='2020' />
     <tag k='name' v='Ajouter: Bandes cyclables unidirectionnelles' />
   </node>
-  <node id='-1103779880' action='modify' lat='45.38165909986' lon='-71.93866968691'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='2550' />
-    <tag k='TODO:ville:travaux' v='2020' />
-    <tag k='name' v='Vérifier nouvelle forme de la piste cyclable' />
-  </node>
   <node id='-318650804' action='modify' lat='45.41113495584' lon='-71.84082806647'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='cycleway' />
@@ -1816,16 +1789,6 @@
     <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Feux clignottants et éclairage distinctif au passage pour piétons' />
   </node>
-  <node id='-3848026351' action='modify' lat='45.38304942495' lon='-71.97255135119'>
-    <tag k='TODO:planned_end' v='2021-07-31' />
-    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Gr%C3%A9goire.pdf' />
-    <tag k='TODO:start_date' v='2021-05-07' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='TODO:ville:projet' v='1080' />
-    <tag k='TODO:ville:travaux' v='2021' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-385170685' action='modify' lat='45.37950760613' lon='-71.98341965944'>
     <tag k='TODO:planned_end' v='2021-07-30' />
     <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Milan.pdf' />
@@ -1966,11 +1929,6 @@
     <tag k='name' v='Vérifier: Bandes cyclables?' />
   </node>
   <node id='-3609003201' action='modify' lat='45.35890044085' lon='-71.94036492348'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Vérifier: Bandes cyclables?' />
-  </node>
-  <node id='-2421142855' action='modify' lat='45.384255103' lon='-71.94882990003'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Vérifier: Bandes cyclables?' />
