@@ -8,23 +8,23 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
 
   (La plupart des catégories sont identifiés par un préfixe et/ou une couleur, indiqués ici entre chochets.)
 
-  - `crossing`: Traverse pour piétons [`///`, vert]
-  - `cycleway`: Piste cyclable [magenta]
+  - `crossing`: Traverse pour piétons \[`///`, vert]
+  - `cycleway`: Piste cyclable \[magenta]
   - `delimitation`: Point de délimitation officiel
-  - `footway`: Passage piétonnier [vert]
-  - `geometry`: Géométrie à ajuster [orange]
-  - `hump`: Dos d'âne [`◠`]
+  - `footway`: Passage piétonnier \[vert]
+  - `geometry`: Géométrie à ajuster \[orange]
+  - `hump`: Dos d'âne \[`◠`]
   - `misc`: Autres
-  - `name`: Concerne le nom de quelque chose [`N:`]
-  - `new`: Nouvelle rue [aqua]
-  - `oneway`: Sens unique à ajouter/retirer [`→`]
-  - `park`: Parc [`▲`, vert]
-  - `restriction`: Restriction à ajouter/retirer [`✘`]
-  - `sidewalk`: Trottoir [vert]
-  - `stop`: Arrêt [rouge] \
+  - `name`: Concerne le nom de quelque chose \[`N:`]
+  - `new`: Nouvelle rue \[aqua]
+  - `oneway`: Sens unique à ajouter/retirer \[`→`]
+  - `park`: Parc \[`▲`, vert]
+  - `restriction`: Restriction à ajouter/retirer \[`✘`]
+  - `sidewalk`: Trottoir \[vert]
+  - `stop`: Arrêt \[rouge] \
       (Sans texte dans le cas typique d'un arrêt toutes directions à ajouter.)
-  - `surface`: Surface d'une voie [bleu pâle]
-  - `traffic_signal`: Feu de circulation [jaune]
+  - `surface`: Surface d'une voie \[bleu pâle]
+  - `traffic_signal`: Feu de circulation \[jaune]
 
 - `TODO:status`: État de l'avancement des travaux (ou confirmation dans le cas de `certain`)
   - `certain`: Présence confirmée, mais auprès d'une source qui ne peut être citée; doit donc être vérifié sur place
