@@ -76,6 +76,13 @@ node["TODO:type"="oneway"]
     symbol-fill-color: white;
 }
 
+node["TODO:type"="park"]
+{
+    text-color: lawngreen;
+    symbol-fill-color: lawngreen;
+    symbol-shape: triangle;
+}
+
 node["TODO:type"="restriction"]
 {
     text: concat(" ✘ ", tag("name"));
