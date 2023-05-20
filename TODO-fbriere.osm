@@ -995,7 +995,7 @@
     <tag k='TODO:session' v='2023-04-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-662672270' action='modify' lat='45.36608327828' lon='-71.95950623304'>
@@ -1107,7 +1107,7 @@
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/WoodRiouxweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-22' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='4090' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout de dos d&apos;âne en zone scolaire' />
@@ -1734,7 +1734,7 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-08-29' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='5169' />
     <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Ajout de 2 dos d&apos;âne sur la rue du Pavillon' />
@@ -1744,7 +1744,7 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-07-11' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='5013' />
     <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Mise en place de dos d&apos;âne' />
@@ -1990,7 +1990,7 @@
     <tag k='TODO:session' v='2023-04-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
 </osm>

@@ -49,6 +49,13 @@ node["TODO:type"="geometry"]
     symbol-fill-color: orange;
 }
 
+node["TODO:type"="hump"]
+{
+    text: concat(" ◠ ", tag("name"));
+    text-color: white;
+    symbol-fill-color: white;
+}
+
 node["TODO:type"="misc"]
 {
     text-color: white;
