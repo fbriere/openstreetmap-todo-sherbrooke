@@ -9,7 +9,7 @@ node["TODO:type"]
 {
     text: "name";
     symbol-shape: circle;
-    symbol-size: 7;
+    symbol-size: 4;
 }
 
 node["TODO:status"="completed"]
@@ -67,7 +67,6 @@ node["TODO:type"="name"]
     text: concat("N: ", tag("name"));
     text-color: white;
     symbol-fill-color: white;
-    symbol-shape: square;
 }
 
 node["TODO:type"="new"]
@@ -88,6 +87,7 @@ node["TODO:type"="park"]
     text-color: lawngreen;
     symbol-fill-color: lawngreen;
     symbol-shape: triangle;
+    symbol-size: 7;
 }
 
 node["TODO:type"="restriction"]
@@ -102,6 +102,7 @@ node["TODO:type"="sidewalk"]
     text-color: lime;
     symbol-fill-color: lime;
     symbol-shape: square;
+    symbol-size: 6;
 }
 
 node["TODO:type"="stop"]
@@ -109,6 +110,7 @@ node["TODO:type"="stop"]
     text-color: red;
     symbol-fill-color: red;
     symbol-shape: octagon;
+    symbol-size: 7;
 }
 node["TODO:type"="stop"]["name"="Arrêt toutes directions"]
 {
