@@ -1,3 +1,5 @@
+(L'emploi de [`TODO.mapcss`](#file-todo-mapcss) est *fortement* recommandé!)
+
 ## Liste des attributs
 
 Noter que le nom de tous les attributs (à l'exception de `name`) débute par `TODO:`, pour éviter tout conflit avec les attributs officiels.
@@ -6,11 +8,11 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
 
 - `TODO:type`: Catégorisation, parmi la liste ci-dessous:
 
-  (La plupart des catégories sont identifiés par un préfixe et/ou une couleur, indiqués ici entre chochets.)
+  (La plupart des catégories sont identifiées, via [`TODO.mapcss`](#file-todo-mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
 
   - `crossing`: Traverse pour piétons \[`///`, vert]
   - `cycleway`: Piste cyclable \[magenta]
-  - `delimitation`: Point de délimitation officiel
+  - `delimitation`: Point de délimitation officiel entre deux voies
   - `footway`: Passage piétonnier \[vert]
   - `geometry`: Géométrie à ajuster \[orange]
   - `hump`: Dos d'âne \[`◠`]
@@ -20,9 +22,9 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
   - `oneway`: Sens unique à ajouter/retirer \[`⮕`]
   - `park`: Parc \[`▲`, vert]
   - `restriction`: Restriction à ajouter/retirer \[`✘`]
-  - `sidewalk`: Trottoir \[vert]
+  - `sidewalk`: Trottoir \[`◼`, vert]
   - `stop`: Arrêt \[rouge] \
-      (Sans texte dans le cas typique d'un arrêt toutes directions à ajouter.)
+      (Le texte est omis dans le cas typique d'un arrêt toutes directions à ajouter.)
   - `surface`: Surface d'une voie \[bleu pâle]
   - `traffic_signal`: Feu de circulation \[jaune]
 
@@ -37,8 +39,8 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
 
 - `TODO:session`: Date d'une séance du conseil municipal agissant comme source
 
-- `TODO:start_date`: Date prévue de début des travaux
-- `TODO:planned_end`: Date prévue de fin des travaux
+- `TODO:start_date`: Date prévue du début des travaux
+- `TODO:planned_end`: Date prévue de la fin des travaux
 - `TODO:check_date`: Date de la dernière vérification faite sur place
 
 - `TODO:comments`: Commentaires
