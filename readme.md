@@ -17,7 +17,7 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
   - `misc`: Autres
   - `name`: Concerne le nom de quelque chose \[`N:`]
   - `new`: Nouvelle rue \[aqua]
-  - `oneway`: Sens unique à ajouter/retirer \[`→`]
+  - `oneway`: Sens unique à ajouter/retirer \[`⮕`]
   - `park`: Parc \[`▲`, vert]
   - `restriction`: Restriction à ajouter/retirer \[`✘`]
   - `sidewalk`: Trottoir \[vert]

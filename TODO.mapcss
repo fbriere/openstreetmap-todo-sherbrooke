@@ -78,7 +78,7 @@ node["TODO:type"="new"]
 
 node["TODO:type"="oneway"]
 {
-    text: concat(" → ", tag("name"));
+    text: concat(" ⮕ ", tag("name"));
     text-color: white;
     symbol-fill-color: white;
 }
