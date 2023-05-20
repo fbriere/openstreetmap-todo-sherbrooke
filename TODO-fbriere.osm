@@ -17,7 +17,6 @@
   </node>
   <node id='-204249103' action='modify' lat='45.32061918702' lon='-72.02793402752'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='delimitation' />
     <tag k='name' v='Tous ces segments (ainsi qu&apos;un additionnel ici) font (officiellement?) partie de la rue de la Pointe-Gervais' />
   </node>
@@ -77,7 +76,6 @@
   <node id='-2582480594' action='modify' lat='45.46758768479' lon='-71.93745196402'>
     <tag k='TODO:session' v='2017-10-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -131,12 +129,10 @@
   </node>
   <node id='-1197900960' action='modify' lat='45.38266135436' lon='-71.94370152712'>
     <tag k='TODO:source' v='Maxar' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='footway' />
     <tag k='name' v='Retrait de ce passage?' />
   </node>
   <node id='-2924471043' action='modify' lat='45.38931676491' lon='-71.92629665405'>
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Confirmer tous les tags sur cette entrée' />
   </node>
@@ -157,7 +153,6 @@
   </node>
   <node id='-1882760918' action='modify' lat='45.33952999184' lon='-71.98561907887'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Comment traiter cette rue privée, officiellement sans nom?' />
   </node>
@@ -171,7 +166,6 @@
   </node>
   <node id='-132431986' action='modify' lat='45.37573796223' lon='-71.9067870253'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Vérifier présence de piste cyclable (designated?)' />
   </node>
@@ -254,7 +248,6 @@
   <node id='-529619971' action='modify' lat='45.36687960209' lon='-71.95513845026'>
     <tag k='TODO:session' v='2021-02-08' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -332,7 +325,6 @@
   </node>
   <node id='-804570073' action='modify' lat='45.40188458921' lon='-71.88920753174'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.12' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='traffic_signal' />
     <tag k='name' v='Ajouter: King/Dépôt' />
   </node>
@@ -367,13 +359,11 @@
   </node>
   <node id='-6118451' action='modify' lat='45.39025859478' lon='-71.87161445752'>
     <tag k='TODO:source' v='Règlement no 1, articles 5.1.12.2 et 5.1.16/6' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='traffic_signal' />
     <tag k='name' v='Ajouter: Bowen/Caen' />
   </node>
   <node id='-910233483' action='modify' lat='45.4037608402' lon='-71.8674623993'>
     <tag k='TODO:source' v='Règlement no 1, articles 5.1.12.2 et 5.1.16/6' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='traffic_signal' />
     <tag k='name' v='Ajouter: Conseil/15e avenue' />
   </node>
@@ -385,7 +375,6 @@
   </node>
   <node id='-4114178575' action='modify' lat='45.40155745993' lon='-71.92172349036'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -523,7 +512,6 @@
   </node>
   <node id='-223940164' action='modify' lat='45.38325284843' lon='-71.99315802225'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -559,13 +547,11 @@
   </node>
   <node id='-3665462818' action='modify' lat='45.38735549094' lon='-71.9918826043'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-128348796' action='modify' lat='45.38757625136' lon='-71.99327494835'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -577,7 +563,6 @@
   </node>
   <node id='-3440073635' action='modify' lat='45.38844243697' lon='-71.99558671537'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -638,7 +623,6 @@
     <tag k='name' v='Ajouter: cycleway=track de l&apos;intersection jusqu&apos;à la 13e avenue' />
   </node>
   <node id='-2045390899' action='modify' lat='45.39993405844' lon='-71.88895226061'>
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Vérifier: Est-ce que la rue Terrien existe toujours?' />
   </node>
@@ -658,7 +642,6 @@
   </node>
   <node id='-214149821' action='modify' lat='45.39811285343' lon='-71.89893812209'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Confirmer: Vélos interdits sur la passerelle?' />
   </node>
@@ -777,7 +760,6 @@
     <tag k='name' v='Portion ouest réservée aux autobus scolaires' />
   </node>
   <node id='-3711664977' action='modify' lat='45.40354803772' lon='-71.90391495958'>
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='geometry' />
     <tag k='name' v='Voies non séparées entre Québec et London' />
   </node>
@@ -842,7 +824,6 @@
     <tag k='name' v='Ajouter: Débarcadaire du Séminaire' />
   </node>
   <node id='-1503644924' action='modify' lat='45.40206970498' lon='-71.89473778278'>
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='geometry' />
     <tag k='name' v='Confirmer: Stationnement connecte sur Peel, pas sur Marquette; ce qu&apos;on voit sur imagerie sont des passages piétons' />
   </node>
@@ -900,7 +881,6 @@
   <node id='-3136912442' action='modify' lat='45.3880641075' lon='-71.9295018965'>
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -908,14 +888,12 @@
     <tag k='TODO:planned_end' v='2022-12' />
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2482239849' action='modify' lat='45.36723763887' lon='-71.97875529662'>
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -940,14 +918,12 @@
   <node id='-96754525' action='modify' lat='45.35134226984' lon='-71.9987082535'>
     <tag k='TODO:session' v='2023-03-07' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-684148393' action='modify' lat='45.37453738653' lon='-71.88731611311'>
     <tag k='TODO:session' v='2023-03-07' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -979,7 +955,6 @@
     <tag k='name' v='Ajout de voies cyclables sur la rue McManamy, entre le pont Jacques-Cartier et la rue Belvédère Sud' />
   </node>
   <node id='-2661005263' action='modify' lat='45.40902085397' lon='-71.86812220345'>
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Confirmer: absence de nom pour cette section' />
   </node>
@@ -987,7 +962,6 @@
     <tag k='TODO:planned_end' v='2022-12' />
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1865,7 +1839,6 @@
   </node>
   <node id='-1862974384' action='modify' lat='45.30055989068' lon='-72.05221563846'>
     <tag k='TODO:source' v='Maxar' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='surface' />
     <tag k='name' v='Vérifier pavage de cette section' />
   </node>
@@ -1874,7 +1847,6 @@
     <tag k='TODO:planned_end' v='2019-07-05' />
     <tag k='TODO:source' v='https://ici.radio-canada.ca/nouvelle/1224407/ameliorations-parc-jacques-cartier-sherbrooke-personnes-mobilite-reduite-handicap' />
     <tag k='TODO:start_date' v='2019-05-13' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='1498' />
     <tag k='TODO:ville:travaux' v='2019' />
@@ -1882,19 +1854,16 @@
   </node>
   <node id='-912019869' action='modify' lat='45.35869495077' lon='-71.96008980542'>
     <tag k='TODO:source' v='Bing' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='surface' />
     <tag k='name' v='Ces rues sont-elles maintenant pavées?' />
   </node>
   <node id='-2387622369' action='modify' lat='45.36944801211' lon='-71.86011314526'>
     <tag k='TODO:source' v='Bing;Maxar' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='geometry' />
     <tag k='name' v='Recartographier la piscine du parc Centennial' />
   </node>
   <node id='-2617984899' action='modify' lat='45.36258954328' lon='-71.86013057962'>
     <tag k='TODO:source' v='Bing;Maxar' />
-    <tag k='TODO:status' v='n/a' />
     <tag k='TODO:type' v='surface' />
     <tag k='name' v='Vérifier si la surface est vraiment pavée' />
   </node>
