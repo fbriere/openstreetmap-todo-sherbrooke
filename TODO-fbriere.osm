@@ -1980,4 +1980,11 @@
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Confirmer adresse du parc (500 et non 600) et des autres bâtiments (472, 492 et 494)' />
   </node>
+  <node id='-899809720' action='modify' lat='45.45016631603' lon='-71.94121242642'>
+    <tag k='TODO:check_date' v='2021-10' />
+    <tag k='TODO:comments' v='Ramat donnerait raison au panneau ☺' />
+    <tag k='TODO:source' v='https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=206632' />
+    <tag k='TODO:type' v='sign' />
+    <tag k='name' v='Boulevard du Prince-de-Galles' />
+  </node>
 </osm>
