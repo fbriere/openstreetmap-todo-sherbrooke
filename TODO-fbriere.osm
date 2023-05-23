@@ -1584,7 +1584,7 @@
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5413' />
     <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ouverture de la rue Bossé.' />
+    <tag k='name' v='Ouverture de la rue Bossé' />
   </node>
   <node id='-2729379577' action='modify' lat='45.39797470185' lon='-71.88768278548'>
     <tag k='TODO:planned_end' v='2024-09-28' />
