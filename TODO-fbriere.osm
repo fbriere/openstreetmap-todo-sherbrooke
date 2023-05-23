@@ -1991,4 +1991,9 @@
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Confirmer nom/vocation de cet immeuble' />
   </node>
+  <node id='-2992908379' action='modify' lat='45.36398129363' lon='-71.87032701731'>
+    <tag k='TODO:check_date' v='2012-10' />
+    <tag k='TODO:type' v='name' />
+    <tag k='name' v='Confirmer si cette entrée privée porte vraiment un nom' />
+  </node>
 </osm>
