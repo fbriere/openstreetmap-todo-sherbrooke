@@ -26,6 +26,14 @@ node["TODO:status"="certain"]
 }
 
 
+node["TODO:type"="bicycle"]
+{
+    text-color: magenta;
+    symbol-fill-color: magenta;
+    symbol-shape: square;
+    symbol-size: 6;
+}
+
 node["TODO:type"="crossing"]
 {
     text: concat(" ///  ", tag("name"));

@@ -10,6 +10,7 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
 
   (La plupart des catégories sont identifiées, via [`TODO.mapcss`](#file-todo-mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
 
+  - `bicycle`: Infrascructure pour vélos autre que piste cyclable \[`◼`, magenta]
   - `crossing`: Traverse pour piétons \[`///`, vert]
   - `cycleway`: Piste cyclable \[magenta]
   - `delimitation`: Point de délimitation officiel entre deux voies
