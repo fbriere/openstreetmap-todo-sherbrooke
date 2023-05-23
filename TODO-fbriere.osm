@@ -1974,4 +1974,10 @@
     <tag k='TODO:type' v='sign' />
     <tag k='name' v='Place *de* Monseigneur-Moisan' />
   </node>
+  <node id='-1711344678' action='modify' lat='45.37434520466' lon='-71.89136625409'>
+    <tag k='TODO:comments' v='600: Bureau d&apos;arrondissement // 494: Les jeunes du coin d&apos;Ascot inc.' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='park' />
+    <tag k='name' v='Confirmer adresse du parc (500 et non 600) et des autres bâtiments (472, 492 et 494)' />
+  </node>
 </osm>
