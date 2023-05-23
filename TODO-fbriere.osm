@@ -1987,4 +1987,8 @@
     <tag k='TODO:type' v='sign' />
     <tag k='name' v='Boulevard du Prince-de-Galles' />
   </node>
+  <node id='-1853651465' action='modify' lat='45.39711700529' lon='-71.9161659506'>
+    <tag k='TODO:type' v='park' />
+    <tag k='name' v='Confirmer nom/vocation de cet immeuble' />
+  </node>
 </osm>
