@@ -241,9 +241,10 @@
   </node>
   <node id='-116934703' action='modify' lat='45.39750922464' lon='-71.89602792397'>
     <tag k='TODO:session' v='2020-10-13' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/527/amelioration-de-la-fluidite-sur-la-rue-belvedere-sud-et-protection-de-l-intersection-des-rues-king-ouest-et-belvedere' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virage à gauche (→ des Fusillers)' />
+    <tag k='name' v='Virage à gauche (→ des Fusiliers)' />
   </node>
   <node id='-529619971' action='modify' lat='45.36687960209' lon='-71.95513845026'>
     <tag k='TODO:session' v='2021-02-08' />
