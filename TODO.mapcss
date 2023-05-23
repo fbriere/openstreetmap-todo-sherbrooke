@@ -10,6 +10,8 @@ node["TODO:type"]
     text: "name";
     symbol-shape: circle;
     symbol-size: 4;
+    symbol-fill-color: white;
+    text-color: white;
 }
 
 node["TODO:status"="completed"]
@@ -52,21 +54,15 @@ node["TODO:type"="geometry"]
 node["TODO:type"="hump"]
 {
     text: concat(" ◠ ", tag("name"));
-    text-color: white;
-    symbol-fill-color: white;
 }
 
 node["TODO:type"="misc"]
 {
-    text-color: white;
-    symbol-fill-color: white;
 }
 
 node["TODO:type"="name"]
 {
     text: concat("N: ", tag("name"));
-    text-color: white;
-    symbol-fill-color: white;
 }
 
 node["TODO:type"="new"]
@@ -78,8 +74,6 @@ node["TODO:type"="new"]
 node["TODO:type"="oneway"]
 {
     text: concat(" ⮕ ", tag("name"));
-    text-color: white;
-    symbol-fill-color: white;
 }
 
 node["TODO:type"="park"]
@@ -93,8 +87,6 @@ node["TODO:type"="park"]
 node["TODO:type"="restriction"]
 {
     text: concat(" ✘ ", tag("name"));
-    text-color: white;
-    symbol-fill-color: white;
 }
 
 node["TODO:type"="sidewalk"]
