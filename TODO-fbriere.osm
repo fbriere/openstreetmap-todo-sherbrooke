@@ -2008,4 +2008,18 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Vente de l&apos;église Marie-Médiatrice' />
   </node>
+  <node id='-1721754134' action='modify' lat='45.39491195047' lon='-71.89655766025'>
+    <tag k='TODO:comments' v='Banc d’essai réalisé jusqu’en 2023' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2022/12/08/les-casiers-a-velo-securises-de-velo-transit-encore-accessibles-cet-hiver/' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Casiers à vélo sécurisés (2 x 3)' />
+  </node>
+  <node id='-630310503' action='modify' lat='45.40358287696' lon='-71.89051464334'>
+    <tag k='TODO:comments' v='Banc d’essai réalisé jusqu’en 2023' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2022/12/08/les-casiers-a-velo-securises-de-velo-transit-encore-accessibles-cet-hiver/' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Casiers à vélo sécurisés (2 x 3)' />
+  </node>
 </osm>
