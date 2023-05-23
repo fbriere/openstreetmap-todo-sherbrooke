@@ -1962,4 +1962,16 @@
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
+  <node id='-3241598815' action='modify' lat='45.39330060108' lon='-71.89201131597'>
+    <tag k='TODO:check_date' v='2018-10' />
+    <tag k='TODO:comments' v='Pas d&apos;accent sur le deuxième E' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='sign' />
+    <tag k='name' v='Ruelle Télesphore-Daigle' />
+  </node>
+  <node id='-3847055722' action='modify' lat='45.41449309461' lon='-71.96135312453'>
+    <tag k='TODO:check_date' v='2018-11-04' />
+    <tag k='TODO:type' v='sign' />
+    <tag k='name' v='Place *de* Monseigneur-Moisan' />
+  </node>
 </osm>

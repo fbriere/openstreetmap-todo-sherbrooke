@@ -97,6 +97,11 @@ node["TODO:type"="sidewalk"]
     symbol-size: 6;
 }
 
+node["TODO:type"="sign"]
+{
+    text: concat(" ≠ ", tag("name"));
+}
+
 node["TODO:type"="stop"]
 {
     text-color: red;

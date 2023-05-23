@@ -23,6 +23,7 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
   - `park`: Parc \[`▲`, vert]
   - `restriction`: Restriction à ajouter/retirer \[`✘`]
   - `sidewalk`: Trottoir \[`◼`, vert]
+  - `sign`: Disparité entre le nom officiel et celui affiché sur place [`≠`]
   - `stop`: Arrêt \[rouge] \
       (Le texte est omis dans le cas typique d'un arrêt toutes directions à ajouter.)
   - `surface`: Surface d'une voie \[bleu pâle]
