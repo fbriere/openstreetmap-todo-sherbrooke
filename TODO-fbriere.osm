@@ -1997,6 +1997,12 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Confirmer si cette entrée privée porte vraiment un nom' />
   </node>
+  <node id='-98786961' action='modify' lat='45.38177213569' lon='-71.94428086817'>
+    <tag k='TODO:source' v='https://www.latribune.ca/2020/05/21/important-chantier-lance-dans-le-secteur-du-triolet-4c024a1ce3aebd6247667b79e251c25d/' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='geometry' />
+    <tag k='name' v='Recartographier le Triolet' />
+  </node>
   <node id='-3729299640' action='modify' lat='45.41000140665' lon='-71.87530786067'>
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/734/l-eglise-sainte-famille-pour-des-logements-sociaux' />
     <tag k='TODO:type' v='misc' />
