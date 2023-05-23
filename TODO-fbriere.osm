@@ -2002,4 +2002,10 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Conversion de l&apos;église en logements sociaux' />
   </node>
+  <node id='-1439643605' action='modify' lat='45.3875517336' lon='-71.94701135695'>
+    <tag k='TODO:source' v='https://ici.radio-canada.ca/nouvelle/1952013/vente-galt-ouest-patrimoine-religieux' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Vente de l&apos;église Marie-Médiatrice' />
+  </node>
 </osm>
