@@ -64,6 +64,10 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement de voies cyclables en bordure de la rue Galt Est (entre Bowen et Lavigerie)' />
   </node>
+  <node id='-4129659730' action='modify' lat='45.39115708769' lon='-71.91999078065'>
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Pas mal sûr que cycleway=track ne s&apos;applique pas ici...' />
+  </node>
   <node id='-3531117685' action='modify' lat='45.39486015444' lon='-71.9203153266'>
     <tag k='TODO:type' v='oneway' />
     <tag k='name' v='Vérifier: Allée du Urbano' />
