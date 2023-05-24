@@ -1,4 +1,7 @@
-(L'emploi de [`TODO.mapcss`](#file-todo-mapcss) est *fortement* recommandé!)
+## Fichiers
+
+- [`TODO-fbriere.osm`](#file-todo-fbriere-osm): La liste elle-même
+- [`TODO.mapcss`](#file-todo-mapcss): [Modèle de rendu de carte JOSM](https://josm.openstreetmap.de/wiki/Fr%3AStyles) (*fortement recommandé*)
 
 ## Liste des attributs
 
