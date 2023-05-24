@@ -40,13 +40,13 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
   - `planned`: Travaux prévus
   - `stalled`: Travaux originalement prévus, mais sans progrès visible depuis un certain temps
 
-- `TODO:source`: Source
-
-- `TODO:session`: Date d'une séance du conseil municipal agissant comme source
-
 - `TODO:start_date`: Date prévue du début des travaux
 - `TODO:planned_end`: Date prévue de la fin des travaux
 - `TODO:check_date`: Date de la dernière vérification faite sur place
+
+- `TODO:source`: Source
+
+- `TODO:session`: Date d'une séance du conseil municipal agissant comme source
 
 - `TODO:comments`: Commentaires
 
