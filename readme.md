@@ -16,7 +16,6 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
   - `bicycle`: Infrascructure pour vélos autre que piste cyclable \[`◼`, magenta]
   - `crossing`: Traverse pour piétons \[`///`, vert]
   - `cycleway`: Piste cyclable \[magenta]
-  - `delimitation`: Point de délimitation officiel entre deux voies
   - `footway`: Passage piétonnier \[vert]
   - `geometry`: Géométrie à ajuster \[orange]
   - `hump`: Dos d'âne \[`◠`]

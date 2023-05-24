@@ -17,8 +17,8 @@
   </node>
   <node id='-204249103' action='modify' lat='45.32061918702' lon='-72.02793402752'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='delimitation' />
-    <tag k='name' v='Tous ces segments (ainsi qu&apos;un additionnel ici) font (officiellement?) partie de la rue de la Pointe-Gervais' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Tous ces segments (ainsi qu&apos;un autre ici, non cartographié) font (officiellement?) partie de la rue de la Pointe-Gervais' />
   </node>
   <node id='-3568601726' action='modify' lat='45.47476632833' lon='-71.9428550217'>
     <tag k='TODO:check_date' v='2015-12-25' />
