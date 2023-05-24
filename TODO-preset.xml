@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
     <item name="TODO Entry" type="node" preset_name_label="true"
+        name_template="?{
+	        &quot;TODO:type&quot; = bicycle        '🚲' |
+	        &quot;TODO:type&quot; = cycleway       '🚲' |
+	        &quot;TODO:type&quot; = stop           '🛑' |
+	        &quot;TODO:type&quot; = crossing       '🚸' |
+	        &quot;TODO:type&quot; = footway        '🚶' |
+	        &quot;TODO:type&quot; = geometry       '🟗'  |
+	        &quot;TODO:type&quot; = hump           '◠ ' |
+	        &quot;TODO:type&quot; = misc           '　' |
+	        &quot;TODO:type&quot; = name           '📛' |
+	        &quot;TODO:type&quot; = new            '🆕' |
+	        &quot;TODO:type&quot; = oneway         '⮕ ' |
+	        &quot;TODO:type&quot; = park           '⛺' |
+	        &quot;TODO:type&quot; = restriction    '🚫' |
+	        &quot;TODO:type&quot; = sidewalk       '🚶' |
+	        &quot;TODO:type&quot; = sign           '≠ ' |
+	        &quot;TODO:type&quot; = surface        '🐎' |
+	        &quot;TODO:type&quot; = traffic_signal '🚦' |
+	    '' } {name}"
         icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9bpSKVDnYQdchQHcSCqKijVqEIFUKt0KqDyaVf0KQhSXFxFFwLDn4sVh1cnHV1cBUEwQ8QRycnRRcp8X9JoUWMB8f9eHfvcfcO8NfLTDU7xgBVs4xUIi5ksqtC8BUhDCCMEUxLzNTnRDEJz/F1Dx9f72I8y/vcn6NHyZkM8AnEs0w3LOIN4qlNS+e8TxxhRUkhPiceNeiCxI9cl11+41xw2M8zI0Y6NU8cIRYKbSy3MSsaKvEkcVRRNcr3Z1xWOG9xVstV1rwnf2Eop60sc53mIBJYxBJECJBRRQllWIjRqpFiIkX7cQ9/v+MXySWTqwRGjgVUoEJy/OB/8LtbMz8x7iaF4kDni21/DAHBXaBRs+3vY9tunACBZ+BKa/krdWDmk/RaS4seAeFt4OK6pcl7wOUO0PekS4bkSAGa/nweeD+jb8oCvbdA95rbW3Mfpw9AmrpK3gAHh8BwgbLXPd7d1d7bv2ea/f0A6Hpy1ihEQ0sAAAAGYktHRAD/AP8A/6C9p5MAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfmDBsPMB5gNCMNAAAAGXRFWHRDb21tZW50AENyZWF0ZWQgd2l0aCBHSU1QV4EOFwAAAwVJREFUeNrtmztoVEEUhr/NSowGwaARfBQBJaiFjUVESBWMWCiIjYWCILHTThtJE4IKwUI0jVhoLISUCgFFCD4QQUgTRImigk0eIFFjiCbrb+EEVOLuvefufW3mwDTLntnz/XNm7pmzu+DNmzdvy9gKtQYkWAPsBbYA636/RAmYA2aACeB5AT7XGvh+wX3BD4EqjIFFvxU1AL4LuA60hXB7VQsrXifoDrjif44Rwcq8wzcJhkKCS/BRsDnv8K2Ctwb4L2675Bp+j2DKAD8v6Mw7/AHBrAFegi7D52VnXAMt2MAluGgUPBujPxr8oIzFXibg+6LBPxM0RNhy6Y5u0Hc7/DtBc8Qz56+RxqNuygg/LdhRhRjSEUCwTvDGCD8v6KhSHMkLIKgXPJI99U9VMZZUBLhphX9a5TgTF0Bwxgo/BtqQZwEE7W7/hoafBLXHEGdiAgg2CcYt8N9AJ2KKMxEBBEXBY2Pqz/XEGGeoid3pfUgwIHjv0nlYsLaCX2+EE/84aQsgWC/oEUz8J8j+Mr4dgpIR/lLcmVpxYsExV3WVC/SroHEJ32brvhfcE9SlKoC7mwcN+OgS/neN8C9d25u0BRgMEfTQP75dRvhPgq1JHdaVBAizgiVBi/PbJpgxwC8I9iX5tKokwK2QADcEqwUvjKt/NunHdSUBLhtT2AJ/J856pc4o0GuDT5PBZxQ4GWclahVgNIH70TRwuACzKXWhy26BRuvlJeD4KTiYZskepBB6EqMAF9K+swQR4HxM8MOCYh4E2B0D/LhgYxZurUEvQ2NV3vedccQZx1Ng0W5XUfS+AjwgIxY0A1rcykVd/RFBfZYaN4EnFjyMCD8n2Jm1zlUYAY5EFOBcFlt3YQQoCj5ESP1irgVwbz5tPPXbkowzTgEa3A+QwghwNcvd69ATu65wKWCD5ErE1M+eAM5pu6BPMOq6OIvQk+7u0CtozcP3F5EnFhQEqxS92Io1zkKZiYO8LwsFW6Q461jm5gXwAixzC/p/AfkM8AJ4Abx58+bNW63ZL3VpC3qfdGtJAAAAAElFTkSuQmCC">
         <space />
         <text key="name" text="Description" />
