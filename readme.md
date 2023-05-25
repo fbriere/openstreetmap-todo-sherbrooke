@@ -8,11 +8,13 @@
 
 Noter que le nom de tous les attributs (à l'exception de `name`) débute par `TODO:`, pour éviter tout conflit avec les attributs officiels.
 
+### Description et catégorisation
+
 - `name`: Courte description
 
 - `TODO:type`: Catégorisation, parmi la liste ci-dessous:
 
-  (La plupart des catégories sont identifiées, via [`TODO.mapcss`](#file-todo-mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
+  (La plupart des catégories sont identifiées sur la carte, via [`TODO.mapcss`](#file-todo-mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
 
   - `bicycle`: Infrascructure pour vélos autre que piste cyclable \[`◼`, magenta]
   - `crossing`: Traverse pour piétons \[`///`, vert]
@@ -33,22 +35,28 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
   - `surface`: Surface d'une voie \[bleu pâle]
   - `traffic_signal`: Feu de circulation \[jaune]
 
+### État/évolution
+
 - `TODO:status`: État de l'avancement des travaux (ou confirmation dans le cas de `certain`)
-  - `certain`: Présence confirmée, mais auprès d'une source qui ne peut être citée; doit donc être vérifié sur place
-  - `completed`: Travaux (théoriquement) complétés
-  - `ongoing`: Travaux en cours
+
   - `planned`: Travaux prévus
+  - `ongoing`: Travaux en cours
+  - `completed`: Travaux (théoriquement) complétés
   - `stalled`: Travaux originalement prévus, mais sans progrès visible depuis un certain temps
+  - `certain`: Présence confirmée, mais auprès d'une source qui ne peut être citée; doit donc être vérifié sur place
 
 - `TODO:start_date`: Date prévue du début des travaux
 - `TODO:planned_end`: Date prévue de la fin des travaux
 - `TODO:check_date`: Date de la dernière vérification faite sur place
 
+### Sources
+
 - `TODO:source`: Source
 
 - `TODO:session`: Date d'une séance du conseil municipal agissant comme source
 
-- `TODO:comments`: Commentaires
+### Autres
 
+- `TODO:comments`: Commentaires
 
 (Les attributs débutant par `TODO:ville:` sont à usage interne et peuvent être ignorés.)
