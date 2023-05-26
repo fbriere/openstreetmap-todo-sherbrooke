@@ -141,7 +141,7 @@
     <tag k='name' v='Confirmer tous les tags sur cette entrée' />
   </node>
   <node id='-983056558' action='modify' lat='45.41527730535' lon='-71.8320036149'>
-    <tag k='TODO:planned_end' v='2022-11-18' />
+    <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
     <tag k='TODO:start_date' v='2022-08-25' />
     <tag k='TODO:status' v='completed' />
@@ -224,7 +224,7 @@
     <tag k='name' v='Ajout de voies cyclables sur Mi-Vallon, de Bourque jusqu&apos;au bout' />
   </node>
   <node id='-204576628' action='modify' lat='45.4158045053' lon='-71.83140282154'>
-    <tag k='TODO:planned_end' v='2022-11-18' />
+    <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
     <tag k='TODO:start_date' v='2022-08-25' />
     <tag k='TODO:status' v='completed' />
@@ -943,9 +943,9 @@
     <tag k='name' v='Prolongement des rues Gisèle-Trudeau et Jospeh-Émond' />
   </node>
   <node id='-1878766711' action='modify' lat='45.38634612961' lon='-71.89615130961'>
-    <tag k='TODO:planned_end' v='± 1 mois' />
+    <tag k='TODO:planned_end' v='2023-06-30' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='Printemps 2023' />
+    <tag k='TODO:start_date' v='2023-05-29' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='4097' />
@@ -1065,7 +1065,7 @@
     <tag k='name' v='Ajout de bandes cyclables' />
   </node>
   <node id='-3248661618' action='modify' lat='45.38798499501' lon='-71.98325873494'>
-    <tag k='TODO:planned_end' v='2023-05-26' />
+    <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/marcel-marcotteweb.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='ongoing' />
@@ -1228,7 +1228,7 @@
     <tag k='name' v='Passage pour piétons' />
   </node>
   <node id='-3151182025' action='modify' lat='45.41636179462' lon='-71.83063032389'>
-    <tag k='TODO:planned_end' v='2022-11-18' />
+    <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
     <tag k='TODO:start_date' v='2022-08-25' />
     <tag k='TODO:status' v='completed' />
@@ -2075,7 +2075,7 @@
     <tag k='TODO:planned_end' v='2023-05-25' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-05-24' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='footway' />
     <tag k='TODO:ville:projet' v='6061' />
     <tag k='TODO:ville:travaux' v='2023' />
