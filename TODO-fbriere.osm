@@ -2081,4 +2081,9 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Agrandissement de l&apos;entrée piétonnière au marché de la gare' />
   </node>
+  <node id='-2730405831' action='modify' lat='45.39536870928' lon='-71.90639736414'>
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/951/cohabitation-harmonieuse-autour-du-lac-des-nations' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Déterminer à quelle section s&apos;applique la limite de 20 km/h' />
+  </node>
 </osm>
