@@ -1981,4 +1981,31 @@
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Déterminer à quelle section s&apos;applique la limite de 20 km/h' />
   </node>
+  <node id='-2463713548' action='modify' lat='45.41381621684' lon='-71.94104076505'>
+    <tag k='TODO:comments' v='Toutes les propriétés sont des unités du 1400 Émile-Zola' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='name' />
+    <tag k='name' v='Cette rue privée ne porte aucun nom' />
+  </node>
+  <node id='-398225384' action='modify' lat='45.42495976572' lon='-71.91204071581'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='new' />
+    <tag k='name' v='Rue Gignac' />
+  </node>
+  <node id='-995911746' action='modify' lat='45.36198365431' lon='-71.9371193701'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Il s&apos;agit officiellement ici d&apos;une entrée privée' />
+  </node>
+  <node id='-2933615438' action='modify' lat='45.4546218796' lon='-71.90104902327'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Cette entrée privée ne semble n&apos;avoir qu&apos;une voie, et devrait être service=driveway' />
+  </node>
+  <node id='-2577620876' action='modify' lat='45.33985803555' lon='-72.04097986758'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ceci n&apos;est que l&apos;entrée d&apos;un complexe d&apos;habitations et devrait être service=driveway' />
+  </node>
 </osm>
