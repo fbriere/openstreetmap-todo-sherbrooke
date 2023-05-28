@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='never' generator='JOSM'>
-  <node id='-2692606074' action='modify' lat='45.41210329113' lon='-71.83706431713'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='oneway' />
-    <tag k='name' v='Ajouter: Jetté (sur toute la longueur)' />
-  </node>
   <node id='-908017917' action='modify' lat='45.39911789189' lon='-71.89065978785'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='oneway' />
@@ -29,11 +24,6 @@
   <node id='-170276383' action='modify' lat='45.4043071367' lon='-71.89089419631'>
     <tag k='TODO:type' v='oneway' />
     <tag k='name' v='Vérifier: Certains segments du stationnement la Grenouillère' />
-  </node>
-  <node id='-417805501' action='modify' lat='45.40378510383' lon='-71.89302222547'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='oneway' />
-    <tag k='name' v='Ajouter: de Lorraine' />
   </node>
   <node id='-2313562607' action='modify' lat='45.43523176403' lon='-71.86833315023'>
     <tag k='TODO:status' v='certain' />
@@ -139,16 +129,6 @@
   <node id='-2924471043' action='modify' lat='45.38931676491' lon='-71.92629665405'>
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Confirmer tous les tags sur cette entrée' />
-  </node>
-  <node id='-983056558' action='modify' lat='45.41527730535' lon='-71.8320036149'>
-    <tag k='TODO:planned_end' v='2023-06-22' />
-    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
-    <tag k='TODO:start_date' v='2022-08-25' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='4091' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Aménagement de voies cyclables sur la rue King Est (de Raby à Rocheuses)' />
   </node>
   <node id='-4021062881' action='modify' lat='45.41037423701' lon='-71.94312751561'>
     <tag k='TODO:status' v='certain' />
@@ -280,13 +260,6 @@
     <tag k='TODO:type' v='oneway' />
     <tag k='name' v='Ajouter: Mimi-Shea (portion en anse au sud-ouest)' />
   </node>
-  <node id='-1034283626' action='modify' lat='45.41514032308' lon='-71.83174946487'>
-    <tag k='TODO:session' v='2020-11-16' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Entrée vers Arthur-Maillé' />
-  </node>
   <node id='-2328886171' action='modify' lat='45.36877153307' lon='-71.8597000891'>
     <tag k='TODO:session' v='2021-10-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -327,11 +300,6 @@
     <tag k='TODO:ville:projet' v='3387' />
     <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Construction d&apos;un trottoir entre Atto et Cardinal-Lavigerie' />
-  </node>
-  <node id='-804570073' action='modify' lat='45.40188458921' lon='-71.88920753174'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.12' />
-    <tag k='TODO:type' v='traffic_signal' />
-    <tag k='name' v='Ajouter: King/Dépôt' />
   </node>
   <node id='-3544582621' action='modify' lat='45.41562373039' lon='-71.93922758639'>
     <tag k='TODO:status' v='certain' />
@@ -631,10 +599,6 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Vérifier: Est-ce que la rue Terrien existe toujours?' />
   </node>
-  <node id='-397513540' action='modify' lat='45.40194164368' lon='-71.88916951686'>
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Confirmer: Virage à gauche interdit pour tous?' />
-  </node>
   <node id='-331416006' action='modify' lat='45.3939654884' lon='-71.88747167721'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='restriction' />
@@ -669,11 +633,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Virage à gauche (Brooks → King dir. ouest) [terre-plein ouvert]' />
-  </node>
-  <node id='-1093209175' action='modify' lat='45.40265539245' lon='-71.88743412629'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Entrée seulement' />
   </node>
   <node id='-2564873750' action='modify' lat='45.40368927871' lon='-71.88570410281'>
     <tag k='TODO:status' v='certain' />
@@ -817,11 +776,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='oneway' />
     <tag k='name' v='Ajouter: 2 entrées' />
-  </node>
-  <node id='-2192246073' action='modify' lat='45.40574946193' lon='-71.89607084334'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='oneway' />
-    <tag k='name' v='Ajouter: Court (de Dufferin à William)' />
   </node>
   <node id='-4186832823' action='modify' lat='45.4021827' lon='-71.8940913704'>
     <tag k='TODO:status' v='certain' />
@@ -1227,16 +1181,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Passage pour piétons' />
   </node>
-  <node id='-3151182025' action='modify' lat='45.41636179462' lon='-71.83063032389'>
-    <tag k='TODO:planned_end' v='2023-06-22' />
-    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
-    <tag k='TODO:start_date' v='2022-08-25' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='4091' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ajout d&apos;un trottoir (entre Raby et Rocheuses)' />
-  </node>
   <node id='-324858106' action='modify' lat='45.47499484022' lon='-71.94086909831'>
     <tag k='TODO:planned_end' v='2023-06-02' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
@@ -1286,17 +1230,6 @@
     <tag k='TODO:ville:projet' v='4084' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Retrait du trottoir du côté ouest' />
-  </node>
-  <node id='-951654269' action='modify' lat='45.40974909889' lon='-71.82968618631'>
-    <tag k='TODO:planned_end' v='2022-06-30' />
-    <tag k='TODO:session' v='2022-12-06' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2022-06-20' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='4052' />
-    <tag k='TODO:ville:travaux' v='2022' />
-    <tag k='name' v='Ajout de trottoir (côté est)' />
   </node>
   <node id='-1374413806' action='modify' lat='45.36346670005' lon='-71.86189174743'>
     <tag k='TODO:status' v='completed' />
@@ -1356,16 +1289,6 @@
     <tag k='TODO:type' v='geometry' />
     <tag k='name' v='Intersection mal cartographiée' />
   </node>
-  <node id='-1098748155' action='modify' lat='45.40908627279' lon='-71.8395996201'>
-    <tag k='TODO:planned_end' v='2021-08-27' />
-    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Raby.pdf' />
-    <tag k='TODO:start_date' v='2021-05-10' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='3389' />
-    <tag k='TODO:ville:travaux' v='2021' />
-    <tag k='name' v='Confirmer: Bandes unidirectionnelles' />
-  </node>
   <node id='-4122297151' action='modify' lat='45.36156905473' lon='-71.98649885416'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='certain' />
@@ -1373,21 +1296,6 @@
     <tag k='TODO:ville:projet' v='2320' />
     <tag k='TODO:ville:travaux' v='2020' />
     <tag k='name' v='Ajouter: Bandes cyclables unidirectionnelles' />
-  </node>
-  <node id='-318650804' action='modify' lat='45.41113495584' lon='-71.84082806647'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Confirmer: Bande bidirectionnelle du côté ouest' />
-  </node>
-  <node id='-368144651' action='modify' lat='45.40959091945' lon='-71.83993221402'>
-    <tag k='TODO:planned_end' v='2021-08-27' />
-    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Raby.pdf' />
-    <tag k='TODO:start_date' v='2021-05-10' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='3389' />
-    <tag k='TODO:ville:travaux' v='2021' />
-    <tag k='name' v='Confirmer: Ajout d&apos;un trottoir (côté ouest)' />
   </node>
   <node id='-2791098888' action='modify' lat='45.3869753074' lon='-71.92663997948'>
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
@@ -2028,13 +1936,6 @@
     <tag k='TODO:type' v='bicycle' />
     <tag k='name' v='Casiers à vélo sécurisés (2 x 3)' />
   </node>
-  <node id='-630310503' action='modify' lat='45.40358287696' lon='-71.89051464334'>
-    <tag k='TODO:comments' v='Banc d’essai réalisé jusqu’en 2023' />
-    <tag k='TODO:source' v='https://www.sts.qc.ca/2022/12/08/les-casiers-a-velo-securises-de-velo-transit-encore-accessibles-cet-hiver/' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='name' v='Casiers à vélo sécurisés (2 x 3)' />
-  </node>
   <node id='-3079927367' action='modify' lat='45.39422683311' lon='-71.92780540466'>
     <tag k='TODO:source' v='https://www.latribune.ca/2020/06/25/cinq-nouvelles-stations-de-reparation-de-velos-04e78604b3ce18cff174392a44387ab3/' />
     <tag k='TODO:status' v='completed' />
@@ -2054,12 +1955,6 @@
     <tag k='name' v='Station de réparation de vélo' />
   </node>
   <node id='-4027615685' action='modify' lat='45.40655731875' lon='-71.84934944451'>
-    <tag k='TODO:source' v='https://www.latribune.ca/2020/06/25/cinq-nouvelles-stations-de-reparation-de-velos-04e78604b3ce18cff174392a44387ab3/' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='name' v='Station de réparation de vélo' />
-  </node>
-  <node id='-2318083631' action='modify' lat='45.41048533151' lon='-71.88714981213'>
     <tag k='TODO:source' v='https://www.latribune.ca/2020/06/25/cinq-nouvelles-stations-de-reparation-de-velos-04e78604b3ce18cff174392a44387ab3/' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='bicycle' />
