@@ -174,10 +174,10 @@
     <tag k='name' v='Prolongement de la rue de la Golconda' />
   </node>
   <node id='-2711153090' action='modify' lat='45.38487300865' lon='-71.89759971857'>
-    <tag k='TODO:planned_end' v='± 1 mois' />
+    <tag k='TODO:planned_end' v='2023-06-30' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/dunantweb.pdf' />
-    <tag k='TODO:start_date' v='Printemps 2023' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2023-05-29' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4097' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -898,9 +898,9 @@
   </node>
   <node id='-1878766711' action='modify' lat='45.38634612961' lon='-71.89615130961'>
     <tag k='TODO:planned_end' v='2023-06-30' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/dunantweb.pdf' />
     <tag k='TODO:start_date' v='2023-05-29' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='4097' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1003,16 +1003,20 @@
     <tag k='name' v='Construction d&apos;un trottoir entre les rues Bertrand-Fabi et Charlevoix' />
   </node>
   <node id='-2393222287' action='modify' lat='45.39276944562' lon='-71.99436308026'>
+    <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Jacques-web.pdf' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2023-05-23' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='4083' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un trottoir entre le boulevard Industriel et la rue Saint-Patrick' />
   </node>
   <node id='-1950104893' action='modify' lat='45.39324410131' lon='-71.99436308026'>
+    <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Jacques-web.pdf' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2023-05-23' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4083' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1029,20 +1033,20 @@
     <tag k='name' v='Construction d&apos;un trottoir sur la rue Marcel-Marcotte, entre le boulevard du Mi-Vallon et la rue Malherbe' />
   </node>
   <node id='-4200494462' action='modify' lat='45.40260831821' lon='-71.92062379003'>
-    <tag k='TODO:planned_end' v='2022-12-02' />
+    <tag k='TODO:planned_end' v='2023-07-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/WoodRiouxweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-22' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='4090' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Reconstruction du trottoir en retrait de la chaussée entre de Portland et Albert-Skinner' />
   </node>
   <node id='-4238474819' action='modify' lat='45.4021488034' lon='-71.92068279326'>
-    <tag k='TODO:planned_end' v='2022-12-02' />
+    <tag k='TODO:planned_end' v='2023-07-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/WoodRiouxweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-22' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='4090' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -2007,5 +2011,21 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ceci n&apos;est que l&apos;entrée d&apos;un complexe d&apos;habitations et devrait être service=driveway' />
+  </node>
+  <node id='-280036851' action='modify' lat='45.47121840006' lon='-71.94292425996'>
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/SaintJeanBaptisteweb.pdf' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='6101' />
+    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='name' v='Ajout d&apos;un trottoir (séparé) entre Sainte-Praxède et Beaudoin' />
+  </node>
+  <node id='-3172960804' action='modify' lat='45.47185591418' lon='-71.94423477144'>
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/SaintJeanBaptisteweb.pdf' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='6101' />
+    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='name' v='Ajout d&apos;un passage piétonnier' />
   </node>
 </osm>
