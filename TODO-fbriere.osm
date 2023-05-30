@@ -870,9 +870,9 @@
     <tag k='TODO:planned_end' v='2023-09' />
     <tag k='TODO:session' v='2023-02-07' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='misc' />
-    <tag k='name' v='Fermeture et vente d&apos;une portion du chemin Labonté' />
+    <tag k='name' v='Fermeture et vente du chemin Labonté (au complet)' />
   </node>
   <node id='-96754525' action='modify' lat='45.35134226984' lon='-71.9987082535'>
     <tag k='TODO:session' v='2023-03-07' />
