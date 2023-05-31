@@ -276,9 +276,9 @@
     <tag k='TODO:session' v='2022-04-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
+    <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='4962' />
-    <tag k='name' v='Retrait des arrêts sur Lionel-Groulx et installation de feux clignottants pour piétons' />
+    <tag k='name' v='Installation de feux clignottants pour piétons' />
   </node>
   <node id='-3920086217' action='modify' lat='45.41460251497' lon='-71.94890422672'>
     <tag k='TODO:planned_end' v='2023-06-22' />
@@ -581,14 +581,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-1281519133' action='modify' lat='45.42190441452' lon='-71.94748880625'>
-    <tag k='TODO:session' v='2022-04-05' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='TODO:ville:projet' v='4962' />
-    <tag k='name' v='Virages à gauche (→ Laure-Conan) (→ Lionel-Groulx)' />
   </node>
   <node id='-2661280359' action='modify' lat='45.43335692875' lon='-71.86837435842'>
     <tag k='TODO:status' v='certain' />
@@ -2027,5 +2019,13 @@
     <tag k='TODO:ville:projet' v='6101' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un passage piétonnier' />
+  </node>
+  <node id='-2138411067' action='modify' lat='45.43199231287' lon='-71.86887525373'>
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Déterminer où cartographier le poste d&apos;essence' />
+  </node>
+  <node id='-4136571488' action='modify' lat='45.40916158641' lon='-71.85136444934'>
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Confirmer si le poste d&apos;essence est toujours en service sous une autre bannière' />
   </node>
 </osm>
