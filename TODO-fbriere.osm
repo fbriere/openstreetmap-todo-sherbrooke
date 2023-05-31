@@ -1233,10 +1233,8 @@
     <tag k='name' v='Pavage de Parkdale à Charles-Lennox' />
   </node>
   <node id='-3465891599' action='modify' lat='45.42432913964' lon='-72.03254701853'>
-    <tag k='TODO:planned_end' v='2022-11-18' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2022-10-24' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='4064' />
     <tag k='TODO:ville:travaux' v='2023' />
