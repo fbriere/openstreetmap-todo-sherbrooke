@@ -114,13 +114,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions (face à Mondrian)' />
   </node>
-  <node id='-1703084986' action='modify' lat='45.37308656095' lon='-71.98061944127'>
-    <tag k='TODO:check_date' v='2022-09-01' />
-    <tag k='TODO:session' v='2016-09-19' />
-    <tag k='TODO:status' v='stalled' />
-    <tag k='TODO:type' v='new' />
-    <tag k='name' v='Ouverture de la rue Garneau' />
-  </node>
   <node id='-1197900960' action='modify' lat='45.38266135436' lon='-71.94370152712'>
     <tag k='TODO:source' v='Maxar' />
     <tag k='TODO:type' v='footway' />
