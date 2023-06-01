@@ -1331,8 +1331,8 @@
   <node id='-3372570451' action='modify' lat='45.40658490942' lon='-71.83361012766'>
     <tag k='TODO:planned_end' v='2023-09-29' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-06-26' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2023-06-01' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5913' />
     <tag k='TODO:ville:travaux' v='2023' />
