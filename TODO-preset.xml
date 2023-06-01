@@ -26,7 +26,7 @@
         <text key="TODO:type" text="Type" match="key" />
         <space />
         <combo key="TODO:status" text="Status"
-            values="planned,ongoing,completed,certain,stalled" />
+            values="planned,ongoing,completed,certain,dubious" />
         <text key="TODO:start_date" text="Start Date" />
         <text key="TODO:planned_end" text="Planned End" />
         <text key="TODO:check_date" text="Check Date" />

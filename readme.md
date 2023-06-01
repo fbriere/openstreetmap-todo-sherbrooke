@@ -42,8 +42,8 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
   - `planned`: Travaux prévus
   - `ongoing`: Travaux en cours
   - `completed`: Travaux (théoriquement) complétés
-  - `stalled`: Travaux originalement prévus, mais sans progrès visible depuis un certain temps
   - `certain`: Présence confirmée, mais auprès d'une source qui ne peut être citée; doit donc être vérifié sur place
+  - `dubious`: Travaux sans aucun progrès visible depuis leur annonce initiale, possiblement annulés entre-temps
 
 - `TODO:start_date`: Date prévue du début des travaux
 - `TODO:planned_end`: Date prévue de la fin des travaux

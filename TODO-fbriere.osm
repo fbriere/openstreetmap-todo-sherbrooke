@@ -76,7 +76,7 @@
   <node id='-3209450996' action='modify' lat='45.35141087187' lon='-71.99307732493'>
     <tag k='TODO:check_date' v='2023-04-16' />
     <tag k='TODO:session' v='2017-07-03' />
-    <tag k='TODO:status' v='stalled' />
+    <tag k='TODO:status' v='dubious' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -96,7 +96,7 @@
   <node id='-109008042' action='modify' lat='45.38747638222' lon='-71.89842045575'>
     <tag k='TODO:check_date' v='2022-09' />
     <tag k='TODO:session' v='2017-03-06' />
-    <tag k='TODO:status' v='stalled' />
+    <tag k='TODO:status' v='dubious' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -110,7 +110,7 @@
     <tag k='TODO:check_date' v='2019-05-12' />
     <tag k='TODO:session' v='2016-10-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='stalled' />
+    <tag k='TODO:status' v='dubious' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions (face à Mondrian)' />
   </node>
@@ -137,7 +137,7 @@
     <tag k='TODO:check_date' v='2023-04-16' />
     <tag k='TODO:comments' v='Abandonné?' />
     <tag k='TODO:source' v='survey' />
-    <tag k='TODO:status' v='stalled' />
+    <tag k='TODO:status' v='dubious' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Retrait de l&apos;arrêt en septembre 2019' />
   </node>
@@ -1779,7 +1779,7 @@
   <node id='-3769973716' action='modify' lat='45.39156396046' lon='-71.87530519724'>
     <tag k='TODO:check_date' v='2022-12-15' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='stalled' />
+    <tag k='TODO:status' v='dubious' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Chaussée partagée jusqu&apos;à Galt/Bowen' />
   </node>
