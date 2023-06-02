@@ -1171,7 +1171,8 @@
     <tag k='name' v='Passage pour piétons' />
   </node>
   <node id='-324858106' action='modify' lat='45.47499484022' lon='-71.94086909831'>
-    <tag k='TODO:planned_end' v='2023-06-02' />
+    <tag k='TODO:comments' v='Travaux de finition à compléter' />
+    <tag k='TODO:planned_end' v='2023-06-23' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='ongoing' />
@@ -1181,7 +1182,8 @@
     <tag k='name' v='Conversion en bandes unidirectionnelles (incl. contre-sens)' />
   </node>
   <node id='-766013725' action='modify' lat='45.47458858166' lon='-71.93957090914'>
-    <tag k='TODO:planned_end' v='2023-06-02' />
+    <tag k='TODO:comments' v='Travaux de finition à compléter' />
+    <tag k='TODO:planned_end' v='2023-06-23' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='ongoing' />
@@ -1191,7 +1193,8 @@
     <tag k='name' v='Conversion en chaussée désignée' />
   </node>
   <node id='-1293154692' action='modify' lat='45.47473716543' lon='-71.94008052617'>
-    <tag k='TODO:planned_end' v='2023-06-02' />
+    <tag k='TODO:comments' v='Travaux de finition à compléter' />
+    <tag k='TODO:planned_end' v='2023-06-23' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='ongoing' />
@@ -1201,7 +1204,8 @@
     <tag k='name' v='Retrait du trottoir du côté nord' />
   </node>
   <node id='-815141684' action='modify' lat='45.47515658862' lon='-71.94244623452'>
-    <tag k='TODO:planned_end' v='2023-06-02' />
+    <tag k='TODO:comments' v='Travaux de finition à compléter' />
+    <tag k='TODO:planned_end' v='2023-06-23' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='ongoing' />
@@ -1211,7 +1215,8 @@
     <tag k='name' v='Piste bidirectionnelle surélevée et séparée de la zone de stationnement' />
   </node>
   <node id='-2976137807' action='modify' lat='45.47451522723' lon='-71.94052309066'>
-    <tag k='TODO:planned_end' v='2023-06-02' />
+    <tag k='TODO:comments' v='Travaux de finition à compléter' />
+    <tag k='TODO:planned_end' v='2023-06-23' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='ongoing' />
@@ -1349,7 +1354,7 @@
     <tag k='name' v='Aménagement de jardins communautaires au parc Bureau' />
   </node>
   <node id='-919357655' action='modify' lat='45.40161772655' lon='-71.87905166452'>
-    <tag k='TODO:planned_end' v='2023-06-02' />
+    <tag k='TODO:planned_end' v='2023-06-16' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-05-11' />
     <tag k='TODO:status' v='ongoing' />
@@ -1434,7 +1439,7 @@
     <tag k='TODO:planned_end' v='2023-06-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-04-17' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5911' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1451,7 +1456,7 @@
     <tag k='name' v='Aménagement d&apos;une aire de jeux 5-12 ans au parc du Debonair' />
   </node>
   <node id='-578892741' action='modify' lat='45.39308043344' lon='-71.87023965828'>
-    <tag k='TODO:planned_end' v='2023-06-02' />
+    <tag k='TODO:planned_end' v='2023-06-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-08-08' />
     <tag k='TODO:status' v='ongoing' />
@@ -1464,7 +1469,7 @@
     <tag k='TODO:planned_end' v='2023-06-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-09-15' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4681' />
     <tag k='TODO:ville:travaux' v='2023' />
