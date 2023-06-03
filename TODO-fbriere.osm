@@ -300,6 +300,7 @@
     <tag k='name' v='Retirer: Honoré-de-Balzac' />
   </node>
   <node id='-1228442260' action='modify' lat='45.40012239423' lon='-71.88945652127'>
+    <tag k='TODO:comments' v='Est-ce que cela impliquera une interdiction de virage à gauche vers King Ouest?' />
     <tag k='TODO:planned_end' v='2023-10-31' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/400/en-route-vers-une-nouvelle-rue-wellington-sud' />
     <tag k='TODO:start_date' v='2023-04-17' />
@@ -307,7 +308,7 @@
     <tag k='TODO:type' v='oneway' />
     <tag k='TODO:ville:projet' v='4654' />
     <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ajouter: Wellington Sud vers le nord (après la fin des travaux)' />
+    <tag k='name' v='Ajouter: Wellington Sud vers le nord (entre King Ouest et Dépôt) (après la fin des travaux)' />
   </node>
   <node id='-1317990822' action='modify' lat='45.42203618256' lon='-71.88231647283'>
     <tag k='TODO:status' v='certain' />
@@ -639,9 +640,12 @@
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Virage à gauche (King → Saint-François)' />
   </node>
-  <node id='-3640286950' action='modify' lat='45.40132393216' lon='-71.89030945569'>
+  <node id='-742864720' action='modify' lat='45.40141432939' lon='-71.89034700662'>
+    <tag k='TODO:planned_end' v='2023-06' />
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/05/26/virage-a-gauche-wellington-sud-277-constats-dinfractions-plus-tard-RJTYHEUK3ZDQ5NWH7CQW4FVM5E/' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virages à gauche (toutes directions)?' />
+    <tag k='name' v='Virage à gauche: l&apos;exception pour autobus devrait être retirée cet été (une fois le pont rouvert?)' />
   </node>
   <node id='-32252885' action='modify' lat='45.39937376411' lon='-71.89506769314'>
     <tag k='TODO:status' v='certain' />
