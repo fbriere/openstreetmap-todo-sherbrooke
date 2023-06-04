@@ -25,11 +25,6 @@
     <tag k='TODO:type' v='oneway' />
     <tag k='name' v='Vérifier: Certains segments du stationnement la Grenouillère' />
   </node>
-  <node id='-2313562607' action='modify' lat='45.43523176403' lon='-71.86833315023'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Ajouter: cycleway=track (bidirectionnelle, côté ouest) de l&apos;intersection jusqu&apos;à la bretelle nord de l&apos;autoroute 610' />
-  </node>
   <node id='-3702790255' action='modify' lat='45.47602928542' lon='-71.94070817113'>
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Parc du Centenaire (dans le parc de la Rive) renommé halte du Centenaire' />
@@ -216,13 +211,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Interventions localisées pour sécuriser le lien cyclable de la rue du Conseil (entre la 14e et 15e Avenue)' />
   </node>
-  <node id='-116934703' action='modify' lat='45.39750922464' lon='-71.89602792397'>
-    <tag k='TODO:session' v='2020-10-13' />
-    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/527/amelioration-de-la-fluidite-sur-la-rue-belvedere-sud-et-protection-de-l-intersection-des-rues-king-ouest-et-belvedere' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virage à gauche (→ des Fusiliers)' />
-  </node>
   <node id='-529619971' action='modify' lat='45.36687960209' lon='-71.95513845026'>
     <tag k='TODO:session' v='2021-02-08' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -310,11 +298,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajouter: Wellington Sud vers le nord (entre King Ouest et Dépôt) (après la fin des travaux)' />
   </node>
-  <node id='-1317990822' action='modify' lat='45.42203618256' lon='-71.88231647283'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Confirmer: Levée des restrictions de virage vers du Souvenir' />
-  </node>
   <node id='-613602352' action='modify' lat='45.40904342704' lon='-71.92531563409'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='restriction' />
@@ -329,8 +312,10 @@
     <tag k='TODO:type' v='traffic_signal' />
     <tag k='name' v='Ajouter: Bowen/Caen' />
   </node>
-  <node id='-910233483' action='modify' lat='45.4037608402' lon='-71.8674623993'>
+  <node id='-3801679808' action='modify' lat='45.4037627234' lon='-71.86733633548'>
+    <tag k='TODO:check_date' v='2023-06-03' />
     <tag k='TODO:source' v='Règlement no 1, articles 5.1.12.2 et 5.1.16/6' />
+    <tag k='TODO:status' v='dubious' />
     <tag k='TODO:type' v='traffic_signal' />
     <tag k='name' v='Ajouter: Conseil/15e avenue' />
   </node>
@@ -533,12 +518,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-3654684784' action='modify' lat='45.42128859364' lon='-71.88041846239'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-1517239729' action='modify' lat='45.40271725514' lon='-71.84617859048'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
@@ -546,13 +525,6 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-191002582' action='modify' lat='45.38686474434' lon='-71.88906082221'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-1785550178' action='modify' lat='45.42690765171' lon='-71.86802611879'>
-    <tag k='TODO:check_date' v='2017-08' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
@@ -576,11 +548,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-2661280359' action='modify' lat='45.43335692875' lon='-71.86837435842'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Ajouter: cycleway=track de l&apos;intersection jusqu&apos;à la 13e avenue' />
-  </node>
   <node id='-2045390899' action='modify' lat='45.39993405844' lon='-71.88895226061'>
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Vérifier: Est-ce que la rue Therrien existe toujours?' />
@@ -594,11 +561,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Retirer: access=private (convertir en driveway?)' />
-  </node>
-  <node id='-214149821' action='modify' lat='45.39811285343' lon='-71.89893812209'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Confirmer: Vélos interdits sur la passerelle?' />
   </node>
   <node id='-3582496493' action='modify' lat='45.3986403751' lon='-71.91480397515'>
     <tag k='TODO:status' v='certain' />
@@ -766,15 +728,6 @@
     <tag k='TODO:type' v='oneway' />
     <tag k='name' v='Ajouter: 2 entrées' />
   </node>
-  <node id='-4186832823' action='modify' lat='45.4021827' lon='-71.8940913704'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='oneway' />
-    <tag k='name' v='Ajouter: Débarcadaire du Séminaire' />
-  </node>
-  <node id='-1503644924' action='modify' lat='45.40206970498' lon='-71.89473778278'>
-    <tag k='TODO:type' v='geometry' />
-    <tag k='name' v='Confirmer: Stationnement connecte sur Peel, pas sur Marquette; ce qu&apos;on voit sur imagerie sont des passages piétons' />
-  </node>
   <node id='-1972924670' action='modify' lat='45.39926170514' lon='-71.91870063677'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='restriction' />
@@ -800,11 +753,6 @@
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Ajouter: Demi-tours (nord→sud et sud→nord)' />
   </node>
-  <node id='-1687243693' action='modify' lat='45.40899211614' lon='-71.86940700084'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Sortie seulement' />
-  </node>
   <node id='-3792062620' action='modify' lat='45.40463087188' lon='-71.96358204424'>
     <tag k='TODO:planned_end' v='± 4 semaines' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/05/01/intersection-410-et-industriel-quatre-semaines-pour-installer-les-feux-de-circulation-VVSHELSD75ASTAI74TPB7TZA3Q/' />
@@ -825,12 +773,6 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Passage pour piétons' />
-  </node>
-  <node id='-3136912442' action='modify' lat='45.3880641075' lon='-71.9295018965'>
-    <tag k='TODO:session' v='2023-01-24' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2273437940' action='modify' lat='45.40466853332' lon='-71.9350594309'>
     <tag k='TODO:planned_end' v='2022-12' />
@@ -904,10 +846,6 @@
     <tag k='TODO:ville:projet' v='1243' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout de voies cyclables sur la rue McManamy, entre le pont Jacques-Cartier et la rue Belvédère Sud' />
-  </node>
-  <node id='-2661005263' action='modify' lat='45.40902085397' lon='-71.86812220345'>
-    <tag k='TODO:type' v='name' />
-    <tag k='name' v='Confirmer: absence de nom pour cette section' />
   </node>
   <node id='-3439725826' action='modify' lat='45.3977788438' lon='-71.91392556611'>
     <tag k='TODO:planned_end' v='2022-12' />
@@ -1294,6 +1232,7 @@
     <tag k='name' v='Ajouter: Bandes cyclables unidirectionnelles' />
   </node>
   <node id='-2791098888' action='modify' lat='45.3869753074' lon='-71.92663997948'>
+    <tag k='TODO:check_date' v='2023-06-03' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
@@ -1538,31 +1477,11 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Pavage d&apos;une partie des rues Robert-Peel et Lloyd ainsi que de la totalité de la rue Spring Garden?' />
   </node>
-  <node id='-2742479661' action='modify' lat='45.42285914054' lon='-71.88450643206'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Bandes cyclables sur 24-Juin' />
-  </node>
-  <node id='-3795862737' action='modify' lat='45.42195800444' lon='-71.87354248755'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Chaussée désignée sur 24-Juin (entre 12e et 13e)' />
-  </node>
   <node id='-591680644' action='modify' lat='45.40043219247' lon='-71.89205959573'>
     <tag k='TODO:source' v='Bing' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='geometry' />
     <tag k='name' v='Le terre-plein est ouvert à cet endroit (mais interdit à tous?)' />
-  </node>
-  <node id='-560092666' action='modify' lat='45.43767079456' lon='-71.86839582682'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Ajouter: bicycle=dismount sur le pont' />
-  </node>
-  <node id='-3956872326' action='modify' lat='45.44176601979' lon='-71.86805250406'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Ajouter: cycleway=track (bidirectionnelle, côté est) de la bretelle jusqu&apos;à la piste existante' />
   </node>
   <node id='-2802888291' action='modify' lat='45.39465155679' lon='-71.92754119702'>
     <tag k='TODO:planned_end' v='2022-08-12' />
@@ -1634,26 +1553,6 @@
     <tag k='TODO:ville:projet' v='5013' />
     <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Mise en place de dos d&apos;âne' />
-  </node>
-  <node id='-2272090344' action='modify' lat='45.42728836048' lon='-71.87236548543'>
-    <tag k='TODO:planned_end' v='2021-11-19' />
-    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Montpellier.pdf' />
-    <tag k='TODO:start_date' v='2021-08-09' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='1443' />
-    <tag k='TODO:ville:travaux' v='2021' />
-    <tag k='name' v='Ajout d&apos;un corridor piétonnier (côté ouest, entre Brûlotte et Caroline)' />
-  </node>
-  <node id='-3343105994' action='modify' lat='45.42556404525' lon='-71.87219382405'>
-    <tag k='TODO:planned_end' v='2021-11-19' />
-    <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Montpellier.pdf' />
-    <tag k='TODO:start_date' v='2021-08-09' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='1443' />
-    <tag k='TODO:ville:travaux' v='2021' />
-    <tag k='name' v='Ajout de corridors piétonniers (deux côtés, entre 12e et Caroline)' />
   </node>
   <node id='-3166241484' action='modify' lat='45.43092882117' lon='-71.85350418359'>
     <tag k='TODO:planned_end' v='2021-11-05' />
@@ -1786,23 +1685,11 @@
     <tag k='name' v='Ajouter: Chaussée partagée entre Galt et Octave-Gagné' />
   </node>
   <node id='-3769973716' action='modify' lat='45.39156396046' lon='-71.87530519724'>
-    <tag k='TODO:check_date' v='2022-12-15' />
+    <tag k='TODO:check_date' v='2023-06-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='dubious' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Chaussée partagée jusqu&apos;à Galt/Bowen' />
-  </node>
-  <node id='-1243044032' action='modify' lat='45.41330407642' lon='-71.89269662976'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Ajouter: Chaussée partagée jusqu&apos;à Lévesque' />
-  </node>
-  <node id='-3380088927' action='modify' lat='45.41521704781' lon='-71.89788938642'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Ajouter: Chaussée partagée' />
   </node>
   <node id='-240955581' action='modify' lat='45.34544968958' lon='-71.9618225956'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1925,13 +1812,6 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Vente de l&apos;église Marie-Médiatrice' />
   </node>
-  <node id='-1721754134' action='modify' lat='45.39491195047' lon='-71.89655766025'>
-    <tag k='TODO:comments' v='Banc d’essai réalisé jusqu’en 2023' />
-    <tag k='TODO:source' v='https://www.sts.qc.ca/2022/12/08/les-casiers-a-velo-securises-de-velo-transit-encore-accessibles-cet-hiver/' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='name' v='Casiers à vélo sécurisés (2 x 3)' />
-  </node>
   <node id='-3079927367' action='modify' lat='45.39422683311' lon='-71.92780540466'>
     <tag k='TODO:source' v='https://www.latribune.ca/2020/06/25/cinq-nouvelles-stations-de-reparation-de-velos-04e78604b3ce18cff174392a44387ab3/' />
     <tag k='TODO:status' v='completed' />
@@ -2027,5 +1907,13 @@
   <node id='-4136571488' action='modify' lat='45.40916158641' lon='-71.85136444934'>
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Confirmer si le poste d&apos;essence est toujours en service sous une autre bannière' />
+  </node>
+  <node id='-589900300' action='modify' lat='45.43082724028' lon='-71.86833904625'>
+    <tag k='TODO:type' v='traffic_signal' />
+    <tag k='name' v='Confirmer présence/absence de feu de circulation' />
+  </node>
+  <node id='-3426532853' action='modify' lat='45.40447927392' lon='-71.8916331245'>
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Est-ce que le stationnement est toujours accessible via Whiting durant les travaux?' />
   </node>
 </osm>
