@@ -307,18 +307,6 @@
     <tag k='TODO:type' v='surface' />
     <tag k='name' v='Pavage de Haskell Hill?' />
   </node>
-  <node id='-6118451' action='modify' lat='45.39025859478' lon='-71.87161445752'>
-    <tag k='TODO:source' v='Règlement no 1, articles 5.1.12.2 et 5.1.16/6' />
-    <tag k='TODO:type' v='traffic_signal' />
-    <tag k='name' v='Ajouter: Bowen/Caen' />
-  </node>
-  <node id='-3801679808' action='modify' lat='45.4037627234' lon='-71.86733633548'>
-    <tag k='TODO:check_date' v='2023-06-03' />
-    <tag k='TODO:source' v='Règlement no 1, articles 5.1.12.2 et 5.1.16/6' />
-    <tag k='TODO:status' v='dubious' />
-    <tag k='TODO:type' v='traffic_signal' />
-    <tag k='name' v='Ajouter: Conseil/15e avenue' />
-  </node>
   <node id='-2495625818' action='modify' lat='45.36963456423' lon='-71.86313331664'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
