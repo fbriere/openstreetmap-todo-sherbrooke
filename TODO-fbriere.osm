@@ -745,7 +745,7 @@
     <tag k='TODO:planned_end' v='± 4 semaines' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/05/01/intersection-410-et-industriel-quatre-semaines-pour-installer-les-feux-de-circulation-VVSHELSD75ASTAI74TPB7TZA3Q/' />
     <tag k='TODO:start_date' v='2023-05-07' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='traffic_signal' />
     <tag k='name' v='Ajouter: Industriel / 410' />
   </node>
