@@ -1904,4 +1904,9 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Est-ce que le stationnement est toujours accessible via Whiting durant les travaux?' />
   </node>
+  <node id='-1692537365' action='modify' lat='45.37129086692' lon='-71.98798477918'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='traffic_signal' />
+    <tag k='name' v='Ajouter: Bourque / Plaza Rock-Forest (manquant du côté sud)' />
+  </node>
 </osm>
