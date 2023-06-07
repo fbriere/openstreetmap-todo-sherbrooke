@@ -253,14 +253,6 @@
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Virage à gauche (→ Comtois) + (Comtois → ouest, 7-9h, 16-18h)' />
   </node>
-  <node id='-665921081' action='modify' lat='45.42201500804' lon='-71.94744990531'>
-    <tag k='TODO:session' v='2022-04-05' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='crossing' />
-    <tag k='TODO:ville:projet' v='4962' />
-    <tag k='name' v='Installation de feux clignottants pour piétons' />
-  </node>
   <node id='-3920086217' action='modify' lat='45.41460251497' lon='-71.94890422672'>
     <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:session' v='2022-04-05' />
