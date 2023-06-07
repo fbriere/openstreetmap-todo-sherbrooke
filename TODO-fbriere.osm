@@ -1589,15 +1589,6 @@
     <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Patinoire avec bandes permanentes + Volley-ball de plage' />
   </node>
-  <node id='-1178536956' action='modify' lat='45.38009070242' lon='-71.98258951575'>
-    <tag k='TODO:planned_end' v='2020-06-20' />
-    <tag k='TODO:start_date' v='2020-05-12' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='2585' />
-    <tag k='TODO:ville:travaux' v='2020' />
-    <tag k='name' v='Aménagement d&apos;un pumptrack' />
-  </node>
   <node id='-968927850' action='modify' lat='45.46711365389' lon='-71.96999252379'>
     <tag k='TODO:source' v='Bing' />
     <tag k='TODO:status' v='certain' />
