@@ -276,11 +276,11 @@
     <tag k='TODO:planned_end' v='2021-10-01' />
     <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/St%20Francis.pdf' />
     <tag k='TODO:start_date' v='2021-08-09' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='3387' />
     <tag k='TODO:ville:travaux' v='2021' />
-    <tag k='name' v='Construction d&apos;un trottoir entre Atto et Cardinal-Lavigerie' />
+    <tag k='name' v='Construction d&apos;un trottoir entre Atto et Cardinal-Lavigerie (côté est)' />
   </node>
   <node id='-3544582621' action='modify' lat='45.41562373039' lon='-71.93922758639'>
     <tag k='TODO:status' v='certain' />
@@ -1545,7 +1545,7 @@
     <tag k='TODO:planned_end' v='2021-09-17' />
     <tag k='TODO:source' v='https://contenu.maruche.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Routes%20et%20transport/Fiches-info-travaux-2021/Murray.pdf' />
     <tag k='TODO:start_date' v='2021-05-31' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='3391' />
     <tag k='TODO:ville:travaux' v='2021' />
@@ -1580,15 +1580,6 @@
     <tag k='TODO:ville:projet' v='3508' />
     <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Patinoire avec bandes permanentes + Volley-ball de plage' />
-  </node>
-  <node id='-1284195094' action='modify' lat='45.3646672421' lon='-71.86948746711'>
-    <tag k='TODO:planned_end' v='2020-09-11' />
-    <tag k='TODO:start_date' v='2020-08-12' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='2701' />
-    <tag k='TODO:ville:travaux' v='2020' />
-    <tag k='name' v='Ajout balançoires - Parc d&apos;Oxford' />
   </node>
   <node id='-1178536956' action='modify' lat='45.38009070242' lon='-71.98258951575'>
     <tag k='TODO:planned_end' v='2020-06-20' />
@@ -1644,11 +1635,6 @@
     <tag k='TODO:source' v='Bing' />
     <tag k='TODO:type' v='surface' />
     <tag k='name' v='Ces rues sont-elles maintenant pavées?' />
-  </node>
-  <node id='-2387622369' action='modify' lat='45.36944801211' lon='-71.86011314526'>
-    <tag k='TODO:source' v='Bing;Maxar' />
-    <tag k='TODO:type' v='geometry' />
-    <tag k='name' v='Recartographier la piscine du parc Centennial' />
   </node>
   <node id='-2617984899' action='modify' lat='45.36258954328' lon='-71.86013057962'>
     <tag k='TODO:source' v='Bing;Maxar' />
