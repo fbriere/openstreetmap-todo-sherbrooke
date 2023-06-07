@@ -663,6 +663,7 @@
     <tag k='name' v='Portion ouest réservée aux autobus scolaires' />
   </node>
   <node id='-3711664977' action='modify' lat='45.40354803772' lon='-71.90391495958'>
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='geometry' />
     <tag k='name' v='Voies non séparées entre Québec et London' />
   </node>
