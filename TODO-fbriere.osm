@@ -1220,6 +1220,13 @@
     <tag k='TODO:ville:travaux' v='2020' />
     <tag k='name' v='Ajouter: Bandes cyclables unidirectionnelles' />
   </node>
+  <node id='-2792115153' action='modify' lat='45.40249720162' lon='-71.89373731881'>
+    <tag k='TODO:session' v='2023-06-06' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Feux rectangulaires à clignotement rapide' />
+  </node>
   <node id='-2791098888' action='modify' lat='45.3869753074' lon='-71.92663997948'>
     <tag k='TODO:check_date' v='2023-06-03' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
@@ -1878,5 +1885,11 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='traffic_signal' />
     <tag k='name' v='Ajouter: Bourque / Plaza Rock-Forest (manquant du côté sud)' />
+  </node>
+  <node id='-2930022952' action='modify' lat='45.39900368899' lon='-71.95852339804'>
+    <tag k='TODO:session' v='2023-06-06' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='name' v='Corridor de marche (côté est, de la courbe jusqu&apos;à Antoine-Samson)' />
   </node>
 </osm>
