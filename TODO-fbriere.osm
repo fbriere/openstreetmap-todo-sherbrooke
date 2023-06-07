@@ -1305,17 +1305,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Parc Atto-Beaver, ajout d&apos;un demi-terrain de basketball' />
   </node>
-  <node id='-296613304' action='modify' lat='45.36217382074' lon='-71.81318625365'>
-    <tag k='TODO:planned_end' v='± 2 semaines' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='Août' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='4685' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Aménagement d&apos;un sentier au parc de View Point' />
-    <tag k='objectid' v='525796' />
-  </node>
   <node id='-787024588' action='modify' lat='45.37346398137' lon='-71.89133640546'>
     <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
