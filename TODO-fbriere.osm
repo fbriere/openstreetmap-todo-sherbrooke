@@ -1579,16 +1579,6 @@
     <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Construction d&apos;un jeu d&apos;eau' />
   </node>
-  <node id='-2173851595' action='modify' lat='45.39928995626' lon='-72.00724840432'>
-    <tag k='TODO:planned_end' v='2021-09-24' />
-    <tag k='TODO:source' v='Maxar' />
-    <tag k='TODO:start_date' v='2021-05-05' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='3508' />
-    <tag k='TODO:ville:travaux' v='2021' />
-    <tag k='name' v='Patinoire avec bandes permanentes + Volley-ball de plage' />
-  </node>
   <node id='-968927850' action='modify' lat='45.46711365389' lon='-71.96999252379'>
     <tag k='TODO:source' v='Bing' />
     <tag k='TODO:status' v='certain' />
