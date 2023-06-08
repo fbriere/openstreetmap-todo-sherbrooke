@@ -442,11 +442,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-223940164' action='modify' lat='45.38325284843' lon='-71.99315802225'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-4041337142' action='modify' lat='45.41269963995' lon='-71.95635516474'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
@@ -466,12 +461,6 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-1316713801' action='modify' lat='45.47039001425' lon='-71.93602032759'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-1141048999' action='modify' lat='45.37974747191' lon='-71.98674017366'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
