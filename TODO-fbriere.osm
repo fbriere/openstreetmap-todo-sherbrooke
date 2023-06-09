@@ -1043,7 +1043,7 @@
     <tag k='name' v='Interdiction d&apos;entrée par Galt' />
   </node>
   <node id='-650103452' action='modify' lat='45.38756346247' lon='-71.86489208384'>
-    <tag k='TODO:planned_end' v='2023-06-09' />
+    <tag k='TODO:planned_end' v='2023-07-21' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='ongoing' />
@@ -1151,7 +1151,7 @@
     <tag k='name' v='Asphalage entre le 1239 et le ch. Georges-Vallières' />
   </node>
   <node id='-2941785221' action='modify' lat='45.38755173171' lon='-71.86479091913'>
-    <tag k='TODO:planned_end' v='2023-06-09' />
+    <tag k='TODO:planned_end' v='2023-07-21' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='ongoing' />
@@ -1357,7 +1357,7 @@
     <tag k='TODO:planned_end' v='2023-06-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-08-08' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4679' />
     <tag k='TODO:ville:travaux' v='2023' />
