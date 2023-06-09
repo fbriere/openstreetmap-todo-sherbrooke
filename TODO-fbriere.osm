@@ -1864,4 +1864,11 @@
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Transformation du jeu de galets en terrain de pickleball' />
   </node>
+  <node id='-2178036584' action='modify' lat='45.40707638727' lon='-71.85115611706'>
+    <tag k='TODO:session' v='Fleurimont/2023-04-24' />
+    <tag k='TODO:source' v='Arrondissement de Fleurimont' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='name' v='Rénovation majeure des jeux modulaires, qui seront aussi accessibles au public' />
+  </node>
 </osm>
