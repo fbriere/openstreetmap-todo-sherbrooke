@@ -1292,7 +1292,7 @@
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5918' />
     <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Parc Atto-Beaver, ajout d&apos;un demi-terrain de basketball' />
+    <tag k='name' v='Parc Atto-Beaver, ajout d&apos;un demi-terrain de basketball (sur surface pavée)' />
   </node>
   <node id='-787024588' action='modify' lat='45.37346398137' lon='-71.89133640546'>
     <tag k='TODO:planned_end' v='2024-06-21' />
@@ -1477,7 +1477,7 @@
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4685' />
     <tag k='TODO:ville:travaux' v='2022' />
-    <tag k='name' v='Aménagement d&apos;un sentier au parc de View Point' />
+    <tag k='name' v='Aménagement d&apos;un sentier au parc de View Point (entre le parc et l&apos;école Alexander-Galt)' />
   </node>
   <node id='-3637013152' action='modify' lat='45.40247271952' lon='-71.86570823461'>
     <tag k='TODO:planned_end' v='2022-07-08' />
@@ -1856,5 +1856,12 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Ajout de couloirs piétons (côtés est et sud)' />
+  </node>
+  <node id='-1839576556' action='modify' lat='45.31098457092' lon='-72.02249744724'>
+    <tag k='TODO:session' v='BROFSED/2023-01-30' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='name' v='Transformation du jeu de galets en terrain de pickleball' />
   </node>
 </osm>
