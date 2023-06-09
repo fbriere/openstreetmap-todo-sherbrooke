@@ -1843,4 +1843,18 @@
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Corridor de marche (côté est, de la courbe jusqu&apos;à Antoine-Samson)' />
   </node>
+  <node id='-3788175689' action='modify' lat='45.38413454109' lon='-71.8827878382'>
+    <tag k='TODO:session' v='2023-01-24' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='name' v='Corridor piétonnier' />
+  </node>
+  <node id='-449160895' action='modify' lat='45.40179706475' lon='-71.93029293053'>
+    <tag k='TODO:session' v='2023-01-24' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Ajout de couloirs piétons (côtés est et sud)' />
+  </node>
 </osm>
