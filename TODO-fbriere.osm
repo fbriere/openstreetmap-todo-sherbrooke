@@ -1723,4 +1723,26 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
+  <node id='-2460063623' action='modify' lat='45.40922749522' lon='-71.88897103608'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Bande cyclable bidirectionnelle (côté sud à l&apos;ouest de Clémenceau; côté nord à l&apos;est)' />
+  </node>
+  <node id='-3611861185' action='modify' lat='45.40881511184' lon='-71.88982665807'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Bande cyclable bidirectionnelle (côté est)' />
+  </node>
+  <node id='-1418642892' action='modify' lat='45.36745246436' lon='-71.95116878092'>
+    <tag k='TODO:session' v='2013-06-06' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-1709658501' action='modify' lat='45.36789341361' lon='-71.95002615988'>
+    <tag k='TODO:session' v='2013-06-06' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
 </osm>
