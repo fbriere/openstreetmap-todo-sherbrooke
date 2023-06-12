@@ -101,14 +101,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-3802995358' action='modify' lat='45.38490313854' lon='-71.99096203387'>
-    <tag k='TODO:check_date' v='2023-06-11' />
-    <tag k='TODO:session' v='2016-10-03' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='dubious' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions (face à Mondrian)' />
-  </node>
   <node id='-1197900960' action='modify' lat='45.38266135436' lon='-71.94370152712'>
     <tag k='TODO:source' v='Maxar' />
     <tag k='TODO:type' v='footway' />
@@ -127,14 +119,6 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Comment traiter cette rue privée, officiellement sans nom?' />
-  </node>
-  <node id='-3732520207' action='modify' lat='45.37131536252' lon='-71.96521282464'>
-    <tag k='TODO:check_date' v='2023-06-11' />
-    <tag k='TODO:comments' v='Abandonné?' />
-    <tag k='TODO:source' v='survey' />
-    <tag k='TODO:status' v='dubious' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Retrait de l&apos;arrêt en septembre 2019' />
   </node>
   <node id='-132431986' action='modify' lat='45.37573796223' lon='-71.9067870253'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -304,13 +288,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-410298433' action='modify' lat='45.36816853405' lon='-71.97094202578'>
-    <tag k='TODO:check_date' v='2023-06-11' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='dubious' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-45696303' action='modify' lat='45.37577716044' lon='-71.84291751265'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='certain' />
@@ -416,13 +393,6 @@
   <node id='-290211973' action='modify' lat='45.37040711922' lon='-71.86316406009'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-1737746078' action='modify' lat='45.37697745264' lon='-71.98924720954'>
-    <tag k='TODO:check_date' v='2023-06-11' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='dubious' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
