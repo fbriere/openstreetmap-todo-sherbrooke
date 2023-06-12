@@ -247,12 +247,6 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Halte Muriel-Brand / Muriel-Brand Place' />
   </node>
-  <node id='-2587680905' action='modify' lat='45.38498329725' lon='-71.96251739292'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virage à gauche (Comtois → ouest, 7-9h, 16-18h)' />
-  </node>
   <node id='-3920086217' action='modify' lat='45.41460251497' lon='-71.94890422672'>
     <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:session' v='2022-04-05' />
