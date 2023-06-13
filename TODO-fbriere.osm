@@ -26,6 +26,8 @@
     <tag k='name' v='Vérifier: Certains segments du stationnement la Grenouillère' />
   </node>
   <node id='-3702790255' action='modify' lat='45.47602928542' lon='-71.94070817113'>
+    <tag k='TODO:session' v='2015-10-19' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Parc du Centenaire (dans le parc de la Rive) renommé halte du Centenaire' />
   </node>
