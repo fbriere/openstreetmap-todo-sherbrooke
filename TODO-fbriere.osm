@@ -1655,7 +1655,9 @@
     <tag k='name' v='Ceci n&apos;est que l&apos;entrée d&apos;un complexe d&apos;habitations et devrait être service=driveway' />
   </node>
   <node id='-280036851' action='modify' lat='45.47121840006' lon='-71.94292425996'>
+    <tag k='TODO:planned_end' v='2023-06-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/SaintJeanBaptisteweb.pdf' />
+    <tag k='TODO:start_date' v='2023-06-14' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6101' />
@@ -1663,7 +1665,9 @@
     <tag k='name' v='Ajout d&apos;un trottoir (séparé) entre Sainte-Praxède et Beaudoin' />
   </node>
   <node id='-3172960804' action='modify' lat='45.47185591418' lon='-71.94423477144'>
+    <tag k='TODO:planned_end' v='2023-06-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/SaintJeanBaptisteweb.pdf' />
+    <tag k='TODO:start_date' v='2023-06-14' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='6101' />
