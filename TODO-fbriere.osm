@@ -279,7 +279,9 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-4114178575' action='modify' lat='45.40155745993' lon='-71.92172349036'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:session' v='2019-04-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1767,5 +1769,12 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='surface' />
     <tag k='name' v='Chemin Gendron maintenant pavé sur toute la longueur?' />
+  </node>
+  <node id='-4077778823' action='modify' lat='45.41174502836' lon='-71.93422794878'>
+    <tag k='TODO:session' v='2019-04-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
   </node>
 </osm>
