@@ -214,13 +214,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;une nouvelle rue, entre les rues du Dépôt et des Grandes-Fourches Sud' />
   </node>
-  <node id='-186288944' action='modify' lat='45.37043539825' lon='-71.86128258973'>
-    <tag k='TODO:session' v='2021-03-01' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='crossing' />
-    <tag k='name' v='Passage pour piétons' />
-  </node>
   <node id='-632915805' action='modify' lat='45.40555926364' lon='-71.9531214264'>
     <tag k='TODO:session' v='2020-11-16' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
