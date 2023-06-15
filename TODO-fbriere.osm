@@ -1092,11 +1092,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un mur de soutien et pavage de la piste' />
   </node>
-  <node id='-58966481' action='modify' lat='45.31129570425' lon='-72.02411413729'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='geometry' />
-    <tag k='name' v='Intersection mal cartographiée' />
-  </node>
   <node id='-2792115153' action='modify' lat='45.40249720162' lon='-71.89373731881'>
     <tag k='TODO:session' v='2023-06-06' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
