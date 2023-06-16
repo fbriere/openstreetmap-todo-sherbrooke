@@ -1415,28 +1415,6 @@
     <tag k='TODO:type' v='surface' />
     <tag k='name' v='Surface pavée d&apos;ici jusqu&apos;au 5e rang' />
   </node>
-  <node id='-2839723883' action='modify' lat='45.46070820242' lon='-71.96495669527'>
-    <tag k='TODO:planned_end' v='2020-09-15' />
-    <tag k='TODO:session' v='2018-08-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2020-07-06' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='misc' />
-    <tag k='TODO:ville:projet' v='1257;2281' />
-    <tag k='TODO:ville:travaux' v='2020' />
-    <tag k='name' v='Réaménagement de la berge du ruisseau Kee (érection d&apos;une digue)' />
-  </node>
-  <node id='-2721401294' action='modify' lat='45.45892846829' lon='-71.9627974792'>
-    <tag k='TODO:planned_end' v='2020-09-15' />
-    <tag k='TODO:session' v='2018-08-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2020-07-06' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='misc' />
-    <tag k='TODO:ville:projet' v='1256;2280' />
-    <tag k='TODO:ville:travaux' v='2020' />
-    <tag k='name' v='Relocalisation du ruisseau Giroux' />
-  </node>
   <node id='-1862974384' action='modify' lat='45.30055989068' lon='-72.05221563846'>
     <tag k='TODO:source' v='Maxar' />
     <tag k='TODO:type' v='surface' />
