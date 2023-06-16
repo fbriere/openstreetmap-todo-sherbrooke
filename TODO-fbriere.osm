@@ -794,7 +794,7 @@
     <tag k='name' v='Aménagement de voies cyclables sur le chemin de Saint-Élie, entre la rue Croteau et le chemin Laliberté' />
   </node>
   <node id='-1832840761' action='modify' lat='45.35784497406' lon='-71.97954658985'>
-    <tag k='TODO:planned_end' v='2023-06-16' />
+    <tag k='TODO:planned_end' v='2023-06-29' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2023.pdf' />
     <tag k='TODO:start_date' v='2023-06-07' />
     <tag k='TODO:status' v='ongoing' />
@@ -1165,7 +1165,7 @@
     <tag k='name' v='Aménagement de jardins communautaires au parc Bureau' />
   </node>
   <node id='-919357655' action='modify' lat='45.40161772655' lon='-71.87905166452'>
-    <tag k='TODO:planned_end' v='2023-06-16' />
+    <tag k='TODO:planned_end' v='2023-07-07' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-05-11' />
     <tag k='TODO:status' v='ongoing' />
@@ -1176,7 +1176,7 @@
     <tag k='objectid' v='525393' />
   </node>
   <node id='-3761697836' action='modify' lat='45.37696639861' lon='-71.85395397879'>
-    <tag k='TODO:planned_end' v='2023-06-23' />
+    <tag k='TODO:planned_end' v='2023-08-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-05-09' />
     <tag k='TODO:status' v='ongoing' />
@@ -1245,10 +1245,10 @@
     <tag k='name' v='Aménagement d&apos;une aire de jeux 5-12 ans au parc du Debonair' />
   </node>
   <node id='-578892741' action='modify' lat='45.39308043344' lon='-71.87023965828'>
-    <tag k='TODO:planned_end' v='2023-06-23' />
+    <tag k='TODO:planned_end' v='2023-06-16' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-08-08' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4679' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1351,9 +1351,9 @@
     <tag k='name' v='Mise aux normes de la piste cyclable de la Route Verte' />
   </node>
   <node id='-3747832581' action='modify' lat='45.36213442491' lon='-71.8132066834'>
-    <tag k='TODO:planned_end' v='± 2 semaines' />
+    <tag k='TODO:planned_end' v='2023-08-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='Août 2022' />
+    <tag k='TODO:start_date' v='2023-07-03' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4685' />
     <tag k='TODO:ville:travaux' v='2022' />
@@ -1771,5 +1771,14 @@
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-1894277877' action='modify' lat='45.37699805874' lon='-71.88417256415'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2023-06-19' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='new' />
+    <tag k='TODO:ville:projet' v='6203' />
+    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='name' v='Ouverture des rues des Mille-Abeilles et des Oiseaux-de-Neige' />
   </node>
 </osm>
