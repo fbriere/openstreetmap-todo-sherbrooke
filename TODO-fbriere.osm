@@ -1759,4 +1759,10 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ouverture des rues des Mille-Abeilles et des Oiseaux-de-Neige' />
   </node>
+  <node id='-3515532399' action='modify' lat='45.36645371857' lon='-71.87200069696'>
+    <tag k='TODO:session' v='2020-03-02' />
+    <tag k='TODO:source' v='Bing' />
+    <tag k='TODO:type' v='footway' />
+    <tag k='name' v='Déterminer si ce passage débouche sur College' />
+  </node>
 </osm>
