@@ -1739,12 +1739,6 @@
     <tag k='TODO:type' v='surface' />
     <tag k='name' v='Retrait du pavage?' />
   </node>
-  <node id='-1655121607' action='modify' lat='45.43080461813' lon='-72.03310493946'>
-    <tag k='TODO:session' v='BROFSED/2023-06-12 (plénier)' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='surface' />
-    <tag k='name' v='Chemin Gendron maintenant pavé sur toute la longueur?' />
-  </node>
   <node id='-4077778823' action='modify' lat='45.41174502836' lon='-71.93422794878'>
     <tag k='TODO:session' v='2019-04-15' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
