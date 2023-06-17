@@ -796,7 +796,7 @@
     <tag k='name' v='Aménagement de voies cyclables sur le chemin de Saint-Élie, entre la rue Croteau et le chemin Laliberté' />
   </node>
   <node id='-1832840761' action='modify' lat='45.35784497406' lon='-71.97954658985'>
-    <tag k='TODO:planned_end' v='2023-06-29' />
+    <tag k='TODO:planned_end' v='2023-07-05' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2023.pdf' />
     <tag k='TODO:start_date' v='2023-06-07' />
     <tag k='TODO:status' v='ongoing' />
