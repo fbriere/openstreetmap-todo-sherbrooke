@@ -1554,6 +1554,7 @@
     <tag k='name' v='Confirmer si cette entrée privée porte vraiment un nom' />
   </node>
   <node id='-3729299640' action='modify' lat='45.41000140665' lon='-71.87530786067'>
+    <tag k='TODO:session' v='2021-07-05' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/734/l-eglise-sainte-famille-pour-des-logements-sociaux' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Conversion de l&apos;église en logements sociaux' />
