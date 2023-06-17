@@ -454,6 +454,8 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2045390899' action='modify' lat='45.39993405844' lon='-71.88895226061'>
+    <tag k='TODO:comments' v='La Ville a déclaré la fermeture de la &quot;ruelle&quot; Therrien, mais la rue figure encore dans ses données' />
+    <tag k='TODO:session' v='2021-05-03' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Vérifier: Est-ce que la rue Therrien existe toujours?' />
   </node>
