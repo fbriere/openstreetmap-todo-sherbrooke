@@ -1770,4 +1770,18 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
+  <node id='-2140812189' action='modify' lat='45.39196646079' lon='-71.89848110863'>
+    <tag k='TODO:session' v='2023-05-09' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-2021827399' action='modify' lat='45.40278477981' lon='-71.89353858484'>
+    <tag k='TODO:session' v='2023-06-06' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='restriction' />
+    <tag k='name' v='Demi-tour interdit entre Peel et Ozias-Leduc' />
+  </node>
 </osm>
