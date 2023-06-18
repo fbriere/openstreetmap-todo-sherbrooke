@@ -1344,6 +1344,7 @@
   <node id='-1098928998' action='modify' lat='45.47818838565' lon='-71.97187543988'>
     <tag k='TODO:comments' v='(Aucune idée de ce que ça implique...)' />
     <tag k='TODO:planned_end' v='2022-10-22' />
+    <tag k='TODO:session' v='2020-08-24;2021-12-06' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-10-11' />
     <tag k='TODO:status' v='completed' />
@@ -1761,5 +1762,12 @@
     <tag k='TODO:source' v='Bing' />
     <tag k='TODO:type' v='footway' />
     <tag k='name' v='Déterminer si ce passage débouche sur College' />
+  </node>
+  <node id='-13992018' action='modify' lat='45.44421999377' lon='-71.88772917867'>
+    <tag k='TODO:session' v='2022-06-21' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
   </node>
 </osm>
