@@ -1637,4 +1637,8 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Confirmer absence d&apos;arrêt toutes directions' />
   </node>
+  <node id='-325504245' action='modify' lat='45.37088201713' lon='-71.85335075202'>
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Déterminer l&apos;emplacement de la transition asphalte/gravier' />
+  </node>
 </osm>
