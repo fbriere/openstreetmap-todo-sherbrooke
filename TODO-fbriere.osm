@@ -372,12 +372,8 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Vérifier: Est-ce que la rue Therrien existe toujours?' />
   </node>
-  <node id='-3156113202' action='modify' lat='45.36772758695' lon='-71.85257614195'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='park' />
-    <tag k='name' v='Officiellement, le parc ne comprend qu&apos;une portion du terrain' />
-  </node>
   <node id='-2619706241' action='modify' lat='45.36091319819' lon='-71.8563097769'>
+    <tag k='TODO:check_date' v='2023-06-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Halte Massawippi' />
@@ -1059,16 +1055,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Réfection des terrains de tennis au parc Antonio-Montour' />
     <tag k='objectid' v='525393' />
-  </node>
-  <node id='-3761697836' action='modify' lat='45.37696639861' lon='-71.85395397879'>
-    <tag k='TODO:planned_end' v='2023-08-04' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-05-09' />
-    <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='5918' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Parc Atto-Beaver, ajout d&apos;un demi-terrain de basketball (sur surface pavée)' />
   </node>
   <node id='-787024588' action='modify' lat='45.37346398137' lon='-71.89133640546'>
     <tag k='TODO:planned_end' v='2024-06-21' />
