@@ -232,7 +232,7 @@
     <tag k='TODO:session' v='2022-04-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-05-16' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5621' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -703,7 +703,7 @@
     <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Jacques-web.pdf' />
     <tag k='TODO:start_date' v='2023-05-23' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='4083' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -713,7 +713,7 @@
     <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Jacques-web.pdf' />
     <tag k='TODO:start_date' v='2023-05-23' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4083' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -956,7 +956,7 @@
     <tag k='name' v='Mise à niveau de traveses piétonnes' />
   </node>
   <node id='-1895780362' action='modify' lat='45.38544568113' lon='-71.91403628469'>
-    <tag k='TODO:planned_end' v='2023-07-01' />
+    <tag k='TODO:planned_end' v='2023-07-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Gilles_correspondance_mars_2023_et_fiche_du_projet.pdf' />
     <tag k='TODO:start_date' v='2023-04-17' />
     <tag k='TODO:status' v='ongoing' />
@@ -1019,7 +1019,7 @@
     <tag k='TODO:planned_end' v='2023-06-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-09-06' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4688' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1225,7 +1225,7 @@
   <node id='-3747832581' action='modify' lat='45.36213442491' lon='-71.8132066834'>
     <tag k='TODO:planned_end' v='2023-08-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-07-03' />
+    <tag k='TODO:start_date' v='2023-07-10' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4685' />
     <tag k='TODO:ville:travaux' v='2022' />
