@@ -735,7 +735,7 @@
     <tag k='name' v='Ajout de dos d&apos;âne en zone scolaire' />
   </node>
   <node id='-1008137717' action='modify' lat='45.40183995339' lon='-71.91064597249'>
-    <tag k='TODO:planned_end' v='2023-07-07' />
+    <tag k='TODO:planned_end' v='2023-08-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Vimy-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='ongoing' />
@@ -745,7 +745,7 @@
     <tag k='name' v='Trottoir séparé de la chaussée (entre King et Portland)' />
   </node>
   <node id='-3792242837' action='modify' lat='45.40117704201' lon='-71.91065670133'>
-    <tag k='TODO:planned_end' v='2023-07-07' />
+    <tag k='TODO:planned_end' v='2023-08-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Vimy-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
     <tag k='TODO:status' v='ongoing' />
@@ -841,7 +841,7 @@
     <tag k='TODO:planned_end' v='2023-07-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-03' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5812' />
     <tag k='TODO:ville:travaux' v='2023' />
