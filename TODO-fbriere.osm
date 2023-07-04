@@ -755,9 +755,9 @@
     <tag k='name' v='Chaussée désignée pour cyclistes (entre King et Portland)' />
   </node>
   <node id='-1482897593' action='modify' lat='45.42011215946' lon='-71.88833000422'>
-    <tag k='TODO:planned_end' v='± 2 semaines' />
+    <tag k='TODO:planned_end' v='2023-07-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
-    <tag k='TODO:start_date' v='2023-06' />
+    <tag k='TODO:start_date' v='2023-07-10' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5843' />
@@ -1036,10 +1036,10 @@
     <tag k='name' v='Aménagement de jardins communautaires au parc Bureau' />
   </node>
   <node id='-919357655' action='modify' lat='45.40161772655' lon='-71.87905166452'>
-    <tag k='TODO:planned_end' v='2023-07-07' />
+    <tag k='TODO:planned_end' v='2023-07-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-05-11' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4676' />
     <tag k='TODO:ville:travaux' v='2023' />
