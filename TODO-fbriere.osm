@@ -946,7 +946,7 @@
     <tag k='name' v='Mise à niveau de traveses piétonnes' />
   </node>
   <node id='-1895780362' action='modify' lat='45.38544568113' lon='-71.91403628469'>
-    <tag k='TODO:planned_end' v='2023-07-14' />
+    <tag k='TODO:planned_end' v='2023-07-28' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Gilles_correspondance_mars_2023_et_fiche_du_projet.pdf' />
     <tag k='TODO:start_date' v='2023-04-17' />
     <tag k='TODO:status' v='ongoing' />
@@ -1069,8 +1069,8 @@
   <node id='-3496185455' action='modify' lat='45.39480961381' lon='-71.89380535428'>
     <tag k='TODO:planned_end' v='2023-08-25' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-07-03' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:start_date' v='2023-07-24' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5929' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1174,15 +1174,15 @@
     <tag k='name' v='Réaménagement de la rue des Grandes-Fourches Nord, de la bretelle Frontenac à la rue Terrill' />
   </node>
   <node id='-2469708005' action='modify' lat='45.363726427' lon='-71.86450261217'>
-    <tag k='TODO:comments' v='Ces rues seront reconstruites, ce qui pourrait supposer un pavage' />
+    <tag k='TODO:comments' v='Le trottoir partiel sur Lloyd ne sera pas reconstruit' />
     <tag k='TODO:planned_end' v='± 2 mois' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/RobertPeel2023.pdf' />
     <tag k='TODO:start_date' v='Été 2023' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='5801' />
     <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Pavage d&apos;une partie des rues Robert-Peel et Lloyd ainsi que de la totalité de la rue Spring Garden?' />
+    <tag k='name' v='Urbanisation et pavage des rues Robert-Peel, Lloyd et Spring Garden' />
   </node>
   <node id='-591680644' action='modify' lat='45.40043219247' lon='-71.89205959573'>
     <tag k='TODO:source' v='Bing' />
@@ -1566,9 +1566,10 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-1894277877' action='modify' lat='45.37699805874' lon='-71.88417256415'>
+    <tag k='TODO:planned_end' v='2024-09-30' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-06-19' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2023-07-07' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='6203' />
     <tag k='TODO:ville:travaux' v='2023' />
