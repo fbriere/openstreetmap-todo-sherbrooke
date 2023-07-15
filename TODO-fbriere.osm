@@ -718,7 +718,7 @@
     <tag k='TODO:planned_end' v='2023-07-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/WoodRiouxweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-22' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='4090' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -728,7 +728,7 @@
     <tag k='TODO:planned_end' v='2023-07-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/WoodRiouxweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-22' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='4090' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -758,7 +758,7 @@
     <tag k='TODO:planned_end' v='2023-07-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
     <tag k='TODO:start_date' v='2023-07-10' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5843' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -773,10 +773,10 @@
     <tag k='name' v='Construction d&apos;une piste cyclable (entre Desaulniers et du Cégep)' />
   </node>
   <node id='-1312355861' action='modify' lat='45.41731070565' lon='-71.89148428202'>
-    <tag k='TODO:planned_end' v='± 2 semaines' />
+    <tag k='TODO:planned_end' v='2023-07-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
-    <tag k='TODO:start_date' v='2023-06' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2023-07-10' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5843' />
     <tag k='TODO:ville:travaux' v='2023' />
