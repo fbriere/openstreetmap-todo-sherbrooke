@@ -865,13 +865,13 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='La géométrie de la rue sera modifiée à l&apos;approche de la rue Aubry pour aligner avec la portion existante à l&apos;est' />
   </node>
-  <node id='-4219549450' action='modify' lat='45.40610725542' lon='-71.85001731455'>
-    <tag k='TODO:planned_end' v='± 2 semaines' />
+  <node id='-3647679084' action='modify' lat='45.40599426825' lon='-71.85023189127'>
+    <tag k='TODO:planned_end' v='2023-07-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='Printemps 2023' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2023-06-28' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
-    <tag k='TODO:ville:projet' v='5833' />
+    <tag k='TODO:ville:projet' v='5833;6234;6235' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Mise à niveau de traveses piétonnes' />
   </node>
