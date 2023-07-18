@@ -83,20 +83,6 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Barrage Joseph-Choquette' />
   </node>
-  <node id='-446534340' action='modify' lat='45.38890612177' lon='-71.89847946435'>
-    <tag k='TODO:comments' v='Caché par les arbres sur imagerie' />
-    <tag k='TODO:session' v='2017-03-06' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='crossing' />
-    <tag k='name' v='Passage pour piétons' />
-  </node>
-  <node id='-109008042' action='modify' lat='45.38747638222' lon='-71.89842045575'>
-    <tag k='TODO:check_date' v='2022-09' />
-    <tag k='TODO:session' v='2017-03-06' />
-    <tag k='TODO:status' v='dubious' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-2945369702' action='modify' lat='45.39516151528' lon='-71.93385780394'>
     <tag k='TODO:session' v='2016-10-03' />
     <tag k='TODO:status' v='certain' />
@@ -141,16 +127,6 @@
     <tag k='TODO:ville:projet' v='5445' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Prolongement de la rue de la Golconda' />
-  </node>
-  <node id='-2711153090' action='modify' lat='45.38487300865' lon='-71.89759971857'>
-    <tag k='TODO:planned_end' v='2023-07-07' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/dunantweb.pdf' />
-    <tag k='TODO:start_date' v='2023-05-29' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='4097' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ajout de voies cyclables sur la rue Dunant, entre Belvédère Sud et Kingston' />
   </node>
   <node id='-3753036845' action='modify' lat='45.4062240199' lon='-71.95536377192'>
     <tag k='TODO:planned_end' v='± 2 semaines' />
@@ -289,43 +265,13 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-2468293122' action='modify' lat='45.38367774929' lon='-71.88878355549'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-2746614906' action='modify' lat='45.38378224378' lon='-71.88668038593'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-3821680116' action='modify' lat='45.47281386634' lon='-71.90431344756'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-3963744281' action='modify' lat='45.38695491056' lon='-71.88695896819'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-762189120' action='modify' lat='45.38361638936' lon='-71.88984338229'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-4041337142' action='modify' lat='45.41269963995' lon='-71.95635516474'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-105717981' action='modify' lat='45.38993490515' lon='-71.89148130681'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
@@ -344,12 +290,6 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-1517239729' action='modify' lat='45.40271725514' lon='-71.84617859048'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-191002582' action='modify' lat='45.38686474434' lon='-71.88906082221'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
@@ -601,16 +541,6 @@
     <tag k='TODO:ville:projet' v='4097' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Modifications géométriques de l&apos;intersection Dunant/Belvédère Sud' />
-  </node>
-  <node id='-1875988775' action='modify' lat='45.3896200644' lon='-71.90564636707'>
-    <tag k='TODO:planned_end' v='± 1 semaine' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/McMananyweb.pdf' />
-    <tag k='TODO:start_date' v='Printemps 2023' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='1243' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ajout de voies cyclables sur la rue McManamy, entre le pont Jacques-Cartier et la rue Belvédère Sud' />
   </node>
   <node id='-3439725826' action='modify' lat='45.3977788438' lon='-71.91392556611'>
     <tag k='TODO:planned_end' v='2022-12' />
@@ -1349,13 +1279,6 @@
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
-  <node id='-3241598815' action='modify' lat='45.39330060108' lon='-71.89201131597'>
-    <tag k='TODO:check_date' v='2018-10' />
-    <tag k='TODO:comments' v='Pas d&apos;accent sur le deuxième E' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='sign' />
-    <tag k='name' v='Ruelle Télesphore-Daigle' />
-  </node>
   <node id='-3847055722' action='modify' lat='45.41449309461' lon='-71.96135312453'>
     <tag k='TODO:check_date' v='2018-11-04' />
     <tag k='TODO:type' v='sign' />
@@ -1584,6 +1507,7 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2140812189' action='modify' lat='45.39196646079' lon='-71.89848110863'>
+    <tag k='TODO:check_date' v='2023-07-12' />
     <tag k='TODO:session' v='2023-05-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
