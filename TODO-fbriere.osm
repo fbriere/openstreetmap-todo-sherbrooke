@@ -635,10 +635,10 @@
     <tag k='name' v='Ajout d&apos;un trottoir entre le boulevard Industriel et la rue Saint-Patrick' />
   </node>
   <node id='-1950104893' action='modify' lat='45.39324410131' lon='-71.99436308026'>
-    <tag k='TODO:planned_end' v='2023-06-22' />
+    <tag k='TODO:planned_end' v='2023-07-21' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Jacques-web.pdf' />
     <tag k='TODO:start_date' v='2023-05-23' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4083' />
     <tag k='TODO:ville:travaux' v='2023' />
