@@ -638,7 +638,7 @@
     <tag k='TODO:planned_end' v='2023-07-21' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Jacques-web.pdf' />
     <tag k='TODO:start_date' v='2023-05-23' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4083' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -761,7 +761,7 @@
     <tag k='TODO:planned_end' v='2023-07-21' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5827' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -771,7 +771,7 @@
     <tag k='TODO:planned_end' v='2023-07-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-03' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5812' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -859,7 +859,7 @@
     <tag k='TODO:planned_end' v='2023-07-21' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='5827' />
     <tag k='TODO:ville:travaux' v='2023' />
