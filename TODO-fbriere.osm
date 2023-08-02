@@ -1105,9 +1105,9 @@
   </node>
   <node id='-2469708005' action='modify' lat='45.363726427' lon='-71.86450261217'>
     <tag k='TODO:comments' v='Le trottoir partiel sur Lloyd ne sera pas reconstruit' />
-    <tag k='TODO:planned_end' v='± 2 mois' />
+    <tag k='TODO:planned_end' v='2023-10-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/RobertPeel2023.pdf' />
-    <tag k='TODO:start_date' v='Été 2023' />
+    <tag k='TODO:start_date' v='2023-08-03' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='5801' />
