@@ -1086,7 +1086,8 @@
   </node>
   <node id='-2185188696' action='modify' lat='45.40648333207' lon='-71.85191039787'>
     <tag k='TODO:comments' v='Cette caserne remplacera la caserne Hector-Olivier-Camirand (sur Lavigerie)' />
-    <tag k='TODO:source' v='La Tribune (2016-12-12)' />
+    <tag k='TODO:planned_end' v='2024' />
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/08/03/la-caserne-pres-de-lecole-desranleau-devrait-ouvrir-en-2024-ETLOJ2YZUBFWTEPCZMQOB6XMYQ/' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='5871' />
