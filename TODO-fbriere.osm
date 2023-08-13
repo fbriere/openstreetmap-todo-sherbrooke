@@ -1557,4 +1557,11 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;un corridor scolaire près de la future caserne n°4' />
   </node>
+  <node id='-3893465901' action='modify' lat='45.42024771663' lon='-71.94952802332'>
+    <tag k='TODO:session' v='2023-06-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='restriction' />
+    <tag k='name' v='Interdiction de demi-tour' />
+  </node>
 </osm>
