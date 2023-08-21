@@ -1564,4 +1564,12 @@
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Interdiction de demi-tour' />
   </node>
+  <node id='-3543003082' action='modify' lat='45.43762564004' lon='-71.86841730595'>
+    <tag k='TODO:planned_end' v='2023-10-06' />
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/08/18/les-travaux-commenceront-lundi-sur-lechangeur-situe-pres-de-lhopital-fleurimont-ARXRFU4NUBC3NGXZR3J6O5I2HA/' />
+    <tag k='TODO:start_date' v='2023-08-20' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Réaménagement de l&apos;échangeur' />
+  </node>
 </osm>
