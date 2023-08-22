@@ -557,30 +557,30 @@
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-662672270' action='modify' lat='45.36608327828' lon='-71.95950623304'>
-    <tag k='TODO:planned_end' v='± 3 mois' />
+    <tag k='TODO:planned_end' v='2023-10-20' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
-    <tag k='TODO:start_date' v='Été 2023' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2023-08-21' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5803' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement de voies cyclables sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
   </node>
   <node id='-2082223891' action='modify' lat='45.36651347364' lon='-71.95923741173'>
-    <tag k='TODO:planned_end' v='± 3 mois' />
+    <tag k='TODO:planned_end' v='2023-10-20' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
-    <tag k='TODO:start_date' v='Été 2023' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2023-08-21' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5803' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;un trottoir sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
   </node>
   <node id='-1388227926' action='modify' lat='45.36458805639' lon='-71.9616791978'>
-    <tag k='TODO:planned_end' v='± 3 mois' />
+    <tag k='TODO:planned_end' v='2023-10-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='Été 2023' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2023-08-21' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5803' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -878,10 +878,10 @@
     <tag k='name' v='Mise à niveau de traveses piétonnes' />
   </node>
   <node id='-1895780362' action='modify' lat='45.38544568113' lon='-71.91403628469'>
-    <tag k='TODO:planned_end' v='2023-08-18' />
+    <tag k='TODO:planned_end' v='2023-09-02' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Gilles_correspondance_mars_2023_et_fiche_du_projet.pdf' />
     <tag k='TODO:start_date' v='2023-04-17' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4095' />
     <tag k='TODO:ville:travaux' v='2023' />
