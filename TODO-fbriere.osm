@@ -713,7 +713,7 @@
     <tag k='name' v='Chaussée désignée pour cyclistes (entre des Pèlerins et le parc)' />
   </node>
   <node id='-3168248329' action='modify' lat='45.39722954501' lon='-71.87632442594'>
-    <tag k='TODO:planned_end' v='2023-08-26' />
+    <tag k='TODO:planned_end' v='2023-09-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Murray-2023.pdf' />
     <tag k='TODO:start_date' v='2023-07-10' />
     <tag k='TODO:status' v='ongoing' />
@@ -1021,7 +1021,7 @@
   <node id='-1243916953' action='modify' lat='45.38300938538' lon='-71.95665761431'>
     <tag k='TODO:planned_end' v='2023-09-15' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-08-29' />
+    <tag k='TODO:start_date' v='2023-08-28' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5931' />
