@@ -1572,4 +1572,39 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Réaménagement de l&apos;échangeur' />
   </node>
+  <node id='-364998095' action='modify' lat='45.40006682976' lon='-71.93592041865'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA des Nations, 2023-08-29, documents)' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Pas d&apos;arrêt à l&apos;approche est (et possiblement ouest?)' />
+  </node>
+  <node id='-3564415427' action='modify' lat='45.40680777085' lon='-71.88551903307'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA Fleurimont, 2023-08-28, documents)' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-3556178051' action='modify' lat='45.4066891339' lon='-71.88645780355'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA Fleurimont, 2023-08-28, documents)' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Le seul arrêt de cette intersection est à l&apos;approche est, et non pas nord' />
+  </node>
+  <node id='-142355928' action='modify' lat='45.4062089418' lon='-71.8866831091'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Confirmer absence d&apos;arrêts aux approches nord et est' />
+  </node>
+  <node id='-1307410175' action='modify' lat='45.30691069555' lon='-72.09966263589'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2023-08-28, documents)' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêts aux approches nord-ouest et sud-ouest' />
+  </node>
+  <node id='-411258892' action='modify' lat='45.37303148839' lon='-71.97524228253'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2023-08-28, documents)' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
 </osm>
