@@ -768,7 +768,7 @@
     <tag k='name' v='FRCR et éclairage au passage piétonnier' />
   </node>
   <node id='-3073177497' action='modify' lat='45.40605829811' lon='-71.8528390038'>
-    <tag k='TODO:planned_end' v='2023-08-25' />
+    <tag k='TODO:planned_end' v='2023-09-01' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-03' />
     <tag k='TODO:status' v='ongoing' />
