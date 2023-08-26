@@ -1572,19 +1572,19 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Réaménagement de l&apos;échangeur' />
   </node>
-  <node id='-364998095' action='modify' lat='45.40006682976' lon='-71.93592041865'>
+  <node id='-936914865' action='modify' lat='45.40006730059' lon='-71.93591907755'>
     <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA des Nations, 2023-08-29, documents)' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Pas d&apos;arrêt à l&apos;approche est (et possiblement ouest?)' />
   </node>
-  <node id='-3564415427' action='modify' lat='45.40680777085' lon='-71.88551903307'>
+  <node id='-2094072080' action='modify' lat='45.40679694306' lon='-71.88551031589'>
     <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA Fleurimont, 2023-08-28, documents)' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-3556178051' action='modify' lat='45.4066891339' lon='-71.88645780355'>
+  <node id='-259563221' action='modify' lat='45.40668960467' lon='-71.88645646245'>
     <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA Fleurimont, 2023-08-28, documents)' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
@@ -1595,16 +1595,55 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Confirmer absence d&apos;arrêts aux approches nord et est' />
   </node>
-  <node id='-1307410175' action='modify' lat='45.30691069555' lon='-72.09966263589'>
+  <node id='-937040920' action='modify' lat='45.30691116716' lon='-72.09966129479'>
     <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2023-08-28, documents)' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêts aux approches nord-ouest et sud-ouest' />
   </node>
-  <node id='-411258892' action='modify' lat='45.37303148839' lon='-71.97524228253'>
-    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2023-08-28, documents)' />
+  <node id='-3470482310' action='modify' lat='45.39371828213' lon='-72.01083519638'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2023-03-27, documents)' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-2621933598' action='modify' lat='45.38106048091' lon='-71.97741017818'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2022-12-12, documents)' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-632730816' action='modify' lat='45.38127901897' lon='-71.981283288'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2022-12-12, documents)' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-3871932012' action='modify' lat='45.40048257373' lon='-72.02187851608'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2022-11-28, documents)' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-1797253160' action='modify' lat='45.39899615558' lon='-71.8444973284'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA Fleurimont, 2023-02-20, documents)' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêts aux approches est/sud, mais pas nord?' />
+  </node>
+  <node id='-1487975137' action='modify' lat='45.40250849964' lon='-71.89545124836'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA des Nations, 2023-05-30, documents)' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Confirmer présence et direction de l&apos;arrêt' />
+  </node>
+  <node id='-4160787926' action='modify' lat='45.36386067282' lon='-71.9319427067'>
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA des Nations, 2023-02-28, documents)' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-222229166' action='modify' lat='45.39374605761' lon='-71.88621506229'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt (au lieu d&apos;un cédez) en sortie' />
   </node>
 </osm>
