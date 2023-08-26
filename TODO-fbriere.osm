@@ -761,7 +761,7 @@
     <tag k='TODO:planned_end' v='2023-08-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5827' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -861,7 +861,7 @@
     <tag k='TODO:planned_end' v='2023-08-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='5827' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1147,10 +1147,10 @@
     <tag k='name' v='Mise aux normes de la piste cyclable de la Route Verte' />
   </node>
   <node id='-3747832581' action='modify' lat='45.36213442491' lon='-71.8132066834'>
-    <tag k='TODO:planned_end' v='2023-08-04' />
+    <tag k='TODO:planned_end' v='2023-09-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-10' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4685' />
     <tag k='TODO:ville:travaux' v='2022' />
@@ -1551,7 +1551,7 @@
     <tag k='TODO:planned_end' v='2023-08-25' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-17' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6293' />
     <tag k='TODO:ville:travaux' v='2023' />
