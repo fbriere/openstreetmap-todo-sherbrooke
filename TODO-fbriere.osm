@@ -128,7 +128,7 @@
     <tag k='TODO:planned_end' v='2023-09-01' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallonweb.pdf' />
     <tag k='TODO:start_date' v='2023-07-10' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4094' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -616,7 +616,7 @@
     <tag k='TODO:planned_end' v='2023-09-01' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-03' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5812' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -925,7 +925,7 @@
     <tag k='name' v='Construction d&apos;une nouvelle caserne au coin de la rue Galt Est et du chemin Galvin' />
   </node>
   <node id='-1300017726' action='modify' lat='45.40513615929' lon='-71.89181076674'>
-    <tag k='TODO:planned_end' v='2023-09-15' />
+    <tag k='TODO:planned_end' v='2023-10-20' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/381/fermeture-du-pont-saint-francois' />
     <tag k='TODO:start_date' v='2021-08-30' />
     <tag k='TODO:status' v='ongoing' />
