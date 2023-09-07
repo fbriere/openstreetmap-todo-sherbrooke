@@ -1326,7 +1326,7 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Pas d&apos;arrêt à l&apos;approche est (et possiblement ouest?)' />
   </node>
-  <node id='-937040920' action='modify' lat='45.30691116716' lon='-72.09966129479'>
+  <node id='-3752918214' action='modify' lat='45.30693757706' lon='-72.09968409357'>
     <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2023-08-28, documents)' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
@@ -1380,5 +1380,75 @@
   <node id='-1492067093' action='modify' lat='45.40374577463' lon='-71.9529712227'>
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Confirmer lane/track pour le début de McCrea' />
+  </node>
+  <node id='-521698418' action='modify' lat='45.30799085286' lon='-72.09076166689'>
+    <tag k='TODO:session' v='2023-09-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-1111019828' action='modify' lat='45.30691559998' lon='-72.09965586796'>
+    <tag k='TODO:session' v='2023-09-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-4088717894' action='modify' lat='45.40017356876' lon='-71.93386344733'>
+    <tag k='TODO:session' v='2023-09-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-3323434875' action='modify' lat='45.40014628707' lon='-71.93281227502'>
+    <tag k='TODO:session' v='2023-09-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-2208088016' action='modify' lat='45.40015992716' lon='-71.93163807264'>
+    <tag k='TODO:session' v='2023-09-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-1077200100' action='modify' lat='45.42814093884' lon='-71.88156179664'>
+    <tag k='TODO:session' v='2023-09-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Remplacer les arrêts par un dos d&apos;âne' />
+  </node>
+  <node id='-3490138953' action='modify' lat='45.41557685717' lon='-71.87949000244'>
+    <tag k='TODO:session' v='2023-09-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Bandes de traverses blanches au sud et à l&apos;ouest de l&apos;intersection' />
+  </node>
+  <node id='-1895640933' action='modify' lat='45.41559470245' lon='-71.88052807149'>
+    <tag k='TODO:session' v='2023-09-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Couloir de traverse du côté sud' />
+  </node>
+  <node id='-86302928' action='modify' lat='45.41497903703' lon='-71.87964677205'>
+    <tag k='TODO:session' v='2023-09-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='name' v='Corridor de marche de Terrill à Langlois' />
+  </node>
+  <node id='-502256238' action='modify' lat='45.39779363955' lon='-71.84090971118'>
+    <tag k='TODO:session' v='2023-09-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='new' />
+    <tag k='name' v='Prolongement des rues de Blois et de Beauregard' />
   </node>
 </osm>
