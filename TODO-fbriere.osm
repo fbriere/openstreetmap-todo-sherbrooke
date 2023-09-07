@@ -145,9 +145,9 @@
     <tag k='name' v='Réaménagement de King Est, entre Raby et des Rocheuses' />
   </node>
   <node id='-3105652202' action='modify' lat='45.40376838616' lon='-71.86850311518'>
-    <tag k='TODO:planned_end' v='± 1 semaine' />
+    <tag k='TODO:planned_end' v='2023-07-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='Printemps 2023 (Tôt en 2023)' />
+    <tag k='TODO:start_date' v='2023-07-03' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5804' />
@@ -569,6 +569,7 @@
   </node>
   <node id='-1965672162' action='modify' lat='45.39567759843' lon='-71.88028337717'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='Automne' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5817' />
@@ -713,10 +714,9 @@
     <tag k='name' v='La géométrie de la rue sera modifiée à l&apos;approche de la rue Aubry pour aligner avec la portion existante à l&apos;est' />
   </node>
   <node id='-3647679084' action='modify' lat='45.40599426825' lon='-71.85023189127'>
-    <tag k='TODO:planned_end' v='2023-07-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-06-28' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:start_date' v='Automne' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5833;6234;6235' />
     <tag k='TODO:ville:travaux' v='2023' />
