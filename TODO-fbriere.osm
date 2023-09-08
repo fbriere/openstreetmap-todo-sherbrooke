@@ -974,7 +974,7 @@
     <tag k='name' v='Mise aux normes de la piste cyclable de la Route Verte' />
   </node>
   <node id='-3747832581' action='modify' lat='45.36213442491' lon='-71.8132066834'>
-    <tag k='TODO:planned_end' v='2023-09-08' />
+    <tag k='TODO:planned_end' v='2023-09-15' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-10' />
     <tag k='TODO:status' v='ongoing' />
