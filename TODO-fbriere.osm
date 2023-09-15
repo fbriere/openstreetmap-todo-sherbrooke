@@ -765,7 +765,7 @@
     <tag k='name' v='Mise en place d’un terre-plein central à l&apos;intersection' />
   </node>
   <node id='-1858428788' action='modify' lat='45.48367609947' lon='-71.94794024409'>
-    <tag k='TODO:planned_end' v='2023-09-29' />
+    <tag k='TODO:planned_end' v='2023-10-06' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-06-15' />
     <tag k='TODO:status' v='ongoing' />
@@ -785,7 +785,7 @@
     <tag k='name' v='Reconstruction du terrain de soccer au parc Quintal' />
   </node>
   <node id='-3372570451' action='modify' lat='45.40658490942' lon='-71.83361012766'>
-    <tag k='TODO:planned_end' v='2023-09-29' />
+    <tag k='TODO:planned_end' v='2023-10-06' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-06-01' />
     <tag k='TODO:status' v='ongoing' />
@@ -849,7 +849,7 @@
     <tag k='TODO:planned_end' v='2023-09-15' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-08-28' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5931' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -977,7 +977,7 @@
     <tag k='TODO:planned_end' v='2023-09-15' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-10' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4685' />
     <tag k='TODO:ville:travaux' v='2022' />
