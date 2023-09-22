@@ -558,7 +558,7 @@
     <tag k='name' v='Chaussée désignée pour cyclistes (entre des Pèlerins et le parc)' />
   </node>
   <node id='-3168248329' action='modify' lat='45.39722954501' lon='-71.87632442594'>
-    <tag k='TODO:planned_end' v='2023-09-22' />
+    <tag k='TODO:planned_end' v='2023-10-13' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Murray-2023.pdf' />
     <tag k='TODO:start_date' v='2023-07-10' />
     <tag k='TODO:status' v='ongoing' />
@@ -1327,7 +1327,7 @@
     <tag k='name' v='Pas d&apos;arrêt à l&apos;approche est (et possiblement ouest?)' />
   </node>
   <node id='-3752918214' action='modify' lat='45.30693757706' lon='-72.09968409357'>
-    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2023-08-28, documents)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke (séance du 2023-09-05, documents)' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêts aux approches nord-ouest et sud-ouest' />
