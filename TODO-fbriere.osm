@@ -1451,4 +1451,14 @@
     <tag k='TODO:type' v='new' />
     <tag k='name' v='Prolongement des rues de Blois et de Beauregard' />
   </node>
+  <node id='-849641445' action='modify' lat='45.44995841755' lon='-71.9463742301'>
+    <tag k='TODO:planned_end' v='2025-09-26' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2023-09-22' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='new' />
+    <tag k='TODO:ville:projet' v='6437' />
+    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='name' v='Ouverture des rues Étienne-Desmarteau, Jules-Huot et Lainé' />
+  </node>
 </osm>
