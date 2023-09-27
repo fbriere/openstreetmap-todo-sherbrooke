@@ -1199,10 +1199,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un passage piétonnier' />
   </node>
-  <node id='-4136571488' action='modify' lat='45.40916158641' lon='-71.85136444934'>
-    <tag k='TODO:type' v='misc' />
-    <tag k='name' v='Confirmer si le poste d&apos;essence est toujours en service sous une autre bannière' />
-  </node>
   <node id='-3426532853' action='modify' lat='45.40447927392' lon='-71.8916331245'>
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Est-ce que le stationnement est toujours accessible via Whiting durant les travaux?' />
