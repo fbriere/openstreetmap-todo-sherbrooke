@@ -1457,4 +1457,14 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ouverture des rues Étienne-Desmarteau, Jules-Huot et Lainé' />
   </node>
+  <node id='-3573355939' action='modify' lat='45.40601641153' lon='-71.85137119012'>
+    <tag k='TODO:planned_end' v='2023-10-27' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2023-10-04' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='6464' />
+    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='name' v='Nouveau trottoir, entre Plante et Galt Est' />
+  </node>
 </osm>
