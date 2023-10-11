@@ -492,11 +492,11 @@
   <node id='-4092595976' action='modify' lat='45.37153395144' lon='-71.96748735666'>
     <tag k='TODO:planned_end' v='± 2 mois' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Charny-2023.pdf' />
-    <tag k='TODO:start_date' v='Été 2023' />
+    <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5828' />
-    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Construction d&apos;un trottoir entre les rues Bertrand-Fabi et Charlevoix' />
   </node>
   <node id='-4200494462' action='modify' lat='45.40260831821' lon='-71.92062379003'>
@@ -936,7 +936,7 @@
   </node>
   <node id='-2469708005' action='modify' lat='45.363726427' lon='-71.86450261217'>
     <tag k='TODO:comments' v='Le trottoir partiel sur Lloyd ne sera pas reconstruit' />
-    <tag k='TODO:planned_end' v='2023-10-14' />
+    <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/RobertPeel2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-03' />
     <tag k='TODO:status' v='ongoing' />
@@ -1514,6 +1514,12 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-1424566784' action='modify' lat='45.40037852479' lon='-72.01562763333'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-4006672209' action='modify' lat='45.3981335763' lon='-72.01671124578'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
