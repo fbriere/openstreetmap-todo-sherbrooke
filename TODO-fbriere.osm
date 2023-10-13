@@ -558,7 +558,7 @@
     <tag k='name' v='Chaussée désignée pour cyclistes (entre des Pèlerins et le parc)' />
   </node>
   <node id='-3168248329' action='modify' lat='45.39722954501' lon='-71.87632442594'>
-    <tag k='TODO:planned_end' v='2023-10-13' />
+    <tag k='TODO:planned_end' v='2023-10-27' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Murray-2023.pdf' />
     <tag k='TODO:start_date' v='2023-07-10' />
     <tag k='TODO:status' v='ongoing' />
@@ -785,7 +785,7 @@
     <tag k='name' v='Reconstruction du terrain de soccer au parc Quintal' />
   </node>
   <node id='-3372570451' action='modify' lat='45.40658490942' lon='-71.83361012766'>
-    <tag k='TODO:planned_end' v='2023-10-06' />
+    <tag k='TODO:planned_end' v='2023-10-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-06-01' />
     <tag k='TODO:status' v='ongoing' />
@@ -836,7 +836,7 @@
     <tag k='name' v='Parc Andrew-Sangster - Remplacement des deux jeux rotatifs' />
   </node>
   <node id='-3496185455' action='modify' lat='45.39480961381' lon='-71.89380535428'>
-    <tag k='TODO:planned_end' v='2023-10-06' />
+    <tag k='TODO:planned_end' v='2023-11-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-24' />
     <tag k='TODO:status' v='ongoing' />
@@ -1470,7 +1470,7 @@
   <node id='-928998257' action='modify' lat='45.39374062106' lon='-71.92682737648'>
     <tag k='TODO:planned_end' v='2023-11-10' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-10-18' />
+    <tag k='TODO:start_date' v='2023-10-17' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='6474' />
