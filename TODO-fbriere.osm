@@ -155,10 +155,10 @@
     <tag k='name' v='Interventions localisées pour sécuriser le lien cyclable de la rue du Conseil (entre la 14e et 15e Avenue)' />
   </node>
   <node id='-2027438417' action='modify' lat='45.39983235887' lon='-71.88772649109'>
-    <tag k='TODO:comments' v='&quot;Travaux prévus en 2023, selon Jocelyn. Répercussions GFS et îlot de béton?&quot;' />
+    <tag k='TODO:planned_end' v='2024' />
     <tag k='TODO:session' v='2021-04-06' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023' />
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
+    <tag k='TODO:start_date' v='Automne 2023' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='1437;5800' />
@@ -172,7 +172,7 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Halte Muriel-Brand / Muriel-Brand Place' />
   </node>
-  <node id='-1228442260' action='modify' lat='45.40012239423' lon='-71.88945652127'>
+  <node id='-3258670188' action='modify' lat='45.40063465418' lon='-71.88978375077'>
     <tag k='TODO:comments' v='Est-ce que cela impliquera une interdiction de virage à gauche vers King Ouest?' />
     <tag k='TODO:planned_end' v='2023-10-31' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/400/en-route-vers-une-nouvelle-rue-wellington-sud' />
@@ -1524,5 +1524,18 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-4102723162' action='modify' lat='45.40027870369' lon='-71.88901931316'>
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Aménagement de la place publique' />
+  </node>
+  <node id='-704842365' action='modify' lat='45.40021278774' lon='-71.88924461871'>
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
+    <tag k='TODO:start_date' v='2024' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Installation d&apos;une fontaine en bordure de rue' />
   </node>
 </osm>
