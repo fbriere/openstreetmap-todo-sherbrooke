@@ -925,7 +925,7 @@
     <tag k='name' v='Construction d&apos;une nouvelle caserne au coin de la rue Galt Est et du chemin Galvin' />
   </node>
   <node id='-1300017726' action='modify' lat='45.40513615929' lon='-71.89181076674'>
-    <tag k='TODO:planned_end' v='2023-10-20' />
+    <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/381/fermeture-du-pont-saint-francois' />
     <tag k='TODO:start_date' v='2021-08-30' />
     <tag k='TODO:status' v='ongoing' />
