@@ -1538,4 +1538,25 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Installation d&apos;une fontaine en bordure de rue' />
   </node>
+  <node id='-1126109562' action='modify' lat='45.41253773433' lon='-71.84345662862'>
+    <tag k='TODO:session' v='2023-10-17' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='name' v='Construction d&apos;un trottoir' />
+  </node>
+  <node id='-978079310' action='modify' lat='45.42282310392' lon='-71.95223094106'>
+    <tag k='TODO:session' v='2023-10-17' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-3569509916' action='modify' lat='45.4229586481' lon='-71.95005298734'>
+    <tag k='TODO:session' v='2023-10-17' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
 </osm>
