@@ -788,7 +788,7 @@
     <tag k='TODO:planned_end' v='2023-10-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-06-01' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5913' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -829,7 +829,7 @@
     <tag k='TODO:planned_end' v='2023-10-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-08-21' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5932' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -856,7 +856,7 @@
     <tag k='name' v='Parc du Barrage - Amélioration de la surface et de l&apos;accès à l&apos;enclos canin' />
   </node>
   <node id='-3029554051' action='modify' lat='45.43038346283' lon='-71.89297068268'>
-    <tag k='TODO:planned_end' v='2023-10-27' />
+    <tag k='TODO:planned_end' v='2023-11-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-10-31' />
     <tag k='TODO:status' v='ongoing' />
@@ -895,7 +895,7 @@
     <tag k='name' v='Prolongement du boulevard du Mi-Vallon jusqu&apos;au boulevard René-Lévesque' />
   </node>
   <node id='-3710784898' action='modify' lat='45.43232910025' lon='-71.87078362965'>
-    <tag k='TODO:planned_end' v='2023-12-31' />
+    <tag k='TODO:planned_end' v='2024-10-25' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-11-01' />
     <tag k='TODO:status' v='ongoing' />
