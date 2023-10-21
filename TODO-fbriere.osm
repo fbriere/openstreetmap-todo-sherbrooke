@@ -442,7 +442,7 @@
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-662672270' action='modify' lat='45.36608327828' lon='-71.95950623304'>
-    <tag k='TODO:planned_end' v='2023-10-20' />
+    <tag k='TODO:planned_end' v='2023-11-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-21' />
     <tag k='TODO:status' v='ongoing' />
@@ -452,7 +452,7 @@
     <tag k='name' v='Aménagement de voies cyclables sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
   </node>
   <node id='-2082223891' action='modify' lat='45.36651347364' lon='-71.95923741173'>
-    <tag k='TODO:planned_end' v='2023-10-20' />
+    <tag k='TODO:planned_end' v='2023-11-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-21' />
     <tag k='TODO:status' v='ongoing' />
@@ -462,7 +462,7 @@
     <tag k='name' v='Construction d&apos;un trottoir sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
   </node>
   <node id='-1388227926' action='modify' lat='45.36458805639' lon='-71.9616791978'>
-    <tag k='TODO:planned_end' v='2023-10-20' />
+    <tag k='TODO:planned_end' v='2023-11-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-08-21' />
     <tag k='TODO:status' v='ongoing' />
@@ -523,7 +523,7 @@
     <tag k='TODO:planned_end' v='2023-09-29' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Vimy-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5851' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -533,7 +533,7 @@
     <tag k='TODO:planned_end' v='2023-09-29' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Vimy-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5851' />
     <tag k='TODO:ville:travaux' v='2023' />
