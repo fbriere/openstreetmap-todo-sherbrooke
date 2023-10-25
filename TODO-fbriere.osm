@@ -1560,4 +1560,14 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
+  <node id='-1290109258' action='modify' lat='45.40509202821' lon='-71.94277797203'>
+    <tag k='TODO:planned_end' v='2023-11-03' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2023-10-24' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='6517' />
+    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='name' v='Travaux d&apos;amélioration de la traverse piétonne' />
+  </node>
 </osm>
