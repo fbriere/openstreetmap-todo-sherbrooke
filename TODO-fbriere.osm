@@ -1572,4 +1572,14 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Travaux d&apos;amélioration de la traverse piétonne' />
   </node>
+  <node id='-661916824' action='modify' lat='45.34856469916' lon='-71.99177912073'>
+    <tag k='TODO:planned_end' v='2023-11-24' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2023-10-26' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='traffic_signal' />
+    <tag k='TODO:ville:projet' v='6523' />
+    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='name' v='Mise en place de base de feux de circulation' />
+  </node>
 </osm>
