@@ -41,7 +41,7 @@
   <node id='-3473539338' action='modify' lat='45.39609948556' lon='-71.87353492856'>
     <tag k='TODO:session' v='2018-03-19' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
-    <tag k='TODO:start_date' v='Automne 2023' />
+    <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5856' />
@@ -393,7 +393,7 @@
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-662672270' action='modify' lat='45.36608327828' lon='-71.95950623304'>
-    <tag k='TODO:planned_end' v='2023-11-03' />
+    <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-21' />
     <tag k='TODO:status' v='ongoing' />
@@ -403,7 +403,7 @@
     <tag k='name' v='Aménagement de voies cyclables sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
   </node>
   <node id='-2082223891' action='modify' lat='45.36651347364' lon='-71.95923741173'>
-    <tag k='TODO:planned_end' v='2023-11-03' />
+    <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-21' />
     <tag k='TODO:status' v='ongoing' />
@@ -413,7 +413,7 @@
     <tag k='name' v='Construction d&apos;un trottoir sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
   </node>
   <node id='-1388227926' action='modify' lat='45.36458805639' lon='-71.9616791978'>
-    <tag k='TODO:planned_end' v='2023-11-03' />
+    <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-08-21' />
     <tag k='TODO:status' v='ongoing' />
@@ -490,7 +490,7 @@
   </node>
   <node id='-3575331726' action='modify' lat='45.39617481979' lon='-71.87798739016'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
-    <tag k='TODO:start_date' v='Automne 2023' />
+    <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='5856' />
@@ -499,7 +499,7 @@
   </node>
   <node id='-1266634885' action='modify' lat='45.39634056303' lon='-71.87608838618'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
-    <tag k='TODO:start_date' v='Automne 2023' />
+    <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
@@ -508,7 +508,7 @@
   </node>
   <node id='-875435037' action='modify' lat='45.39632926237' lon='-71.87503159583'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
-    <tag k='TODO:start_date' v='Automne 2023' />
+    <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
