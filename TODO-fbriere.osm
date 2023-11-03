@@ -170,7 +170,7 @@
   </node>
   <node id='-3258670188' action='modify' lat='45.40063465418' lon='-71.88978375077'>
     <tag k='TODO:comments' v='Est-ce que cela impliquera une interdiction de virage à gauche vers King Ouest?' />
-    <tag k='TODO:planned_end' v='2023-10-31' />
+    <tag k='TODO:planned_end' v='2023-11-30' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/400/en-route-vers-une-nouvelle-rue-wellington-sud' />
     <tag k='TODO:start_date' v='2023-04-17' />
     <tag k='TODO:status' v='ongoing' />
@@ -342,7 +342,7 @@
   </node>
   <node id='-2063806821' action='modify' lat='45.40316951359' lon='-71.89008683234'>
     <tag k='TODO:comments' v='Quelques cases du stationnement de la Grenouillère seront temporairement inaccessibles' />
-    <tag k='TODO:planned_end' v='± 6 semaines' />
+    <tag k='TODO:planned_end' v='2023-12-22' />
     <tag k='TODO:session' v='2023-02-07' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/24/le-stationnement-webster-sera-demoli-a-partir-du-6-novembre-X6JVKDEL2VGEDMYULWQX2WHMR4/' />
     <tag k='TODO:start_date' v='2023-11-06' />
@@ -1341,7 +1341,7 @@
     <tag k='name' v='Nouveau trottoir, entre Plante et Galt Est' />
   </node>
   <node id='-928998257' action='modify' lat='45.39374062106' lon='-71.92682737648'>
-    <tag k='TODO:planned_end' v='2023-11-10' />
+    <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-10-17' />
     <tag k='TODO:status' v='ongoing' />
