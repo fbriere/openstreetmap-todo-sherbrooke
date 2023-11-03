@@ -748,7 +748,7 @@
     <tag k='name' v='Parc Andrew-Sangster - Remplacement des deux jeux rotatifs' />
   </node>
   <node id='-3496185455' action='modify' lat='45.39480961381' lon='-71.89380535428'>
-    <tag k='TODO:planned_end' v='2023-11-03' />
+    <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-24' />
     <tag k='TODO:status' v='ongoing' />
@@ -768,7 +768,7 @@
     <tag k='name' v='Parc du Barrage - Amélioration de la surface et de l&apos;accès à l&apos;enclos canin' />
   </node>
   <node id='-3029554051' action='modify' lat='45.43038346283' lon='-71.89297068268'>
-    <tag k='TODO:planned_end' v='2023-11-03' />
+    <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-10-31' />
     <tag k='TODO:status' v='ongoing' />
