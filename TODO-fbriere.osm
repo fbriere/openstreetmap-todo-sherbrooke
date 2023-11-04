@@ -539,7 +539,7 @@
     <tag k='TODO:planned_end' v='2023-11-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Normand-2023.pdf' />
     <tag k='TODO:start_date' v='2023-07-17' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5841' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -549,7 +549,7 @@
     <tag k='TODO:planned_end' v='2023-11-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Normand-2023.pdf' />
     <tag k='TODO:start_date' v='2023-07-17' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5841' />
     <tag k='TODO:ville:travaux' v='2023' />
