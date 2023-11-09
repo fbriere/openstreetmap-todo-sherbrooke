@@ -479,10 +479,10 @@
     <tag k='name' v='Ajout d&apos;un trottoir (entre Galt et Woodward)' />
   </node>
   <node id='-1965672162' action='modify' lat='45.39567759843' lon='-71.88028337717'>
-    <tag k='TODO:planned_end' v='2023-11-24' />
+    <tag k='TODO:planned_end' v='2023-11-08' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-10-02' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5817' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1436,7 +1436,7 @@
     <tag k='TODO:planned_end' v='2023-11-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-10-24' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='6517' />
     <tag k='TODO:ville:travaux' v='2023' />
