@@ -748,7 +748,7 @@
     <tag k='name' v='Parc Andrew-Sangster - Remplacement des deux jeux rotatifs' />
   </node>
   <node id='-3496185455' action='modify' lat='45.39480961381' lon='-71.89380535428'>
-    <tag k='TODO:planned_end' v='2023-11-17' />
+    <tag k='TODO:planned_end' v='2023-11-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-24' />
     <tag k='TODO:status' v='ongoing' />
@@ -768,10 +768,10 @@
     <tag k='name' v='Parc du Barrage - Amélioration de la surface et de l&apos;accès à l&apos;enclos canin' />
   </node>
   <node id='-3029554051' action='modify' lat='45.43038346283' lon='-71.89297068268'>
-    <tag k='TODO:planned_end' v='2023-11-17' />
+    <tag k='TODO:planned_end' v='2024-06-14' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-10-31' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4683' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -848,7 +848,7 @@
   </node>
   <node id='-2469708005' action='modify' lat='45.363726427' lon='-71.86450261217'>
     <tag k='TODO:comments' v='Le trottoir partiel sur Lloyd ne sera pas reconstruit' />
-    <tag k='TODO:planned_end' v='2023-11-17' />
+    <tag k='TODO:planned_end' v='2023-11-24' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/RobertPeel2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-03' />
     <tag k='TODO:status' v='ongoing' />
@@ -1341,7 +1341,7 @@
     <tag k='name' v='Nouveau trottoir, entre Plante et Galt Est' />
   </node>
   <node id='-928998257' action='modify' lat='45.39374062106' lon='-71.92682737648'>
-    <tag k='TODO:planned_end' v='2023-11-17' />
+    <tag k='TODO:planned_end' v='2023-11-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-10-17' />
     <tag k='TODO:status' v='ongoing' />
