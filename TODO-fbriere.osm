@@ -52,10 +52,6 @@
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Pas mal sûr que cycleway=track ne s&apos;applique pas ici...' />
   </node>
-  <node id='-3531117685' action='modify' lat='45.39486015444' lon='-71.9203153266'>
-    <tag k='TODO:type' v='oneway' />
-    <tag k='name' v='Vérifier: Allée du Urbano' />
-  </node>
   <node id='-3373162861' action='modify' lat='45.39431770693' lon='-71.91888839275'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='oneway' />
@@ -273,11 +269,6 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Virage à gauche: l&apos;exception pour autobus devrait être retirée cet été (une fois le pont rouvert?)' />
-  </node>
-  <node id='-355585926' action='modify' lat='45.39857992983' lon='-71.92063987389'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Ajouter: Virages à gauche (→ King Ouest, dir. est) (→ centre commercial)' />
   </node>
   <node id='-2459830434' action='modify' lat='45.39803940328' lon='-71.94068670809'>
     <tag k='TODO:status' v='certain' />
