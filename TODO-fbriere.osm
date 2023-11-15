@@ -1156,8 +1156,7 @@
   </node>
   <node id='-2649459616' action='modify' lat='45.41472416759' lon='-71.88853896551'>
     <tag k='TODO:planned_end' v='2024' />
-    <tag k='TODO:session' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/370/une-nouvelle-piscine-au-parc-victoria' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/370/une-nouvelle-piscine-au-parc-victoria' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Nouvelle géométrie de la piscine À-la-Claire-Fontaine' />
@@ -1442,5 +1441,15 @@
     <tag k='TODO:ville:projet' v='6523' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Mise en place de base de feux de circulation' />
+  </node>
+  <node id='-2881261366' action='modify' lat='45.37866356783' lon='-71.97068453372'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêts aux approches nord + est' />
+  </node>
+  <node id='-768494966' action='modify' lat='45.37812096769' lon='-71.97302342534'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
   </node>
 </osm>
