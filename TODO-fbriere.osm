@@ -116,16 +116,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Prolongement de la rue de la Golconda' />
   </node>
-  <node id='-1198526004' action='modify' lat='45.38232601933' lon='-71.98405267954'>
-    <tag k='TODO:planned_end' v='2023-09-01' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallonweb.pdf' />
-    <tag k='TODO:start_date' v='2023-07-10' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='4094' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ajout de voies cyclables sur Mi-Vallon, de Bourque jusqu&apos;au bout' />
-  </node>
   <node id='-204576628' action='modify' lat='45.4158045053' lon='-71.83140282154'>
     <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
@@ -280,11 +270,6 @@
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Demi-tour (ouest → est)' />
   </node>
-  <node id='-3575823084' action='modify' lat='45.37925326405' lon='-71.97397157684'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virages interdits à l&apos;intersection de cette bretelle' />
-  </node>
   <node id='-2560107776' action='modify' lat='45.34169336675' lon='-72.04347029462'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='oneway' />
@@ -377,6 +362,7 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2087439621' action='modify' lat='45.3966067459' lon='-72.01398268663'>
+    <tag k='TODO:check_date' v='2023-11-17' />
     <tag k='TODO:session' v='2023-04-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -974,6 +960,7 @@
     <tag k='name' v='Ouverture de la rue des Cavaliers' />
   </node>
   <node id='-604218504' action='modify' lat='45.39743465703' lon='-72.01669197862'>
+    <tag k='TODO:check_date' v='2023-11-17' />
     <tag k='TODO:session' v='2023-04-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1212,30 +1199,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêts aux approches nord-ouest et sud-ouest' />
   </node>
-  <node id='-3470482310' action='modify' lat='45.39371828213' lon='-72.01083519638'>
-    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2023-03-27, documents)' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-2621933598' action='modify' lat='45.38106048091' lon='-71.97741017818'>
-    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2022-12-12, documents)' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-632730816' action='modify' lat='45.38127901897' lon='-71.981283288'>
-    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2022-12-12, documents)' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-3871932012' action='modify' lat='45.40048257373' lon='-72.02187851608'>
-    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA BROFSED, 2022-11-28, documents)' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-1797253160' action='modify' lat='45.39899615558' lon='-71.8444973284'>
     <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA Fleurimont, 2023-02-20, documents)' />
     <tag k='TODO:type' v='stop' />
@@ -1340,54 +1303,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Réaménagement du stationnement' />
   </node>
-  <node id='-1332245827' action='modify' lat='45.37960180814' lon='-71.97044849932'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-4023653059' action='modify' lat='45.3837879035' lon='-71.98720157683'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-1236861661' action='modify' lat='45.40122223699' lon='-72.00702846587'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-1094670135' action='modify' lat='45.39896602189' lon='-72.00449646056'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-3711664542' action='modify' lat='45.39750828577' lon='-72.00448573172'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-285710848' action='modify' lat='45.40037099155' lon='-72.01662541509'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-1424566784' action='modify' lat='45.40037852479' lon='-72.01562763333'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-4006672209' action='modify' lat='45.3981335763' lon='-72.01671124578'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-4102723162' action='modify' lat='45.40027870369' lon='-71.88901931316'>
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
     <tag k='TODO:status' v='ongoing' />
@@ -1441,15 +1356,5 @@
     <tag k='TODO:ville:projet' v='6523' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Mise en place de base de feux de circulation' />
-  </node>
-  <node id='-2881261366' action='modify' lat='45.37866356783' lon='-71.97068453372'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêts aux approches nord + est' />
-  </node>
-  <node id='-768494966' action='modify' lat='45.37812096769' lon='-71.97302342534'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
   </node>
 </osm>
