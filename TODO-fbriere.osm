@@ -373,7 +373,7 @@
     <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-21' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5803' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -383,7 +383,7 @@
     <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-21' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5803' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -393,7 +393,7 @@
     <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-08-21' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5803' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -725,7 +725,7 @@
     <tag k='name' v='Parc Andrew-Sangster - Remplacement des deux jeux rotatifs' />
   </node>
   <node id='-3496185455' action='modify' lat='45.39480961381' lon='-71.89380535428'>
-    <tag k='TODO:planned_end' v='2023-11-24' />
+    <tag k='TODO:planned_end' v='2024-06-07' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-24' />
     <tag k='TODO:status' v='ongoing' />
