@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='never' generator='JOSM'>
-  <node id='-908017917' action='modify' lat='45.39911789189' lon='-71.89065978785'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='oneway' />
-    <tag k='name' v='Retirer: Sanborn (entre Brooks et Gordon)' />
-  </node>
   <node id='-1879080193' action='modify' lat='45.45992342464' lon='-71.99549621243'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='name' />
@@ -155,6 +150,7 @@
     <tag k='name' v='Halte Muriel-Brand / Muriel-Brand Place' />
   </node>
   <node id='-3258670188' action='modify' lat='45.40063465418' lon='-71.88978375077'>
+    <tag k='TODO:check_date' v='2023-11-21' />
     <tag k='TODO:comments' v='Est-ce que cela impliquera une interdiction de virage à gauche vers King Ouest?' />
     <tag k='TODO:planned_end' v='2023-11-30' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/400/en-route-vers-une-nouvelle-rue-wellington-sud' />
@@ -212,6 +208,7 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2045390899' action='modify' lat='45.39993405844' lon='-71.88895226061'>
+    <tag k='TODO:check_date' v='2023-11-21' />
     <tag k='TODO:comments' v='La Ville a déclaré la fermeture de la &quot;ruelle&quot; Therrien, mais la rue figure encore dans ses données' />
     <tag k='TODO:session' v='2021-05-03' />
     <tag k='TODO:type' v='name' />
@@ -254,6 +251,7 @@
     <tag k='name' v='Ajouter: Virages à gauche' />
   </node>
   <node id='-742864720' action='modify' lat='45.40141432939' lon='-71.89034700662'>
+    <tag k='TODO:check_date' v='2023-11-21' />
     <tag k='TODO:planned_end' v='2023-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/05/26/virage-a-gauche-wellington-sud-277-constats-dinfractions-plus-tard-RJTYHEUK3ZDQ5NWH7CQW4FVM5E/' />
     <tag k='TODO:status' v='planned' />
@@ -315,18 +313,6 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Passage pour piétons' />
-  </node>
-  <node id='-2063806821' action='modify' lat='45.40316951359' lon='-71.89008683234'>
-    <tag k='TODO:comments' v='Quelques cases du stationnement de la Grenouillère seront temporairement inaccessibles' />
-    <tag k='TODO:planned_end' v='2023-12-22' />
-    <tag k='TODO:session' v='2023-02-07' />
-    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/24/le-stationnement-webster-sera-demoli-a-partir-du-6-novembre-X6JVKDEL2VGEDMYULWQX2WHMR4/' />
-    <tag k='TODO:start_date' v='2023-11-06' />
-    <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:type' v='misc' />
-    <tag k='TODO:ville:projet' v='5813' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Démolition du stationnement Webster' />
   </node>
   <node id='-684148393' action='modify' lat='45.37453738653' lon='-71.88731611311'>
     <tag k='TODO:session' v='2023-03-07' />
@@ -444,26 +430,6 @@
     <tag k='TODO:ville:projet' v='5843' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Chaussée désignée pour cyclistes (entre des Pèlerins et le parc)' />
-  </node>
-  <node id='-3168248329' action='modify' lat='45.39722954501' lon='-71.87632442594'>
-    <tag k='TODO:planned_end' v='2023-10-27' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Murray-2023.pdf' />
-    <tag k='TODO:start_date' v='2023-07-10' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='5840' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ajout d&apos;un trottoir (entre Galt et Woodward)' />
-  </node>
-  <node id='-1965672162' action='modify' lat='45.39567759843' lon='-71.88028337717'>
-    <tag k='TODO:planned_end' v='2023-11-08' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-10-02' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='5817' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Aménagement d&apos;une bretelle cyclable entre le pont Joffre et l&apos;axe Saint-François' />
   </node>
   <node id='-3575331726' action='modify' lat='45.39617481979' lon='-71.87798739016'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
@@ -812,16 +778,6 @@
     <tag k='TODO:ville:projet' v='5871' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;une nouvelle caserne au coin de la rue Galt Est et du chemin Galvin' />
-  </node>
-  <node id='-1300017726' action='modify' lat='45.40513615929' lon='-71.89181076674'>
-    <tag k='TODO:planned_end' v='2023-11-30' />
-    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/381/fermeture-du-pont-saint-francois' />
-    <tag k='TODO:start_date' v='2021-08-30' />
-    <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:type' v='new' />
-    <tag k='TODO:ville:projet' v='3458' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Réaménagement de la rue des Grandes-Fourches Nord, de la bretelle Frontenac à la rue Terrill' />
   </node>
   <node id='-2469708005' action='modify' lat='45.363726427' lon='-71.86450261217'>
     <tag k='TODO:comments' v='Le trottoir partiel sur Lloyd ne sera pas reconstruit' />
@@ -1214,11 +1170,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-222229166' action='modify' lat='45.39374605761' lon='-71.88621506229'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt (au lieu d&apos;un cédez) en sortie' />
   </node>
   <node id='-1492067093' action='modify' lat='45.40374577463' lon='-71.9529712227'>
     <tag k='TODO:type' v='cycleway' />
