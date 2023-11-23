@@ -387,6 +387,7 @@
   </node>
   <node id='-3917376573' action='modify' lat='45.38160260823' lon='-71.87367443562'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5806' />
@@ -396,7 +397,7 @@
   <node id='-3040965806' action='modify' lat='45.39468313506' lon='-72.02756886005'>
     <tag k='TODO:planned_end' v='± 2 semaines' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='Été 2023' />
+    <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5805' />
@@ -570,7 +571,7 @@
   </node>
   <node id='-3647679084' action='modify' lat='45.40599426825' lon='-71.85023189127'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='Automne' />
+    <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5833;6234;6235' />
