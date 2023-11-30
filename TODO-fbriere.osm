@@ -309,14 +309,15 @@
   </node>
   <node id='-3460223818' action='modify' lat='45.38500863261' lon='-71.88327670634'>
     <tag k='TODO:session' v='2023-01-24' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Passage pour piétons' />
   </node>
   <node id='-684148393' action='modify' lat='45.37453738653' lon='-71.88731611311'>
     <tag k='TODO:session' v='2023-03-07' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1150,12 +1151,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Pas d&apos;arrêt à l&apos;approche est (et possiblement ouest?)' />
   </node>
-  <node id='-3752918214' action='modify' lat='45.30693757706' lon='-72.09968409357'>
-    <tag k='TODO:source' v='Ville de Sherbrooke (séance du 2023-09-05, documents)' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêts aux approches nord-ouest et sud-ouest' />
-  </node>
   <node id='-1797253160' action='modify' lat='45.39899615558' lon='-71.8444973284'>
     <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA Fleurimont, 2023-02-20, documents)' />
     <tag k='TODO:type' v='stop' />
@@ -1178,15 +1173,15 @@
   </node>
   <node id='-521698418' action='modify' lat='45.30799085286' lon='-72.09076166689'>
     <tag k='TODO:session' v='2023-09-05' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-1111019828' action='modify' lat='45.30691559998' lon='-72.09965586796'>
     <tag k='TODO:session' v='2023-09-05' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1309,5 +1304,62 @@
     <tag k='TODO:ville:projet' v='6523' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Mise en place de base de feux de circulation' />
+  </node>
+  <node id='-2898756457' action='modify' lat='45.411225112' lon='-71.96061127041'>
+    <tag k='TODO:session' v='2023-10-17' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-933545980' action='modify' lat='45.38350025393' lon='-71.89190957315'>
+    <tag k='TODO:session' v='2023-10-17' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-2155951220' action='modify' lat='45.36796614977' lon='-71.99944088494'>
+    <tag k='TODO:session' v='2023-10-17' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-3773799394' action='modify' lat='45.41565739826' lon='-71.84627823404'>
+    <tag k='TODO:session' v='2023-10-17' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-3251508905' action='modify' lat='45.41382371964' lon='-71.95533358649'>
+    <tag k='TODO:session' v='2023-10-17' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-463332832' action='modify' lat='45.4225404722' lon='-71.85158055927'>
+    <tag k='TODO:session' v='2023-10-17' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-240757346' action='modify' lat='45.36637457208' lon='-71.89514547855'>
+    <tag k='TODO:session' v='2023-10-17' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Feux pour piétons' />
+  </node>
+  <node id='-4136040039' action='modify' lat='45.37029219078' lon='-71.98098153144'>
+    <tag k='TODO:comments' v='Aucune idée comment cette interdiction est supposée fonctionner...' />
+    <tag k='TODO:session' v='2023-10-17' />
+    <tag k='TODO:source' v='Règlement n° 1-168' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='restriction' />
+    <tag k='name' v='Accès interdit vers l&apos;est en provenance de l&apos;ouest?' />
   </node>
 </osm>
