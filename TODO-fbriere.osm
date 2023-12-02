@@ -298,15 +298,6 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Confirmer: Le dernier segment est Elgin, pas Hyatt' />
   </node>
-  <node id='-3792062620' action='modify' lat='45.40463087188' lon='-71.96358204424'>
-    <tag k='TODO:check_date' v='2023-07-19' />
-    <tag k='TODO:planned_end' v='± 4 semaines' />
-    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/05/01/intersection-410-et-industriel-quatre-semaines-pour-installer-les-feux-de-circulation-VVSHELSD75ASTAI74TPB7TZA3Q/' />
-    <tag k='TODO:start_date' v='2023-05-07' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='traffic_signal' />
-    <tag k='name' v='Ajouter: Industriel / 410' />
-  </node>
   <node id='-3460223818' action='modify' lat='45.38500863261' lon='-71.88327670634'>
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Règlement n° 1-168' />
@@ -357,10 +348,11 @@
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-662672270' action='modify' lat='45.36608327828' lon='-71.95950623304'>
+    <tag k='TODO:check_date' v='2023-12-01' />
     <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-21' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5803' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1296,6 +1288,7 @@
     <tag k='name' v='Travaux d&apos;amélioration de la traverse piétonne' />
   </node>
   <node id='-661916824' action='modify' lat='45.34856469916' lon='-71.99177912073'>
+    <tag k='TODO:comments' v='Les feux sont déjà en place, mais pas encore en fonction' />
     <tag k='TODO:planned_end' v='2023-11-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-10-26' />
