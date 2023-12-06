@@ -1355,4 +1355,18 @@
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Accès interdit vers l&apos;est en provenance de l&apos;ouest?' />
   </node>
+  <node id='-76372337' action='modify' lat='45.4294289685' lon='-71.88903277845'>
+    <tag k='TODO:session' v='2023-12-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-2919624243' action='modify' lat='45.40906972418' lon='-71.88813025705'>
+    <tag k='TODO:session' v='2023-12-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Traverse pour piétons' />
+  </node>
 </osm>
