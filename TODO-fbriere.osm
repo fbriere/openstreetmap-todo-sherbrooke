@@ -1358,4 +1358,11 @@
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Traverse pour piétons' />
   </node>
+  <node id='-4268686967' action='modify' lat='45.42607230582' lon='-71.87718272746'>
+    <tag k='TODO:session' v='2023-12-14 (CA Fleurimont)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
 </osm>
