@@ -223,11 +223,6 @@
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Virages à gauche (→ London) (→ King Est)' />
   </node>
-  <node id='-857756467' action='modify' lat='45.40045196813' lon='-71.89191073447'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virage à gauche (Brooks → King dir. ouest) [terre-plein ouvert]' />
-  </node>
   <node id='-2053173396' action='modify' lat='45.40829915998' lon='-71.86240643531'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='restriction' />
@@ -776,7 +771,7 @@
     <tag k='TODO:source' v='Bing' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='geometry' />
-    <tag k='name' v='Le terre-plein est ouvert à cet endroit (mais interdit à tous?)' />
+    <tag k='name' v='Le terre-plein est ouvert à cet endroit (sans aucune restriction?)' />
   </node>
   <node id='-2802888291' action='modify' lat='45.39465155679' lon='-71.92754119702'>
     <tag k='TODO:planned_end' v='2022-08-12' />
