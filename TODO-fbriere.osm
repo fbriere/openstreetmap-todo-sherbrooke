@@ -797,15 +797,10 @@
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Chaussée partagée jusqu&apos;à Galt/Bowen' />
   </node>
-  <node id='-240955581' action='modify' lat='45.34544968958' lon='-71.9618225956'>
+  <node id='-3978403207' action='modify' lat='45.3752619017' lon='-71.9329311812'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Vérifier: Bandes cyclables?' />
-  </node>
-  <node id='-3609003201' action='modify' lat='45.35890044085' lon='-71.94036492348'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Vérifier: Bandes cyclables?' />
+    <tag k='name' v='Vérifier: Bandes cyclables (jusqu&apos;à Saint-Rock)?' />
   </node>
   <node id='-2532042535' action='modify' lat='45.45899807625' lon='-71.91746145755'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -813,7 +808,7 @@
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Vérifier: cycleway=track (côté est) entre Beausecours et du Perche' />
   </node>
-  <node id='-354073137' action='modify' lat='45.42756696421' lon='-71.91231968164'>
+  <node id='-679074194' action='modify' lat='45.43101541962' lon='-71.91403629541'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Vérifier: Route cyclable d&apos;ici jusqu&apos;à Brompton?' />
