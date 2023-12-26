@@ -36,11 +36,6 @@
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Pas mal sûr que cycleway=track ne s&apos;applique pas ici...' />
   </node>
-  <node id='-3373162861' action='modify' lat='45.39431770693' lon='-71.91888839275'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='oneway' />
-    <tag k='name' v='Ajouter: Sortie du stationnement de Nordia' />
-  </node>
   <node id='-2582480594' action='modify' lat='45.46758768479' lon='-71.93745196402'>
     <tag k='TODO:session' v='2017-10-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
