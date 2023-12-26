@@ -22,17 +22,6 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Parc du Centenaire (dans le parc de la Rive) renommé halte du Centenaire' />
   </node>
-  <node id='-2443703709' action='modify' lat='45.41498358593' lon='-71.94719912767'>
-    <tag k='TODO:check_date' v='2023-07-19' />
-    <tag k='TODO:planned_end' v='2024-12-13' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-04-17' />
-    <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:type' v='new' />
-    <tag k='TODO:ville:projet' v='5953' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Prolongement de la rue du Seyval' />
-  </node>
   <node id='-3473539338' action='modify' lat='45.39609948556' lon='-71.87353492856'>
     <tag k='TODO:session' v='2018-03-19' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
@@ -70,12 +59,6 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Barrage Joseph-Choquette' />
-  </node>
-  <node id='-2945369702' action='modify' lat='45.39516151528' lon='-71.93385780394'>
-    <tag k='TODO:session' v='2016-10-03' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-1197900960' action='modify' lat='45.38266135436' lon='-71.94370152712'>
     <tag k='TODO:source' v='Maxar' />
@@ -196,7 +179,7 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2045390899' action='modify' lat='45.39993405844' lon='-71.88895226061'>
-    <tag k='TODO:check_date' v='2023-11-21' />
+    <tag k='TODO:check_date' v='2023-12-25' />
     <tag k='TODO:comments' v='La Ville a déclaré la fermeture de la &quot;ruelle&quot; Therrien, mais la rue figure encore dans ses données' />
     <tag k='TODO:session' v='2021-05-03' />
     <tag k='TODO:type' v='name' />
@@ -207,21 +190,6 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Halte Massawippi' />
-  </node>
-  <node id='-3582496493' action='modify' lat='45.3986403751' lon='-71.91480397515'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virage à gauche (→ King Est)' />
-  </node>
-  <node id='-2079807575' action='modify' lat='45.39890010158' lon='-71.90482959285'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virages à gauche (→ Québec) (→ King Est)' />
-  </node>
-  <node id='-3258910007' action='modify' lat='45.39880781791' lon='-71.90343618661'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virages à gauche (→ London) (→ King Est)' />
   </node>
   <node id='-2053173396' action='modify' lat='45.40829915998' lon='-71.86240643531'>
     <tag k='TODO:status' v='certain' />
@@ -234,22 +202,12 @@
     <tag k='name' v='Ajouter: Virages à gauche' />
   </node>
   <node id='-742864720' action='modify' lat='45.40141432939' lon='-71.89034700662'>
-    <tag k='TODO:check_date' v='2023-11-21' />
+    <tag k='TODO:check_date' v='2023-12-25' />
     <tag k='TODO:planned_end' v='2023-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/05/26/virage-a-gauche-wellington-sud-277-constats-dinfractions-plus-tard-RJTYHEUK3ZDQ5NWH7CQW4FVM5E/' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Virage à gauche: l&apos;exception pour autobus devrait être retirée' />
-  </node>
-  <node id='-2459830434' action='modify' lat='45.39803940328' lon='-71.94068670809'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Demi-tour (est → ouest)' />
-  </node>
-  <node id='-2274716763' action='modify' lat='45.39612396477' lon='-71.94624960691'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Demi-tour (ouest → est)' />
   </node>
   <node id='-2560107776' action='modify' lat='45.34169336675' lon='-72.04347029462'>
     <tag k='TODO:status' v='certain' />
@@ -260,11 +218,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Demi-tour (ouest → est)' />
-  </node>
-  <node id='-4131639928' action='modify' lat='45.40354803866' lon='-71.90328598291'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virage à gauche interdit (Portland, dir. ouest → London, dir. sud)' />
   </node>
   <node id='-2301366092' action='modify' lat='45.40970012779' lon='-71.89029068023'>
     <tag k='TODO:status' v='certain' />
@@ -316,6 +269,7 @@
     <tag k='name' v='Modifications géométriques de l&apos;intersection Dunant/Belvédère Sud' />
   </node>
   <node id='-3439725826' action='modify' lat='45.3977788438' lon='-71.91392556611'>
+    <tag k='TODO:check_date' v='2023-12-25' />
     <tag k='TODO:planned_end' v='2022-12' />
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -565,6 +519,7 @@
     <tag k='name' v='Chaussée désignée pour cyclistes (à l&apos;ouest de St-Gilles)' />
   </node>
   <node id='-2792115153' action='modify' lat='45.40249720162' lon='-71.89373731881'>
+    <tag k='TODO:check_date' v='2023-12-25' />
     <tag k='TODO:session' v='2023-06-06' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:status' v='planned' />
@@ -767,12 +722,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Urbanisation et pavage des rues Robert-Peel, Lloyd et Spring Garden' />
   </node>
-  <node id='-591680644' action='modify' lat='45.40043219247' lon='-71.89205959573'>
-    <tag k='TODO:source' v='Bing' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='geometry' />
-    <tag k='name' v='Le terre-plein est ouvert à cet endroit (sans aucune restriction?)' />
-  </node>
   <node id='-2802888291' action='modify' lat='45.39465155679' lon='-71.92754119702'>
     <tag k='TODO:planned_end' v='2022-08-12' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -881,16 +830,6 @@
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Construction de classes modulaires' />
-  </node>
-  <node id='-1976469553' action='modify' lat='45.38033024975' lon='-72.00113934252'>
-    <tag k='TODO:planned_end' v='2025-05-01' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-05-02' />
-    <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:type' v='new' />
-    <tag k='TODO:ville:projet' v='6009' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ouverture de la rue des Cavaliers' />
   </node>
   <node id='-604218504' action='modify' lat='45.39743465703' lon='-72.01669197862'>
     <tag k='TODO:check_date' v='2023-11-17' />
@@ -1015,12 +954,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un passage piétonnier' />
   </node>
-  <node id='-2930022952' action='modify' lat='45.39900368899' lon='-71.95852339804'>
-    <tag k='TODO:session' v='2023-06-06' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='name' v='Corridor de marche (côté est, de la courbe jusqu&apos;à Antoine-Samson)' />
-  </node>
   <node id='-3788175689' action='modify' lat='45.38413454109' lon='-71.8827878382'>
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1060,7 +993,7 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2140812189' action='modify' lat='45.39196646079' lon='-71.89848110863'>
-    <tag k='TODO:check_date' v='2023-07-12' />
+    <tag k='TODO:check_date' v='2023-12-25' />
     <tag k='TODO:session' v='2023-05-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1068,6 +1001,7 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2021827399' action='modify' lat='45.40278477981' lon='-71.89353858484'>
+    <tag k='TODO:check_date' v='2023-12-25' />
     <tag k='TODO:session' v='2023-06-06' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1105,13 +1039,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;un corridor scolaire près de la future caserne n°4' />
   </node>
-  <node id='-3893465901' action='modify' lat='45.42024771663' lon='-71.94952802332'>
-    <tag k='TODO:session' v='2023-06-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Interdiction de demi-tour' />
-  </node>
   <node id='-3543003082' action='modify' lat='45.43762564004' lon='-71.86841730595'>
     <tag k='TODO:planned_end' v='2023-10-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/08/18/les-travaux-commenceront-lundi-sur-lechangeur-situe-pres-de-lhopital-fleurimont-ARXRFU4NUBC3NGXZR3J6O5I2HA/' />
@@ -1120,31 +1047,16 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Réaménagement de l&apos;échangeur' />
   </node>
-  <node id='-936914865' action='modify' lat='45.40006730059' lon='-71.93591907755'>
-    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA des Nations, 2023-08-29, documents)' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Pas d&apos;arrêt à l&apos;approche est (et possiblement ouest?)' />
-  </node>
   <node id='-1797253160' action='modify' lat='45.39899615558' lon='-71.8444973284'>
     <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA Fleurimont, 2023-02-20, documents)' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêts aux approches est/sud, mais pas nord?' />
-  </node>
-  <node id='-1487975137' action='modify' lat='45.40250849964' lon='-71.89545124836'>
-    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA des Nations, 2023-05-30, documents)' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Confirmer présence et direction de l&apos;arrêt' />
   </node>
   <node id='-4160787926' action='modify' lat='45.36386067282' lon='-71.9319427067'>
     <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA des Nations, 2023-02-28, documents)' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-1492067093' action='modify' lat='45.40374577463' lon='-71.9529712227'>
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Confirmer lane/track pour le début de McCrea' />
   </node>
   <node id='-521698418' action='modify' lat='45.30799085286' lon='-72.09076166689'>
     <tag k='TODO:session' v='2023-09-05' />
@@ -1248,6 +1160,7 @@
     <tag k='name' v='Construction d&apos;un trottoir' />
   </node>
   <node id='-978079310' action='modify' lat='45.42282310392' lon='-71.95223094106'>
+    <tag k='TODO:check_date' v='2023-12-25' />
     <tag k='TODO:session' v='2023-10-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1255,6 +1168,7 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-3569509916' action='modify' lat='45.4229586481' lon='-71.95005298734'>
+    <tag k='TODO:check_date' v='2023-12-25' />
     <tag k='TODO:session' v='2023-10-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1282,14 +1196,8 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Mise en place de base de feux de circulation' />
   </node>
-  <node id='-2898756457' action='modify' lat='45.411225112' lon='-71.96061127041'>
-    <tag k='TODO:session' v='2023-10-17' />
-    <tag k='TODO:source' v='Règlement n° 1-168' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-933545980' action='modify' lat='45.38350025393' lon='-71.89190957315'>
+    <tag k='TODO:check_date' v='2023-12-25' />
     <tag k='TODO:session' v='2023-10-17' />
     <tag k='TODO:source' v='Règlement n° 1-168' />
     <tag k='TODO:status' v='completed' />
@@ -1304,13 +1212,6 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-3773799394' action='modify' lat='45.41565739826' lon='-71.84627823404'>
-    <tag k='TODO:session' v='2023-10-17' />
-    <tag k='TODO:source' v='Règlement n° 1-168' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-3251508905' action='modify' lat='45.41382371964' lon='-71.95533358649'>
     <tag k='TODO:session' v='2023-10-17' />
     <tag k='TODO:source' v='Règlement n° 1-168' />
     <tag k='TODO:status' v='completed' />
