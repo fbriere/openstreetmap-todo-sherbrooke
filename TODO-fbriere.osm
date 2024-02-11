@@ -1251,4 +1251,53 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
+  <node id='-2801151452' action='modify' lat='45.38851601105' lon='-71.86964250718'>
+    <tag k='TODO:session' v='2024-01-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='name' v='Corridor de marche (côté sud, entre Bowen et Mailhot)' />
+  </node>
+  <node id='-4045253582' action='modify' lat='45.39665879975' lon='-71.88986610657'>
+    <tag k='TODO:session' v='2024-01-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Passage pour piétons' />
+  </node>
+  <node id='-4248342139' action='modify' lat='45.41499864096' lon='-72.03203202367'>
+    <tag k='TODO:session' v='2024-01-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Passage pour cavaliers' />
+  </node>
+  <node id='-926446325' action='modify' lat='45.405988617' lon='-71.84412181646'>
+    <tag k='TODO:session' v='2024-01-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-1712895502' action='modify' lat='45.38477503646' lon='-71.90137625009'>
+    <tag k='TODO:session' v='2024-01-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='name' v='Trottoir (côté est, entre Jogues et Raoul-Bruneau)' />
+  </node>
+  <node id='-1287854527' action='modify' lat='45.38456781492' lon='-71.90137356788'>
+    <tag k='TODO:session' v='2024-01-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-1555903729' action='modify' lat='45.38467142578' lon='-71.90137088567'>
+    <tag k='TODO:session' v='2024-01-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Retrait du passage piéton (suite à l&apos;ajout de l&apos;arrêt toutes directions)' />
+  </node>
 </osm>
