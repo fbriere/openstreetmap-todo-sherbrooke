@@ -280,7 +280,7 @@
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-662672270' action='modify' lat='45.36608327828' lon='-71.95950623304'>
-    <tag k='TODO:check_date' v='2023-12-01' />
+    <tag k='TODO:check_date' v='2024-03-05' />
     <tag k='TODO:comments' v='Pavage et finition à compléter en 2024' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2024' />
@@ -289,16 +289,6 @@
     <tag k='TODO:ville:projet' v='5803' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement de voies cyclables sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
-  </node>
-  <node id='-2082223891' action='modify' lat='45.36651347364' lon='-71.95923741173'>
-    <tag k='TODO:planned_end' v='2023-11-17' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
-    <tag k='TODO:start_date' v='2023-08-21' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='5803' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Construction d&apos;un trottoir sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
   </node>
   <node id='-1388227926' action='modify' lat='45.36458805639' lon='-71.9616791978'>
     <tag k='TODO:planned_end' v='2023-11-17' />
@@ -330,6 +320,7 @@
     <tag k='name' v='Aménagement de voies cyclables sur le chemin de Saint-Élie, entre la rue Croteau et le chemin Laliberté' />
   </node>
   <node id='-4092595976' action='modify' lat='45.37153395144' lon='-71.96748735666'>
+    <tag k='TODO:check_date' v='2024-03-05' />
     <tag k='TODO:planned_end' v='± 2 mois' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Charny-2023.pdf' />
     <tag k='TODO:start_date' v='2024' />
@@ -798,11 +789,6 @@
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Chaussée partagée jusqu&apos;à Galt/Bowen' />
   </node>
-  <node id='-3978403207' action='modify' lat='45.3752619017' lon='-71.9329311812'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Vérifier: Bandes cyclables (jusqu&apos;à Saint-Rock)?' />
-  </node>
   <node id='-2532042535' action='modify' lat='45.45899807625' lon='-71.91746145755'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='certain' />
@@ -1043,12 +1029,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêts aux approches est/sud, mais pas nord?' />
   </node>
-  <node id='-4160787926' action='modify' lat='45.36386067282' lon='-71.9319427067'>
-    <tag k='TODO:source' v='Ville de Sherbrooke (séance du CA des Nations, 2023-02-28, documents)' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-521698418' action='modify' lat='45.30799085286' lon='-72.09076166689'>
     <tag k='TODO:session' v='2023-09-05' />
     <tag k='TODO:source' v='Règlement n° 1-168' />
@@ -1175,17 +1155,6 @@
     <tag k='TODO:ville:projet' v='6517' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Travaux d&apos;amélioration de la traverse piétonne' />
-  </node>
-  <node id='-661916824' action='modify' lat='45.34856469916' lon='-71.99177912073'>
-    <tag k='TODO:comments' v='Les feux sont déjà en place, mais pas encore en fonction' />
-    <tag k='TODO:planned_end' v='2023-11-24' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-10-26' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='traffic_signal' />
-    <tag k='TODO:ville:projet' v='6523' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Mise en place de base de feux de circulation' />
   </node>
   <node id='-933545980' action='modify' lat='45.38350025393' lon='-71.89190957315'>
     <tag k='TODO:check_date' v='2023-12-25' />
