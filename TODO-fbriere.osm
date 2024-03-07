@@ -1270,14 +1270,4 @@
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Retrait du passage piéton (suite à l&apos;ajout de l&apos;arrêt toutes directions)' />
   </node>
-  <node id='-3974422120' action='modify' lat='45.38350546789' lon='-71.97180391043'>
-    <tag k='TODO:planned_end' v='2024-03-22' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lettre_Demolition_Gregoire_2024.pdf' />
-    <tag k='TODO:start_date' v='2024-03-04' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='misc' />
-    <tag k='TODO:ville:projet' v='6855' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Démolition de l&apos;ancienne église La-Résurrection-du-Christ' />
-  </node>
 </osm>
