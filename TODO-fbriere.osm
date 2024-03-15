@@ -1072,10 +1072,14 @@
     <tag k='name' v='Corridor de marche de Terrill à Langlois' />
   </node>
   <node id='-502256238' action='modify' lat='45.39779363955' lon='-71.84090971118'>
+    <tag k='TODO:planned_end' v='2026-06-01' />
     <tag k='TODO:session' v='2023-09-05' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Beauregard-Blois.pdf' />
+    <tag k='TODO:start_date' v='2024-03-18' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='new' />
+    <tag k='TODO:ville:projet' v='6907' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Prolongement des rues de Blois et de Beauregard' />
   </node>
   <node id='-849641445' action='modify' lat='45.44995841755' lon='-71.9463742301'>
