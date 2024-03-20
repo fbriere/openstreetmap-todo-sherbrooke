@@ -29,7 +29,7 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5856' />
-    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Aménagement de voies cyclables en bordure de la rue Galt Est (entre Bowen et Lavigerie)' />
   </node>
   <node id='-4129659730' action='modify' lat='45.39115708769' lon='-71.91999078065'>
@@ -117,8 +117,8 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='1437;5800' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Construction d&apos;une nouvelle rue, entre les rues du Dépôt et des Grandes-Fourches Sud' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction de la rue Jean-Baptiste-Nolain, entre les rues du Dépôt et des Grandes-Fourches Sud' />
   </node>
   <node id='-2328886171' action='modify' lat='45.36877153307' lon='-71.8597000891'>
     <tag k='TODO:check_date' v='2023-06-20' />
@@ -306,7 +306,7 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5806' />
-    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Aménagement de voies cyclables sur la rue Wellington Sud/Queen, entre la côte de l&apos;Acadie et la rue John-Wilson' />
   </node>
   <node id='-3040965806' action='modify' lat='45.39468313506' lon='-72.02756886005'>
@@ -354,7 +354,7 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='5856' />
-    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Retrait de la bretelle de virage' />
   </node>
   <node id='-1266634885' action='modify' lat='45.39634056303' lon='-71.87608838618'>
@@ -363,7 +363,7 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
-    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Interdiction d&apos;entrée par Galt' />
   </node>
   <node id='-875435037' action='modify' lat='45.39632926237' lon='-71.87503159583'>
@@ -372,7 +372,7 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
-    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Interdiction d&apos;entrée par Galt' />
   </node>
   <node id='-650103452' action='modify' lat='45.38756346247' lon='-71.86489208384'>
@@ -491,7 +491,7 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5833;6234;6235' />
-    <tag k='TODO:ville:travaux' v='2023' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Mise à niveau de traveses piétonnes' />
   </node>
   <node id='-1895780362' action='modify' lat='45.38544568113' lon='-71.91403628469'>
