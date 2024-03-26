@@ -1274,4 +1274,14 @@
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Retrait du passage piéton (suite à l&apos;ajout de l&apos;arrêt toutes directions)' />
   </node>
+  <node id='-392077478' action='modify' lat='45.36270068986' lon='-71.89525052784'>
+    <tag k='TODO:planned_end' v='2024-05-04' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-03-19' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='traffic_signal' />
+    <tag k='TODO:ville:projet' v='7036' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Modification feux de circulation' />
+  </node>
 </osm>
