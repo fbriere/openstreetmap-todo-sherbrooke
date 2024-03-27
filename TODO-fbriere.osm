@@ -1284,4 +1284,15 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Modification feux de circulation' />
   </node>
+  <node id='-490974806' action='modify' lat='45.40337857863' lon='-71.8917986298'>
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/art-culture-et-patrimoine/collection-d-uvres-d-art/18/la-ville-de-sherbrooke-et-ses-habitants' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Corriger le nom des murales' />
+  </node>
+  <node id='-4009328656' action='modify' lat='45.40368917588' lon='-71.89023086929'>
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Confirmer connexion entre la piste et la rue' />
+  </node>
 </osm>
