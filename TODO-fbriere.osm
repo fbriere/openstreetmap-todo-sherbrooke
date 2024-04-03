@@ -1295,4 +1295,14 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Confirmer connexion entre la piste et la rue' />
   </node>
+  <node id='-1952826482' action='modify' lat='45.41380958183' lon='-71.87740444354'>
+    <tag k='TODO:planned_end' v='2024-07-05' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Codere-2024.pdf' />
+    <tag k='TODO:start_date' v='2024-04-15' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='6953' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Ajout d&apos;un trottoir, entre les rues Terrill et Zéphirin-Cormier' />
+  </node>
 </osm>
