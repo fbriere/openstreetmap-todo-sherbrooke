@@ -320,10 +320,9 @@
     <tag k='name' v='Aménagement de voies cyclables sur le chemin de Saint-Élie, entre la rue Croteau et le chemin Laliberté' />
   </node>
   <node id='-4092595976' action='modify' lat='45.37153395144' lon='-71.96748735666'>
-    <tag k='TODO:check_date' v='2024-03-05' />
-    <tag k='TODO:planned_end' v='± 2 mois' />
+    <tag k='TODO:planned_end' v='2024-07-05' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Charny-2023.pdf' />
-    <tag k='TODO:start_date' v='2024' />
+    <tag k='TODO:start_date' v='2024-04-22' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5828' />
@@ -1304,5 +1303,16 @@
     <tag k='TODO:ville:projet' v='6953' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Ajout d&apos;un trottoir, entre les rues Terrill et Zéphirin-Cormier' />
+  </node>
+  <node id='-4036702421' action='modify' lat='45.41510407509' lon='-71.94901228487'>
+    <tag k='TODO:comments' v='Le 640 est du côté ouest, où il y a déjà un trottoir; parle-t-on ici du côté est?' />
+    <tag k='TODO:planned_end' v='2024-04-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-04-09' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='7060' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un trottoir en face du 640, rue du Chardonnay' />
   </node>
 </osm>
