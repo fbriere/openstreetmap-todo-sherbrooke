@@ -1315,4 +1315,15 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Construction d&apos;un trottoir en face du 640, rue du Chardonnay' />
   </node>
+  <node id='-2989110048' action='modify' lat='45.38353170151' lon='-71.89681918502'>
+    <tag k='TODO:comments' v='Travaux annoncés aux citoyens concernés en octobre dernier. Le corridor piétonnier a été changé de côté en raison de ce nouveau trottoir.' />
+    <tag k='TODO:planned_end' v='2024-05-03' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-04-10' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='6962' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un trottoir sur une partie des rues de Courville et des Grands-Monts' />
+  </node>
 </osm>
