@@ -24,7 +24,7 @@
   </node>
   <node id='-3473539338' action='modify' lat='45.39609948556' lon='-71.87353492856'>
     <tag k='TODO:session' v='2018-03-19' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
     <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
@@ -348,7 +348,7 @@
     <tag k='name' v='Chaussée désignée pour cyclistes (entre des Pèlerins et le parc)' />
   </node>
   <node id='-3575331726' action='modify' lat='45.39617481979' lon='-71.87798739016'>
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
     <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='geometry' />
@@ -357,7 +357,7 @@
     <tag k='name' v='Retrait de la bretelle de virage' />
   </node>
   <node id='-1266634885' action='modify' lat='45.39634056303' lon='-71.87608838618'>
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
     <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='restriction' />
@@ -366,7 +366,7 @@
     <tag k='name' v='Interdiction d&apos;entrée par Galt' />
   </node>
   <node id='-875435037' action='modify' lat='45.39632926237' lon='-71.87503159583'>
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2023.pdf' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
     <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='restriction' />
@@ -1319,7 +1319,7 @@
     <tag k='TODO:comments' v='Travaux annoncés aux citoyens concernés en octobre dernier. Le corridor piétonnier a été changé de côté en raison de ce nouveau trottoir.' />
     <tag k='TODO:planned_end' v='2024-05-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-04-10' />
+    <tag k='TODO:start_date' v='2024-04-09' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6962' />
