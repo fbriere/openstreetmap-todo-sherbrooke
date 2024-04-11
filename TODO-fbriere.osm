@@ -1326,4 +1326,18 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Construction d&apos;un trottoir sur une partie des rues de Courville et des Grands-Monts' />
   </node>
+  <node id='-3703058552' action='modify' lat='45.39243981561' lon='-71.87483847409'>
+    <tag k='TODO:session' v='2024-04-09' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Ajout de bandes rectangulaires blanches' />
+  </node>
+  <node id='-1543361562' action='modify' lat='45.39111188277' lon='-71.87063277304'>
+    <tag k='TODO:session' v='2024-04-09' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='name' v='Corridor de marche (côté nord, entre Walsh et du Delaware)' />
+  </node>
 </osm>
