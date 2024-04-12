@@ -503,13 +503,125 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Chaussée désignée pour cyclistes (à l&apos;ouest de St-Gilles)' />
   </node>
+  <node id='-1202774434' action='modify' lat='45.41536767272' lon='-71.86186195493'>
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='6952' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Amélioration du passage piétonnier' />
+  </node>
+  <node id='-2927337086' action='modify' lat='45.40064029843' lon='-71.94224506885'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='7010' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Amélioration du passage piétonnier' />
+  </node>
+  <node id='-1051055297' action='modify' lat='45.39915812385' lon='-71.94119096339'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='7011' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Amélioration du passage piétonnier' />
+  </node>
+  <node id='-1493743054' action='modify' lat='45.38660232261' lon='-71.89337254107'>
+    <tag k='TODO:comments' v='Équippement à batterie en place' />
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='6967' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Amélioration du passage piétonnier' />
+  </node>
+  <node id='-3913555036' action='modify' lat='45.40034462146' lon='-71.94874406397'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='7009' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Amélioration du passage piétonnier' />
+  </node>
+  <node id='-1836232714' action='modify' lat='45.40610725354' lon='-71.89517766505'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='7027' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Amélioration du passage piétonnier' />
+  </node>
+  <node id='-2553830480' action='modify' lat='45.39177491224' lon='-71.91223383486'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='7006' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Amélioration du passage piétonnier' />
+  </node>
+  <node id='-2452092212' action='modify' lat='45.40281546795' lon='-71.89615398914'>
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='7013' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Amélioration du passage piétonnier' />
+  </node>
+  <node id='-285701010' action='modify' lat='45.38698095678' lon='-71.92746341497'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='7008' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Modifications géométriques et amélioration du passage piétonnier' />
+  </node>
+  <node id='-1248127033' action='modify' lat='45.38696400298' lon='-71.92619741231'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='7026' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Amélioration du passage piétonnier' />
+  </node>
   <node id='-2792115153' action='modify' lat='45.40249720162' lon='-71.89373731881'>
     <tag k='TODO:check_date' v='2023-12-25' />
+    <tag k='TODO:planned_end' v='Été 2024' />
     <tag k='TODO:session' v='2023-06-06' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
-    <tag k='name' v='Feux rectangulaires à clignotement rapide' />
+    <tag k='TODO:ville:projet' v='7012' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Amélioration du passage piétonnier' />
+  </node>
+  <node id='-3529375832' action='modify' lat='45.41049851514' lon='-71.93475902617'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='TODO:ville:projet' v='7007' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-2791098888' action='modify' lat='45.3869753074' lon='-71.92663997948'>
     <tag k='TODO:check_date' v='2023-06-03' />
@@ -519,22 +631,31 @@
     <tag k='name' v='Conversion des deux passages piétons/cyclistes en passages pour piétons' />
   </node>
   <node id='-3555535340' action='modify' lat='45.41065668262' lon='-71.87483042747'>
+    <tag k='TODO:planned_end' v='Été 2024' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='geometry' />
-    <tag k='name' v='Réaménagement géométrique de l’intersection' />
+    <tag k='TODO:ville:projet' v='7015' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Réaménagement géométrique de l&apos;intersection' />
   </node>
   <node id='-2367438307' action='modify' lat='45.41132325053' lon='-71.87284291327'>
+    <tag k='TODO:planned_end' v='Été 2024' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
-    <tag k='name' v='Mise en place d’un terre-plein central à l&apos;intersection' />
+    <tag k='TODO:ville:projet' v='7015' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Mise en place d&apos;un terre-plein central à l&apos;intersection' />
   </node>
   <node id='-403188902' action='modify' lat='45.41165464767' lon='-71.87182903826'>
+    <tag k='TODO:planned_end' v='Été 2024' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
-    <tag k='name' v='Mise en place d’un terre-plein central à l&apos;intersection' />
+    <tag k='TODO:ville:projet' v='7015' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Mise en place d&apos;un terre-plein central à l&apos;intersection' />
   </node>
   <node id='-1858428788' action='modify' lat='45.48367609947' lon='-71.94794024409'>
     <tag k='TODO:planned_end' v='2023-10-06' />
@@ -1123,15 +1244,19 @@
     <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='6965' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Installation d&apos;une fontaine en bordure de rue' />
   </node>
-  <node id='-1126109562' action='modify' lat='45.41253773433' lon='-71.84345662862'>
+  <node id='-3555684523' action='modify' lat='45.41237247639' lon='-71.84458660028'>
+    <tag k='TODO:planned_end' v='Printemps 2024' />
     <tag k='TODO:session' v='2023-10-17' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Andre-Breton-2024.pdf' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
-    <tag k='name' v='Construction d&apos;un trottoir' />
+    <tag k='TODO:ville:projet' v='7020' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un trottoir sur la totalité de la rue André-Breton (côté sud)' />
   </node>
   <node id='-978079310' action='modify' lat='45.42282310392' lon='-71.95223094106'>
     <tag k='TODO:check_date' v='2023-12-25' />
@@ -1253,11 +1378,14 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-1712895502' action='modify' lat='45.38477503646' lon='-71.90137625009'>
+    <tag k='TODO:planned_end' v='Été 2024' />
     <tag k='TODO:session' v='2024-01-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
-    <tag k='name' v='Trottoir (côté est, entre Jogues et Raoul-Bruneau)' />
+    <tag k='TODO:ville:projet' v='6963' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un trottoir (côté est) sur Kingston, entre les rues Jogues et Raoul-Bruneau' />
   </node>
   <node id='-1287854527' action='modify' lat='45.38456781492' lon='-71.90137356788'>
     <tag k='TODO:session' v='2024-01-23' />
@@ -1309,7 +1437,7 @@
     <tag k='TODO:planned_end' v='2024-04-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-04-09' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='7060' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1320,7 +1448,7 @@
     <tag k='TODO:planned_end' v='2024-05-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-04-09' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6962' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1339,5 +1467,136 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Corridor de marche (côté nord, entre Walsh et du Delaware)' />
+  </node>
+  <node id='-3429567619' action='modify' lat='45.40387796316' lon='-71.98414526989'>
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='surface' />
+    <tag k='TODO:ville:projet' v='6950' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Asphaltage des rues Joseph-Louis-Mathieu et Antonio-Cameron ainsi que d&apos;une partie de la rue Robert-Boyd' />
+  </node>
+  <node id='-3836953403' action='modify' lat='45.40305326423' lon='-71.96320902085'>
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='6951' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Prolongement du trottoir entre le 3575 et le 3525, boul. Industriel' />
+  </node>
+  <node id='-3554611690' action='modify' lat='45.41117639529' lon='-71.91535092093'>
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Garant-2024.pdf' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='6954' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un trottoir sur Garant (côté sud), entre les rues Malouin et Argyll' />
+  </node>
+  <node id='-2426425894' action='modify' lat='45.39109479818' lon='-71.91033541162'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lincoln-2024.pdf' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='6956' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Ajout d&apos;un trottoir sur Lincoln (côté nord), entre les rues de Dieppe et Haig' />
+  </node>
+  <node id='-4088165512' action='modify' lat='45.38878626412' lon='-71.9783193377'>
+    <tag k='TODO:comments' v='La traverse pour piétons dans la courbe sera retirée' />
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Malherbe-2024.pdf' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='6960' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un trottoir sur la rue Malherbe (côté est), entre les rues Marcel-Marcotte et Yamaska' />
+  </node>
+  <node id='-1712310260' action='modify' lat='45.37805750857' lon='-71.83793414215'>
+    <tag k='TODO:comments' v='Implantations de dos d&apos;ânes et peut-être d&apos;une traverse surélevée.' />
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='6964' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Mesures d&apos;atténuation de la vitesse sur le chemin Moulton Hill, entre la rue St. Francis et le chemin Fearon' />
+  </node>
+  <node id='-2359860807' action='modify' lat='45.40745676681' lon='-71.89262365035'>
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='6966' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Démolition de l&apos;ancien viaduc ferroviaire' />
+  </node>
+  <node id='-1469555402' action='modify' lat='45.40348024331' lon='-71.87884301215'>
+    <tag k='TODO:comments' v='N&apos;y a-t-il pas déjà une piste cyclable sur Conseil?' />
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='6968' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Ajout d&apos;un lien cyclable du côté sud de la rue du Conseil, entre la rue Murray et la 5e Avenue' />
+  </node>
+  <node id='-2967642929' action='modify' lat='45.4217900002' lon='-71.85774879301'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='new' />
+    <tag k='TODO:ville:projet' v='6973' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Prolongement des rues des Quatre-Saisons et des Gloires-du-Matin et construction de la rue Hortensias' />
+  </node>
+  <node id='-3715473418' action='modify' lat='45.39187571006' lon='-71.99231024834'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='new' />
+    <tag k='TODO:ville:projet' v='6974' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Prolongement de la rue Estelle-Gobeil' />
+  </node>
+  <node id='-1472253939' action='modify' lat='45.42343650118' lon='-71.86839183548'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Paysans-2024.pdf' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='6998' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Ajout d&apos;un trottoir sur des Paysans (côté ouest), sur toute la longueur' />
+  </node>
+  <node id='-160414502' action='modify' lat='45.37349044494' lon='-71.96478975468'>
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2024.pdf' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='7001' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Implantation de bandes cyclables entre le boulevard des Vétérans et la rue Charny' />
+  </node>
+  <node id='-1261763819' action='modify' lat='45.37636895367' lon='-71.96395138858'>
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2024.pdf' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='7001' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un trottoir sur la rue Bertrand-Fabi (côté ouest), entre les rues de Varennes et Charny' />
+  </node>
+  <node id='-4416651' action='modify' lat='45.39039196803' lon='-71.97890947587'>
+    <tag k='TODO:planned_end' v='Été' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Yamaska-2024.pdf' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='7005' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Ajout d&apos;un trottoir sur Yamaska (côté sud), entre les rues Watopeka et Mégantic' />
+  </node>
+  <node id='-4117914809' action='modify' lat='45.36766977479' lon='-71.994559095'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='geometry' />
+    <tag k='TODO:ville:projet' v='7023' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='commentaire' v='Ajout d&apos;une voie de virage à droite sur Président-Kennedy et construction d&apos;une amorce de trottoir dans l&apos;intersection.' />
+    <tag k='name' v='Modifications géométriques à l&apos;intersection Bourque/Président-Kennedy/Henri-Labonne' />
   </node>
 </osm>
