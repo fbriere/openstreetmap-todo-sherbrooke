@@ -1599,4 +1599,12 @@
     <tag k='commentaire' v='Ajout d&apos;une voie de virage à droite sur Président-Kennedy et construction d&apos;une amorce de trottoir dans l&apos;intersection.' />
     <tag k='name' v='Modifications géométriques à l&apos;intersection Bourque/Président-Kennedy/Henri-Labonne' />
   </node>
+  <node id='-2011373823' action='modify' lat='45.36934073439' lon='-71.99266674386'>
+    <tag k='TODO:comments' v='Située au 5087 boulevard Bourque' />
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/09/estrie-aide-ouvrira-une-nouvelle-friperie-IBAD6SBPC5CZHGEBMS5CBX6DQI/' />
+    <tag k='TODO:start_date' v='2024-05-17' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ouverture de la friperie Collection Collective' />
+  </node>
 </osm>
