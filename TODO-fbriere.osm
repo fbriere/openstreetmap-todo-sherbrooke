@@ -1249,9 +1249,10 @@
     <tag k='name' v='Installation d&apos;une fontaine en bordure de rue' />
   </node>
   <node id='-3555684523' action='modify' lat='45.41237247639' lon='-71.84458660028'>
-    <tag k='TODO:planned_end' v='Printemps 2024' />
+    <tag k='TODO:planned_end' v='2024-05-31' />
     <tag k='TODO:session' v='2023-10-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Andre-Breton-2024.pdf' />
+    <tag k='TODO:start_date' v='2024-04-15' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='7020' />
