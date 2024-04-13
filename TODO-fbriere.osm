@@ -110,6 +110,7 @@
     <tag k='name' v='Interventions localisées pour sécuriser le lien cyclable de la rue du Conseil (entre la 14e et 15e Avenue)' />
   </node>
   <node id='-2027438417' action='modify' lat='45.39983235887' lon='-71.88772649109'>
+    <tag k='TODO:comments' v='Le nom Jean-Baptiste-Nolain a été avancé, mais de façon non officielle' />
     <tag k='TODO:planned_end' v='2024' />
     <tag k='TODO:session' v='2021-04-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
@@ -118,7 +119,7 @@
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='1437;5800' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction de la rue Jean-Baptiste-Nolain, entre les rues du Dépôt et des Grandes-Fourches Sud' />
+    <tag k='name' v='Construction d&apos;une nouvelle rue, entre les rues du Dépôt et des Grandes-Fourches Sud' />
   </node>
   <node id='-2328886171' action='modify' lat='45.36877153307' lon='-71.8597000891'>
     <tag k='TODO:check_date' v='2023-06-20' />
@@ -301,6 +302,7 @@
     <tag k='name' v='FRCR et éclairage aux passages piétonniers' />
   </node>
   <node id='-3917376573' action='modify' lat='45.38160260823' lon='-71.87367443562'>
+    <tag k='TODO:planned_end' v='Printemps 2024' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
@@ -310,7 +312,7 @@
     <tag k='name' v='Aménagement de voies cyclables sur la rue Wellington Sud/Queen, entre la côte de l&apos;Acadie et la rue John-Wilson' />
   </node>
   <node id='-3040965806' action='modify' lat='45.39468313506' lon='-72.02756886005'>
-    <tag k='TODO:planned_end' v='± 2 semaines' />
+    <tag k='TODO:planned_end' v='Printemps 2024' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024' />
     <tag k='TODO:status' v='planned' />
@@ -779,6 +781,7 @@
     <tag k='name' v='Réaménagement de l&apos;aire de jeux 2-12 ans au parc Olivier-Chauveau' />
   </node>
   <node id='-3217957028' action='modify' lat='45.39079217313' lon='-71.9875312388'>
+    <tag k='TODO:planned_end' v='Été 2024' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='new' />
@@ -1480,6 +1483,8 @@
   </node>
   <node id='-3836953403' action='modify' lat='45.40305326423' lon='-71.96320902085'>
     <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6951' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1497,6 +1502,7 @@
   <node id='-2426425894' action='modify' lat='45.39109479818' lon='-71.91033541162'>
     <tag k='TODO:planned_end' v='Automne 2024' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lincoln-2024.pdf' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6956' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1523,6 +1529,8 @@
     <tag k='name' v='Mesures d&apos;atténuation de la vitesse sur le chemin Moulton Hill, entre la rue St. Francis et le chemin Fearon' />
   </node>
   <node id='-2359860807' action='modify' lat='45.40745676681' lon='-71.89262365035'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='6966' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1582,7 +1590,7 @@
     <tag k='name' v='Construction d&apos;un trottoir sur la rue Bertrand-Fabi (côté ouest), entre les rues de Varennes et Charny' />
   </node>
   <node id='-4416651' action='modify' lat='45.39039196803' lon='-71.97890947587'>
-    <tag k='TODO:planned_end' v='Été' />
+    <tag k='TODO:planned_end' v='Été 2024' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Yamaska-2024.pdf' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
