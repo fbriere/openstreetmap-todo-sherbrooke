@@ -1109,7 +1109,7 @@
     <tag k='name' v='Demi-tour interdit entre Peel et Ozias-Leduc' />
   </node>
   <node id='-2649459616' action='modify' lat='45.41472416759' lon='-71.88853896551'>
-    <tag k='TODO:planned_end' v='2024' />
+    <tag k='TODO:planned_end' v='2024-07-18' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/370/une-nouvelle-piscine-au-parc-victoria' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
