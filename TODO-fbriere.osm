@@ -1616,4 +1616,18 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ouverture de la friperie Collection Collective' />
   </node>
+  <node id='-2638052566' action='modify' lat='45.38945050773' lon='-71.87039673865'>
+    <tag k='TODO:session' v='2023-12-19 (Règlement 1-170)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Retrait de ce passage?' />
+  </node>
+  <node id='-2889550469' action='modify' lat='45.34868581292' lon='-71.99110473839'>
+    <tag k='TODO:source' v='https://ici.radio-canada.ca/nouvelle/2065328/aide-demunis-dons-vetements-sherbrooke' />
+    <tag k='TODO:start_date' v='2024-04-30' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Fermeture du Comtoir familial' />
+  </node>
 </osm>
