@@ -1061,11 +1061,15 @@
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Corridor piétonnier' />
   </node>
-  <node id='-1839576556' action='modify' lat='45.31098457092' lon='-72.02249744724'>
+  <node id='-1492731746' action='modify' lat='45.31078651054' lon='-72.02261010002'>
+    <tag k='TODO:planned_end' v='2024-06-28' />
     <tag k='TODO:session' v='BROFSED/2023-01-30' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-05-08' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='7126' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Transformation du jeu de galets en terrain de pickleball' />
   </node>
   <node id='-2178036584' action='modify' lat='45.40707638727' lon='-71.85115611706'>
@@ -1629,5 +1633,35 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Fermeture du Comtoir familial' />
+  </node>
+  <node id='-1095410724' action='modify' lat='45.47299737223' lon='-71.94562733442'>
+    <tag k='TODO:planned_end' v='2024-06-21' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-05-01' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='7128' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Parc Charland - Reconstruction du terrain de tennis' />
+  </node>
+  <node id='-497692910' action='modify' lat='45.39292059422' lon='-72.04270854659'>
+    <tag k='TODO:planned_end' v='2025-06-06' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-09-03' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='7129' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Parc Villageois - Reconstruction du terrain de soccer' />
+  </node>
+  <node id='-1891994662' action='modify' lat='45.4839402466' lon='-71.94764301248'>
+    <tag k='TODO:planned_end' v='2024-07-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-04-30' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='7122' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Parc Ernest-Bergeron - Remplacement de jeu' />
   </node>
 </osm>
