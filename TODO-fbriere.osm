@@ -1247,8 +1247,9 @@
     <tag k='name' v='Aménagement de la place publique' />
   </node>
   <node id='-704842365' action='modify' lat='45.40021278774' lon='-71.88924461871'>
+    <tag k='TODO:planned_end' v='2024-05-24' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
-    <tag k='TODO:start_date' v='2024' />
+    <tag k='TODO:start_date' v='2024-04-22' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='6965' />
