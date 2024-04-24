@@ -1675,4 +1675,48 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Parc Atto-Beaver - Retrait de la patinoire' />
   </node>
+  <node id='-3623821173' action='modify' lat='45.36846249687' lon='-71.99537158549'>
+    <tag k='TODO:session' v='2024-04-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='name' v='Ajout d&apos;un corridor de marche (côté sud, entre Berthe-Dostie et Henri-Labonne)' />
+  </node>
+  <node id='-1995813708' action='modify' lat='45.36832493565' lon='-71.9948056367'>
+    <tag k='TODO:session' v='2024-04-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Ajout d&apos;un couloir de traversée' />
+  </node>
+  <node id='-585721417' action='modify' lat='45.37513278105' lon='-71.97207391798'>
+    <tag k='TODO:session' v='2024-04-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Déplacer l&apos;arrêt toutes directions (et les traverses) de Viel à Chambois' />
+  </node>
+  <node id='-3292474314' action='modify' lat='45.37512901275' lon='-71.97215438426'>
+    <tag k='TODO:session' v='2024-04-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='name' v='Ajout d&apos;un trottoir (côté nord, entre Viel et Chambois)' />
+  </node>
+  <node id='-4091360897' action='modify' lat='45.35426385239' lon='-71.99839040771'>
+    <tag k='TODO:planned_end' v='2025' />
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/23/la-piscine-du-parc-central-sera-remplacee-par-des-jeux-deau-L2U36KX2TNG7NMQVXF53WCQD3M/' />
+    <tag k='TODO:start_date' v='Été 2024' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='name' v='Fermeture de la piscine et conversion en jeux d&apos;eau' />
+  </node>
+  <node id='-2584475386' action='modify' lat='45.4481416204' lon='-71.93101734191'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/23/la-station-service-esso-sur-le-boulevard-queen-victoria-sera-reconstruite-SKJBGFLEIJHRFM6CEIPKPJKKAQ/' />
+    <tag k='TODO:start_date' v='2024-04-22' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Reconstruction de la station-service' />
+  </node>
 </osm>
