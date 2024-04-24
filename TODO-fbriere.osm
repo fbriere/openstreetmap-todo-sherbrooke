@@ -315,7 +315,7 @@
     <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-04-22' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5805' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -325,7 +325,7 @@
     <tag k='TODO:planned_end' v='2024-07-05' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Charny-2023.pdf' />
     <tag k='TODO:start_date' v='2024-04-22' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5828' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1250,7 +1250,7 @@
     <tag k='TODO:planned_end' v='2024-05-24' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
     <tag k='TODO:start_date' v='2024-04-22' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='6965' />
     <tag k='TODO:ville:travaux' v='2024' />
