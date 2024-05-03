@@ -111,11 +111,11 @@
   </node>
   <node id='-2027438417' action='modify' lat='45.39983235887' lon='-71.88772649109'>
     <tag k='TODO:comments' v='Le nom Jean-Baptiste-Nolain a été avancé, mais de façon non officielle' />
-    <tag k='TODO:planned_end' v='2024' />
+    <tag k='TODO:planned_end' v='2024-06-28' />
     <tag k='TODO:session' v='2021-04-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
-    <tag k='TODO:start_date' v='Automne 2023' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-04-25' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='1437;5800' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -711,10 +711,10 @@
     <tag k='objectid' v='525393' />
   </node>
   <node id='-787024588' action='modify' lat='45.37346398137' lon='-71.89133640546'>
-    <tag k='TODO:planned_end' v='2024-06-21' />
+    <tag k='TODO:planned_end' v='2024-08-30' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-09-11' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:start_date' v='2024-05-20' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5921' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1065,7 +1065,7 @@
     <tag k='TODO:planned_end' v='2024-06-28' />
     <tag k='TODO:session' v='BROFSED/2023-01-30' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-05-08' />
+    <tag k='TODO:start_date' v='2024-05-01' />
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='7126' />
@@ -1719,5 +1719,15 @@
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Reconstruction de la station-service' />
+  </node>
+  <node id='-4064940010' action='modify' lat='45.37438232183' lon='-71.89185073289'>
+    <tag k='TODO:planned_end' v='2024-06-21' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-05-15' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='7156' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Parc Belvédère - Réfection des balançoires' />
   </node>
 </osm>
