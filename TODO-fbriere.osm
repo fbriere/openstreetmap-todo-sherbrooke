@@ -713,7 +713,7 @@
   <node id='-787024588' action='modify' lat='45.37346398137' lon='-71.89133640546'>
     <tag k='TODO:planned_end' v='2024-08-30' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-05-20' />
+    <tag k='TODO:start_date' v='2024-05-13' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5921' />
@@ -1080,7 +1080,7 @@
     <tag k='name' v='Rénovation majeure des jeux modulaires, qui seront aussi accessibles au public' />
   </node>
   <node id='-1894277877' action='modify' lat='45.37699805874' lon='-71.88417256415'>
-    <tag k='TODO:planned_end' v='2024-09-30' />
+    <tag k='TODO:planned_end' v='2024-12-31' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-07' />
     <tag k='TODO:status' v='ongoing' />
@@ -1723,7 +1723,7 @@
   <node id='-4064940010' action='modify' lat='45.37438232183' lon='-71.89185073289'>
     <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-05-15' />
+    <tag k='TODO:start_date' v='2024-05-13' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='7156' />
