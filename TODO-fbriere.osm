@@ -1730,4 +1730,12 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Parc Belvédère - Réfection des balançoires' />
   </node>
+  <node id='-649438434' action='modify' lat='45.39879849467' lon='-71.91715933272'>
+    <tag k='TODO:comments' v='« Une entreprise sœur aura également une présence dans le bâtiment et proposera des produits méditerranéens. »' />
+    <tag k='TODO:planned_end' v='Juin 2024' />
+    <tag k='TODO:source' v='https://www.latribune.ca/affaires/affaires-locales/2024/05/12/une-expansion-des-vraies-richesses-a-sherbrooke-56I4VUVGC5GCVL4QWPS7T4EDUA/' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ouverture d&apos;un point de vente de la boulangerie les Vraies Richesses' />
+  </node>
 </osm>
