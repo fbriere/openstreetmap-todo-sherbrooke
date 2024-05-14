@@ -1738,4 +1738,11 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ouverture d&apos;un point de vente de la boulangerie les Vraies Richesses' />
   </node>
+  <node id='-35359236' action='modify' lat='45.40151037629' lon='-71.89689159662'>
+    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/05/14/deux-immeubles-seront-demolis-au-centre-ville-IIEBH3UIQZFI7I4YBRO5Q7DA4E/' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Démolition de deux immeubles' />
+  </node>
 </osm>
