@@ -1478,8 +1478,9 @@
     <tag k='name' v='Corridor de marche (côté nord, entre Walsh et du Delaware)' />
   </node>
   <node id='-3429567619' action='modify' lat='45.40387796316' lon='-71.98414526989'>
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-06-14' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-05-21' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='6950' />
@@ -1515,9 +1516,10 @@
   </node>
   <node id='-4088165512' action='modify' lat='45.38878626412' lon='-71.9783193377'>
     <tag k='TODO:comments' v='La traverse pour piétons dans la courbe sera retirée' />
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Malherbe-2024.pdf' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-05-16' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6960' />
     <tag k='TODO:ville:travaux' v='2024' />
