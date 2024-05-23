@@ -110,7 +110,7 @@
     <tag k='name' v='Interventions localisées pour sécuriser le lien cyclable de la rue du Conseil (entre la 14e et 15e Avenue)' />
   </node>
   <node id='-2027438417' action='modify' lat='45.39983235887' lon='-71.88772649109'>
-    <tag k='TODO:comments' v='Le nom Jean-Baptiste-Nolain a été avancé, mais de façon non officielle' />
+    <tag k='TODO:comments' v='Le nom Jean-Baptiste-Nolain a été officialisé durant la session du 21 mai 2024' />
     <tag k='TODO:planned_end' v='2024-06-28' />
     <tag k='TODO:session' v='2021-04-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
@@ -119,7 +119,7 @@
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='1437;5800' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction d&apos;une nouvelle rue, entre les rues du Dépôt et des Grandes-Fourches Sud' />
+    <tag k='name' v='Construction de la rue Jean-Baptiste-Nolain' />
   </node>
   <node id='-2328886171' action='modify' lat='45.36877153307' lon='-71.8597000891'>
     <tag k='TODO:check_date' v='2023-06-20' />
