@@ -1751,4 +1751,10 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Démolition de deux immeubles' />
   </node>
+  <node id='-1496118351' action='modify' lat='45.40119555815' lon='-71.95880680298'>
+    <tag k='TODO:source' v='https://www.latribune.ca/affaires/2024/05/24/reno-depot-devient-rona-YNUUZJINXNCT7MGO6DDO3TNOIQ/' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Conversion en RONA+' />
+  </node>
 </osm>
