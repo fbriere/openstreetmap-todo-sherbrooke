@@ -23,9 +23,10 @@
     <tag k='name' v='Parc du Centenaire (dans le parc de la Rive) renommé halte du Centenaire' />
   </node>
   <node id='-3473539338' action='modify' lat='45.39609948556' lon='-71.87353492856'>
+    <tag k='TODO:planned_end' v='2024-10-25' />
     <tag k='TODO:session' v='2018-03-19' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
-    <tag k='TODO:start_date' v='2024' />
+    <tag k='TODO:start_date' v='2024-05-27' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5856' />
@@ -350,8 +351,9 @@
     <tag k='name' v='Chaussée désignée pour cyclistes (entre des Pèlerins et le parc)' />
   </node>
   <node id='-3575331726' action='modify' lat='45.39617481979' lon='-71.87798739016'>
+    <tag k='TODO:planned_end' v='2024-10-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
-    <tag k='TODO:start_date' v='2024' />
+    <tag k='TODO:start_date' v='2024-05-27' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='5856' />
@@ -359,8 +361,9 @@
     <tag k='name' v='Retrait de la bretelle de virage' />
   </node>
   <node id='-1266634885' action='modify' lat='45.39634056303' lon='-71.87608838618'>
+    <tag k='TODO:planned_end' v='2024-10-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
-    <tag k='TODO:start_date' v='2024' />
+    <tag k='TODO:start_date' v='2024-05-27' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
@@ -368,8 +371,9 @@
     <tag k='name' v='Interdiction d&apos;entrée par Galt' />
   </node>
   <node id='-875435037' action='modify' lat='45.39632926237' lon='-71.87503159583'>
+    <tag k='TODO:planned_end' v='2024-10-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
-    <tag k='TODO:start_date' v='2024' />
+    <tag k='TODO:start_date' v='2024-05-27' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
@@ -1080,7 +1084,7 @@
     <tag k='name' v='Rénovation majeure des jeux modulaires, qui seront aussi accessibles au public' />
   </node>
   <node id='-1894277877' action='modify' lat='45.37699805874' lon='-71.88417256415'>
-    <tag k='TODO:planned_end' v='2024-12-31' />
+    <tag k='TODO:planned_end' v='2025-12-31' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-07' />
     <tag k='TODO:status' v='ongoing' />
@@ -1247,7 +1251,7 @@
     <tag k='name' v='Aménagement de la place publique' />
   </node>
   <node id='-704842365' action='modify' lat='45.40021278774' lon='-71.88924461871'>
-    <tag k='TODO:planned_end' v='2024-05-24' />
+    <tag k='TODO:planned_end' v='2024-06-07' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
     <tag k='TODO:start_date' v='2024-04-22' />
     <tag k='TODO:status' v='ongoing' />
