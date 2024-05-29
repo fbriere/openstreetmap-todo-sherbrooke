@@ -27,7 +27,7 @@
     <tag k='TODO:session' v='2018-03-19' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-27' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5856' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -354,7 +354,7 @@
     <tag k='TODO:planned_end' v='2024-10-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-27' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='5856' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -364,7 +364,7 @@
     <tag k='TODO:planned_end' v='2024-10-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-27' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -374,7 +374,7 @@
     <tag k='TODO:planned_end' v='2024-10-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-27' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -514,7 +514,7 @@
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2024-05-27' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='6952' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1584,18 +1584,20 @@
     <tag k='name' v='Ajout d&apos;un trottoir sur des Paysans (côté ouest), sur toute la longueur' />
   </node>
   <node id='-160414502' action='modify' lat='45.37349044494' lon='-71.96478975468'>
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2024.pdf' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-05-28' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='7001' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Implantation de bandes cyclables entre le boulevard des Vétérans et la rue Charny' />
   </node>
   <node id='-1261763819' action='modify' lat='45.37636895367' lon='-71.96395138858'>
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2024.pdf' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-05-28' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='7001' />
     <tag k='TODO:ville:travaux' v='2024' />
