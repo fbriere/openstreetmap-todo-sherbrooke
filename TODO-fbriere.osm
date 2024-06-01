@@ -1266,7 +1266,7 @@
     <tag k='TODO:session' v='2023-10-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Andre-Breton-2024.pdf' />
     <tag k='TODO:start_date' v='2024-04-15' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='7020' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1759,5 +1759,66 @@
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Conversion en RONA+' />
+  </node>
+  <node id='-2193336052' action='modify' lat='45.40987338249' lon='-71.8727448258'>
+    <tag k='TODO:planned_end' v='2024-06-04' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-04' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7294' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction de dos d&apos;âne' />
+  </node>
+  <node id='-1993033934' action='modify' lat='45.41207086537' lon='-71.87331205962'>
+    <tag k='TODO:planned_end' v='2024-06-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-05' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7295' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne (face au 289 10e Avenue Nord)' />
+  </node>
+  <node id='-3239155284' action='modify' lat='45.40925020346' lon='-71.87479841166'>
+    <tag k='TODO:planned_end' v='2024-06-06' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-06' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7296' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne (face au 75 8e Avenue Nord)' />
+  </node>
+  <node id='-1581095867' action='modify' lat='45.3698145727' lon='-71.84618435076'>
+    <tag k='TODO:planned_end' v='2024-06-11' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-11' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7300' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne sur Moulton Hilll (au coin St-Francis)' />
+  </node>
+  <node id='-3201444395' action='modify' lat='45.39034752884' lon='-71.90169074605'>
+    <tag k='TODO:comments' v='Sera-t-il vraiment situé à une *intersection*, déjà munie d&apos;un arrêt toutes directions?' />
+    <tag k='TODO:planned_end' v='2024-06-13' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-13' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7301' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne (au coin de Champlain et Kingston)' />
+  </node>
+  <node id='-3560471473' action='modify' lat='45.3849082376' lon='-71.97789543688'>
+    <tag k='TODO:planned_end' v='2024-06-13' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-13' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7302' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne face au 4595 Rue Chauveau' />
   </node>
 </osm>
