@@ -1761,9 +1761,9 @@
     <tag k='name' v='Conversion en RONA+' />
   </node>
   <node id='-2193336052' action='modify' lat='45.40987338249' lon='-71.8727448258'>
-    <tag k='TODO:planned_end' v='2024-06-04' />
+    <tag k='TODO:planned_end' v='2024-06-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-06-04' />
+    <tag k='TODO:start_date' v='2024-06-05' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7294' />
@@ -1820,5 +1820,15 @@
     <tag k='TODO:ville:projet' v='7302' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Construction d&apos;un dos d&apos;âne face au 4595 Rue Chauveau' />
+  </node>
+  <node id='-2174878510' action='modify' lat='45.41002061234' lon='-71.87375918746'>
+    <tag k='TODO:planned_end' v='2024-06-04' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-04' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7305' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction de dos d&apos;âne' />
   </node>
 </osm>
