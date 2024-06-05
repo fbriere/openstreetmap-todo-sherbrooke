@@ -1821,4 +1821,10 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Construction d&apos;un dos d&apos;âne face au 4595 Rue Chauveau' />
   </node>
+  <node id='-3914846473' action='modify' lat='45.39312282278' lon='-71.88574229781'>
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/06/04/une-maison-incendiee-de-la-rue-wellington-sera-demolie-4BBA4QJH4ZECZMKVPAGQPZ2B3E/' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Démolition du 835 Wellington Sud' />
+  </node>
 </osm>
