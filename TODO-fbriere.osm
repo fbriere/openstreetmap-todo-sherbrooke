@@ -1827,4 +1827,44 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Démolition du 835 Wellington Sud' />
   </node>
+  <node id='-3750049949' action='modify' lat='45.4170611172' lon='-71.87944141551'>
+    <tag k='TODO:planned_end' v='2024-06-11' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-11' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7318' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne près du 611 rue Triest' />
+  </node>
+  <node id='-3833789105' action='modify' lat='45.4164247431' lon='-71.87847581986'>
+    <tag k='TODO:planned_end' v='2024-06-12' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-12' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7319' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne près du 615 rue De La Bruère' />
+  </node>
+  <node id='-974698793' action='modify' lat='45.41706299939' lon='-71.88044724312'>
+    <tag k='TODO:planned_end' v='2024-06-11' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-11' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7317' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne en près du 613 rue Goupil' />
+  </node>
+  <node id='-178027099' action='modify' lat='45.41643227382' lon='-71.88119021562'>
+    <tag k='TODO:planned_end' v='2024-06-12' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-12' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7320' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne près du 517 rue De La Bruère' />
+  </node>
 </osm>
