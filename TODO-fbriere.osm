@@ -1877,4 +1877,11 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Construction de dos d&apos;âne' />
   </node>
+  <node id='-2150923569' action='modify' lat='45.42202593468' lon='-71.84265885197'>
+    <tag k='TODO:session' v='2024-06-04' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='new' />
+    <tag k='name' v='Ouverture de la rue Clovis-Dagnau et prolongement de la rue François-Xavier-Bureau' />
+  </node>
 </osm>
