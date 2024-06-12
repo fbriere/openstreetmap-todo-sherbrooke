@@ -1794,7 +1794,7 @@
     <tag k='TODO:planned_end' v='2024-06-11' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-11' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7300' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1831,7 +1831,7 @@
     <tag k='TODO:planned_end' v='2024-06-11' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-11' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7318' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1851,7 +1851,7 @@
     <tag k='TODO:planned_end' v='2024-06-11' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-11' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7317' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1883,5 +1883,25 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='new' />
     <tag k='name' v='Ouverture de la rue Clovis-Dagnau et prolongement de la rue François-Xavier-Bureau' />
+  </node>
+  <node id='-1124514759' action='modify' lat='45.39803930154' lon='-71.84291649087'>
+    <tag k='TODO:planned_end' v='2024-06-28' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-18' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='6907' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Ajout d&apos;un trottoir (côté est)' />
+  </node>
+  <node id='-469000670' action='modify' lat='45.36570126891' lon='-71.96127613016'>
+    <tag k='TODO:planned_end' v='2025-10-24' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-14' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='new' />
+    <tag k='TODO:ville:projet' v='7337' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Ouverture de la rue Maude-Abbott' />
   </node>
 </osm>
