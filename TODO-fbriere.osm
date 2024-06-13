@@ -1838,10 +1838,10 @@
     <tag k='name' v='Construction d&apos;un dos d&apos;âne près du 611 rue Triest' />
   </node>
   <node id='-3833789105' action='modify' lat='45.4164247431' lon='-71.87847581986'>
-    <tag k='TODO:planned_end' v='2024-06-12' />
+    <tag k='TODO:planned_end' v='2024-06-13' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-12' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7319' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1861,7 +1861,7 @@
     <tag k='TODO:planned_end' v='2024-06-12' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-12' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7320' />
     <tag k='TODO:ville:travaux' v='2024' />
