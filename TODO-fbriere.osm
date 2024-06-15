@@ -1483,7 +1483,7 @@
     <tag k='name' v='Corridor de marche (côté nord, entre Walsh et du Delaware)' />
   </node>
   <node id='-3429567619' action='modify' lat='45.40387796316' lon='-71.98414526989'>
-    <tag k='TODO:planned_end' v='2024-06-14' />
+    <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-05-21' />
     <tag k='TODO:status' v='ongoing' />
@@ -1903,5 +1903,15 @@
     <tag k='TODO:ville:projet' v='7337' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Ouverture de la rue Maude-Abbott' />
+  </node>
+  <node id='-2536963784' action='modify' lat='45.3847552816' lon='-71.97462713305'>
+    <tag k='TODO:planned_end' v='2024-06-17' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-17' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7351' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction de dos d&apos;âne sur la rue Chauveau' />
   </node>
 </osm>
