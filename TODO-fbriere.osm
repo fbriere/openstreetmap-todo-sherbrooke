@@ -314,7 +314,7 @@
   </node>
   <node id='-3040965806' action='modify' lat='45.39468313506' lon='-72.02756886005'>
     <tag k='TODO:planned_end' v='2024-06-21' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lien_cyclable_Saint-Elie.pdf' />
     <tag k='TODO:start_date' v='2024-04-22' />
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
@@ -736,10 +736,10 @@
     <tag k='name' v='Parc Andrew-Sangster - Remplacement des deux jeux rotatifs' />
   </node>
   <node id='-3496185455' action='modify' lat='45.39480961381' lon='-71.89380535428'>
-    <tag k='TODO:planned_end' v='2024-06-14' />
+    <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-24' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5929' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1586,7 +1586,7 @@
     <tag k='name' v='Ajout d&apos;un trottoir sur des Paysans (côté ouest), sur toute la longueur' />
   </node>
   <node id='-160414502' action='modify' lat='45.37349044494' lon='-71.96478975468'>
-    <tag k='TODO:planned_end' v='2024-06-21' />
+    <tag k='TODO:planned_end' v='2024-07-05' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-28' />
     <tag k='TODO:status' v='ongoing' />
@@ -1596,7 +1596,7 @@
     <tag k='name' v='Implantation de bandes cyclables entre le boulevard des Vétérans et la rue Charny' />
   </node>
   <node id='-1261763819' action='modify' lat='45.37636895367' lon='-71.96395138858'>
-    <tag k='TODO:planned_end' v='2024-06-21' />
+    <tag k='TODO:planned_end' v='2024-07-05' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-28' />
     <tag k='TODO:status' v='ongoing' />
@@ -1647,7 +1647,7 @@
     <tag k='name' v='Fermeture du Comtoir familial' />
   </node>
   <node id='-1095410724' action='modify' lat='45.47299737223' lon='-71.94562733442'>
-    <tag k='TODO:planned_end' v='2024-07-26' />
+    <tag k='TODO:planned_end' v='2024-08-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-04-22' />
     <tag k='TODO:status' v='ongoing' />
@@ -1814,10 +1814,10 @@
     <tag k='name' v='Construction d&apos;un dos d&apos;âne (au coin de Champlain et Kingston)' />
   </node>
   <node id='-3560471473' action='modify' lat='45.3849082376' lon='-71.97789543688'>
-    <tag k='TODO:planned_end' v='2024-06-13' />
+    <tag k='TODO:planned_end' v='2024-06-19' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-06-13' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:start_date' v='2024-06-19' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7302' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1840,10 +1840,10 @@
     <tag k='name' v='Construction d&apos;un dos d&apos;âne près du 611 rue Triest' />
   </node>
   <node id='-3833789105' action='modify' lat='45.4164247431' lon='-71.87847581986'>
-    <tag k='TODO:planned_end' v='2024-06-13' />
+    <tag k='TODO:planned_end' v='2024-06-19' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-06-12' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:start_date' v='2024-06-19' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7319' />
     <tag k='TODO:ville:travaux' v='2024' />
