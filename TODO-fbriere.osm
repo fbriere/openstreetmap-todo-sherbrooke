@@ -1817,7 +1817,7 @@
     <tag k='TODO:planned_end' v='2024-06-19' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-19' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7302' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1843,7 +1843,7 @@
     <tag k='TODO:planned_end' v='2024-06-19' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-19' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7319' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1900,7 +1900,7 @@
     <tag k='TODO:planned_end' v='2025-10-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-14' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='7337' />
     <tag k='TODO:ville:travaux' v='2024' />
