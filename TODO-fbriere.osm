@@ -1916,4 +1916,25 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Construction de dos d&apos;âne sur la rue Chauveau' />
   </node>
+  <node id='-2315844494' action='modify' lat='45.41457499895' lon='-71.8795698908'>
+    <tag k='TODO:session' v='2024-06-18' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne devant le 484 rue Triest' />
+  </node>
+  <node id='-4146716348' action='modify' lat='45.41408922439' lon='-71.87940895692'>
+    <tag k='TODO:session' v='2024-06-18' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne devant le 453 rue de l&apos;Assomption' />
+  </node>
+  <node id='-2904608128' action='modify' lat='45.40117327167' lon='-71.84649289191'>
+    <tag k='TODO:session' v='2024-06-18' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
 </osm>
