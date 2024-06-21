@@ -313,7 +313,7 @@
     <tag k='name' v='Aménagement de voies cyclables sur la rue Wellington Sud/Queen, entre la côte de l&apos;Acadie et la rue John-Wilson' />
   </node>
   <node id='-3040965806' action='modify' lat='45.39468313506' lon='-72.02756886005'>
-    <tag k='TODO:planned_end' v='2024-06-21' />
+    <tag k='TODO:planned_end' v='2024-07-19' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lien_cyclable_Saint-Elie.pdf' />
     <tag k='TODO:start_date' v='2024-04-22' />
     <tag k='TODO:status' v='ongoing' />
@@ -739,7 +739,7 @@
     <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-24' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5929' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -756,10 +756,10 @@
     <tag k='name' v='Parc du Barrage - Amélioration de la surface et de l&apos;accès à l&apos;enclos canin' />
   </node>
   <node id='-3029554051' action='modify' lat='45.43038346283' lon='-71.89297068268'>
-    <tag k='TODO:planned_end' v='2024-06-14' />
+    <tag k='TODO:planned_end' v='2024-07-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-10-31' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4683' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1437,7 +1437,7 @@
     <tag k='name' v='Confirmer connexion entre la piste et la rue' />
   </node>
   <node id='-1952826482' action='modify' lat='45.41380958183' lon='-71.87740444354'>
-    <tag k='TODO:planned_end' v='2024-07-05' />
+    <tag k='TODO:planned_end' v='2024-08-30' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Codere-2024.pdf' />
     <tag k='TODO:start_date' v='2024-04-15' />
     <tag k='TODO:status' v='ongoing' />
