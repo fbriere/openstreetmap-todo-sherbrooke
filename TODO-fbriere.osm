@@ -1486,7 +1486,7 @@
     <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-05-21' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='6950' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1524,7 +1524,7 @@
     <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Malherbe-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-16' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6960' />
     <tag k='TODO:ville:travaux' v='2024' />
