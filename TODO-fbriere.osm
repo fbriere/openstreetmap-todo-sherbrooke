@@ -1570,7 +1570,7 @@
     <tag k='TODO:planned_end' v='2025-11-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Estelle-Gobeil_Info-travaux.pdf' />
     <tag k='TODO:start_date' v='2024-06-25' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='6974' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1936,5 +1936,15 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-2216048834' action='modify' lat='45.37080148138' lon='-71.98491015408'>
+    <tag k='TODO:planned_end' v='2024-06-25' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-25' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='TODO:ville:projet' v='7385' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un nouveau dos d&apos;âne face au 4828 Gaspe' />
   </node>
 </osm>
