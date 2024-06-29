@@ -116,7 +116,7 @@
     <tag k='TODO:session' v='2021-04-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
     <tag k='TODO:start_date' v='2024-04-25' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='1437;5800' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -552,10 +552,11 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-3913555036' action='modify' lat='45.40034462146' lon='-71.94874406397'>
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2024-07-12' />
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-06-27' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7009' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1804,10 +1805,10 @@
   </node>
   <node id='-3201444395' action='modify' lat='45.39034752884' lon='-71.90169074605'>
     <tag k='TODO:comments' v='Sera-t-il vraiment situé à une *intersection*, déjà munie d&apos;un arrêt toutes directions?' />
-    <tag k='TODO:planned_end' v='2024-06-27' />
+    <tag k='TODO:planned_end' v='2024-07-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-06-26' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:start_date' v='2024-07-02' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7301' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1938,10 +1939,10 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2216048834' action='modify' lat='45.37080148138' lon='-71.98491015408'>
-    <tag k='TODO:planned_end' v='2024-06-26' />
+    <tag k='TODO:planned_end' v='2024-07-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-06-26' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:start_date' v='2024-07-02' />
+    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7385' />
     <tag k='TODO:ville:travaux' v='2024' />
