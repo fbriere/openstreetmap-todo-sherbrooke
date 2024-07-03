@@ -622,10 +622,11 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-3529375832' action='modify' lat='45.41049851514' lon='-71.93475902617'>
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2024-08-23' />
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-07-02' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7007' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1808,7 +1809,7 @@
     <tag k='TODO:planned_end' v='2024-07-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-07-02' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7301' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1942,7 +1943,7 @@
     <tag k='TODO:planned_end' v='2024-07-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-07-02' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7385' />
     <tag k='TODO:ville:travaux' v='2024' />
