@@ -761,7 +761,7 @@
     <tag k='TODO:planned_end' v='2024-07-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-10-31' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4683' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1649,7 +1649,7 @@
     <tag k='name' v='Fermeture du Comtoir familial' />
   </node>
   <node id='-1095410724' action='modify' lat='45.47299737223' lon='-71.94562733442'>
-    <tag k='TODO:planned_end' v='2024-08-09' />
+    <tag k='TODO:planned_end' v='2024-08-30' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-04-22' />
     <tag k='TODO:status' v='ongoing' />
@@ -1669,7 +1669,7 @@
     <tag k='name' v='Parc Villageois - Reconstruction du terrain de soccer' />
   </node>
   <node id='-1891994662' action='modify' lat='45.4839402466' lon='-71.94764301248'>
-    <tag k='TODO:planned_end' v='2024-07-05' />
+    <tag k='TODO:planned_end' v='2024-08-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-04-30' />
     <tag k='TODO:status' v='ongoing' />
@@ -1737,7 +1737,7 @@
     <tag k='TODO:planned_end' v='2024-07-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-05-13' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='7156' />
     <tag k='TODO:ville:travaux' v='2024' />
