@@ -326,7 +326,7 @@
     <tag k='TODO:planned_end' v='2024-07-05' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Charny-2023.pdf' />
     <tag k='TODO:start_date' v='2024-04-22' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5828' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -542,9 +542,10 @@
   </node>
   <node id='-1493743054' action='modify' lat='45.38660232261' lon='-71.89337254107'>
     <tag k='TODO:comments' v='Équippement à batterie en place' />
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-08-23' />
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:start_date' v='2024-07-08' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='6967' />
@@ -789,7 +790,8 @@
   </node>
   <node id='-3217957028' action='modify' lat='45.39079217313' lon='-71.9875312388'>
     <tag k='TODO:planned_end' v='Été 2024' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallon_Info-travaux.pdf' />
+    <tag k='TODO:start_date' v='2024-07-15' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5814' />
@@ -1513,8 +1515,9 @@
     <tag k='name' v='Construction d&apos;un trottoir sur Garant (côté sud), entre les rues Malouin et Argyll' />
   </node>
   <node id='-2426425894' action='modify' lat='45.39109479818' lon='-71.91033541162'>
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2024-09-27' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lincoln-2024.pdf' />
+    <tag k='TODO:start_date' v='2024-07-29' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6956' />
@@ -1591,7 +1594,7 @@
     <tag k='TODO:planned_end' v='2024-07-05' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-28' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='7001' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1601,7 +1604,7 @@
     <tag k='TODO:planned_end' v='2024-07-05' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-28' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='7001' />
     <tag k='TODO:ville:travaux' v='2024' />
