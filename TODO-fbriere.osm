@@ -323,10 +323,10 @@
     <tag k='name' v='Aménagement de voies cyclables sur le chemin de Saint-Élie, entre la rue Croteau et le chemin Laliberté' />
   </node>
   <node id='-4092595976' action='modify' lat='45.37153395144' lon='-71.96748735666'>
-    <tag k='TODO:planned_end' v='2024-07-05' />
+    <tag k='TODO:planned_end' v='2024-07-19' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Charny-2023.pdf' />
     <tag k='TODO:start_date' v='2024-04-22' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='5828' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -546,7 +546,7 @@
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2024-07-08' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='6967' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -789,7 +789,7 @@
     <tag k='name' v='Réaménagement de l&apos;aire de jeux 2-12 ans au parc Olivier-Chauveau' />
   </node>
   <node id='-3217957028' action='modify' lat='45.39079217313' lon='-71.9875312388'>
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-10-31' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallon_Info-travaux.pdf' />
     <tag k='TODO:start_date' v='2024-07-15' />
     <tag k='TODO:status' v='planned' />
