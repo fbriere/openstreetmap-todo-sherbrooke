@@ -1506,8 +1506,9 @@
     <tag k='name' v='Prolongement du trottoir entre le 3575 et le 3525, boul. Industriel' />
   </node>
   <node id='-3554611690' action='modify' lat='45.41117639529' lon='-71.91535092093'>
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-10-11' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Garant-2024.pdf' />
+    <tag k='TODO:start_date' v='2024-08-12' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6954' />
