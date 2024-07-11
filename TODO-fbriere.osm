@@ -574,9 +574,10 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-2553830480' action='modify' lat='45.39177491224' lon='-71.91223383486'>
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2024-08-23' />
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:start_date' v='2024-07-15' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7006' />
@@ -613,10 +614,11 @@
   </node>
   <node id='-2792115153' action='modify' lat='45.40249720162' lon='-71.89373731881'>
     <tag k='TODO:check_date' v='2023-12-25' />
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-07-19' />
     <tag k='TODO:session' v='2023-06-06' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-07-10' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7012' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1497,8 +1499,9 @@
     <tag k='name' v='Asphaltage des rues Joseph-Louis-Mathieu et Antonio-Cameron ainsi que d&apos;une partie de la rue Robert-Boyd' />
   </node>
   <node id='-3836953403' action='modify' lat='45.40305326423' lon='-71.96320902085'>
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-07-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-07-15' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6951' />
