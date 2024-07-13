@@ -557,7 +557,7 @@
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2024-06-27' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7009' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1501,7 +1501,7 @@
   <node id='-3836953403' action='modify' lat='45.40305326423' lon='-71.96320902085'>
     <tag k='TODO:planned_end' v='2024-07-19' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-07-15' />
+    <tag k='TODO:start_date' v='2024-07-16' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6951' />
@@ -1741,10 +1741,10 @@
     <tag k='name' v='Reconstruction de la station-service' />
   </node>
   <node id='-4064940010' action='modify' lat='45.37438232183' lon='-71.89185073289'>
-    <tag k='TODO:planned_end' v='2024-07-05' />
+    <tag k='TODO:planned_end' v='2024-11-08' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-05-13' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='7156' />
     <tag k='TODO:ville:travaux' v='2024' />
