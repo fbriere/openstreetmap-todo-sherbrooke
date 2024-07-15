@@ -578,7 +578,7 @@
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2024-07-15' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7006' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -794,7 +794,7 @@
     <tag k='TODO:planned_end' v='2024-10-31' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallon_Info-travaux.pdf' />
     <tag k='TODO:start_date' v='2024-07-15' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5814' />
     <tag k='TODO:ville:travaux' v='2023' />
