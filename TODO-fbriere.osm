@@ -1957,4 +1957,10 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Construction d&apos;un nouveau dos d&apos;âne face au 4828 Gaspe' />
   </node>
+  <node id='-996741141' action='modify' lat='45.43229626764' lon='-71.86835848299'>
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/07/20/le-projet-dhotel-de-la-12e-avenue-toujours-sur-la-glace-QCTMWCRJXZETHF2F3Y7JO5D6CU/' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='traffic_signal' />
+    <tag k='name' v='Feu de circulation' />
+  </node>
 </osm>
