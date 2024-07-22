@@ -491,7 +491,7 @@
     <tag k='name' v='La géométrie de la rue sera modifiée à l&apos;approche de la rue Aubry pour aligner avec la portion existante à l&apos;est' />
   </node>
   <node id='-3647679084' action='modify' lat='45.40599426825' lon='-71.85023189127'>
-    <tag k='TODO:planned_end' v='2024-07-25' />
+    <tag k='TODO:planned_end' v='2024-07-26' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-07-22' />
     <tag k='TODO:status' v='planned' />
