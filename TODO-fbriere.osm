@@ -1616,8 +1616,9 @@
     <tag k='name' v='Construction d&apos;un trottoir sur la rue Bertrand-Fabi (côté ouest), entre les rues de Varennes et Charny' />
   </node>
   <node id='-4416651' action='modify' lat='45.39039196803' lon='-71.97890947587'>
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-08-23' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Yamaska-2024.pdf' />
+    <tag k='TODO:start_date' v='2024-08-05' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='7005' />
