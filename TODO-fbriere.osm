@@ -313,10 +313,10 @@
     <tag k='name' v='Aménagement de voies cyclables sur la rue Wellington Sud/Queen, entre la côte de l&apos;Acadie et la rue John-Wilson' />
   </node>
   <node id='-3040965806' action='modify' lat='45.39468313506' lon='-72.02756886005'>
-    <tag k='TODO:planned_end' v='2024-07-19' />
+    <tag k='TODO:planned_end' v='2024-08-23' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lien_cyclable_Saint-Elie.pdf' />
     <tag k='TODO:start_date' v='2024-04-22' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5805' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1658,7 +1658,7 @@
     <tag k='name' v='Fermeture du Comtoir familial' />
   </node>
   <node id='-1095410724' action='modify' lat='45.47299737223' lon='-71.94562733442'>
-    <tag k='TODO:planned_end' v='2024-08-30' />
+    <tag k='TODO:planned_end' v='2024-09-27' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-04-22' />
     <tag k='TODO:status' v='ongoing' />
@@ -1681,7 +1681,7 @@
     <tag k='TODO:planned_end' v='2024-08-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-04-30' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='7122' />
     <tag k='TODO:ville:travaux' v='2024' />
