@@ -522,20 +522,22 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-2927337086' action='modify' lat='45.40064029843' lon='-71.94224506885'>
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2024-08-30' />
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-08-13' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7010' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-1051055297' action='modify' lat='45.39915812385' lon='-71.94119096339'>
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2024-08-30' />
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-08-14' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7011' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1513,7 +1515,7 @@
     <tag k='TODO:planned_end' v='2024-10-11' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Garant-2024.pdf' />
     <tag k='TODO:start_date' v='2024-08-12' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6954' />
     <tag k='TODO:ville:travaux' v='2024' />
