@@ -581,7 +581,7 @@
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2024-07-15' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7006' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1982,5 +1982,16 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='footway' />
     <tag k='name' v='Passage pour piétons' />
+  </node>
+  <node id='-1221213870' action='modify' lat='45.44496033496' lon='-71.86993322566'>
+    <tag k='TODO:comments' v='Tronçon de la piste cyclable en direction de l&apos;hôpital sera barrée à partir du giratoire.' />
+    <tag k='TODO:planned_end' v='2024-08-23' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2023-10-16' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='6465' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Travaux CIUSSE - piste cyclable (rue James-Quintin)' />
   </node>
 </osm>
