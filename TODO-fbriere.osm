@@ -322,16 +322,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement de voies cyclables sur le chemin de Saint-Élie, entre la rue Croteau et le chemin Laliberté' />
   </node>
-  <node id='-4092595976' action='modify' lat='45.37153395144' lon='-71.96748735666'>
-    <tag k='TODO:planned_end' v='2024-07-19' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Charny-2023.pdf' />
-    <tag k='TODO:start_date' v='2024-04-22' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='5828' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction d&apos;un trottoir entre les rues Bertrand-Fabi et Charlevoix' />
-  </node>
   <node id='-1369707219' action='modify' lat='45.4158948643' lon='-71.89008953333'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
     <tag k='TODO:status' v='planned' />
@@ -794,6 +784,7 @@
     <tag k='name' v='Réaménagement de l&apos;aire de jeux 2-12 ans au parc Olivier-Chauveau' />
   </node>
   <node id='-3217957028' action='modify' lat='45.39079217313' lon='-71.9875312388'>
+    <tag k='TODO:check_date' v='2024-08-24' />
     <tag k='TODO:planned_end' v='2024-10-31' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallon_Info-travaux.pdf' />
     <tag k='TODO:start_date' v='2024-07-15' />
@@ -1315,13 +1306,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-2155951220' action='modify' lat='45.36796614977' lon='-71.99944088494'>
-    <tag k='TODO:session' v='2023-10-17' />
-    <tag k='TODO:source' v='Règlement n° 1-168' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-3773799394' action='modify' lat='45.41565739826' lon='-71.84627823404'>
     <tag k='TODO:session' v='2023-10-17' />
     <tag k='TODO:source' v='Règlement n° 1-168' />
@@ -1342,14 +1326,6 @@
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Feux pour piétons' />
-  </node>
-  <node id='-4136040039' action='modify' lat='45.37029219078' lon='-71.98098153144'>
-    <tag k='TODO:comments' v='Aucune idée comment cette interdiction est supposée fonctionner...' />
-    <tag k='TODO:session' v='2023-10-17' />
-    <tag k='TODO:source' v='Règlement n° 1-168' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Accès interdit vers l&apos;est en provenance de l&apos;ouest?' />
   </node>
   <node id='-76372337' action='modify' lat='45.4294289685' lon='-71.88903277845'>
     <tag k='TODO:session' v='2023-12-05' />
@@ -1531,17 +1507,6 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Ajout d&apos;un trottoir sur Lincoln (côté nord), entre les rues de Dieppe et Haig' />
   </node>
-  <node id='-4088165512' action='modify' lat='45.38878626412' lon='-71.9783193377'>
-    <tag k='TODO:comments' v='La traverse pour piétons dans la courbe sera retirée' />
-    <tag k='TODO:planned_end' v='2024-06-21' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Malherbe-2024.pdf' />
-    <tag k='TODO:start_date' v='2024-05-16' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='6960' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction d&apos;un trottoir sur la rue Malherbe (côté est), entre les rues Marcel-Marcotte et Yamaska' />
-  </node>
   <node id='-1712310260' action='modify' lat='45.37805750857' lon='-71.83793414215'>
     <tag k='TODO:comments' v='Implantations de dos d&apos;ânes et peut-être d&apos;une traverse surélevée.' />
     <tag k='TODO:planned_end' v='Été 2024' />
@@ -1579,6 +1544,7 @@
     <tag k='name' v='Prolongement des rues des Quatre-Saisons et des Gloires-du-Matin et construction de la rue Hortensias' />
   </node>
   <node id='-3715473418' action='modify' lat='45.39187571006' lon='-71.99231024834'>
+    <tag k='TODO:check_date' v='2024-08-24' />
     <tag k='TODO:planned_end' v='2025-11-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Estelle-Gobeil_Info-travaux.pdf' />
     <tag k='TODO:start_date' v='2024-06-25' />
@@ -1597,36 +1563,6 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Ajout d&apos;un trottoir sur des Paysans (côté ouest), sur toute la longueur' />
   </node>
-  <node id='-160414502' action='modify' lat='45.37349044494' lon='-71.96478975468'>
-    <tag k='TODO:planned_end' v='2024-07-05' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2024.pdf' />
-    <tag k='TODO:start_date' v='2024-05-28' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='7001' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Implantation de bandes cyclables entre le boulevard des Vétérans et la rue Charny' />
-  </node>
-  <node id='-1261763819' action='modify' lat='45.37636895367' lon='-71.96395138858'>
-    <tag k='TODO:planned_end' v='2024-07-05' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bertrand-Fabi-2024.pdf' />
-    <tag k='TODO:start_date' v='2024-05-28' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='7001' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction d&apos;un trottoir sur la rue Bertrand-Fabi (côté ouest), entre les rues de Varennes et Charny' />
-  </node>
-  <node id='-4416651' action='modify' lat='45.39039196803' lon='-71.97890947587'>
-    <tag k='TODO:planned_end' v='2024-08-30' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Yamaska-2024.pdf' />
-    <tag k='TODO:start_date' v='2024-08-05' />
-    <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='7005' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Ajout d&apos;un trottoir sur Yamaska (côté sud), entre les rues Watopeka et Mégantic' />
-  </node>
   <node id='-4117914809' action='modify' lat='45.36766977479' lon='-71.994559095'>
     <tag k='TODO:planned_end' v='Automne 2024' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1636,14 +1572,6 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='commentaire' v='Ajout d&apos;une voie de virage à droite sur Président-Kennedy et construction d&apos;une amorce de trottoir dans l&apos;intersection.' />
     <tag k='name' v='Modifications géométriques à l&apos;intersection Bourque/Président-Kennedy/Henri-Labonne' />
-  </node>
-  <node id='-2011373823' action='modify' lat='45.36934073439' lon='-71.99266674386'>
-    <tag k='TODO:comments' v='Située au 5087 boulevard Bourque' />
-    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/09/estrie-aide-ouvrira-une-nouvelle-friperie-IBAD6SBPC5CZHGEBMS5CBX6DQI/' />
-    <tag k='TODO:start_date' v='2024-05-17' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='misc' />
-    <tag k='name' v='Ouverture de la friperie Collection Collective' />
   </node>
   <node id='-2638052566' action='modify' lat='45.38945050773' lon='-71.87039673865'>
     <tag k='TODO:session' v='2023-12-19 (Règlement 1-170)' />
@@ -1701,6 +1629,7 @@
     <tag k='name' v='Parc Atto-Beaver - Retrait de la patinoire' />
   </node>
   <node id='-3623821173' action='modify' lat='45.36846249687' lon='-71.99537158549'>
+    <tag k='TODO:check_date' v='2024-08-24' />
     <tag k='TODO:session' v='2024-04-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1708,6 +1637,7 @@
     <tag k='name' v='Ajout d&apos;un corridor de marche (côté sud, entre Berthe-Dostie et Henri-Labonne)' />
   </node>
   <node id='-1995813708' action='modify' lat='45.36832493565' lon='-71.9948056367'>
+    <tag k='TODO:check_date' v='2024-08-24' />
     <tag k='TODO:session' v='2024-04-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1950,16 +1880,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-2216048834' action='modify' lat='45.37080148138' lon='-71.98491015408'>
-    <tag k='TODO:planned_end' v='2024-07-02' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-07-02' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='TODO:ville:projet' v='7385' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction d&apos;un nouveau dos d&apos;âne face au 4828 Gaspe' />
-  </node>
   <node id='-996741141' action='modify' lat='45.43229626764' lon='-71.86835848299'>
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/07/20/le-projet-dhotel-de-la-12e-avenue-toujours-sur-la-glace-QCTMWCRJXZETHF2F3Y7JO5D6CU/' />
     <tag k='TODO:status' v='certain' />
@@ -1967,6 +1887,7 @@
     <tag k='name' v='Feu de circulation' />
   </node>
   <node id='-312880620' action='modify' lat='45.39128588386' lon='-71.99306147311'>
+    <tag k='TODO:check_date' v='2024-08-24' />
     <tag k='TODO:comments' v='La piste cyclable est fermée et un détour est en place par les rues St-Jacques, Saint-Édouard et Sainte-Claire pendant les travaux de l&apos;ouverture de la rue Estelle-Gobeil. Lors de l’ouverture de la rue Estelle-Gobeil, la piste cyclable longera le nouveau tronçon de la rue et rejoindra le boulevard René-Lévesque.' />
     <tag k='TODO:planned_end' v='2025-11-14' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1976,12 +1897,6 @@
     <tag k='TODO:ville:projet' v='6974' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Fermeture de la piste cyclable et déplacement vers Estelle-Gobeil' />
-  </node>
-  <node id='-367362286' action='modify' lat='45.39250950966' lon='-71.99033439696'>
-    <tag k='TODO:source' v='Esri' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='footway' />
-    <tag k='name' v='Passage pour piétons' />
   </node>
   <node id='-1221213870' action='modify' lat='45.44496033496' lon='-71.86993322566'>
     <tag k='TODO:comments' v='Tronçon de la piste cyclable en direction de l&apos;hôpital sera barrée à partir du giratoire.' />
