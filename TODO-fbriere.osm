@@ -1477,7 +1477,7 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Asphaltage des rues Joseph-Louis-Mathieu et Antonio-Cameron ainsi que d&apos;une partie de la rue Robert-Boyd' />
   </node>
-  <node id='-2087732915' action='modify' lat='45.40395767014' lon='-71.9635428211'>
+  <node id='-1667761139' action='modify' lat='45.40496109715' lon='-71.9636372012'>
     <tag k='TODO:planned_end' v='2024-08-27' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-07-30' />
