@@ -527,7 +527,7 @@
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2024-08-14' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7011' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1736,14 +1736,14 @@
     <tag k='name' v='Construction d&apos;un dos d&apos;âne (face au 75 8e Avenue Nord)' />
   </node>
   <node id='-1581095867' action='modify' lat='45.3698145727' lon='-71.84618435076'>
-    <tag k='TODO:planned_end' v='2024-06-11' />
+    <tag k='TODO:planned_end' v='2024-09-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-06-11' />
+    <tag k='TODO:start_date' v='2024-09-04' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7300' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction d&apos;un dos d&apos;âne sur Moulton Hilll (au coin St-Francis)' />
+    <tag k='name' v='Construction d&apos;un dos d&apos;âne sur Moulton Hill (au coin St-Francis)' />
   </node>
   <node id='-3201444395' action='modify' lat='45.39034752884' lon='-71.90169074605'>
     <tag k='TODO:comments' v='Sera-t-il vraiment situé à une *intersection*, déjà munie d&apos;un arrêt toutes directions?' />
@@ -1918,5 +1918,23 @@
     <tag k='TODO:ville:projet' v='7590' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Prolongement de la rue du Centre-Équestre' />
+  </node>
+  <node id='-3141565970' action='modify' lat='45.42168017175' lon='-71.86278364247'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Quatre-Saisons-2024.pdf' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='7639' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction de trottoirs sur la rue des Quatre-Saisons (des deux côtés), entre la rue des Lys et le passage piétonnier menant à la rue des Gloires-du-Matin' />
+  </node>
+  <node id='-2440357478' action='modify' lat='45.47290079147' lon='-71.94805130213'>
+    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Croix-2024.pdf' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='7640' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Construction d&apos;un trottoir sur les rues de la Croix et Leblanc, entre l&apos;école des Deux-Rives et la rue du Curé-LaRocque' />
   </node>
 </osm>
