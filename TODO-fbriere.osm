@@ -714,10 +714,10 @@
     <tag k='objectid' v='525393' />
   </node>
   <node id='-787024588' action='modify' lat='45.37346398137' lon='-71.89133640546'>
-    <tag k='TODO:planned_end' v='2024-08-30' />
+    <tag k='TODO:planned_end' v='2025-05-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-05-13' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5921' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1598,7 +1598,8 @@
     <tag k='name' v='Parc Charland - Reconstruction du terrain de tennis' />
   </node>
   <node id='-497692910' action='modify' lat='45.39292059422' lon='-72.04270854659'>
-    <tag k='TODO:planned_end' v='2025-06-06' />
+    <tag k='TODO:comments' v='Fermeture pour la saison 2025' />
+    <tag k='TODO:planned_end' v='2026-05-18' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-09-03' />
     <tag k='TODO:status' v='ongoing' />
