@@ -1564,8 +1564,9 @@
     <tag k='name' v='Ajout d&apos;un trottoir sur des Paysans (côté ouest), sur toute la longueur' />
   </node>
   <node id='-4117914809' action='modify' lat='45.36766977479' lon='-71.994559095'>
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2024-10-25' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-09-11' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='7023' />
