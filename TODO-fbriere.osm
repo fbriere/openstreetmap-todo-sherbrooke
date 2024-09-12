@@ -1565,10 +1565,11 @@
     <tag k='name' v='Ajout d&apos;un trottoir sur des Paysans (côté ouest), sur toute la longueur' />
   </node>
   <node id='-4117914809' action='modify' lat='45.36766977479' lon='-71.994559095'>
+    <tag k='TODO:comments' v='Ajout d&apos;une voie de virage à droite sur Président-Kennedy' />
     <tag k='TODO:planned_end' v='2024-10-25' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/09/12/plus-dun-mois-de-travaux-au-coin-bourquepresident-kennedy-M2FQ6W36L5EOJKFSWLE6UMCA4U/' />
     <tag k='TODO:start_date' v='2024-09-11' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='7023' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1944,7 +1945,7 @@
     <tag k='TODO:planned_end' v='2024-09-11' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-09-11' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7659' />
     <tag k='TODO:ville:travaux' v='2024' />
