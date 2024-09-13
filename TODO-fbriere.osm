@@ -1924,9 +1924,10 @@
     <tag k='name' v='Prolongement de la rue du Centre-Équestre' />
   </node>
   <node id='-3141565970' action='modify' lat='45.42168017175' lon='-71.86278364247'>
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2024-11-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Quatre-Saisons-2024.pdf' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-09-12' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='7639' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1950,5 +1951,13 @@
     <tag k='TODO:ville:projet' v='7659' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Construction de dos d&apos;âne Rue Buck' />
+  </node>
+  <node id='-1805983239' action='modify' lat='45.40386073527' lon='-71.93912120305'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='7663' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Fermeture du terre-plein central à l&apos;intersection Portland/Wilson' />
   </node>
 </osm>
