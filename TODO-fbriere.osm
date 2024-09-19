@@ -636,27 +636,30 @@
     <tag k='name' v='Conversion des deux passages piétons/cyclistes en passages pour piétons' />
   </node>
   <node id='-3555535340' action='modify' lat='45.41065668262' lon='-71.87483042747'>
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-09-25' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-09-16' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='7015' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Réaménagement géométrique de l&apos;intersection' />
   </node>
   <node id='-2367438307' action='modify' lat='45.41132325053' lon='-71.87284291327'>
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-09-25' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-09-16' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='7015' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Mise en place d&apos;un terre-plein central à l&apos;intersection' />
   </node>
   <node id='-403188902' action='modify' lat='45.41165464767' lon='-71.87182903826'>
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2024-09-25' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-09-16' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='7015' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1953,11 +1956,14 @@
     <tag k='name' v='Construction de dos d&apos;âne Rue Buck' />
   </node>
   <node id='-1805983239' action='modify' lat='45.40386073527' lon='-71.93912120305'>
+    <tag k='TODO:comments' v='Un feu de circulation sera ajouté en 2025' />
+    <tag k='TODO:planned_end' v='2024-10-11' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-09-18' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='7663' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Fermeture du terre-plein central à l&apos;intersection Portland/Wilson' />
+    <tag k='name' v='Fermeture du terre-plein du boulevard de Portland, à l&apos;intersection de la rue Wilson' />
   </node>
 </osm>
