@@ -246,7 +246,7 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-832676602' action='modify' lat='45.48312316122' lon='-71.94202781796'>
-    <tag k='TODO:planned_end' v='2024-09-20' />
+    <tag k='TODO:planned_end' v='2025-05-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-02-06' />
     <tag k='TODO:status' v='ongoing' />
@@ -294,7 +294,7 @@
   </node>
   <node id='-1388227926' action='modify' lat='45.36458805639' lon='-71.9616791978'>
     <tag k='TODO:planned_end' v='2023-11-17' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-21' />
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
@@ -1559,9 +1559,10 @@
     <tag k='name' v='Prolongement de la rue Estelle-Gobeil' />
   </node>
   <node id='-1472253939' action='modify' lat='45.42343650118' lon='-71.86839183548'>
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2024-11-29' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Paysans-2024.pdf' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-09-20' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6998' />
     <tag k='TODO:ville:travaux' v='2024' />
