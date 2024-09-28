@@ -316,7 +316,7 @@
     <tag k='TODO:planned_end' v='2024-09-27' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lien_cyclable_Saint-Elie.pdf' />
     <tag k='TODO:start_date' v='2024-04-22' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5805' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -539,7 +539,7 @@
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2024-07-08' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='6967' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -622,7 +622,7 @@
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2024-07-02' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7007' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -813,7 +813,7 @@
     <tag k='TODO:planned_end' v='2024-09-28' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/projets-majeurs/10/lieu-de-diffusion-jeunesse' />
     <tag k='TODO:start_date' v='2023-03-13' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='5870' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1502,7 +1502,7 @@
     <tag k='name' v='Construction d&apos;un trottoir sur Garant (côté sud), entre les rues Malouin et Argyll' />
   </node>
   <node id='-2426425894' action='modify' lat='45.39109479818' lon='-71.91033541162'>
-    <tag k='TODO:planned_end' v='2024-09-27' />
+    <tag k='TODO:planned_end' v='2024-10-05' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lincoln-2024.pdf' />
     <tag k='TODO:start_date' v='2024-07-29' />
     <tag k='TODO:status' v='ongoing' />
