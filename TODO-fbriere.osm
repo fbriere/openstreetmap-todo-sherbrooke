@@ -343,7 +343,7 @@
     <tag k='TODO:planned_end' v='2023-08-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf' />
     <tag k='TODO:start_date' v='2023-05-08' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5827' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -433,7 +433,7 @@
     <tag k='TODO:planned_end' v='2023-09-01' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-05-29' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='4064' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -866,11 +866,6 @@
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Vérifier: cycleway=track (côté est) entre Beausecours et du Perche' />
   </node>
-  <node id='-679074194' action='modify' lat='45.43101541962' lon='-71.91403629541'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Vérifier: Route cyclable d&apos;ici jusqu&apos;à Brompton?' />
-  </node>
   <node id='-1556218606' action='modify' lat='45.38203965294' lon='-71.94620132983'>
     <tag k='TODO:comments' v='Seront installées au pavillon 1' />
     <tag k='TODO:planned_end' v='Août 2023' />
@@ -1066,6 +1061,7 @@
   </node>
   <node id='-3664792274' action='modify' lat='45.39141231578' lon='-71.85965851012'>
     <tag k='TODO:source' v='survey' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Confirmer absence d&apos;arrêt toutes directions' />
   </node>
