@@ -103,9 +103,11 @@
   <node id='-2027438417' action='modify' lat='45.39983235887' lon='-71.88772649109'>
     <tag k='TODO:check_date' v='2024-10-06' />
     <tag k='TODO:comments' v='Le nom Jean-Baptiste-Nolain a été officialisé durant la session du 21 mai 2024' />
+    <tag k='TODO:planned_end' v='2024-11-02' />
     <tag k='TODO:session' v='2021-04-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2024-06-28' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='1437;5800' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -272,7 +274,7 @@
   </node>
   <node id='-662672270' action='modify' lat='45.36608327828' lon='-71.95950623304'>
     <tag k='TODO:check_date' v='2024-03-05' />
-    <tag k='TODO:planned_end' v='2024-10-07' />
+    <tag k='TODO:planned_end' v='2024-10-11' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2024-10-04' />
     <tag k='TODO:status' v='ongoing' />
