@@ -1720,4 +1720,70 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Fermeture du terre-plein du boulevard de Portland, à l&apos;intersection de la rue Wilson' />
   </node>
+  <node id='-2519405344' action='modify' lat='45.39860535483' lon='-71.8800513453'>
+    <tag k='TODO:comments' v='Arrêt 25' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
+  <node id='-1279442323' action='modify' lat='45.40603663517' lon='-71.85080520876'>
+    <tag k='TODO:comments' v='Arrêt 629' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
+  <node id='-3974349837' action='modify' lat='45.40893656604' lon='-71.85162663594'>
+    <tag k='TODO:comments' v='Arrêt 2114' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
+  <node id='-2731258694' action='modify' lat='45.39654962296' lon='-71.87854260474'>
+    <tag k='TODO:comments' v='Arrêt 307' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
+  <node id='-3159447183' action='modify' lat='45.41204441151' lon='-71.87119603425'>
+    <tag k='TODO:comments' v='Arrêt 25' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
+  <node id='-2037511896' action='modify' lat='45.39861477214' lon='-71.92128762737'>
+    <tag k='TODO:comments' v='Arrêt 1340' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
+  <node id='-3729571615' action='modify' lat='45.36650648473' lon='-71.89526081622'>
+    <tag k='TODO:comments' v='Arrêts 1780 et 1781' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
+  <node id='-1543479246' action='modify' lat='45.36625773845' lon='-71.89501405299'>
+    <tag k='TODO:comments' v='Arrêts 1780 et 1781' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
+  <node id='-2775877503' action='modify' lat='45.40320623534' lon='-71.89531713858'>
+    <tag k='TODO:comments' v='Arrêt 2120' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
+  <node id='-3727880126' action='modify' lat='45.39817782873' lon='-71.94049090214'>
+    <tag k='TODO:comments' v='Arrêt 278' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
+  <node id='-2313895085' action='modify' lat='45.34860573519' lon='-71.99132211573'>
+    <tag k='TODO:comments' v='Arrêt 1669' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
 </osm>
