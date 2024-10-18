@@ -274,7 +274,7 @@
   </node>
   <node id='-662672270' action='modify' lat='45.36608327828' lon='-71.95950623304'>
     <tag k='TODO:check_date' v='2024-03-05' />
-    <tag k='TODO:planned_end' v='2024-10-11' />
+    <tag k='TODO:planned_end' v='2024-10-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2024-10-04' />
     <tag k='TODO:status' v='ongoing' />
@@ -1777,5 +1777,144 @@
     <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ajout d&apos;un abribus' />
+  </node>
+  <node id='-760062483' action='modify' lat='45.39631042605' lon='-71.8854036954'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ouverture du terre-plein (mais réservé aux véhicules autorisés)' />
+  </node>
+  <node id='-4180432281' action='modify' lat='45.38754231303' lon='-71.89841777354'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Ajout d&apos;un panneau d&apos;arrêt à l&apos;approche nord' />
+  </node>
+  <node id='-2563274350' action='modify' lat='45.39134544897' lon='-71.89162373811'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-1162205491' action='modify' lat='45.39110434642' lon='-71.8916505602'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Traverse pour piétons' />
+  </node>
+  <node id='-4183134231' action='modify' lat='45.39138688837' lon='-71.89162910253'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Traverse pour piétons' />
+  </node>
+  <node id='-3076494710' action='modify' lat='45.39263005807' lon='-71.89072788298'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Traverse pour piétons (3 approches)' />
+  </node>
+  <node id='-4152009928' action='modify' lat='45.38362965702' lon='-71.94497823983'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-2693131250' action='modify' lat='45.38359951515' lon='-71.94714278251'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-3161256080' action='modify' lat='45.38325665016' lon='-71.94770872861'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-3203996346' action='modify' lat='45.4126450616' lon='-71.94536984503'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='name' v='Corridor de marche (côté ouest, entre du Sauvignon et Richard)' />
+  </node>
+  <node id='-1012983937' action='modify' lat='45.40158759223' lon='-71.90607548296'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-726159109' action='modify' lat='45.39361703662' lon='-71.99434966117'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-241643531' action='modify' lat='45.39288151087' lon='-71.99434831873'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-2572321130' action='modify' lat='45.39147070794' lon='-71.99434429541'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-3108090579' action='modify' lat='45.39112695171' lon='-71.86925948203'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Traverse pour piétons' />
+  </node>
+  <node id='-2155876740' action='modify' lat='45.40113372085' lon='-71.88425570995'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Retrait du panneau d&apos;arrêt (pour un &quot;céder le passage&quot;)' />
+  </node>
+  <node id='-1772544456' action='modify' lat='45.40125707484' lon='-71.88432946935'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Marquer un îlot central dans l&apos;intersection' />
+  </node>
+  <node id='-2780532785' action='modify' lat='45.4164032025' lon='-71.88265711337'>
+    <tag k='TODO:check_date' v='2024-08-06' />
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-3998698740' action='modify' lat='45.3757912848' lon='-71.98233336344'>
+    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-2457839337' action='modify' lat='45.42458514914' lon='-71.89077079833'>
+    <tag k='TODO:session' v='2024-09-23 (Fleurimont)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
   </node>
 </osm>
