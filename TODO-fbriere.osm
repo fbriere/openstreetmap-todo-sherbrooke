@@ -1917,4 +1917,14 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
+  <node id='-771581869' action='modify' lat='45.41647475353' lon='-71.88252569318'>
+    <tag k='TODO:planned_end' v='2024-11-02' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-10-22' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='7807' />
+    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='name' v='Modification géométrique et ajout d&apos;un trottoir' />
+  </node>
 </osm>
