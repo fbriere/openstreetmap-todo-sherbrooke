@@ -1927,4 +1927,51 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Modification géométrique et ajout d&apos;un trottoir' />
   </node>
+  <node id='-2866697999' action='modify' lat='45.48293134118' lon='-71.94645882189'>
+    <tag k='TODO:session' v='2024-10-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-897400111' action='modify' lat='45.32158631656' lon='-71.96748737812'>
+    <tag k='TODO:session' v='2024-10-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Réduction de vitesse à 70 km/h (jusqu&apos;aux limites de la ville)' />
+  </node>
+  <node id='-3613734681' action='modify' lat='45.38826001395' lon='-71.86471045554'>
+    <tag k='TODO:session' v='2024-10-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-3131810883' action='modify' lat='45.38836549987' lon='-71.94917589694'>
+    <tag k='TODO:session' v='2024-10-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-3013788658' action='modify' lat='45.4052749094' lon='-71.89698815614'>
+    <tag k='TODO:session' v='2024-10-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-994869456' action='modify' lat='45.40177591592' lon='-71.936707647'>
+    <tag k='TODO:session' v='2024-10-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-2321897272' action='modify' lat='45.37246099707' lon='-71.88978911519'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêts aux approches ouest et sud' />
+  </node>
 </osm>
