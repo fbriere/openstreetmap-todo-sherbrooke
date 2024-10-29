@@ -680,7 +680,7 @@
   <node id='-3217957028' action='modify' lat='45.39079217313' lon='-71.9875312388'>
     <tag k='TODO:check_date' v='2024-08-24' />
     <tag k='TODO:comments' v='Construction du trottoir du 16 septembre au 4 octobre' />
-    <tag k='TODO:planned_end' v='2024-10-31' />
+    <tag k='TODO:planned_end' v='2024-11-15' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallon_Info-travaux.pdf' />
     <tag k='TODO:start_date' v='2024-07-15' />
     <tag k='TODO:status' v='ongoing' />
