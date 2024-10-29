@@ -854,8 +854,9 @@
     <tag k='name' v='Conversion de l&apos;église en logements sociaux' />
   </node>
   <node id='-1439643605' action='modify' lat='45.3875517336' lon='-71.94701135695'>
-    <tag k='TODO:source' v='https://ici.radio-canada.ca/nouvelle/1952013/vente-galt-ouest-patrimoine-religieux' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:comments' v='L&apos;église et sa vocation seront conservées; aucune information quant au nom' />
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/10/29/leglise-marie-mediatrice-officiellement-vendue-MKRHDIJY6VCWVMBYQWTQKOTJFA/' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Vente de l&apos;église Marie-Médiatrice' />
   </node>
