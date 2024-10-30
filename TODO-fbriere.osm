@@ -1801,4 +1801,26 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêts aux approches ouest et sud' />
   </node>
+  <node id='-4024184197' action='modify' lat='45.37662500624' lon='-71.89325452119'>
+    <tag k='TODO:comments' v='Cette épicerie remplacera le Métro Belvédère' />
+    <tag k='TODO:planned_end' v='Automne 2025' />
+    <tag k='TODO:source' v='https://www.latribune.ca/affaires/affaires-locales/2024/10/10/deux-nouveaux-super-c-sinstallent-a-sherbrooke-TJ4KQIVSDZFQHKOF5YGWE6ZKPU/' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ouverture d&apos;un Super C' />
+  </node>
+  <node id='-752183137' action='modify' lat='45.36034027346' lon='-72.0088040936'>
+    <tag k='TODO:comments' v='Premier commerce d&apos;un futur Espace Rock-Forest' />
+    <tag k='TODO:planned_end' v='Printemps 2026' />
+    <tag k='TODO:source' v='https://www.latribune.ca/affaires/affaires-locales/2024/10/10/deux-nouveaux-super-c-sinstallent-a-sherbrooke-TJ4KQIVSDZFQHKOF5YGWE6ZKPU/' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ouverture d&apos;un Super C (près du Canac)' />
+  </node>
+  <node id='-3597962989' action='modify' lat='45.37653080304' lon='-71.89260542929'>
+    <tag k='TODO:source' v='https://www.latribune.ca/affaires/affaires-locales/2024/10/10/deux-nouveaux-super-c-sinstallent-a-sherbrooke-TJ4KQIVSDZFQHKOF5YGWE6ZKPU/' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Dollarama (et autres commerces?)' />
+  </node>
 </osm>
