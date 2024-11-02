@@ -81,7 +81,7 @@
     <tag k='name' v='Prolongement de la rue du Pimbina / des Coudriers' />
   </node>
   <node id='-3535605900' action='modify' lat='45.37047120572' lon='-71.8991339314'>
-    <tag k='TODO:planned_end' v='2024-12-31' />
+    <tag k='TODO:planned_end' v='2025-12-31' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-11-16' />
     <tag k='TODO:status' v='ongoing' />
