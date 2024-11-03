@@ -107,7 +107,7 @@
     <tag k='TODO:session' v='2021-04-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
     <tag k='TODO:start_date' v='2024-06-28' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='1437;5800' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1748,7 +1748,7 @@
     <tag k='TODO:planned_end' v='2024-11-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-10-22' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='7807' />
     <tag k='TODO:ville:travaux' v='2024' />
