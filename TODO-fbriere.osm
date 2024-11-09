@@ -27,7 +27,7 @@
     <tag k='TODO:session' v='2018-03-19' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-27' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5856' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -303,7 +303,7 @@
     <tag k='TODO:planned_end' v='2024-11-08' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-27' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -313,7 +313,7 @@
     <tag k='TODO:planned_end' v='2024-11-08' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
     <tag k='TODO:start_date' v='2024-05-27' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='restriction' />
     <tag k='TODO:ville:projet' v='5856' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1249,13 +1249,14 @@
     <tag k='name' v='Mesures d&apos;atténuation de la vitesse sur le chemin Moulton Hill, entre la rue St. Francis et le chemin Fearon' />
   </node>
   <node id='-2359860807' action='modify' lat='45.40745676681' lon='-71.89262365035'>
-    <tag k='TODO:check_date' v='2024-10-06' />
+    <tag k='TODO:planned_end' v='2024-11-22' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-11-11' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
-    <tag k='TODO:ville:projet' v='6966' />
+    <tag k='TODO:ville:projet' v='7877' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Démolition de l&apos;ancien viaduc ferroviaire' />
+    <tag k='name' v='Démolition du viaduc ferroviaire des Grandes-Fourches Nord' />
   </node>
   <node id='-2967642929' action='modify' lat='45.4217900002' lon='-71.85774879301'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
