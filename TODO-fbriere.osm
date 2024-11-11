@@ -22,17 +22,6 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Parc du Centenaire (dans le parc de la Rive) renommé halte du Centenaire' />
   </node>
-  <node id='-3473539338' action='modify' lat='45.39609948556' lon='-71.87353492856'>
-    <tag k='TODO:planned_end' v='2024-11-08' />
-    <tag k='TODO:session' v='2018-03-19' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
-    <tag k='TODO:start_date' v='2024-05-27' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='5856' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Aménagement de voies cyclables en bordure de la rue Galt Est (entre Bowen et Lavigerie)' />
-  </node>
   <node id='-4129659730' action='modify' lat='45.39115708769' lon='-71.91999078065'>
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Pas mal sûr que cycleway=track ne s&apos;applique pas ici...' />
@@ -298,26 +287,6 @@
     <tag k='TODO:ville:projet' v='5843+' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction d&apos;une piste cyclable (entre Desaulniers et du Cégep)' />
-  </node>
-  <node id='-1266634885' action='modify' lat='45.39634056303' lon='-71.87608838618'>
-    <tag k='TODO:planned_end' v='2024-11-08' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
-    <tag k='TODO:start_date' v='2024-05-27' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='TODO:ville:projet' v='5856' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Interdiction d&apos;entrée par Galt' />
-  </node>
-  <node id='-875435037' action='modify' lat='45.39632926237' lon='-71.87503159583'>
-    <tag k='TODO:planned_end' v='2024-11-08' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Galt_Est-2024.pdf' />
-    <tag k='TODO:start_date' v='2024-05-27' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='TODO:ville:projet' v='5856' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Interdiction d&apos;entrée par Galt' />
   </node>
   <node id='-650103452' action='modify' lat='45.38756346247' lon='-71.86489208384'>
     <tag k='TODO:planned_end' v='2023-08-25' />
