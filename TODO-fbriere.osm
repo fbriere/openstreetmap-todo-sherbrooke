@@ -156,14 +156,6 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Halte Massawippi' />
   </node>
-  <node id='-742864720' action='modify' lat='45.40141432939' lon='-71.89034700662'>
-    <tag k='TODO:check_date' v='2024-10-06' />
-    <tag k='TODO:planned_end' v='2023-06' />
-    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/05/26/virage-a-gauche-wellington-sud-277-constats-dinfractions-plus-tard-RJTYHEUK3ZDQ5NWH7CQW4FVM5E/' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virage à gauche: l&apos;exception pour autobus devrait être retirée' />
-  </node>
   <node id='-2560107776' action='modify' lat='45.34169336675' lon='-72.04347029462'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='oneway' />
