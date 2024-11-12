@@ -92,11 +92,11 @@
   <node id='-2027438417' action='modify' lat='45.39983235887' lon='-71.88772649109'>
     <tag k='TODO:check_date' v='2024-10-22' />
     <tag k='TODO:comments' v='Le nom Jean-Baptiste-Nolain a été officialisé durant la session du 21 mai 2024' />
-    <tag k='TODO:planned_end' v='2024-11-02' />
+    <tag k='TODO:planned_end' v='2024-12-20' />
     <tag k='TODO:session' v='2021-04-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
     <tag k='TODO:start_date' v='2024-06-28' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='1437;5800' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -649,7 +649,7 @@
   <node id='-3217957028' action='modify' lat='45.39079217313' lon='-71.9875312388'>
     <tag k='TODO:check_date' v='2024-08-24' />
     <tag k='TODO:comments' v='Construction du trottoir du 16 septembre au 4 octobre' />
-    <tag k='TODO:planned_end' v='2024-11-15' />
+    <tag k='TODO:planned_end' v='2024-11-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallon_Info-travaux.pdf' />
     <tag k='TODO:start_date' v='2024-07-15' />
     <tag k='TODO:status' v='ongoing' />
@@ -1221,7 +1221,7 @@
     <tag k='TODO:planned_end' v='2024-11-22' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-11-11' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='7877' />
     <tag k='TODO:ville:travaux' v='2024' />
