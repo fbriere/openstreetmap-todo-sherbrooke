@@ -428,7 +428,7 @@
   </node>
   <node id='-1836232714' action='modify' lat='45.40610725354' lon='-71.89517766505'>
     <tag k='TODO:check_date' v='2024-10-22' />
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2025' />
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:status' v='planned' />
@@ -450,7 +450,7 @@
   </node>
   <node id='-2452092212' action='modify' lat='45.40281546795' lon='-71.89615398914'>
     <tag k='TODO:check_date' v='2024-10-22' />
-    <tag k='TODO:planned_end' v='Été 2024' />
+    <tag k='TODO:planned_end' v='2025' />
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:status' v='planned' />
@@ -460,7 +460,7 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-285701010' action='modify' lat='45.38698095678' lon='-71.92746341497'>
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2025' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
@@ -469,7 +469,7 @@
     <tag k='name' v='Modifications géométriques et amélioration du passage piétonnier' />
   </node>
   <node id='-1248127033' action='modify' lat='45.38696400298' lon='-71.92619741231'>
-    <tag k='TODO:planned_end' v='Automne 2024' />
+    <tag k='TODO:planned_end' v='2025' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
