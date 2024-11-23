@@ -91,12 +91,12 @@
   </node>
   <node id='-2027438417' action='modify' lat='45.39983235887' lon='-71.88772649109'>
     <tag k='TODO:check_date' v='2024-10-22' />
-    <tag k='TODO:comments' v='Le nom Jean-Baptiste-Nolain a été officialisé durant la session du 21 mai 2024. La rue demeure fermée jusqu&apos;à la finalisation des essais et la coordination des feux.' />
+    <tag k='TODO:comments' v='Confirmer l&apos;emplacement des feux de circulation et la nature du lien cyclable' />
     <tag k='TODO:planned_end' v='2024-12-20' />
     <tag k='TODO:session' v='2021-04-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
     <tag k='TODO:start_date' v='2024-06-28' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='1437;5800' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -640,7 +640,7 @@
   </node>
   <node id='-3217957028' action='modify' lat='45.39079217313' lon='-71.9875312388'>
     <tag k='TODO:check_date' v='2024-08-24' />
-    <tag k='TODO:comments' v='Construction du trottoir du 16 septembre au 4 octobre' />
+    <tag k='TODO:comments' v='Le marquage au sol sera effectué en 2025' />
     <tag k='TODO:planned_end' v='2024-11-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallon_Info-travaux.pdf' />
     <tag k='TODO:start_date' v='2024-07-15' />
@@ -1209,16 +1209,6 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Mesures d&apos;atténuation de la vitesse sur le chemin Moulton Hill, entre la rue St. Francis et le chemin Fearon' />
   </node>
-  <node id='-2359860807' action='modify' lat='45.40745676681' lon='-71.89262365035'>
-    <tag k='TODO:planned_end' v='2024-11-22' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-11-11' />
-    <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:type' v='misc' />
-    <tag k='TODO:ville:projet' v='7877' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Démolition du viaduc ferroviaire des Grandes-Fourches Nord' />
-  </node>
   <node id='-2967642929' action='modify' lat='45.4217900002' lon='-71.85774879301'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1347,11 +1337,13 @@
     <tag k='name' v='Ajout d&apos;un trottoir (côté nord, entre Viel et Chambois)' />
   </node>
   <node id='-4091360897' action='modify' lat='45.35426385239' lon='-71.99839040771'>
-    <tag k='TODO:planned_end' v='2025' />
+    <tag k='TODO:planned_end' v='2024-12-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/23/la-piscine-du-parc-central-sera-remplacee-par-des-jeux-deau-L2U36KX2TNG7NMQVXF53WCQD3M/' />
-    <tag k='TODO:start_date' v='Été 2024' />
+    <tag k='TODO:start_date' v='2024-11-25' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='7929;7930' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Fermeture de la piscine et conversion en jeux d&apos;eau' />
   </node>
   <node id='-2584475386' action='modify' lat='45.4481416204' lon='-71.93101734191'>
@@ -1500,7 +1492,7 @@
     <tag k='TODO:planned_end' v='2024-11-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Quatre-Saisons-2024.pdf' />
     <tag k='TODO:start_date' v='2024-09-12' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='7639' />
     <tag k='TODO:ville:travaux' v='2024' />
