@@ -1678,7 +1678,7 @@
   </node>
   <node id='-2780532785' action='modify' lat='45.4164032025' lon='-71.88265711337'>
     <tag k='TODO:check_date' v='2024-08-06' />
-    <tag k='TODO:session' v='2024-08-20' />
+    <tag k='TODO:session' v='2024-08-20; 2024-11-05' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='stop' />
@@ -1699,6 +1699,7 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-771581869' action='modify' lat='45.41647475353' lon='-71.88252569318'>
+    <tag k='TODO:comments' v='Réduction de la largeur d&apos;approche de la rue de la Bruère' />
     <tag k='TODO:planned_end' v='2024-11-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-10-22' />
@@ -1776,5 +1777,19 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Dollarama (et autres commerces?)' />
+  </node>
+  <node id='-2887663023' action='modify' lat='45.41645136928' lon='-71.88204582812'>
+    <tag k='TODO:session' v='2024-11-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Déplacement de ce passage vers Saint-Michel' />
+  </node>
+  <node id='-1321554423' action='modify' lat='45.41652558176' lon='-71.88255652919'>
+    <tag k='TODO:session' v='2024-11-05' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Fermeture de cette entrée' />
   </node>
 </osm>
