@@ -1338,13 +1338,13 @@
   </node>
   <node id='-4091360897' action='modify' lat='45.35426385239' lon='-71.99839040771'>
     <tag k='TODO:planned_end' v='2024-12-06' />
-    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/23/la-piscine-du-parc-central-sera-remplacee-par-des-jeux-deau-L2U36KX2TNG7NMQVXF53WCQD3M/' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-11-25' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='7929;7930' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Fermeture de la piscine et conversion en jeux d&apos;eau' />
+    <tag k='name' v='Démolition de la piscine au parc Central' />
   </node>
   <node id='-2584475386' action='modify' lat='45.4481416204' lon='-71.93101734191'>
     <tag k='TODO:planned_end' v='Automne 2024' />
@@ -1791,5 +1791,11 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Fermeture de cette entrée' />
+  </node>
+  <node id='-4260224935' action='modify' lat='45.35421810521' lon='-71.99847057804'>
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/23/la-piscine-du-parc-central-sera-remplacee-par-des-jeux-deau-L2U36KX2TNG7NMQVXF53WCQD3M/' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='name' v='Conversion de la piscine en jeux d&apos;eau' />
   </node>
 </osm>
