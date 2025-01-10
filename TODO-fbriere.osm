@@ -71,7 +71,7 @@
   </node>
   <node id='-3535605900' action='modify' lat='45.37047120572' lon='-71.8991339314'>
     <tag k='TODO:planned_end' v='2025-12-31' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/golconda.pdf' />
     <tag k='TODO:start_date' v='2022-11-16' />
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
@@ -197,7 +197,7 @@
   </node>
   <node id='-832676602' action='modify' lat='45.48312316122' lon='-71.94202781796'>
     <tag k='TODO:planned_end' v='2025-05-23' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Gisèle_II.pdf' />
     <tag k='TODO:start_date' v='2023-02-06' />
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
@@ -922,7 +922,7 @@
   </node>
   <node id='-1894277877' action='modify' lat='45.37699805874' lon='-71.88417256415'>
     <tag k='TODO:planned_end' v='2025-12-31' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mille-Abeilles_Oiseaux-de-Neige.pdf' />
     <tag k='TODO:start_date' v='2023-07-07' />
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
@@ -999,7 +999,7 @@
   <node id='-849641445' action='modify' lat='45.44995841755' lon='-71.9463742301'>
     <tag k='TODO:comments' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/11/20/le-projet-residentiel-sur-lancien-golf-prince-de-galles-repris-par-le-groupe-custeau-BHZRJ7PXOBCDHFY65V33TIW2A4/' />
     <tag k='TODO:planned_end' v='2025-09-26' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Étienne-Desmarteau.pdf' />
     <tag k='TODO:start_date' v='2023-09-22' />
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
@@ -1145,7 +1145,7 @@
     <tag k='name' v='Construction d&apos;un trottoir en face du 640, rue du Chardonnay' />
   </node>
   <node id='-2989110048' action='modify' lat='45.38353170151' lon='-71.89681918502'>
-    <tag k='TODO:comments' v='Travaux annoncés aux citoyens concernés en octobre dernier. Le corridor piétonnier a été changé de côté en raison de ce nouveau trottoir.' />
+    <tag k='TODO:comments' v='Le corridor piétonnier a été changé de côté en raison de ce nouveau trottoir.' />
     <tag k='TODO:planned_end' v='2024-05-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-04-09' />
@@ -1219,6 +1219,7 @@
   </node>
   <node id='-3715473418' action='modify' lat='45.39187571006' lon='-71.99231024834'>
     <tag k='TODO:check_date' v='2024-08-24' />
+    <tag k='TODO:comments' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Estelle-Gobeil2.pdf' />
     <tag k='TODO:planned_end' v='2025-11-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Estelle-Gobeil_Info-travaux.pdf' />
     <tag k='TODO:start_date' v='2024-06-25' />
@@ -1432,7 +1433,7 @@
   </node>
   <node id='-469000670' action='modify' lat='45.36570126891' lon='-71.96127613016'>
     <tag k='TODO:planned_end' v='2025-10-24' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Maude-Abbott.pdf' />
     <tag k='TODO:start_date' v='2024-06-14' />
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
@@ -1480,7 +1481,7 @@
   </node>
   <node id='-1376142036' action='modify' lat='45.37823008194' lon='-72.00111341302'>
     <tag k='TODO:planned_end' v='2027-12-31' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Centre-Équestre_II.pdf' />
     <tag k='TODO:start_date' v='2024-09-30' />
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
