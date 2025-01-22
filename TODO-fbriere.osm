@@ -1210,11 +1210,13 @@
     <tag k='name' v='Mesures d&apos;atténuation de la vitesse sur le chemin Moulton Hill, entre la rue St. Francis et le chemin Fearon' />
   </node>
   <node id='-2967642929' action='modify' lat='45.4217900002' lon='-71.85774879301'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:planned_end' v='2027-12-31' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Quatre-Saison_presentation.pdf' />
+    <tag k='TODO:start_date' v='2025-01-22' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='6973' />
-    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Prolongement des rues des Quatre-Saisons et des Gloires-du-Matin et construction de la rue Hortensias' />
   </node>
   <node id='-3715473418' action='modify' lat='45.39187571006' lon='-71.99231024834'>
