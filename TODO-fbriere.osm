@@ -661,17 +661,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Construction du lieu de diffusion jeunesse' />
   </node>
-  <node id='-2185188696' action='modify' lat='45.40648333207' lon='-71.85191039787'>
-    <tag k='TODO:comments' v='Cette caserne remplacera la caserne Hector-Olivier-Camirand (sur Lavigerie)' />
-    <tag k='TODO:planned_end' v='2024-12-01' />
-    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/08/03/la-caserne-pres-de-lecole-desranleau-devrait-ouvrir-en-2024-ETLOJ2YZUBFWTEPCZMQOB6XMYQ/' />
-    <tag k='TODO:start_date' v='2024-03-01' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='misc' />
-    <tag k='TODO:ville:projet' v='5871' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction d&apos;une nouvelle caserne au coin de la rue Galt Est et du chemin Galvin' />
-  </node>
   <node id='-2469708005' action='modify' lat='45.363726427' lon='-71.86450261217'>
     <tag k='TODO:comments' v='Le trottoir partiel sur Lloyd ne sera pas reconstruit' />
     <tag k='TODO:planned_end' v='2023-11-24' />
