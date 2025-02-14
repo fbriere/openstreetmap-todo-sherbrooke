@@ -191,7 +191,7 @@
   <node id='-684148393' action='modify' lat='45.37453738653' lon='-71.88731611311'>
     <tag k='TODO:session' v='2023-03-07' />
     <tag k='TODO:source' v='Règlement n° 1-168' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -216,10 +216,9 @@
     <tag k='name' v='Modifications géométriques de l&apos;intersection Dunant/Belvédère Sud' />
   </node>
   <node id='-3439725826' action='modify' lat='45.3977788438' lon='-71.91392556611'>
-    <tag k='TODO:check_date' v='2023-12-25' />
-    <tag k='TODO:planned_end' v='2022-12' />
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -940,11 +939,6 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Nouvelle géométrie de la piscine À-la-Claire-Fontaine' />
-  </node>
-  <node id='-3501613619' action='modify' lat='45.36499514355' lon='-71.86396748024'>
-    <tag k='TODO:comments' v='Mon commentaire audio mentionne &quot;encore ici des stops juste de mon côté&quot;' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt en direction est (comme au coin de Spring Garden)?' />
   </node>
   <node id='-325504245' action='modify' lat='45.37088201713' lon='-71.85335075202'>
     <tag k='TODO:type' v='cycleway' />
@@ -1837,5 +1831,80 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Bande cyclable bi-directionelle (côté est)' />
+  </node>
+  <node id='-2589787009' action='modify' lat='45.3782129658' lon='-72.05319245463'>
+    <tag k='TODO:type' v='oneway' />
+    <tag k='name' v='Vérifier deux courts segments `oneway=no`' />
+  </node>
+  <node id='-623382007' action='modify' lat='45.38472229111' lon='-71.9695794636'>
+    <tag k='TODO:source' v='Règlement no 1, article 5.1.42' />
+    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:type' v='restriction' />
+    <tag k='name' v='Virages interdits de/vers est (7-10h et 16-19h)' />
+  </node>
+  <node id='-158645207' action='modify' lat='45.4487098948' lon='-71.96480915084'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='restriction' />
+    <tag k='name' v='Virage à gauche (des Écossais → Albatros)' />
+  </node>
+  <node id='-3672073917' action='modify' lat='45.41990785815' lon='-71.87472725765'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêts sur Sideleau seulement' />
+  </node>
+  <node id='-467786556' action='modify' lat='45.37831697602' lon='-71.90032555278'>
+    <tag k='TODO:planned_end' v='2024-09' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt à l&apos;approche nord' />
+  </node>
+  <node id='-4283051984' action='modify' lat='45.36912702924' lon='-71.89781435285'>
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Pas d&apos;arrêt à l&apos;approche nord?' />
+  </node>
+  <node id='-1839714834' action='modify' lat='45.37304175673' lon='-71.90848495554'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-1047098562' action='modify' lat='45.4171519374' lon='-71.91689149625'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt seulement à l&apos;approche est' />
+  </node>
+  <node id='-1274873320' action='modify' lat='45.41772831309' lon='-71.91724226703'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt seulement à l&apos;approche ouest' />
+  </node>
+  <node id='-805909641' action='modify' lat='45.41173204219' lon='-71.93424668195'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Retrait de cet arrêt' />
+  </node>
+  <node id='-1375677361' action='modify' lat='45.40281060252' lon='-71.95640104575'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='name' />
+    <tag k='name' v='La portion sud de cette rue est privée et n&apos;a pas de nom' />
+  </node>
+  <node id='-740202078' action='modify' lat='45.39583589874' lon='-71.95187291382'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Pas d&apos;arrêt à l&apos;approche sud' />
+  </node>
+  <node id='-292819784' action='modify' lat='45.38013126796' lon='-71.9921956098'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt seulement à l&apos;approche nord' />
+  </node>
+  <node id='-1372223253' action='modify' lat='45.47348451974' lon='-71.9499966529'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-2168662770' action='modify' lat='45.3395526121' lon='-72.01821327746'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Aucun arrêt ici' />
   </node>
 </osm>
