@@ -433,7 +433,7 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7027' />
-    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='TODO:ville:travaux' v='2024x' />
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-2553830480' action='modify' lat='45.39177491224' lon='-71.91223383486'>
@@ -455,7 +455,7 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7013' />
-    <tag k='TODO:ville:travaux' v='2024' />
+    <tag k='TODO:ville:travaux' v='2024x' />
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-285701010' action='modify' lat='45.38698095678' lon='-71.92746341497'>
