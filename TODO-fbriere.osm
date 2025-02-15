@@ -29,6 +29,7 @@
   <node id='-2582480594' action='modify' lat='45.46758768479' lon='-71.93745196402'>
     <tag k='TODO:session' v='2017-10-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -947,14 +948,14 @@
   <node id='-521698418' action='modify' lat='45.30799085286' lon='-72.09076166689'>
     <tag k='TODO:session' v='2023-09-05' />
     <tag k='TODO:source' v='Règlement n° 1-168' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-1111019828' action='modify' lat='45.30691559998' lon='-72.09965586796'>
     <tag k='TODO:session' v='2023-09-05' />
     <tag k='TODO:source' v='Règlement n° 1-168' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1008,17 +1009,19 @@
   </node>
   <node id='-978079310' action='modify' lat='45.42282310392' lon='-71.95223094106'>
     <tag k='TODO:check_date' v='2023-12-25' />
+    <tag k='TODO:planned_end' v='2024-06' />
     <tag k='TODO:session' v='2023-10-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-3569509916' action='modify' lat='45.4229586481' lon='-71.95005298734'>
     <tag k='TODO:check_date' v='2023-12-25' />
+    <tag k='TODO:planned_end' v='2024-06' />
     <tag k='TODO:session' v='2023-10-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1551,16 +1554,18 @@
     <tag k='name' v='Ajout d&apos;un abribus' />
   </node>
   <node id='-4180432281' action='modify' lat='45.38754231303' lon='-71.89841777354'>
+    <tag k='TODO:planned_end' v='2024-10' />
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Ajout d&apos;un panneau d&apos;arrêt à l&apos;approche nord' />
   </node>
   <node id='-2563274350' action='modify' lat='45.39134544897' lon='-71.89162373811'>
+    <tag k='TODO:planned_end' v='2024-10' />
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1614,9 +1619,10 @@
     <tag k='name' v='Corridor de marche (côté ouest, entre du Sauvignon et Richard)' />
   </node>
   <node id='-1012983937' action='modify' lat='45.40158759223' lon='-71.90607548296'>
+    <tag k='TODO:planned_end' v='2024-10' />
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1673,7 +1679,7 @@
   <node id='-3998698740' action='modify' lat='45.3757912848' lon='-71.98233336344'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1854,7 +1860,7 @@
   </node>
   <node id='-467786556' action='modify' lat='45.37831697602' lon='-71.90032555278'>
     <tag k='TODO:planned_end' v='2024-09' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt à l&apos;approche nord' />
   </node>
