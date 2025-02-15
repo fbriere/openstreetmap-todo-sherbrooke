@@ -1782,7 +1782,6 @@
   </node>
   <node id='-623382007' action='modify' lat='45.38472229111' lon='-71.9695794636'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.42' />
-    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Virages interdits de/vers est (7-10h et 16-19h)' />
   </node>
