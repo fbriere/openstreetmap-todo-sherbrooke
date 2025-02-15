@@ -69,7 +69,7 @@
     <tag k='TODO:planned_end' v='2025-12-31' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/golconda.pdf' />
     <tag k='TODO:start_date' v='2022-11-16' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5445' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -79,24 +79,19 @@
     <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
     <tag k='TODO:start_date' v='2022-08-25' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='new' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='4091' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Réaménagement de King Est, entre Raby et des Rocheuses' />
   </node>
   <node id='-2027438417' action='modify' lat='45.39983235887' lon='-71.88772649109'>
-    <tag k='TODO:check_date' v='2024-10-22' />
-    <tag k='TODO:comments' v='Confirmer l&apos;emplacement des feux de circulation et la nature du lien cyclable' />
-    <tag k='TODO:planned_end' v='2024-12-20' />
-    <tag k='TODO:session' v='2021-04-06' />
-    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
-    <tag k='TODO:start_date' v='2024-06-28' />
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/689/deux-nouveaux-troncons-de-rue-ouverts-a-sherbrooke' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='new' />
+    <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='1437;5800' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction de la rue Jean-Baptiste-Nolain' />
+    <tag k='name' v='Confirmer la nature/position du lien cyclable' />
   </node>
   <node id='-2328886171' action='modify' lat='45.36877153307' lon='-71.8597000891'>
     <tag k='TODO:check_date' v='2023-06-20' />
@@ -195,7 +190,7 @@
     <tag k='TODO:planned_end' v='2025-05-23' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Gisèle_II.pdf' />
     <tag k='TODO:start_date' v='2023-02-06' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5669' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -863,7 +858,7 @@
     <tag k='TODO:planned_end' v='2025-12-31' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mille-Abeilles_Oiseaux-de-Neige.pdf' />
     <tag k='TODO:start_date' v='2023-07-07' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='6203' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -1363,7 +1358,7 @@
     <tag k='TODO:planned_end' v='2025-10-24' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Maude-Abbott.pdf' />
     <tag k='TODO:start_date' v='2024-06-14' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='7337' />
     <tag k='TODO:ville:travaux' v='2024' />
