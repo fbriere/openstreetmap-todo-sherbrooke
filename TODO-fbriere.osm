@@ -201,16 +201,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Prolongement des rues Gisèle-Trudeau et Jospeh-Émond' />
   </node>
-  <node id='-1878766711' action='modify' lat='45.38634612961' lon='-71.89615130961'>
-    <tag k='TODO:planned_end' v='2023-07-07' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/dunantweb.pdf' />
-    <tag k='TODO:start_date' v='2023-05-29' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='geometry' />
-    <tag k='TODO:ville:projet' v='4097' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Modifications géométriques de l&apos;intersection Dunant/Belvédère Sud' />
-  </node>
   <node id='-3439725826' action='modify' lat='45.3977788438' lon='-71.91392556611'>
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
