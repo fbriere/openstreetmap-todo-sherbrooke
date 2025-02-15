@@ -290,26 +290,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Conversion en chaussée désignée' />
   </node>
-  <node id='-1293154692' action='modify' lat='45.47473716543' lon='-71.94008052617'>
-    <tag k='TODO:planned_end' v='2023-06-23' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
-    <tag k='TODO:start_date' v='2022-08-08' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='4084' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Retrait du trottoir du côté nord' />
-  </node>
-  <node id='-2976137807' action='modify' lat='45.47451522723' lon='-71.94052309066'>
-    <tag k='TODO:planned_end' v='2023-06-23' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
-    <tag k='TODO:start_date' v='2022-08-08' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='4084' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Retrait du trottoir du côté ouest' />
-  </node>
   <node id='-3465891599' action='modify' lat='45.42432913964' lon='-72.03254701853'>
     <tag k='TODO:planned_end' v='2023-09-01' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -813,11 +793,11 @@
     <tag k='TODO:planned_end' v='2023-06-14' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/SaintJeanBaptisteweb.pdf' />
     <tag k='TODO:start_date' v='2023-06-14' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6101' />
     <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ajout d&apos;un trottoir (séparé) entre Sainte-Praxède et Beaudoin' />
+    <tag k='name' v='Ajout d&apos;un trottoir (côté sud, séparé) entre Sainte-Praxède et Beaudoin' />
   </node>
   <node id='-3172960804' action='modify' lat='45.47185591418' lon='-71.94423477144'>
     <tag k='TODO:planned_end' v='2023-06-14' />
@@ -832,9 +812,9 @@
   <node id='-3788175689' action='modify' lat='45.38413454109' lon='-71.8827878382'>
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='sidewalk' />
-    <tag k='name' v='Corridor piétonnier' />
+    <tag k='name' v='Corridor piétonnier (de Évangéline à de l&apos;Acadie)' />
   </node>
   <node id='-1492731746' action='modify' lat='45.31078651054' lon='-72.02261010002'>
     <tag k='TODO:planned_end' v='2024-06-28' />
@@ -1070,7 +1050,7 @@
     <tag k='TODO:planned_end' v='2024-05-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-04-09' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6962' />
     <tag k='TODO:ville:travaux' v='2024' />
