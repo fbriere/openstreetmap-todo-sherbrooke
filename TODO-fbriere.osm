@@ -46,11 +46,6 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Barrage Joseph-Choquette' />
   </node>
-  <node id='-1197900960' action='modify' lat='45.38266135436' lon='-71.94370152712'>
-    <tag k='TODO:source' v='Maxar' />
-    <tag k='TODO:type' v='footway' />
-    <tag k='name' v='Retrait de ce passage?' />
-  </node>
   <node id='-2924471043' action='modify' lat='45.38931676491' lon='-71.92629665405'>
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Confirmer tous les tags sur cette entrée' />
@@ -294,7 +289,7 @@
     <tag k='TODO:planned_end' v='2023-06-23' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4084' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -304,7 +299,7 @@
     <tag k='TODO:planned_end' v='2023-06-23' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
     <tag k='TODO:start_date' v='2022-08-08' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='4084' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -319,16 +314,6 @@
     <tag k='TODO:ville:projet' v='4084' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Retrait du trottoir du côté nord' />
-  </node>
-  <node id='-815141684' action='modify' lat='45.47515658862' lon='-71.94244623452'>
-    <tag k='TODO:planned_end' v='2023-06-23' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
-    <tag k='TODO:start_date' v='2022-08-08' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='4084' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Piste bidirectionnelle surélevée et séparée de la zone de stationnement' />
   </node>
   <node id='-2976137807' action='modify' lat='45.47451522723' lon='-71.94052309066'>
     <tag k='TODO:planned_end' v='2023-06-23' />
@@ -682,18 +667,6 @@
     <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Aménagement d&apos;une aire de jeux 5-12 ans au parc Lucien-Blanchard' />
   </node>
-  <node id='-1098928998' action='modify' lat='45.47818838565' lon='-71.97187543988'>
-    <tag k='TODO:comments' v='(Aucune idée de ce que ça implique...)' />
-    <tag k='TODO:planned_end' v='2022-10-22' />
-    <tag k='TODO:session' v='2020-08-24;2021-12-06' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2022-10-11' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='5297' />
-    <tag k='TODO:ville:travaux' v='2022' />
-    <tag k='name' v='Mise aux normes de la piste cyclable de la Route Verte' />
-  </node>
   <node id='-3747832581' action='modify' lat='45.36213442491' lon='-71.8132066834'>
     <tag k='TODO:planned_end' v='2023-09-15' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -751,12 +724,6 @@
     <tag k='TODO:status' v='dubious' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Chaussée partagée jusqu&apos;à Galt/Bowen' />
-  </node>
-  <node id='-2532042535' action='modify' lat='45.45899807625' lon='-71.91746145755'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Vérifier: cycleway=track (côté est) entre Beausecours et du Perche' />
   </node>
   <node id='-1556218606' action='modify' lat='45.38203965294' lon='-71.94620132983'>
     <tag k='TODO:comments' v='Seront installées au pavillon 1' />
@@ -828,15 +795,15 @@
     <tag k='TODO:type' v='bicycle' />
     <tag k='name' v='Station de réparation de vélo' />
   </node>
-  <node id='-2818302113' action='modify' lat='45.39686886356' lon='-71.8972577168'>
+  <node id='-3982399582' action='modify' lat='45.39688911038' lon='-71.89720943704'>
     <tag k='TODO:planned_end' v='2023-05-25' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-05-24' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='footway' />
+    <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='6061' />
     <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Agrandissement de l&apos;entrée piétonnière au marché de la gare' />
+    <tag k='name' v='Retait de deux places de stationnement' />
   </node>
   <node id='-2730405831' action='modify' lat='45.39536870928' lon='-71.90639736414'>
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/951/cohabitation-harmonieuse-autour-du-lac-des-nations' />
