@@ -467,7 +467,7 @@
     <tag k='TODO:planned_end' v='2023-10-06' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-06-15' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5914' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -483,36 +483,15 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Reconstruction du terrain de soccer au parc Quintal' />
   </node>
-  <node id='-3372570451' action='modify' lat='45.40658490942' lon='-71.83361012766'>
-    <tag k='TODO:planned_end' v='2023-10-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-06-01' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='5913' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Parc Gilles-Charland - Reconstruction complète de la patinoire' />
-  </node>
   <node id='-563591000' action='modify' lat='45.3939947211' lon='-71.86841955736'>
     <tag k='TODO:planned_end' v='± 1 semaine' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='Juin 2023' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4680' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Aménagement de jardins communautaires au parc Bureau' />
-  </node>
-  <node id='-919357655' action='modify' lat='45.40161772655' lon='-71.87905166452'>
-    <tag k='TODO:planned_end' v='2023-07-03' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2022-05-11' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='4676' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Réfection des terrains de tennis au parc Antonio-Montour' />
-    <tag k='objectid' v='525393' />
   </node>
   <node id='-787024588' action='modify' lat='45.37346398137' lon='-71.89133640546'>
     <tag k='TODO:planned_end' v='2025-05-20' />
@@ -524,41 +503,21 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Parc Belvédère - Reconstruction du terrain de soccer' />
   </node>
-  <node id='-3039712167' action='modify' lat='45.38712526909' lon='-71.90530579054'>
-    <tag k='TODO:planned_end' v='2023-10-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-08-21' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='5932' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Parc Andrew-Sangster - Remplacement des deux jeux rotatifs' />
-  </node>
   <node id='-3496185455' action='modify' lat='45.39480961381' lon='-71.89380535428'>
     <tag k='TODO:planned_end' v='2024-06-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-07-24' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5929' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Parc Alfred-Élie-Dufresne - Aménagement d&apos;une espace famille' />
   </node>
-  <node id='-1243916953' action='modify' lat='45.38300938538' lon='-71.95665761431'>
-    <tag k='TODO:planned_end' v='2023-09-15' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-08-28' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='5931' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Parc du Barrage - Amélioration de la surface et de l&apos;accès à l&apos;enclos canin' />
-  </node>
   <node id='-3029554051' action='modify' lat='45.43038346283' lon='-71.89297068268'>
     <tag k='TODO:planned_end' v='2024-07-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-10-31' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4683' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -568,7 +527,7 @@
     <tag k='TODO:planned_end' v='2023-06-16' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-08-08' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4679' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -578,7 +537,7 @@
     <tag k='TODO:planned_end' v='2023-06-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-09-15' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4681' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -622,7 +581,7 @@
     <tag k='TODO:planned_end' v='2022-08-12' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2022-07-26' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4678' />
     <tag k='TODO:ville:travaux' v='2022' />
@@ -710,7 +669,7 @@
   <node id='-1711344678' action='modify' lat='45.37434520466' lon='-71.89136625409'>
     <tag k='TODO:comments' v='600: Bureau d&apos;arrondissement // 494: Les jeunes du coin d&apos;Ascot inc.' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:type' v='park' />
+    <tag k='TODO:type' v='misc' />
     <tag k='name' v='Confirmer adresse du parc (500 et non 600) et des autres bâtiments (472, 492 et 494)' />
   </node>
   <node id='-899809720' action='modify' lat='45.45016631603' lon='-71.94121242642'>
@@ -857,8 +816,8 @@
   </node>
   <node id='-2649459616' action='modify' lat='45.41472416759' lon='-71.88853896551'>
     <tag k='TODO:planned_end' v='2024-07-18' />
-    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/370/une-nouvelle-piscine-au-parc-victoria' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:source' v='https://ici.radio-canada.ca/nouvelle/2098870/installation-aquatique-piscine-bassin-jeux-parc-victoria' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Nouvelle géométrie de la piscine À-la-Claire-Fontaine' />
   </node>
@@ -1243,16 +1202,6 @@
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Reconstruction de la station-service' />
-  </node>
-  <node id='-4064940010' action='modify' lat='45.37438232183' lon='-71.89185073289'>
-    <tag k='TODO:planned_end' v='2024-11-29' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-05-13' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='7156' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Parc Belvédère - Réfection des balançoires' />
   </node>
   <node id='-649438434' action='modify' lat='45.39879849467' lon='-71.91715933272'>
     <tag k='TODO:comments' v='« Une entreprise sœur aura également une présence dans le bâtiment et proposera des produits méditerranéens. »' />
