@@ -753,13 +753,6 @@
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Confirmer nom/vocation de cet immeuble' />
   </node>
-  <node id='-3729299640' action='modify' lat='45.41000140665' lon='-71.87530786067'>
-    <tag k='TODO:check_date' v='2023-08-06' />
-    <tag k='TODO:session' v='2021-07-05' />
-    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/734/l-eglise-sainte-famille-pour-des-logements-sociaux' />
-    <tag k='TODO:type' v='misc' />
-    <tag k='name' v='Conversion de l&apos;église en logements sociaux' />
-  </node>
   <node id='-1439643605' action='modify' lat='45.3875517336' lon='-71.94701135695'>
     <tag k='TODO:comments' v='L&apos;église et sa vocation seront conservées; aucune information quant au nom' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/10/29/leglise-marie-mediatrice-officiellement-vendue-MKRHDIJY6VCWVMBYQWTQKOTJFA/' />
@@ -790,7 +783,7 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-05-24' />
     <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='6061' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Retait de deux places de stationnement' />
@@ -1063,7 +1056,7 @@
   <node id='-490974806' action='modify' lat='45.40337857863' lon='-71.8917986298'>
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/art-culture-et-patrimoine/collection-d-uvres-d-art/18/la-ville-de-sherbrooke-et-ses-habitants' />
     <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='name' />
     <tag k='name' v='Corriger le nom des murales' />
   </node>
   <node id='-4036702421' action='modify' lat='45.41510407509' lon='-71.94901228487'>
@@ -1304,7 +1297,7 @@
     <tag k='TODO:comments' v='« Une entreprise sœur aura également une présence dans le bâtiment et proposera des produits méditerranéens. »' />
     <tag k='TODO:planned_end' v='Juin 2024' />
     <tag k='TODO:source' v='https://www.latribune.ca/affaires/affaires-locales/2024/05/12/une-expansion-des-vraies-richesses-a-sherbrooke-56I4VUVGC5GCVL4QWPS7T4EDUA/' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ouverture d&apos;un point de vente de la boulangerie les Vraies Richesses' />
   </node>
@@ -1317,7 +1310,7 @@
   </node>
   <node id='-1496118351' action='modify' lat='45.40119555815' lon='-71.95880680298'>
     <tag k='TODO:source' v='https://www.latribune.ca/affaires/2024/05/24/reno-depot-devient-rona-YNUUZJINXNCT7MGO6DDO3TNOIQ/' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Conversion en RONA+' />
   </node>
@@ -1465,7 +1458,7 @@
     <tag k='name' v='Fermeture du terre-plein du boulevard de Portland, à l&apos;intersection de la rue Wilson' />
   </node>
   <node id='-3159447183' action='modify' lat='45.41204441151' lon='-71.87119603425'>
-    <tag k='TODO:comments' v='Arrêt 25' />
+    <tag k='TODO:comments' v='Arrêt 246' />
     <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ajout d&apos;un abribus' />
@@ -1479,12 +1472,14 @@
   <node id='-3729571615' action='modify' lat='45.36650648473' lon='-71.89526081622'>
     <tag k='TODO:comments' v='Arrêts 1780 et 1781' />
     <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ajout d&apos;un abribus' />
   </node>
   <node id='-1543479246' action='modify' lat='45.36625773845' lon='-71.89501405299'>
     <tag k='TODO:comments' v='Arrêts 1780 et 1781' />
     <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ajout d&apos;un abribus' />
   </node>
@@ -1497,6 +1492,7 @@
   <node id='-2313895085' action='modify' lat='45.34860573519' lon='-71.99132211573'>
     <tag k='TODO:comments' v='Arrêt 1669' />
     <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ajout d&apos;un abribus' />
   </node>
@@ -1859,5 +1855,10 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Aucun arrêt ici' />
+  </node>
+  <node id='-1243895406' action='modify' lat='45.40165538796' lon='-71.8964999941'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='footway' />
+    <tag k='name' v='Retirer ce passage' />
   </node>
 </osm>
