@@ -812,13 +812,13 @@
   </node>
   <node id='-3079927367' action='modify' lat='45.39422683311' lon='-71.92780540466'>
     <tag k='TODO:source' v='https://www.latribune.ca/2020/06/25/cinq-nouvelles-stations-de-reparation-de-velos-04e78604b3ce18cff174392a44387ab3/' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='bicycle' />
     <tag k='name' v='Station de réparation de vélo' />
   </node>
   <node id='-1952448265' action='modify' lat='45.38441899077' lon='-71.90871343151'>
     <tag k='TODO:source' v='https://www.latribune.ca/2020/06/25/cinq-nouvelles-stations-de-reparation-de-velos-04e78604b3ce18cff174392a44387ab3/' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='bicycle' />
     <tag k='name' v='Station de réparation de vélo' />
   </node>
