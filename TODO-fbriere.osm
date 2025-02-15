@@ -171,7 +171,7 @@
   <node id='-3460223818' action='modify' lat='45.38500863261' lon='-71.88327670634'>
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Règlement n° 1-168' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Passage pour piétons' />
   </node>
@@ -222,7 +222,7 @@
     <tag k='TODO:planned_end' v='2023-11-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-21' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='5803' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -328,6 +328,7 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-2927337086' action='modify' lat='45.40064029843' lon='-71.94224506885'>
+    <tag k='TODO:comments' v='Déplacement au sud de l&apos;intersection et ajout de traverse vélo' />
     <tag k='TODO:planned_end' v='2024-08-30' />
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
@@ -339,6 +340,7 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-1051055297' action='modify' lat='45.39915812385' lon='-71.94119096339'>
+    <tag k='TODO:comments' v='Déplacement au sud de l&apos;intersection et ajout de traverse vélo' />
     <tag k='TODO:planned_end' v='2024-09-06' />
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
@@ -366,7 +368,7 @@
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2024-06-27' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7009' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -446,12 +448,10 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
-  <node id='-2791098888' action='modify' lat='45.3869753074' lon='-71.92663997948'>
-    <tag k='TODO:check_date' v='2023-06-03' />
-    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='crossing' />
-    <tag k='name' v='Conversion des deux passages piétons/cyclistes en passages pour piétons' />
+  <node id='-1049501961' action='modify' lat='45.38700733123' lon='-71.92742452562'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='bicycle' />
+    <tag k='name' v='Ajout de `bicycle=dismount`' />
   </node>
   <node id='-3555535340' action='modify' lat='45.41065668262' lon='-71.87483042747'>
     <tag k='TODO:planned_end' v='2024-09-25' />
@@ -754,16 +754,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ajout d&apos;un trottoir (côté sud, séparé) entre Sainte-Praxède et Beaudoin' />
   </node>
-  <node id='-3172960804' action='modify' lat='45.47185591418' lon='-71.94423477144'>
-    <tag k='TODO:planned_end' v='2023-06-14' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/SaintJeanBaptisteweb.pdf' />
-    <tag k='TODO:start_date' v='2023-06-14' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='crossing' />
-    <tag k='TODO:ville:projet' v='6101' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ajout d&apos;un passage piétonnier' />
-  </node>
   <node id='-3788175689' action='modify' lat='45.38413454109' lon='-71.8827878382'>
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -909,7 +899,7 @@
     <tag k='TODO:planned_end' v='2023-11-03' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2023-10-24' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='6517' />
     <tag k='TODO:ville:travaux' v='2023' />
@@ -922,13 +912,6 @@
     <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-240757346' action='modify' lat='45.36637457208' lon='-71.89514547855'>
-    <tag k='TODO:session' v='2023-10-17' />
-    <tag k='TODO:source' v='Règlement n° 1-168' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='crossing' />
-    <tag k='name' v='Feux pour piétons' />
   </node>
   <node id='-2919624243' action='modify' lat='45.40906972418' lon='-71.88813025705'>
     <tag k='TODO:session' v='2023-12-05' />
