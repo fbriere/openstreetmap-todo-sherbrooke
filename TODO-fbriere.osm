@@ -212,7 +212,7 @@
     <tag k='TODO:check_date' v='2023-11-17' />
     <tag k='TODO:session' v='2023-04-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
@@ -727,7 +727,7 @@
     <tag k='TODO:check_date' v='2023-11-17' />
     <tag k='TODO:session' v='2023-04-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
@@ -1346,7 +1346,7 @@
     <tag k='TODO:planned_end' v='2024-06-19' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-19' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7302' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1380,7 +1380,7 @@
     <tag k='TODO:planned_end' v='2024-06-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-17' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='7351' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1540,21 +1540,21 @@
   <node id='-4152009928' action='modify' lat='45.38362965702' lon='-71.94497823983'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-2693131250' action='modify' lat='45.38359951515' lon='-71.94714278251'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-3161256080' action='modify' lat='45.38325665016' lon='-71.94770872861'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
@@ -1576,21 +1576,21 @@
   <node id='-726159109' action='modify' lat='45.39361703662' lon='-71.99434966117'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-241643531' action='modify' lat='45.39288151087' lon='-71.99434831873'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-2572321130' action='modify' lat='45.39147070794' lon='-71.99434429541'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
