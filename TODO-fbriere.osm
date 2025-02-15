@@ -100,10 +100,6 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Halte Muriel-Brand / Muriel-Brand Place' />
   </node>
-  <node id='-1911448508' action='modify' lat='45.35496502457' lon='-71.86481239557'>
-    <tag k='TODO:type' v='surface' />
-    <tag k='name' v='Pavage de Haskell Hill?' />
-  </node>
   <node id='-1036235717' action='modify' lat='45.47413756494' lon='-71.94583489623'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
@@ -616,11 +612,11 @@
     <tag k='TODO:planned_end' v='2023-11-24' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/RobertPeel2023.pdf' />
     <tag k='TODO:start_date' v='2023-08-03' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='5801' />
     <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Urbanisation et pavage des rues Robert-Peel, Lloyd et Spring Garden' />
+    <tag k='name' v='Pavage des rues Robert-Peel, Lloyd et Spring Garden' />
   </node>
   <node id='-2802888291' action='modify' lat='45.39465155679' lon='-71.92754119702'>
     <tag k='TODO:planned_end' v='2022-08-12' />
@@ -1069,16 +1065,6 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Corridor de marche (côté nord, entre Walsh et du Delaware)' />
-  </node>
-  <node id='-3429567619' action='modify' lat='45.40387796316' lon='-71.98414526989'>
-    <tag k='TODO:planned_end' v='2024-06-21' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-05-21' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='surface' />
-    <tag k='TODO:ville:projet' v='6950' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Asphaltage des rues Joseph-Louis-Mathieu et Antonio-Cameron ainsi que d&apos;une partie de la rue Robert-Boyd' />
   </node>
   <node id='-1667761139' action='modify' lat='45.40496109715' lon='-71.9636372012'>
     <tag k='TODO:planned_end' v='2024-08-27' />
