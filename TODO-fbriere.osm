@@ -1743,4 +1743,34 @@
     <tag k='TODO:type' v='footway' />
     <tag k='name' v='Retirer ce passage' />
   </node>
+  <node id='-906956560' action='modify' lat='45.40424199375' lon='-71.9025523974'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Traverse pour piétons' />
+  </node>
+  <node id='-2235830270' action='modify' lat='45.39911951235' lon='-71.93487838045'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-2090623923' action='modify' lat='45.39972688965' lon='-71.93489045039'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-2182896044' action='modify' lat='45.37302437607' lon='-71.97317898542'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-1505013483' action='modify' lat='45.37302437607' lon='-71.97226166993'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-185073143' action='modify' lat='45.37302908567' lon='-71.97463408247'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
 </osm>
