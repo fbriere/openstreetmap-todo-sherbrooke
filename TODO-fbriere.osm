@@ -1773,4 +1773,9 @@
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
+  <node id='-1961306946' action='modify' lat='45.50685820084' lon='-71.989513641'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='surface' />
+    <tag k='name' v='Fin du pavage' />
+  </node>
 </osm>
