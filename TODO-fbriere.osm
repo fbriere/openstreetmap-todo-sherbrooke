@@ -1778,4 +1778,24 @@
     <tag k='TODO:type' v='surface' />
     <tag k='name' v='Fin du pavage' />
   </node>
+  <node id='-1030665673' action='modify' lat='45.34409982285' lon='-72.03975204513'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-2109162155' action='modify' lat='45.43109553928' lon='-71.86002151252'>
+    <tag k='TODO:session' v='2025-01-21' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='oneway' />
+    <tag k='name' v='Ajout d&apos;un sens unique' />
+  </node>
+  <node id='-1075235641' action='modify' lat='45.3989387313' lon='-71.88861178068'>
+    <tag k='TODO:planned_end' v='2026-12-31' />
+    <tag k='TODO:session' v='2024-11-25 (comité de démolition)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Démolition du 154 Wellington Sud' />
+  </node>
 </osm>
