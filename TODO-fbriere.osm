@@ -1820,4 +1820,12 @@
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 4 rue Speid' />
   </node>
+  <node id='-2785185736' action='modify' lat='45.37981041635' lon='-71.9986368316'>
+    <tag k='TODO:resolution' v='C.E. 2024-4440-00' />
+    <tag k='TODO:session' v='2024-09-04/CE' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='name' />
+    <tag k='name' v='Parc Marie-Dupuy-Sagala' />
+  </node>
 </osm>
