@@ -1901,4 +1901,12 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Place Simone-Bouthillette' />
   </node>
+  <node id='-4015558560' action='modify' lat='45.39589309928' lon='-72.0360727435'>
+    <tag k='TODO:resolution' v='C.D. 2024-0115-00' />
+    <tag k='TODO:session' v='2024-09-23 (comité de démolition)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='demolition' />
+    <tag k='name' v='Démolition du 7120 ch. de Saint-Élie' />
+  </node>
 </osm>
