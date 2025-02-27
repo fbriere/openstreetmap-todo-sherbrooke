@@ -69,6 +69,15 @@ node["TODO:type"="hump"]
     text: concat(" ◠ ", tag("name"));
 }
 
+node["TODO:type"="maxspeed"]
+{
+    symbol-shape: square;
+    symbol-size: 8;
+    text: concat("[Mx] ", tag("name"));
+    text-color: white;
+    symbol-fill-color: white;
+}
+
 node["TODO:type"="misc"]
 {
 }

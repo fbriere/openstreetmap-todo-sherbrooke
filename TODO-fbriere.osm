@@ -1770,10 +1770,65 @@
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
+  <node id='-2863282055' action='modify' lat='45.38341115631' lon='-72.00332169056'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='maxspeed' />
+    <tag k='name' v='Corriger: 60 (Henri-Labonne ↔ Rodolphe-Racine)' />
+  </node>
   <node id='-1961306946' action='modify' lat='45.50685820084' lon='-71.989513641'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='surface' />
     <tag k='name' v='Fin du pavage' />
+  </node>
+  <node id='-722602647' action='modify' lat='45.35156469638' lon='-72.04246045232'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='maxspeed' />
+    <tag k='name' v='Retirer maxspeed=45' />
+  </node>
+  <node id='-924451099' action='modify' lat='45.34813403326' lon='-71.93821911335'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='maxspeed' />
+    <tag k='name' v='Corriger: 70 [→ limite]' />
+  </node>
+  <node id='-2707379854' action='modify' lat='45.36387577541' lon='-71.92585949421'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='maxspeed' />
+    <tag k='name' v='Corriger: 70' />
+  </node>
+  <node id='-3398820497' action='modify' lat='45.37061442027' lon='-71.93324091196'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='maxspeed' />
+    <tag k='name' v='Corriger: 50' />
+  </node>
+  <node id='-3043349609' action='modify' lat='45.34656563544' lon='-71.95944072962'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='maxspeed' />
+    <tag k='name' v='Déplacer ligne 80/90 ici' />
+  </node>
+  <node id='-1085354781' action='modify' lat='45.34938567707' lon='-71.98240043879'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='maxspeed' />
+    <tag k='name' v='Corriger: Aucune limite affichée ici' />
+  </node>
+  <node id='-3437550906' action='modify' lat='45.39468687569' lon='-72.01896429598'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='maxspeed' />
+    <tag k='name' v='Corriger: Déplacer limite 50/70 ici' />
+  </node>
+  <node id='-1898826200' action='modify' lat='45.39451737189' lon='-72.03201057673'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='maxspeed' />
+    <tag k='name' v='Corriger: Déplacer limite 50/70 ici' />
+  </node>
+  <node id='-3164544553' action='modify' lat='45.39276945315' lon='-71.95472004175'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='maxspeed' />
+    <tag k='name' v='Corriger: Déplacer limite 50/70 ici' />
+  </node>
+  <node id='-3630037103' action='modify' lat='45.37475218525' lon='-71.9470381844'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='maxspeed' />
+    <tag k='name' v='Corriger: Limites dans cette bretelle' />
   </node>
   <node id='-1030665673' action='modify' lat='45.34409982285' lon='-72.03975204513'>
     <tag k='TODO:status' v='certain' />

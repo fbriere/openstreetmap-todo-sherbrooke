@@ -23,6 +23,7 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
   - `footway`: Passage piétonnier \[vert]
   - `geometry`: Géométrie à ajuster \[orange]
   - `hump`: Dos d'âne \[`◠`]
+  - `maxspeed`: Limite de vitesse \[`◼`, blanc]
   - `misc`: Autres
   - `name`: Concerne le nom de quelque chose \[`N:`]
   - `new`: Nouvelle rue \[aqua]

@@ -10,6 +10,7 @@
 	        &quot;TODO:type&quot; = geometry       '🟗'  |
 	        &quot;TODO:type&quot; = hump           '◠ ' |
 	        &quot;TODO:type&quot; = misc           '　' |
+	        &quot;TODO:type&quot; = maxspeed       '🚄' |
 	        &quot;TODO:type&quot; = name           '📛' |
 	        &quot;TODO:type&quot; = new            '🆕' |
 	        &quot;TODO:type&quot; = oneway         '⮕ ' |
