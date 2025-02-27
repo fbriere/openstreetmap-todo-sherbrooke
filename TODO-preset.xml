@@ -33,7 +33,8 @@
         <text key="TODO:check_date" text="Check Date" />
         <space />
         <text key="TODO:source" text="Source" />
-        <text key="TODO:session" text="City Council Meeting" />
+        <text key="TODO:session" text="City Council Meeting Date" />
+        <text key="TODO:resolution" text="City Council Resolution" />
         <space />
         <text key="TODO:comments" text="Comments" />
         <space />

@@ -54,7 +54,9 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
 
 - `TODO:source`: Source
 
-- `TODO:session`: Date d'une séance du conseil municipal agissant comme source
+- `TODO:session`: Date d'une séance d'un conseil ou comité de la Ville agissant comme source
+
+- `TODO:resolution`: Résolution d'un conseil ou comité de la Ville agissant comme source
 
 ### Autres
 

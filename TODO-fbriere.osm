@@ -1789,6 +1789,7 @@
   </node>
   <node id='-1075235641' action='modify' lat='45.3989387313' lon='-71.88861178068'>
     <tag k='TODO:planned_end' v='2026-12-31' />
+    <tag k='TODO:resolution' v='C.D. 2024-0117-00' />
     <tag k='TODO:session' v='2024-11-25 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1804,6 +1805,7 @@
     <tag k='name' v='Rue Priscilla-Lareau' />
   </node>
   <node id='-3136141220' action='modify' lat='45.367889642' lon='-71.85369596019'>
+    <tag k='TODO:resolution' v='C.D. 2024-0108-00' />
     <tag k='TODO:session' v='2024-05-27 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1811,6 +1813,7 @@
     <tag k='name' v='Démolition du 10 rue Connolly' />
   </node>
   <node id='-3618619377' action='modify' lat='45.36860037204' lon='-71.85726186888'>
+    <tag k='TODO:resolution' v='C.D. 2024-0111-00' />
     <tag k='TODO:session' v='2024-07-04 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
