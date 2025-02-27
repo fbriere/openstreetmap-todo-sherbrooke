@@ -47,6 +47,11 @@ node["TODO:type"="cycleway"]
     symbol-fill-color: magenta;
 }
 
+node["TODO:type"="demolition"]
+{
+    text: concat(" 🕇 ", tag("name"));
+}
+
 node["TODO:type"="footway"]
 {
     text-color: lime;

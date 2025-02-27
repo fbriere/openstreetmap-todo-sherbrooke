@@ -19,6 +19,7 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
   - `bicycle`: Infrascructure pour vélos autre que piste cyclable \[`◼`, magenta]
   - `crossing`: Traverse pour piétons \[`///`, vert]
   - `cycleway`: Piste cyclable \[magenta]
+  - `demolition`: Démolition d'un immeuble \[`🕇`]
   - `footway`: Passage piétonnier \[vert]
   - `geometry`: Géométrie à ajuster \[orange]
   - `hump`: Dos d'âne \[`◠`]

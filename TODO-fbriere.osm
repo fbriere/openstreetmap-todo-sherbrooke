@@ -1188,7 +1188,7 @@
     <tag k='TODO:planned_end' v='Été 2024' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/05/14/deux-immeubles-seront-demolis-au-centre-ville-IIEBH3UIQZFI7I4YBRO5Q7DA4E/' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition de deux immeubles' />
   </node>
   <node id='-1496118351' action='modify' lat='45.40119555815' lon='-71.95880680298'>
@@ -1232,7 +1232,7 @@
     <tag k='TODO:check_date' v='2024-10-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/06/04/une-maison-incendiee-de-la-rue-wellington-sera-demolie-4BBA4QJH4ZECZMKVPAGQPZ2B3E/' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 835 Wellington Sud' />
   </node>
   <node id='-2150923569' action='modify' lat='45.42202593468' lon='-71.84265885197'>
@@ -1795,7 +1795,7 @@
     <tag k='TODO:session' v='2024-11-25 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 154 Wellington Sud' />
   </node>
   <node id='-594102649' action='modify' lat='45.38830899422' lon='-71.9057107079'>
@@ -1810,7 +1810,7 @@
     <tag k='TODO:session' v='2024-05-27 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 10 rue Connolly' />
   </node>
 </osm>

@@ -5,6 +5,7 @@
 	        &quot;TODO:type&quot; = bicycle        '🚲' |
 	        &quot;TODO:type&quot; = crossing       '🚸' |
 	        &quot;TODO:type&quot; = cycleway       '🚲' |
+	        &quot;TODO:type&quot; = demolition     '💣' |
 	        &quot;TODO:type&quot; = footway        '🚶' |
 	        &quot;TODO:type&quot; = geometry       '🟗'  |
 	        &quot;TODO:type&quot; = hump           '◠ ' |
