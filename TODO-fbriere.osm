@@ -1798,4 +1798,19 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Démolition du 154 Wellington Sud' />
   </node>
+  <node id='-594102649' action='modify' lat='45.38830899422' lon='-71.9057107079'>
+    <tag k='TODO:comments' v='Le toponyme remplace Kitchener pour la portion au sud de Galt Ouest' />
+    <tag k='TODO:session' v='2024-05-01 (CE)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='name' />
+    <tag k='name' v='Rue Priscilla-Lareau' />
+  </node>
+  <node id='-3136141220' action='modify' lat='45.367889642' lon='-71.85369596019'>
+    <tag k='TODO:session' v='2024-05-27 (comité de démolition)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Démolition du 10 rue Connolly' />
+  </node>
 </osm>
