@@ -1810,4 +1810,11 @@
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 10 rue Connolly' />
   </node>
+  <node id='-3618619377' action='modify' lat='45.36860037204' lon='-71.85726186888'>
+    <tag k='TODO:session' v='2024-07-04 (comité de démolition)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='demolition' />
+    <tag k='name' v='Démolition du 4 rue Speid' />
+  </node>
 </osm>
