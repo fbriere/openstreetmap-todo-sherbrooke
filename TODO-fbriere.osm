@@ -1329,16 +1329,13 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Construction de dos d&apos;âne Rue Buck' />
   </node>
-  <node id='-1805983239' action='modify' lat='45.40386073527' lon='-71.93912120305'>
-    <tag k='TODO:comments' v='Un feu de circulation sera ajouté en 2025' />
-    <tag k='TODO:planned_end' v='2024-10-11' />
+  <node id='-2997165241' action='modify' lat='45.40386250794' lon='-71.93943427681'>
+    <tag k='TODO:planned_end' v='2025' />
+    <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-09-18' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='misc' />
-    <tag k='TODO:ville:projet' v='7663' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Fermeture du terre-plein du boulevard de Portland, à l&apos;intersection de la rue Wilson' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='traffic_signal' />
+    <tag k='name' v='Ajout d&apos;un feu de circulation standard à la traverse piéton' />
   </node>
   <node id='-3159447183' action='modify' lat='45.41204441151' lon='-71.87119603425'>
     <tag k='TODO:comments' v='Arrêt 246' />
