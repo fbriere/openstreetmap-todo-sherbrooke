@@ -1828,4 +1828,22 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Parc Marie-Dupuy-Sagala' />
   </node>
+  <node id='-3451879864' action='modify' lat='45.38963537341' lon='-71.91018290058'>
+    <tag k='TODO:comments' v='Le toponyme remplace McManamy pour la portion à l&apos;ouest de Galt Ouest' />
+    <tag k='TODO:resolution' v='C.E. 2024-4457-00' />
+    <tag k='TODO:session' v='2024-09-11 (CE)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='name' />
+    <tag k='name' v='Rue Marjolaine-Hébert' />
+  </node>
+  <node id='-472417202' action='modify' lat='45.38715558485' lon='-71.94701947731'>
+    <tag k='TODO:comments' v='Le toponyme remplace Galt Ouest pour la portion en anse' />
+    <tag k='TODO:resolution' v='C.E. 2024-4458-00' />
+    <tag k='TODO:session' v='2024-09-11 (CE)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='name' />
+    <tag k='name' v='Place Simone-Bouthillette' />
+  </node>
 </osm>
