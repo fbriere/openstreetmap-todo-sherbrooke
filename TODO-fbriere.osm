@@ -207,27 +207,6 @@
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
-  <node id='-662672270' action='modify' lat='45.36608327828' lon='-71.95950623304'>
-    <tag k='TODO:check_date' v='2024-03-05' />
-    <tag k='TODO:planned_end' v='2024-10-17' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
-    <tag k='TODO:start_date' v='2024-10-04' />
-    <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='5803' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Aménagement de voies cyclables sur le boulevard de l&apos;Université, entre les rues Fernand-Bachand et Napoléon-Poulin' />
-  </node>
-  <node id='-1388227926' action='modify' lat='45.36458805639' lon='-71.9616791978'>
-    <tag k='TODO:planned_end' v='2023-11-17' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Universite-2023.pdf' />
-    <tag k='TODO:start_date' v='2023-08-21' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='crossing' />
-    <tag k='TODO:ville:projet' v='5803' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='FRCR et éclairage aux passages piétonniers' />
-  </node>
   <node id='-3917376573' action='modify' lat='45.38160260823' lon='-71.87367443562'>
     <tag k='TODO:planned_end' v='Printemps 2024' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1242,16 +1221,6 @@
     <tag k='TODO:type' v='new' />
     <tag k='name' v='Ouverture de la rue Clovis-Dagnau et prolongement de la rue François-Xavier-Bureau' />
   </node>
-  <node id='-469000670' action='modify' lat='45.36570126891' lon='-71.96127613016'>
-    <tag k='TODO:planned_end' v='2025-10-24' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Maude-Abbott.pdf' />
-    <tag k='TODO:start_date' v='2024-06-14' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='new' />
-    <tag k='TODO:ville:projet' v='7337' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Ouverture de la rue Maude-Abbott' />
-  </node>
   <node id='-2536963784' action='modify' lat='45.3847552816' lon='-71.97462713305'>
     <tag k='TODO:planned_end' v='2024-06-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1412,27 +1381,6 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Traverse pour piétons (3 approches)' />
-  </node>
-  <node id='-4152009928' action='modify' lat='45.38362965702' lon='-71.94497823983'>
-    <tag k='TODO:session' v='2024-08-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
-  </node>
-  <node id='-2693131250' action='modify' lat='45.38359951515' lon='-71.94714278251'>
-    <tag k='TODO:session' v='2024-08-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
-  </node>
-  <node id='-3161256080' action='modify' lat='45.38325665016' lon='-71.94770872861'>
-    <tag k='TODO:session' v='2024-08-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-3203996346' action='modify' lat='45.4126450616' lon='-71.94536984503'>
     <tag k='TODO:session' v='2024-08-20' />
@@ -1795,11 +1743,6 @@
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Corriger: 70' />
   </node>
-  <node id='-3398820497' action='modify' lat='45.37061442027' lon='-71.93324091196'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='maxspeed' />
-    <tag k='name' v='Corriger: 50' />
-  </node>
   <node id='-3043349609' action='modify' lat='45.34656563544' lon='-71.95944072962'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='maxspeed' />
@@ -1824,11 +1767,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Corriger: Déplacer limite 50/70 ici' />
-  </node>
-  <node id='-3630037103' action='modify' lat='45.37475218525' lon='-71.9470381844'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='maxspeed' />
-    <tag k='name' v='Corriger: Limites dans cette bretelle' />
   </node>
   <node id='-1030665673' action='modify' lat='45.34409982285' lon='-72.03975204513'>
     <tag k='TODO:status' v='certain' />
