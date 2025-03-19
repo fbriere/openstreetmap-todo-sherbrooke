@@ -1861,4 +1861,15 @@
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Démolition du bâtiment du Club nautique de Sherbrooke' />
   </node>
+  <node id='-236833902' action='modify' lat='45.39844435499' lon='-71.90595667603'>
+    <tag k='TODO:comments' v='&quot;Escalier fermé, date de réouverture non connue pour le moment.&quot;' />
+    <tag k='TODO:planned_end' v='2025-06-01' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2024-06-19' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='footway' />
+    <tag k='TODO:ville:projet' v='7368' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Fermeture (temporaire?) de l&apos;escalier reliant la rue King Ouest à la rue de l&apos;Esplanade' />
+  </node>
 </osm>
