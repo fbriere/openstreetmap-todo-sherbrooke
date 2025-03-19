@@ -190,7 +190,7 @@
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='5669' />
     <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Prolongement des rues Gisèle-Trudeau et Jospeh-Émond' />
+    <tag k='name' v='Prolongement des rues Gisèle-Trudeau et Joseph-Émond' />
   </node>
   <node id='-3439725826' action='modify' lat='45.3977788438' lon='-71.91392556611'>
     <tag k='TODO:session' v='2023-01-24' />
