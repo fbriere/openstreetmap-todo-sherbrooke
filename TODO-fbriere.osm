@@ -1219,7 +1219,7 @@
     <tag k='TODO:session' v='2024-06-04' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Clovis-Dagnau-info.pdf' />
     <tag k='TODO:start_date' v='2025-03-21' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='8138' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1850,16 +1850,6 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 7120 ch. de Saint-Élie' />
-  </node>
-  <node id='-1006838052' action='modify' lat='45.39440823335' lon='-71.92868561776'>
-    <tag k='TODO:planned_end' v='2025-03-27' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-03-19' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='demolition' />
-    <tag k='TODO:ville:projet' v='8133' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Démolition du bâtiment du Club nautique de Sherbrooke' />
   </node>
   <node id='-236833902' action='modify' lat='45.39844435499' lon='-71.90595667603'>
     <tag k='TODO:comments' v='&quot;Escalier fermé, date de réouverture non connue pour le moment.&quot;' />
