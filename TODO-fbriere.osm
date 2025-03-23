@@ -199,14 +199,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-2087439621' action='modify' lat='45.3966067459' lon='-72.01398268663'>
-    <tag k='TODO:check_date' v='2023-11-17' />
-    <tag k='TODO:session' v='2023-04-04' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
-  </node>
   <node id='-3917376573' action='modify' lat='45.38160260823' lon='-71.87367443562'>
     <tag k='TODO:planned_end' v='Printemps 2024' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -216,16 +208,6 @@
     <tag k='TODO:ville:projet' v='5806' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Aménagement de voies cyclables sur la rue Wellington Sud/Queen, entre la côte de l&apos;Acadie et la rue John-Wilson' />
-  </node>
-  <node id='-3040965806' action='modify' lat='45.39468313506' lon='-72.02756886005'>
-    <tag k='TODO:planned_end' v='2024-09-27' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lien_cyclable_Saint-Elie.pdf' />
-    <tag k='TODO:start_date' v='2024-04-22' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='5805' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Aménagement de voies cyclables sur le chemin de Saint-Élie, entre la rue Croteau et le chemin Laliberté' />
   </node>
   <node id='-1369707219' action='modify' lat='45.4158948643' lon='-71.89008953333'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
@@ -513,7 +495,7 @@
     <tag k='name' v='Réaménagement de l&apos;aire de jeux 2-12 ans au parc Olivier-Chauveau' />
   </node>
   <node id='-3217957028' action='modify' lat='45.39079217313' lon='-71.9875312388'>
-    <tag k='TODO:check_date' v='2024-08-24' />
+    <tag k='TODO:check_date' v='2025-03-22' />
     <tag k='TODO:comments' v='Le marquage au sol sera effectué en 2025' />
     <tag k='TODO:planned_end' v='2024-11-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallon_Info-travaux.pdf' />
@@ -621,14 +603,6 @@
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Construction de classes modulaires' />
-  </node>
-  <node id='-604218504' action='modify' lat='45.39743465703' lon='-72.01669197862'>
-    <tag k='TODO:check_date' v='2023-11-17' />
-    <tag k='TODO:session' v='2023-04-04' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
   <node id='-3847055722' action='modify' lat='45.41449309461' lon='-71.96135312453'>
     <tag k='TODO:check_date' v='2023-07-19' />
@@ -1017,18 +991,6 @@
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Prolongement des rues des Quatre-Saisons et des Gloires-du-Matin et construction de la rue Hortensias' />
   </node>
-  <node id='-3715473418' action='modify' lat='45.39187571006' lon='-71.99231024834'>
-    <tag k='TODO:check_date' v='2024-08-24' />
-    <tag k='TODO:comments' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Estelle-Gobeil2.pdf' />
-    <tag k='TODO:planned_end' v='2025-11-14' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Estelle-Gobeil_Info-travaux.pdf' />
-    <tag k='TODO:start_date' v='2024-06-25' />
-    <tag k='TODO:status' v='ongoing' />
-    <tag k='TODO:type' v='new' />
-    <tag k='TODO:ville:projet' v='6974' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Prolongement de la rue Estelle-Gobeil' />
-  </node>
   <node id='-1472253939' action='modify' lat='45.42343650118' lon='-71.86839183548'>
     <tag k='TODO:planned_end' v='2024-11-29' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Paysans-2024.pdf' />
@@ -1124,14 +1086,14 @@
     <tag k='name' v='Ajout d&apos;un couloir de traversée' />
   </node>
   <node id='-585721417' action='modify' lat='45.37513278105' lon='-71.97207391798'>
-    <tag k='TODO:session' v='2024-04-23' />
+    <tag k='TODO:session' v='2025-03-22' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Déplacer l&apos;arrêt toutes directions (et les traverses) de Viel à Chambois' />
   </node>
   <node id='-3292474314' action='modify' lat='45.37512901275' lon='-71.97215438426'>
-    <tag k='TODO:session' v='2024-04-23' />
+    <tag k='TODO:session' v='2025-03-22' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
@@ -1197,16 +1159,6 @@
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Construction d&apos;un dos d&apos;âne sur Moulton Hill (au coin St-Francis)' />
   </node>
-  <node id='-3560471473' action='modify' lat='45.3849082376' lon='-71.97789543688'>
-    <tag k='TODO:planned_end' v='2024-06-19' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-06-19' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='TODO:ville:projet' v='7302' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction d&apos;un dos d&apos;âne face au 4595 Rue Chauveau' />
-  </node>
   <node id='-3914846473' action='modify' lat='45.39312282278' lon='-71.88574229781'>
     <tag k='TODO:check_date' v='2024-10-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/06/04/une-maison-incendiee-de-la-rue-wellington-sera-demolie-4BBA4QJH4ZECZMKVPAGQPZ2B3E/' />
@@ -1225,16 +1177,6 @@
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Ouverture de la rue Clovis-Dagnau et prolongement de la rue François-Xavier-Bureau' />
   </node>
-  <node id='-2536963784' action='modify' lat='45.3847552816' lon='-71.97462713305'>
-    <tag k='TODO:planned_end' v='2024-06-17' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-06-17' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='TODO:ville:projet' v='7351' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction de dos d&apos;âne sur la rue Chauveau' />
-  </node>
   <node id='-4146716348' action='modify' lat='45.41408922439' lon='-71.87940895692'>
     <tag k='TODO:check_date' v='2024-10-06' />
     <tag k='TODO:session' v='2024-06-18' />
@@ -1252,7 +1194,7 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-312880620' action='modify' lat='45.39128588386' lon='-71.99306147311'>
-    <tag k='TODO:check_date' v='2024-08-24' />
+    <tag k='TODO:check_date' v='2025-03-22' />
     <tag k='TODO:comments' v='La piste cyclable est fermée et un détour est en place par les rues St-Jacques, Saint-Édouard et Sainte-Claire pendant les travaux de l&apos;ouverture de la rue Estelle-Gobeil. Lors de l’ouverture de la rue Estelle-Gobeil, la piste cyclable longera le nouveau tronçon de la rue et rejoindra le boulevard René-Lévesque.' />
     <tag k='TODO:planned_end' v='2025-11-14' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1264,6 +1206,7 @@
     <tag k='name' v='Fermeture de la piste cyclable et déplacement vers Estelle-Gobeil' />
   </node>
   <node id='-1376142036' action='modify' lat='45.37823008194' lon='-72.00111341302'>
+    <tag k='TODO:check_date' v='2025-03-22' />
     <tag k='TODO:planned_end' v='2027-12-31' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Centre-Équestre_II.pdf' />
     <tag k='TODO:start_date' v='2024-09-30' />
@@ -1401,27 +1344,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-726159109' action='modify' lat='45.39361703662' lon='-71.99434966117'>
-    <tag k='TODO:session' v='2024-08-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
-  </node>
-  <node id='-241643531' action='modify' lat='45.39288151087' lon='-71.99434831873'>
-    <tag k='TODO:session' v='2024-08-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
-  </node>
-  <node id='-2572321130' action='modify' lat='45.39147070794' lon='-71.99434429541'>
-    <tag k='TODO:session' v='2024-08-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
-  </node>
   <node id='-3108090579' action='modify' lat='45.39112695171' lon='-71.86925948203'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1448,13 +1370,6 @@
     <tag k='TODO:session' v='2024-08-20; 2024-11-05' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-3998698740' action='modify' lat='45.3757912848' lon='-71.98233336344'>
-    <tag k='TODO:session' v='2024-08-20' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1491,13 +1406,6 @@
     <tag k='name' v='Réduction de vitesse à 70 km/h (jusqu&apos;aux limites de la ville)' />
   </node>
   <node id='-3613734681' action='modify' lat='45.38826001395' lon='-71.86471045554'>
-    <tag k='TODO:session' v='2024-10-15' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-3131810883' action='modify' lat='45.38836549987' lon='-71.94917589694'>
     <tag k='TODO:session' v='2024-10-15' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1601,13 +1509,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-940499426' action='modify' lat='45.37533373379' lon='-71.98674342028'>
-    <tag k='TODO:session' v='2025-02-04 (documents, 8.1.1)' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-1038567720' action='modify' lat='45.35454180945' lon='-71.98716566848'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='cycleway' />
@@ -1618,6 +1519,7 @@
     <tag k='name' v='Vérifier deux courts segments `oneway=no`' />
   </node>
   <node id='-623382007' action='modify' lat='45.38472229111' lon='-71.9695794636'>
+    <tag k='TODO:check_date' v='2025-03-22' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.42' />
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Virages interdits de/vers est (7-10h et 16-19h)' />
@@ -1672,11 +1574,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Pas d&apos;arrêt à l&apos;approche sud' />
   </node>
-  <node id='-292819784' action='modify' lat='45.38013126796' lon='-71.9921956098'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt seulement à l&apos;approche nord' />
-  </node>
   <node id='-1372223253' action='modify' lat='45.47348451974' lon='-71.9499966529'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
@@ -1707,26 +1604,6 @@
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
   </node>
-  <node id='-2182896044' action='modify' lat='45.37302437607' lon='-71.97317898542'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
-  </node>
-  <node id='-1505013483' action='modify' lat='45.37302437607' lon='-71.97226166993'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
-  </node>
-  <node id='-185073143' action='modify' lat='45.37302908567' lon='-71.97463408247'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
-  </node>
-  <node id='-2863282055' action='modify' lat='45.38341115631' lon='-72.00332169056'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='maxspeed' />
-    <tag k='name' v='Corriger: 60 (Henri-Labonne ↔ Rodolphe-Racine)' />
-  </node>
   <node id='-1961306946' action='modify' lat='45.50685820084' lon='-71.989513641'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='surface' />
@@ -1756,21 +1633,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Corriger: Aucune limite affichée ici' />
-  </node>
-  <node id='-3437550906' action='modify' lat='45.39468687569' lon='-72.01896429598'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='maxspeed' />
-    <tag k='name' v='Corriger: Déplacer limite 50/70 ici' />
-  </node>
-  <node id='-1898826200' action='modify' lat='45.39451737189' lon='-72.03201057673'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='maxspeed' />
-    <tag k='name' v='Corriger: Déplacer limite 50/70 ici' />
-  </node>
-  <node id='-3164544553' action='modify' lat='45.39276945315' lon='-71.95472004175'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='maxspeed' />
-    <tag k='name' v='Corriger: Déplacer limite 50/70 ici' />
   </node>
   <node id='-1030665673' action='modify' lat='45.34409982285' lon='-72.03975204513'>
     <tag k='TODO:status' v='certain' />
@@ -1844,6 +1706,7 @@
     <tag k='name' v='Place Simone-Bouthillette' />
   </node>
   <node id='-4015558560' action='modify' lat='45.39589309928' lon='-72.0360727435'>
+    <tag k='TODO:check_date' v='2025-03-22' />
     <tag k='TODO:resolution' v='C.D. 2024-0115-00' />
     <tag k='TODO:session' v='2024-09-23 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
