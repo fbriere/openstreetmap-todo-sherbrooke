@@ -65,16 +65,6 @@
     <tag k='TODO:ville:travaux' v='2022' />
     <tag k='name' v='Prolongement de la rue du Pimbina / des Coudriers' />
   </node>
-  <node id='-3535605900' action='modify' lat='45.37047120572' lon='-71.8991339314'>
-    <tag k='TODO:planned_end' v='2025-12-31' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/golconda.pdf' />
-    <tag k='TODO:start_date' v='2022-11-16' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='new' />
-    <tag k='TODO:ville:projet' v='5445' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Prolongement de la rue de la Golconda' />
-  </node>
   <node id='-204576628' action='modify' lat='45.4158045053' lon='-71.83140282154'>
     <tag k='TODO:planned_end' v='2023-06-22' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est' />
@@ -168,29 +158,12 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Confirmer: Le dernier segment est Elgin, pas Hyatt' />
   </node>
-  <node id='-3460223818' action='modify' lat='45.38500863261' lon='-71.88327670634'>
-    <tag k='TODO:session' v='2023-01-24' />
-    <tag k='TODO:source' v='Règlement n° 1-168' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='crossing' />
-    <tag k='name' v='Passage pour piétons' />
-  </node>
   <node id='-684148393' action='modify' lat='45.37453738653' lon='-71.88731611311'>
     <tag k='TODO:session' v='2023-03-07' />
     <tag k='TODO:source' v='Règlement n° 1-168' />
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
-  </node>
-  <node id='-832676602' action='modify' lat='45.48312316122' lon='-71.94202781796'>
-    <tag k='TODO:planned_end' v='2025-05-23' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Gisèle_II.pdf' />
-    <tag k='TODO:start_date' v='2023-02-06' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='new' />
-    <tag k='TODO:ville:projet' v='5669' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Prolongement des rues Gisèle-Trudeau et Joseph-Émond' />
   </node>
   <node id='-3439725826' action='modify' lat='45.3977788438' lon='-71.91392556611'>
     <tag k='TODO:session' v='2023-01-24' />
@@ -568,12 +541,6 @@
     <tag k='TODO:ville:travaux' v='2021' />
     <tag k='name' v='Construction d&apos;un jeu d&apos;eau' />
   </node>
-  <node id='-968927850' action='modify' lat='45.46711365389' lon='-71.96999252379'>
-    <tag k='TODO:source' v='Bing' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='surface' />
-    <tag k='name' v='Surface pavée d&apos;ici jusqu&apos;au 5e rang' />
-  </node>
   <node id='-1862974384' action='modify' lat='45.30055989068' lon='-72.05221563846'>
     <tag k='TODO:source' v='Maxar' />
     <tag k='TODO:type' v='surface' />
@@ -722,7 +689,7 @@
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Rénovation majeure des jeux modulaires, qui seront aussi accessibles au public' />
   </node>
-  <node id='-1894277877' action='modify' lat='45.37699805874' lon='-71.88417256415'>
+  <node id='-4219273185' action='modify' lat='45.37642152493' lon='-71.88578188956'>
     <tag k='TODO:planned_end' v='2025-12-31' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mille-Abeilles_Oiseaux-de-Neige.pdf' />
     <tag k='TODO:start_date' v='2023-07-07' />
@@ -730,7 +697,7 @@
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='6203' />
     <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ouverture des rues des Mille-Abeilles et des Oiseaux-de-Neige' />
+    <tag k='name' v='Ouverture de la rue des Oiseaux-de-Neige' />
   </node>
   <node id='-13992018' action='modify' lat='45.44421999377' lon='-71.88772917867'>
     <tag k='TODO:session' v='2022-06-21' />
@@ -914,28 +881,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Corriger le nom des murales' />
-  </node>
-  <node id='-4036702421' action='modify' lat='45.41510407509' lon='-71.94901228487'>
-    <tag k='TODO:comments' v='Le 640 est du côté ouest, où il y a déjà un trottoir; parle-t-on ici du côté est?' />
-    <tag k='TODO:planned_end' v='2024-04-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-04-09' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='7060' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction d&apos;un trottoir en face du 640, rue du Chardonnay' />
-  </node>
-  <node id='-2989110048' action='modify' lat='45.38353170151' lon='-71.89681918502'>
-    <tag k='TODO:comments' v='Le corridor piétonnier a été changé de côté en raison de ce nouveau trottoir.' />
-    <tag k='TODO:planned_end' v='2024-05-03' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-04-09' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='6962' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Construction d&apos;un trottoir sur une partie des rues de Courville et des Grands-Monts' />
   </node>
   <node id='-3703058552' action='modify' lat='45.39243981561' lon='-71.87483847409'>
     <tag k='TODO:session' v='2024-04-09' />
@@ -1509,11 +1454,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-1038567720' action='modify' lat='45.35454180945' lon='-71.98716566848'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Bande cyclable bi-directionelle (côté est)' />
-  </node>
   <node id='-2589787009' action='modify' lat='45.3782129658' lon='-72.05319245463'>
     <tag k='TODO:type' v='oneway' />
     <tag k='name' v='Vérifier deux courts segments `oneway=no`' />
@@ -1589,11 +1529,6 @@
     <tag k='TODO:type' v='footway' />
     <tag k='name' v='Retirer ce passage' />
   </node>
-  <node id='-906956560' action='modify' lat='45.40424199375' lon='-71.9025523974'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='crossing' />
-    <tag k='name' v='Traverse pour piétons' />
-  </node>
   <node id='-2235830270' action='modify' lat='45.39911951235' lon='-71.93487838045'>
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
@@ -1603,11 +1538,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
-  </node>
-  <node id='-1961306946' action='modify' lat='45.50685820084' lon='-71.989513641'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='surface' />
-    <tag k='name' v='Fin du pavage' />
   </node>
   <node id='-722602647' action='modify' lat='45.35156469638' lon='-72.04246045232'>
     <tag k='TODO:status' v='certain' />
