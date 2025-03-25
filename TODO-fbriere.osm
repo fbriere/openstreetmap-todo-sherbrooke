@@ -90,12 +90,6 @@
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Halte Muriel-Brand / Muriel-Brand Place' />
   </node>
-  <node id='-1036235717' action='modify' lat='45.47413756494' lon='-71.94583489623'>
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-432125603' action='modify' lat='45.47103127644' lon='-71.94436608585'>
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
     <tag k='TODO:status' v='certain' />
@@ -1513,11 +1507,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Pas d&apos;arrêt à l&apos;approche sud' />
-  </node>
-  <node id='-1372223253' action='modify' lat='45.47348451974' lon='-71.9499966529'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2168662770' action='modify' lat='45.3395526121' lon='-72.01821327746'>
     <tag k='TODO:status' v='certain' />
