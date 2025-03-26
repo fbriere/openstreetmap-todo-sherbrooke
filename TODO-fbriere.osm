@@ -56,14 +56,8 @@
     <tag k='name' v='Comment traiter cette rue privée, officiellement sans nom?' />
   </node>
   <node id='-1590266653' action='modify' lat='45.37884066659' lon='-72.05688536704'>
-    <tag k='TODO:planned_end' v='2022-07-22' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2022-07-04' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='new' />
-    <tag k='TODO:ville:projet' v='4098' />
-    <tag k='TODO:ville:travaux' v='2022' />
-    <tag k='name' v='Prolongement de la rue du Pimbina / des Coudriers' />
+    <tag k='TODO:type' v='name' />
+    <tag k='name' v='Confirmer le point de démarcation entre les rues du Pimbina et des Coudriers' />
   </node>
   <node id='-204576628' action='modify' lat='45.4158045053' lon='-71.83140282154'>
     <tag k='TODO:planned_end' v='2023-06-22' />
@@ -193,26 +187,6 @@
     <tag k='TODO:ville:projet' v='5827' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='FRCR et éclairage au passage piétonnier' />
-  </node>
-  <node id='-324858106' action='modify' lat='45.47499484022' lon='-71.94086909831'>
-    <tag k='TODO:planned_end' v='2023-06-23' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
-    <tag k='TODO:start_date' v='2022-08-08' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='4084' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Conversion en bandes unidirectionnelles (incl. contre-sens)' />
-  </node>
-  <node id='-766013725' action='modify' lat='45.47458858166' lon='-71.93957090914'>
-    <tag k='TODO:planned_end' v='2023-06-23' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Stjosephweb.pdf' />
-    <tag k='TODO:start_date' v='2022-08-08' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='4084' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Conversion en chaussée désignée' />
   </node>
   <node id='-3465891599' action='modify' lat='45.42432913964' lon='-72.03254701853'>
     <tag k='TODO:planned_end' v='2023-09-01' />
@@ -588,16 +562,6 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ceci n&apos;est que l&apos;entrée d&apos;un complexe d&apos;habitations et devrait être service=driveway' />
   </node>
-  <node id='-280036851' action='modify' lat='45.47121840006' lon='-71.94292425996'>
-    <tag k='TODO:planned_end' v='2023-06-14' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/SaintJeanBaptisteweb.pdf' />
-    <tag k='TODO:start_date' v='2023-06-14' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='sidewalk' />
-    <tag k='TODO:ville:projet' v='6101' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ajout d&apos;un trottoir (côté sud, séparé) entre Sainte-Praxède et Beaudoin' />
-  </node>
   <node id='-3788175689' action='modify' lat='45.38413454109' lon='-71.8827878382'>
     <tag k='TODO:session' v='2023-01-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -622,16 +586,6 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Rénovation majeure des jeux modulaires, qui seront aussi accessibles au public' />
-  </node>
-  <node id='-4219273185' action='modify' lat='45.37642152493' lon='-71.88578188956'>
-    <tag k='TODO:planned_end' v='2025-12-31' />
-    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mille-Abeilles_Oiseaux-de-Neige.pdf' />
-    <tag k='TODO:start_date' v='2023-07-07' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='new' />
-    <tag k='TODO:ville:projet' v='6203' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Ouverture de la rue des Oiseaux-de-Neige' />
   </node>
   <node id='-13992018' action='modify' lat='45.44421999377' lon='-71.88772917867'>
     <tag k='TODO:session' v='2022-06-21' />
@@ -704,16 +658,6 @@
     <tag k='TODO:ville:projet' v='6437' />
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Ouverture des rues Étienne-Desmarteau, Jules-Huot et Lainé' />
-  </node>
-  <node id='-928998257' action='modify' lat='45.39374062106' lon='-71.92682737648'>
-    <tag k='TODO:planned_end' v='2023-11-24' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2023-10-17' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='misc' />
-    <tag k='TODO:ville:projet' v='6474' />
-    <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Réaménagement du stationnement' />
   </node>
   <node id='-4102723162' action='modify' lat='45.40027870369' lon='-71.88901931316'>
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/' />
@@ -1052,9 +996,8 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-312880620' action='modify' lat='45.39128588386' lon='-71.99306147311'>
+  <node id='-4015408127' action='modify' lat='45.39065298679' lon='-71.99373738978'>
     <tag k='TODO:check_date' v='2025-03-22' />
-    <tag k='TODO:comments' v='La piste cyclable est fermée et un détour est en place par les rues St-Jacques, Saint-Édouard et Sainte-Claire pendant les travaux de l&apos;ouverture de la rue Estelle-Gobeil. Lors de l’ouverture de la rue Estelle-Gobeil, la piste cyclable longera le nouveau tronçon de la rue et rejoindra le boulevard René-Lévesque.' />
     <tag k='TODO:planned_end' v='2025-11-14' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-25' />
@@ -1062,7 +1005,7 @@
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='6974' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Fermeture de la piste cyclable et déplacement vers Estelle-Gobeil' />
+    <tag k='name' v='Piste cyclable sur Estelle-Gobeil' />
   </node>
   <node id='-1376142036' action='modify' lat='45.37823008194' lon='-72.00111341302'>
     <tag k='TODO:check_date' v='2025-03-22' />
