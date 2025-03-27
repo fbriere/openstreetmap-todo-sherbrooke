@@ -161,10 +161,9 @@
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-3917376573' action='modify' lat='45.38160260823' lon='-71.87367443562'>
-    <tag k='TODO:planned_end' v='Printemps 2024' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5806' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1506,5 +1505,12 @@
     <tag k='TODO:ville:projet' v='7368' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Fermeture (temporaire?) de l&apos;escalier reliant la rue King Ouest à la rue de l&apos;Esplanade' />
+  </node>
+  <node id='-2578689424' action='modify' lat='45.4719967317' lon='-71.95141285926'>
+    <tag k='TODO:session' v='2025-03-11' />
+    <tag k='TODO:source' v='Règlement no 1300-51' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
   </node>
 </osm>
