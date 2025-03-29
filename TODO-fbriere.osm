@@ -1513,4 +1513,10 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
+  <node id='-2621350212' action='modify' lat='45.45119179942' lon='-71.84021920234'>
+    <tag k='TODO:source' v='https://ici.radio-canada.ca/nouvelle/2151511/feu-incendie-maison-renard-sherbrooke' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='demolition' />
+    <tag k='name' v='Immeuble complètement détruit par un incendie' />
+  </node>
 </osm>
