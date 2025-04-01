@@ -1502,4 +1502,9 @@
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Immeuble complètement détruit par un incendie' />
   </node>
+  <node id='-2395746045' action='modify' lat='45.40365396708' lon='-71.8789821494'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='bicycle' />
+    <tag k='name' v='Corriger type/capacité du support à vélo' />
+  </node>
 </osm>
