@@ -601,13 +601,6 @@
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Demi-tour interdit entre Peel et Ozias-Leduc' />
   </node>
-  <node id='-2649459616' action='modify' lat='45.41472416759' lon='-71.88853896551'>
-    <tag k='TODO:planned_end' v='2024-07-18' />
-    <tag k='TODO:source' v='https://ici.radio-canada.ca/nouvelle/2098870/installation-aquatique-piscine-bassin-jeux-parc-victoria' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='park' />
-    <tag k='name' v='Nouvelle géométrie de la piscine À-la-Claire-Fontaine' />
-  </node>
   <node id='-325504245' action='modify' lat='45.37088201713' lon='-71.85335075202'>
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Déterminer l&apos;emplacement de la transition asphalte/gravier' />
@@ -900,16 +893,6 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Ajout d&apos;un trottoir (côté nord, entre Viel et Chambois)' />
-  </node>
-  <node id='-4091360897' action='modify' lat='45.35426385239' lon='-71.99839040771'>
-    <tag k='TODO:planned_end' v='2024-12-06' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2024-11-25' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='7929;7930' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Démolition de la piscine au parc Central' />
   </node>
   <node id='-2584475386' action='modify' lat='45.4481416204' lon='-71.93101734191'>
     <tag k='TODO:planned_end' v='Automne 2024' />
