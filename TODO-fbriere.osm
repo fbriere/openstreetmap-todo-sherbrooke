@@ -1486,7 +1486,7 @@
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='footway' />
     <tag k='TODO:ville:projet' v='7368' />
-    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Fermeture (temporaire?) de l&apos;escalier reliant la rue King Ouest à la rue de l&apos;Esplanade' />
   </node>
   <node id='-2578689424' action='modify' lat='45.4719967317' lon='-71.95141285926'>
