@@ -1948,4 +1948,22 @@
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Amélioration des passages piétonniers de toutes les branches du carrefour giratoire' />
   </node>
+  <node id='-672931812' action='modify' lat='45.39975731459' lon='-71.93617086271'>
+    <tag k='TODO:planned_end' v='2025-07-25' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-04-29' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='8262' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Parc Charland - Aménagement d&apos;une placette' />
+  </node>
+  <node id='-4285999292' action='modify' lat='45.47280825472' lon='-71.94583129732'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='8263' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement d&apos;une placette' />
+  </node>
 </osm>
