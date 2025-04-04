@@ -833,7 +833,7 @@
     <tag k='name' v='Construction d&apos;un trottoir sur Garant (côté sud), entre les rues Malouin et Argyll' />
   </node>
   <node id='-1712310260' action='modify' lat='45.37805750857' lon='-71.83793414215'>
-    <tag k='TODO:comments' v='Implantations de dos d&apos;ânes et peut-être d&apos;une traverse surélevée.' />
+    <tag k='TODO:comments' v='Implantations de plusieurs dos d&apos;âne et peut-être d&apos;une traverse surélevée.' />
     <tag k='TODO:planned_end' v='Été 2024' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
@@ -1339,7 +1339,7 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='hump' />
-    <tag k='name' v='Ajout de deux dos-d&apos;âne, de part et d&apos;autre de la courbe' />
+    <tag k='name' v='Ajout de deux dos d&apos;âne, de part et d&apos;autre de la courbe' />
   </node>
   <node id='-2769834856' action='modify' lat='45.32266405224' lon='-71.96813383394'>
     <tag k='TODO:session' v='2025-02-04' />
@@ -1604,7 +1604,7 @@
     <tag k='TODO:type' v='stop' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Conversion de l&apos;arrêt en dos-d&apos;âne' />
+    <tag k='name' v='Conversion de l&apos;arrêt en dos d&apos;âne' />
   </node>
   <node id='-3179778705' action='modify' lat='45.41590202055' lon='-71.95626373682'>
     <tag k='TODO:planned_end' v='Printemps 2025' />
