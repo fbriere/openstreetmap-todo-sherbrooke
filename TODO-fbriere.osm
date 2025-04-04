@@ -167,7 +167,7 @@
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='5806' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Aménagement de voies cyclables sur la rue Wellington Sud/Queen, entre la côte de l&apos;Acadie et la rue John-Wilson' />
+    <tag k='name' v='Aménagement de voies cyclables (entre Acadie et John-Wilson)' />
   </node>
   <node id='-1369707219' action='modify' lat='45.4158948643' lon='-71.89008953333'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf' />
@@ -419,7 +419,7 @@
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5929' />
     <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Parc Alfred-Élie-Dufresne - Aménagement d&apos;une espace famille' />
+    <tag k='name' v='Aménagement d&apos;une espace famille' />
   </node>
   <node id='-578892741' action='modify' lat='45.39308043344' lon='-71.87023965828'>
     <tag k='TODO:planned_end' v='2023-06-16' />
@@ -429,7 +429,7 @@
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='4679' />
     <tag k='TODO:ville:travaux' v='2023' />
-    <tag k='name' v='Aménagement d&apos;une aire de jeux 2-12 ans au parc Bureau' />
+    <tag k='name' v='Aménagement d&apos;une aire de jeux 2-12 ans' />
   </node>
   <node id='-3217957028' action='modify' lat='45.39079217313' lon='-71.9875312388'>
     <tag k='TODO:check_date' v='2025-03-22' />
@@ -840,7 +840,7 @@
     <tag k='TODO:type' v='hump' />
     <tag k='TODO:ville:projet' v='6964' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Mesures d&apos;atténuation de la vitesse sur le chemin Moulton Hill, entre la rue St. Francis et le chemin Fearon' />
+    <tag k='name' v='Mesures d&apos;atténuation de la vitesse (entre St. Francis et Fearon)' />
   </node>
   <node id='-2967642929' action='modify' lat='45.4217900002' lon='-71.85774879301'>
     <tag k='TODO:planned_end' v='2027-12-31' />
@@ -860,7 +860,7 @@
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='6998' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Ajout d&apos;un trottoir sur des Paysans (côté ouest), sur toute la longueur' />
+    <tag k='name' v='Ajout d&apos;un trottoir (côté ouest, sur toute la longueur)' />
   </node>
   <node id='-4117914809' action='modify' lat='45.36766977479' lon='-71.994559095'>
     <tag k='TODO:comments' v='Ajout d&apos;une voie de virage à droite sur Président-Kennedy' />
@@ -871,7 +871,7 @@
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='7023' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Modifications géométriques à l&apos;intersection Bourque/Président-Kennedy/Henri-Labonne' />
+    <tag k='name' v='Modifications géométriques à l&apos;intersection' />
   </node>
   <node id='-2638052566' action='modify' lat='45.38945050773' lon='-71.87039673865'>
     <tag k='TODO:session' v='2023-12-19 (Règlement 1-170)' />
@@ -907,7 +907,7 @@
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='7142' />
     <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Parc Atto-Beaver - Retrait de la patinoire' />
+    <tag k='name' v='Retrait de la patinoire' />
   </node>
   <node id='-3623821173' action='modify' lat='45.36846249687' lon='-71.99537158549'>
     <tag k='TODO:check_date' v='2024-08-24' />
@@ -1889,7 +1889,7 @@
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8256' />
     <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Parc Léonard-Cohen - Aménagement du parc' />
+    <tag k='name' v='Aménagement du parc Léonard-Cohen' />
   </node>
   <node id='-1826888661' action='modify' lat='45.42001811791' lon='-71.8736940791'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -1922,7 +1922,7 @@
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='8168' />
     <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Modifications géométriques à l&apos;intersection des rues Martin et Grégoire' />
+    <tag k='name' v='Modifications géométriques à l&apos;intersection' />
   </node>
   <node id='-876463988' action='modify' lat='45.42013808278' lon='-71.87055229567'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
