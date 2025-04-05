@@ -1966,4 +1966,71 @@
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Aménagement d&apos;une placette' />
   </node>
+  <node id='-4233619602' action='modify' lat='45.41295287847' lon='-71.95721920174'>
+    <tag k='TODO:planned_end' v='2025-06-27' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-05-06' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='8265' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Ajout d&apos;un préau' />
+  </node>
+  <node id='-982023664' action='modify' lat='45.3677803472' lon='-71.85601338878'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='8266' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Ajout d&apos;un trottoir pour le centre communautaire' />
+  </node>
+  <node id='-1342114505' action='modify' lat='45.39867221434' lon='-72.00764671035'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='8267' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Réfection des balançoires et nouveau jeu de pétanque' />
+  </node>
+  <node id='-3055967721' action='modify' lat='45.36856990269' lon='-71.99073001809'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='8268' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement d&apos;une placette' />
+  </node>
+  <node id='-1195308712' action='modify' lat='45.39151968119' lon='-71.88994199105'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='8269' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Remplacement surface synthétique' />
+  </node>
+  <node id='-3564202965' action='modify' lat='45.42774201275' lon='-71.92135803469'>
+    <tag k='TODO:comments' v='Aucune information supplémentaire fournie' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='8270' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Parc du Bois-Beckett' />
+  </node>
+  <node id='-3964082153' action='modify' lat='45.43104881562' lon='-71.86137311228'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='8271' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement d&apos;un sentier' />
+  </node>
+  <node id='-2103613876' action='modify' lat='45.45948769501' lon='-71.91918276317'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='park' />
+    <tag k='TODO:ville:projet' v='8272' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Remplacement de la gloriette' />
+  </node>
 </osm>
