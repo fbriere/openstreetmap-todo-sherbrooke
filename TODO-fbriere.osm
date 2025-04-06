@@ -781,7 +781,7 @@
   <node id='-1287854527' action='modify' lat='45.38456781492' lon='-71.90137356788'>
     <tag k='TODO:session' v='2024-01-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1377,11 +1377,6 @@
   <node id='-4283051984' action='modify' lat='45.36912702924' lon='-71.89781435285'>
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Pas d&apos;arrêt à l&apos;approche nord?' />
-  </node>
-  <node id='-1839714834' action='modify' lat='45.37304175673' lon='-71.90848495554'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-1047098562' action='modify' lat='45.4171519374' lon='-71.91689149625'>
     <tag k='TODO:status' v='certain' />
@@ -2032,5 +2027,44 @@
     <tag k='TODO:ville:projet' v='8272' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Remplacement de la gloriette' />
+  </node>
+  <node id='-4278357079' action='modify' lat='45.39283348293' lon='-71.88871622622'>
+    <tag k='TODO:type' v='footway' />
+    <tag k='name' v='Confirmer que ce passage existe encore' />
+  </node>
+  <node id='-3560468879' action='modify' lat='45.38721643134' lon='-71.89325989366'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-3588501726' action='modify' lat='45.38560392064' lon='-71.89412356496'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-3633951033' action='modify' lat='45.38634236583' lon='-71.89419866681'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-3539623202' action='modify' lat='45.38702051751' lon='-71.8942737633'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-1157707196' action='modify' lat='45.38387834009' lon='-71.88478948832'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-2450484300' action='modify' lat='45.38399136395' lon='-71.88323379636'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='hump' />
+    <tag k='name' v='Ajout d&apos;un dos d&apos;âne' />
+  </node>
+  <node id='-3989146563' action='modify' lat='45.38888163943' lon='-71.90302849889'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêts sur Cambrai (et non Fairmount)' />
   </node>
 </osm>
