@@ -2067,4 +2067,34 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêts sur Cambrai (et non Fairmount)' />
   </node>
+  <node id='-2048631540' action='modify' lat='45.48433797875' lon='-71.95063233912'>
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Jardin Bromptonique (jardin communautaire)' />
+  </node>
+  <node id='-4144405008' action='modify' lat='45.36219317017' lon='-71.99258319625'>
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Les Voisins Maraîchers (jardin solidaire)' />
+  </node>
+  <node id='-1040185817' action='modify' lat='45.39920041449' lon='-72.00751401507'>
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='La halte santé et nature (jardin solidaire)' />
+  </node>
+  <node id='-1885288160' action='modify' lat='45.40634840455' lon='-71.88860997642'>
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Jardin le Coureur (jardin solidaire)' />
+  </node>
+  <node id='-348078675' action='modify' lat='45.42464811319' lon='-71.86324275259'>
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Jardin du parc Maillé (jardin solidaire)' />
+  </node>
+  <node id='-3268284553' action='modify' lat='45.38554717826' lon='-71.91919976938'>
+    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Jardin Jeunes Entrepreneurs (jardin communautaire)' />
+  </node>
 </osm>
