@@ -2097,4 +2097,13 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Jardin Jeunes Entrepreneurs (jardin communautaire)' />
   </node>
+  <node id='-2906720664' action='modify' lat='45.39054791145' lon='-71.98563404468'>
+    <tag k='TODO:comments' v='&quot;Des travaux de déboisement seront nécessaires le long de la piste cyclable qui relie le boulevard René-Lévesque à la rue Yamaska. Des arbustes à faible déploiement seront replantés au plus tard l&apos;automne prochain sous la nouvelle ligne électrique.&quot;' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='8289' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Implantation d&apos;une ligne électrique en arrière-lot du boul. du Mi-Vallon' />
+  </node>
 </osm>
