@@ -2106,4 +2106,116 @@
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Implantation d&apos;une ligne électrique en arrière-lot du boul. du Mi-Vallon' />
   </node>
+  <node id='-3888243840' action='modify' lat='45.39414612739' lon='-71.92819175752'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8300' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur la rue de la Pointe (parc Lucien-Blanchard)' />
+  </node>
+  <node id='-943175185' action='modify' lat='45.39761934686' lon='-71.91804743103'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8301' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur la rue Marcil (parc Jacques-Cartier)' />
+  </node>
+  <node id='-2986264590' action='modify' lat='45.38968775816' lon='-71.90574986104'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8302' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable à l&apos;angle des rues McManamy et Kitchener' />
+  </node>
+  <node id='-493927530' action='modify' lat='45.38951493243' lon='-71.89556670372'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8303' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable à l&apos;entrée du parc Alguéric-Bussière (rue McManamy)' />
+  </node>
+  <node id='-4200235599' action='modify' lat='45.38884068978' lon='-71.91538341552'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8304' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable à l&apos;angle des rues Denault et Claire-Jolicoeur' />
+  </node>
+  <node id='-808868021' action='modify' lat='45.38351385445' lon='-71.89883977863'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8305' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur la rue Veilleux, à l&apos;angle de la rue Dunant' />
+  </node>
+  <node id='-540540193' action='modify' lat='45.39474246932' lon='-71.89599176111'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8306' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable à l&apos;angle des rues Galt Ouest et Belvédère Sud' />
+  </node>
+  <node id='-2597466567' action='modify' lat='45.3968422427' lon='-71.89649138386'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8307' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable au marché de la Gare' />
+  </node>
+  <node id='-655212612' action='modify' lat='45.3994537176' lon='-71.88921666291'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8308' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur la rue Wellington Sud, à l&apos;angle de la rue Sanborn' />
+  </node>
+  <node id='-3441146996' action='modify' lat='45.39816788146' lon='-71.87664487213'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8309' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable à l&apos;angle des rues Murray et Woodward' />
+  </node>
+  <node id='-323218492' action='modify' lat='45.40770646048' lon='-71.87573219229'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8310' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur la 7e Avenue Sud, entre les rues King Est et Cartier' />
+  </node>
+  <node id='-320674461' action='modify' lat='45.38705678276' lon='-71.92645755033'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8311' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur la rue Galt Ouest, entre les rues Cabana et Tétreault' />
+  </node>
+  <node id='-4255052546' action='modify' lat='45.39823203802' lon='-71.91117170758'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8312' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur la rue Marcil, près des rues Vanier et King Ouest' />
+  </node>
+  <node id='-1316577033' action='modify' lat='45.40327696888' lon='-71.90178488579'>
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8313' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur le boulevard Queen-Victoria, au sud du boulevard de Portland' />
+  </node>
 </osm>
