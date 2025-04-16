@@ -69,14 +69,6 @@
     <tag k='TODO:ville:travaux' v='2023' />
     <tag k='name' v='Réaménagement de King Est, entre Raby et des Rocheuses' />
   </node>
-  <node id='-2027438417' action='modify' lat='45.39983235887' lon='-71.88772649109'>
-    <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/689/deux-nouveaux-troncons-de-rue-ouverts-a-sherbrooke' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='TODO:ville:projet' v='1437;5800' />
-    <tag k='TODO:ville:travaux' v='2024' />
-    <tag k='name' v='Confirmer la nature/position du lien cyclable' />
-  </node>
   <node id='-2328886171' action='modify' lat='45.36877153307' lon='-71.8597000891'>
     <tag k='TODO:check_date' v='2023-06-20' />
     <tag k='TODO:session' v='2021-10-04' />
@@ -1187,20 +1179,6 @@
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Traverse pour piétons' />
   </node>
-  <node id='-2155876740' action='modify' lat='45.40113372085' lon='-71.88425570995'>
-    <tag k='TODO:session' v='2024-08-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Retrait du panneau d&apos;arrêt (pour un &quot;céder le passage&quot;)' />
-  </node>
-  <node id='-1772544456' action='modify' lat='45.40125707484' lon='-71.88432946935'>
-    <tag k='TODO:session' v='2024-08-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='misc' />
-    <tag k='name' v='Marquer un îlot central dans l&apos;intersection' />
-  </node>
   <node id='-2780532785' action='modify' lat='45.4164032025' lon='-71.88265711337'>
     <tag k='TODO:check_date' v='2024-08-06' />
     <tag k='TODO:session' v='2024-08-20; 2024-11-05' />
@@ -1311,20 +1289,6 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Conversion de la piscine en jeux d&apos;eau' />
-  </node>
-  <node id='-2008274921' action='modify' lat='45.39613302232' lon='-71.87608550727'>
-    <tag k='TODO:session' v='2024-12-10' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.42' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virage à gauche vers Galt Est' />
-  </node>
-  <node id='-2813091345' action='modify' lat='45.39613602125' lon='-71.87503917067'>
-    <tag k='TODO:session' v='2024-12-10' />
-    <tag k='TODO:source' v='Règlement no 1, article 5.1.42' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='restriction' />
-    <tag k='name' v='Virage à gauche vers Galt Est' />
   </node>
   <node id='-1041042357' action='modify' lat='45.36271664658' lon='-71.86287049764'>
     <tag k='TODO:comments' v='Ajout d&apos;un arrêt à l&apos;approche est' />
@@ -1461,6 +1425,7 @@
     <tag k='name' v='Ajout d&apos;un sens unique' />
   </node>
   <node id='-1075235641' action='modify' lat='45.3989387313' lon='-71.88861178068'>
+    <tag k='TODO:check_date' v='2025-04-14' />
     <tag k='TODO:planned_end' v='2026-12-31' />
     <tag k='TODO:resolution' v='C.D. 2024-0117-00' />
     <tag k='TODO:session' v='2024-11-25 (comité de démolition)' />
@@ -1551,11 +1516,6 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Immeuble complètement détruit par un incendie' />
-  </node>
-  <node id='-2395746045' action='modify' lat='45.40365396708' lon='-71.8789821494'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='name' v='Corriger type/capacité du support à vélo' />
   </node>
   <node id='-790981044' action='modify' lat='45.37030080313' lon='-71.99960994267'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
