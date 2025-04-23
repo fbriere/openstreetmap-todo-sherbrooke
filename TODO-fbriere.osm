@@ -1778,8 +1778,8 @@
   </node>
   <node id='-3561800557' action='modify' lat='45.37471959324' lon='-71.89063404144'>
     <tag k='TODO:planned_end' v='2025-09-26' />
-    <tag k='TODO:start_date' v='2025-05-05' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-04-23' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8255' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1864,8 +1864,10 @@
   </node>
   <node id='-4152287815' action='modify' lat='45.40111754854' lon='-71.90033450581'>
     <tag k='TODO:comments' v='&quot;L&apos;octroi du contrat vers la fin mars. Début des travaux selon l&apos;échéancier de l&apos;entrepreneur, possiblement au printemps. Fin demandée pour les travaux: décembre 2025. Durée de 37 semaines au devis. Barrage fermé ou non aux piétons pendant les travaux? À déterminer par l&apos;entrepreneur.&quot;' />
+    <tag k='TODO:planned_end' v='2025-12-12' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-04-23' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='8166' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1924,7 +1926,7 @@
   <node id='-4233619602' action='modify' lat='45.41295287847' lon='-71.95721920174'>
     <tag k='TODO:planned_end' v='2025-06-27' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-05-06' />
+    <tag k='TODO:start_date' v='2025-04-24' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8265' />
