@@ -1538,7 +1538,7 @@
     <tag k='TODO:planned_end' v='2025-06-09' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1548,7 +1548,7 @@
     <tag k='TODO:planned_end' v='2025-06-09' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1558,7 +1558,7 @@
     <tag k='TODO:planned_end' v='2025-06-09' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='stop' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1568,7 +1568,7 @@
     <tag k='TODO:planned_end' v='2025-06-09' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1578,7 +1578,7 @@
     <tag k='TODO:planned_end' v='2025-06-09' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1588,7 +1588,7 @@
     <tag k='TODO:planned_end' v='2025-06-09' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1598,7 +1598,7 @@
     <tag k='TODO:planned_end' v='2025-06-20' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Parent-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8084' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1916,7 +1916,7 @@
     <tag k='TODO:planned_end' v='2025-07-25' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-04-29' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8262' />
     <tag k='TODO:ville:travaux' v='2025' />
