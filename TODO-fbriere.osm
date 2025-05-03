@@ -1821,6 +1821,7 @@
   </node>
   <node id='-167590996' action='modify' lat='45.35544936301' lon='-71.99719840295'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-05-08' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8260' />
@@ -1958,6 +1959,7 @@
   </node>
   <node id='-3055967721' action='modify' lat='45.36856990269' lon='-71.99073001809'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-05-08' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8268' />
