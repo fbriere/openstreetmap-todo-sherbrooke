@@ -2193,4 +2193,15 @@
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Aménagement cyclable sur le boulevard Queen-Victoria, au sud du boulevard de Portland' />
   </node>
+  <node id='-2873884183' action='modify' lat='45.40456119137' lon='-71.89254105158'>
+    <tag k='TODO:comments' v='Est-ce que cela implique le retrait complet de la bretelle?' />
+    <tag k='TODO:planned_end' v='2025-05-06' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-05-06' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='8349' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Excavation d&apos;un îlot de béton au coin Frontenac et Wellignton Nord' />
+  </node>
 </osm>
