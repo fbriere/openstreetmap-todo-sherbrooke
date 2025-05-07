@@ -1821,8 +1821,8 @@
   </node>
   <node id='-167590996' action='modify' lat='45.35544936301' lon='-71.99719840295'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-05-08' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-05-07' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8260' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -2130,8 +2130,10 @@
     <tag k='name' v='Aménagement cyclable sur la rue Veilleux, à l&apos;angle de la rue Dunant' />
   </node>
   <node id='-540540193' action='modify' lat='45.39474246932' lon='-71.89599176111'>
+    <tag k='TODO:planned_end' v='2025-05-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-05-07' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8306' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -2195,9 +2197,9 @@
   </node>
   <node id='-2873884183' action='modify' lat='45.40456119137' lon='-71.89254105158'>
     <tag k='TODO:comments' v='Est-ce que cela implique le retrait complet de la bretelle?' />
-    <tag k='TODO:planned_end' v='2025-05-06' />
+    <tag k='TODO:planned_end' v='2025-05-07' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-05-06' />
+    <tag k='TODO:start_date' v='2025-05-07' />
     <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='8349' />
