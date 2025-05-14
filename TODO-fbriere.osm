@@ -1614,8 +1614,9 @@
     <tag k='name' v='Bonification du marquage de la traverse pour piétons' />
   </node>
   <node id='-56862709' action='modify' lat='45.38984608141' lon='-71.89283610463'>
-    <tag k='TODO:planned_end' v='Printemps 2025' />
+    <tag k='TODO:planned_end' v='2025-08-22' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McManamy-8-5x14po-web.pdf' />
+    <tag k='TODO:start_date' v='2025-05-20' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8077' />
