@@ -1715,8 +1715,9 @@
     <tag k='name' v='Construction d&apos;un trottoir (côté est, entre Vétérans et Villemontel)' />
   </node>
   <node id='-785558938' action='modify' lat='45.39197700921' lon='-71.9772485463'>
-    <tag k='TODO:planned_end' v='Printemps 2025' />
+    <tag k='TODO:planned_end' v='2025-06-20' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Megantic-memphremagog-8-5x14po-web.pdf' />
+    <tag k='TODO:start_date' v='2025-05-20' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8086' />
@@ -1724,8 +1725,9 @@
     <tag k='name' v='Construction d&apos;un trottoir (côté est)' />
   </node>
   <node id='-1126428304' action='modify' lat='45.39393104274' lon='-71.97834696847'>
-    <tag k='TODO:planned_end' v='Printemps 2025' />
+    <tag k='TODO:planned_end' v='2025-06-20' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Megantic-memphremagog-8-5x14po-web.pdf' />
+    <tag k='TODO:start_date' v='2025-05-20' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8086' />
@@ -1733,8 +1735,9 @@
     <tag k='name' v='Construction d&apos;un trottoir (côté nord, entre Mégantic et Barton)' />
   </node>
   <node id='-2159346944' action='modify' lat='45.39239273191' lon='-71.97745443463'>
-    <tag k='TODO:planned_end' v='Printemps 2025' />
+    <tag k='TODO:planned_end' v='2025-06-20' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Megantic-memphremagog-8-5x14po-web.pdf' />
+    <tag k='TODO:start_date' v='2025-05-20' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8086' />
