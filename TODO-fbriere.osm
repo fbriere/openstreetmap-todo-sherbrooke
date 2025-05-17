@@ -2204,8 +2204,4 @@
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Vérifier si la bande cyclable inverse se rend jusqu&apos;à King Ouest' />
   </node>
-  <node id='-3559470935' action='modify' lat='45.40463840455' lon='-71.89241231024'>
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Vérifier présence/retrait de l&apos;arrêt' />
-  </node>
 </osm>
