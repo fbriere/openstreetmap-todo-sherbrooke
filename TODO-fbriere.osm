@@ -1799,7 +1799,7 @@
   <node id='-1819178281' action='modify' lat='45.37348856088' lon='-71.89133073609'>
     <tag k='TODO:planned_end' v='2025-05-20' />
     <tag k='TODO:start_date' v='2024-05-13' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='5921' />
     <tag k='TODO:ville:travaux' v='2023' />
