@@ -2207,4 +2207,23 @@
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Vérifier si la bande cyclable inverse se rend jusqu&apos;à King Ouest' />
   </node>
+  <node id='-3490230829' action='modify' lat='45.40977519759' lon='-71.88360622213'>
+    <tag k='TODO:session' v='2025-05-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8407' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Bandes cyclables unidirectionnelles (entre Terrill et King Est)' />
+  </node>
+  <node id='-2393824184' action='modify' lat='45.3975228018' lon='-71.91857200797'>
+    <tag k='TODO:session' v='2025-05-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8408' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Ajout d&apos;un lien cyclable entre les rues Tracy et King Ouest via le parc Jacques-Cartier' />
+    <tag k='realisationestime' v='Indéterminé' />
+  </node>
 </osm>
