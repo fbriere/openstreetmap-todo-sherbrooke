@@ -2226,4 +2226,47 @@
     <tag k='name' v='Ajout d&apos;un lien cyclable entre les rues Tracy et King Ouest via le parc Jacques-Cartier' />
     <tag k='realisationestime' v='Indéterminé' />
   </node>
+  <node id='-3275997852' action='modify' lat='45.40168552021' lon='-71.88442737132'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Halte Roland-Roy (stationnement public)' />
+  </node>
+  <node id='-2574610360' action='modify' lat='45.38414018263' lon='-71.94007247955'>
+    <tag k='TODO:session' v='2025-05-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-1621096728' action='modify' lat='45.38951455257' lon='-71.91777527869'>
+    <tag k='TODO:session' v='2025-05-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='Chaussée désignée' />
+  </node>
+  <node id='-4034761307' action='modify' lat='45.38432668346' lon='-71.89197242528'>
+    <tag k='TODO:session' v='2025-05-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='stop' />
+    <tag k='name' v='Arrêt toutes directions' />
+  </node>
+  <node id='-2451485856' action='modify' lat='45.38523845829' lon='-71.89205289423'>
+    <tag k='TODO:session' v='2025-05-20' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='name' v='Corridor de marche (côté ouest, entre Darche et Union)' />
+  </node>
+  <node id='-3067414346' action='modify' lat='45.38402150185' lon='-71.93901300967'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='crossing' />
+    <tag k='name' v='Aucune traverse présente ici' />
+  </node>
+  <node id='-744376309' action='modify' lat='45.3883240639' lon='-71.9176411736'>
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='name' v='oneway:bicycle=no' />
+  </node>
 </osm>
