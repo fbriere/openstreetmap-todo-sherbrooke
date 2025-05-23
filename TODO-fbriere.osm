@@ -1518,13 +1518,13 @@
     <tag k='name' v='Immeuble complètement détruit par un incendie' />
   </node>
   <node id='-790981044' action='modify' lat='45.37030080313' lon='-71.99960994267'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Paillard-web.pdf' />
     <tag k='TODO:start_date' v='Été 2025' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8079' />
     <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Ajout d&apos;un trottoir (entre Henri-Labonne et Godin)' />
+    <tag k='name' v='Ajout d&apos;un trottoir (côté sud, entre Henri-Labonne et Godin)' />
   </node>
   <node id='-228095156' action='modify' lat='45.37184540139' lon='-71.98151509948'>
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Fortier-Sud-8-5x14po-web.pdf' />
@@ -2077,7 +2077,7 @@
     <tag k='TODO:planned_end' v='2025-05-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-04-25' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='8289' />
     <tag k='TODO:ville:travaux' v='2025' />
