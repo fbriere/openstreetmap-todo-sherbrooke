@@ -145,13 +145,6 @@
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
-  <node id='-3439725826' action='modify' lat='45.3977788438' lon='-71.91392556611'>
-    <tag k='TODO:session' v='2023-01-24' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='stop' />
-    <tag k='name' v='Arrêt toutes directions' />
-  </node>
   <node id='-3917376573' action='modify' lat='45.38160260823' lon='-71.87367443562'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024' />
@@ -377,11 +370,6 @@
     <tag k='TODO:ville:projet' v='8217' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Amélioration du passage piétonnier' />
-  </node>
-  <node id='-1049501961' action='modify' lat='45.38700733123' lon='-71.92742452562'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='name' v='Ajout de `bicycle=dismount`' />
   </node>
   <node id='-3555535340' action='modify' lat='45.41065668262' lon='-71.87483042747'>
     <tag k='TODO:planned_end' v='2024-09-25' />
@@ -1090,6 +1078,7 @@
   <node id='-2037511896' action='modify' lat='45.39861477214' lon='-71.92128762737'>
     <tag k='TODO:comments' v='Arrêt 1340' />
     <tag k='TODO:source' v='https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/' />
+    <tag k='TODO:status' v='dubious' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ajout d&apos;un abribus' />
   </node>
@@ -2263,10 +2252,5 @@
     <tag k='TODO:status' v='certain' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Aucune traverse présente ici' />
-  </node>
-  <node id='-744376309' action='modify' lat='45.3883240639' lon='-71.9176411736'>
-    <tag k='TODO:status' v='certain' />
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='oneway:bicycle=no' />
   </node>
 </osm>
