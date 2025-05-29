@@ -1209,9 +1209,10 @@
     <tag k='name' v='Réduction de vitesse à 70 km/h (jusqu&apos;aux limites de la ville)' />
   </node>
   <node id='-3613734681' action='modify' lat='45.38826001395' lon='-71.86471045554'>
-    <tag k='TODO:planned_end' v='Printemps 2025' />
+    <tag k='TODO:planned_end' v='2025-06-27' />
     <tag k='TODO:session' v='2024-10-15' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Lavigerie-web.pdf' />
+    <tag k='TODO:start_date' v='2025-06-02' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='stop' />
     <tag k='TODO:ville:projet' v='8087' />
@@ -1734,8 +1735,9 @@
     <tag k='name' v='Ajout d&apos;une traverse' />
   </node>
   <node id='-1055703500' action='modify' lat='45.38978580427' lon='-71.85931922078'>
-    <tag k='TODO:planned_end' v='Printemps 2025' />
+    <tag k='TODO:planned_end' v='2025-06-27' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Lavigerie-web.pdf' />
+    <tag k='TODO:start_date' v='2025-06-02' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8087' />
@@ -1744,8 +1746,9 @@
   </node>
   <node id='-141249153' action='modify' lat='45.38858778274' lon='-71.85923339009'>
     <tag k='TODO:comments' v='Ajout d&apos;une courte portion de trottoir du côté ouest' />
-    <tag k='TODO:planned_end' v='Printemps 2025' />
+    <tag k='TODO:planned_end' v='2025-06-27' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Lavigerie-web.pdf' />
+    <tag k='TODO:start_date' v='2025-06-02' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8087' />
@@ -1963,7 +1966,7 @@
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
-    <tag k='TODO:ville:projet' v='8269' />
+    <tag k='TODO:ville:projet' v='8438' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Remplacement surface synthétique' />
   </node>
