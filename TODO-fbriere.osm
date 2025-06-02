@@ -2126,6 +2126,7 @@
     <tag k='name' v='Aménagement cyclable sur la rue Veilleux, à l&apos;angle de la rue Dunant' />
   </node>
   <node id='-540540193' action='modify' lat='45.39474246932' lon='-71.89599176111'>
+    <tag k='TODO:comments' v='Il ne sagit que d&apos;une dalle de béton pour le moment. (Sera-t-elle connectée à une éventuelle piste?)' />
     <tag k='TODO:planned_end' v='2025-05-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-05-07' />
@@ -2190,14 +2191,6 @@
     <tag k='TODO:ville:projet' v='8313' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Aménagement cyclable sur le boulevard Queen-Victoria, au sud du boulevard de Portland' />
-  </node>
-  <node id='-2299185908' action='modify' lat='45.40160642491' lon='-71.89045966208'>
-    <tag k='TODO:type' v='traffic_signal' />
-    <tag k='name' v='Vérifier présence/retrait du feu de circulation en direction sud' />
-  </node>
-  <node id='-3932788033' action='modify' lat='45.4018361831' lon='-71.89058840811'>
-    <tag k='TODO:type' v='cycleway' />
-    <tag k='name' v='Vérifier si la bande cyclable inverse se rend jusqu&apos;à King Ouest' />
   </node>
   <node id='-3490230829' action='modify' lat='45.40977519759' lon='-71.88360622213'>
     <tag k='TODO:session' v='2025-05-20' />
