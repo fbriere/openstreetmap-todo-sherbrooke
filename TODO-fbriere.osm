@@ -2249,4 +2249,11 @@
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Aucune traverse présente ici' />
   </node>
+  <node id='-1574280165' action='modify' lat='45.40355681245' lon='-71.88612681538'>
+    <tag k='TODO:comments' v='covered=yes shelter=no bench=no' />
+    <tag k='TODO:source' v='https://www.sts.qc.ca/2023/10/23/la-sts-ajoute-des-marquises-a-certains-arrets-achalandes/' />
+    <tag k='TODO:status' v='certain' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;une marquise à l&apos;arrêt d&apos;autobus' />
+  </node>
 </osm>
