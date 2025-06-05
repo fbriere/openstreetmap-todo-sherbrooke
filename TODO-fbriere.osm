@@ -2252,4 +2252,10 @@
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ajout d&apos;une marquise à l&apos;arrêt d&apos;autobus' />
   </node>
+  <node id='-895751774' action='modify' lat='45.39437044708' lon='-71.86943650782'>
+    <tag k='TODO:comments' v='Emplacement inconnu' />
+    <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2025/05/08/laure-letarte-lavoie-brigue-un-deuxieme-mandat-PJOO3NGPL5GABFMB5EB5MYQ64Q/' />
+    <tag k='TODO:type' v='park' />
+    <tag k='name' v='Aménagement de jeux d&apos;eau au parc Bureau?' />
+  </node>
 </osm>
