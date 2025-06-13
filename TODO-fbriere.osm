@@ -1521,60 +1521,60 @@
     <tag k='name' v='Ajout d&apos;un trottoir (côté nord, entre Bourque et Gouin)' />
   </node>
   <node id='-3613104664' action='modify' lat='45.41549861278' lon='-71.95628529513'>
-    <tag k='TODO:planned_end' v='2025-06-09' />
+    <tag k='TODO:planned_end' v='2025-06-27' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Pavage (entre Juge-Rivard et Nicolas-Scheib)' />
   </node>
   <node id='-4088180321' action='modify' lat='45.41342855547' lon='-71.95633558108'>
-    <tag k='TODO:planned_end' v='2025-06-09' />
+    <tag k='TODO:planned_end' v='2025-06-27' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Ajout de bandes cyclables (entre Charles-Hamel et Nicolas-Scheib)' />
   </node>
   <node id='-3908352391' action='modify' lat='45.41268977121' lon='-71.95639305074'>
-    <tag k='TODO:planned_end' v='2025-06-09' />
+    <tag k='TODO:planned_end' v='2025-06-27' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='stop' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Conversion de l&apos;arrêt en dos d&apos;âne' />
   </node>
   <node id='-3179778705' action='modify' lat='45.41590202055' lon='-71.95626373682'>
-    <tag k='TODO:planned_end' v='2025-06-09' />
+    <tag k='TODO:planned_end' v='2025-06-27' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Ajout d&apos;un trottoir (côté ouest, entre Juge-Rivard et Nicolas-Scheib)' />
   </node>
   <node id='-2097843493' action='modify' lat='45.41381621119' lon='-71.95634007722'>
-    <tag k='TODO:planned_end' v='2025-06-09' />
+    <tag k='TODO:planned_end' v='2025-06-27' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-277995811' action='modify' lat='45.41155673508' lon='-71.95637763083'>
-    <tag k='TODO:planned_end' v='2025-06-09' />
+    <tag k='TODO:planned_end' v='2025-06-27' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8075' />
     <tag k='TODO:ville:travaux' v='2025' />
