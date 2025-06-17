@@ -1909,7 +1909,7 @@
     <tag k='TODO:planned_end' v='2025-07-25' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-06-17' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8262' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -2083,7 +2083,9 @@
     <tag k='name' v='Aménagement cyclable sur la rue de la Pointe (parc Lucien-Blanchard)' />
   </node>
   <node id='-943175185' action='modify' lat='45.39761934686' lon='-71.91804743103'>
+    <tag k='TODO:planned_end' v='2025-06-18' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-18' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8301' />
@@ -2099,7 +2101,9 @@
     <tag k='name' v='Aménagement cyclable à l&apos;angle des rues McManamy et Kitchener' />
   </node>
   <node id='-493927530' action='modify' lat='45.38951493243' lon='-71.89556670372'>
+    <tag k='TODO:planned_end' v='2025-06-18' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-18' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8303' />
@@ -2115,7 +2119,9 @@
     <tag k='name' v='Aménagement cyclable à l&apos;angle des rues Denault et Claire-Jolicoeur' />
   </node>
   <node id='-808868021' action='modify' lat='45.38351385445' lon='-71.89883977863'>
+    <tag k='TODO:planned_end' v='2025-06-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-17' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8305' />
@@ -2134,7 +2140,9 @@
     <tag k='name' v='Aménagement cyclable à l&apos;angle des rues Galt Ouest et Belvédère Sud' />
   </node>
   <node id='-2597466567' action='modify' lat='45.3968422427' lon='-71.89649138386'>
+    <tag k='TODO:planned_end' v='2025-06-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-17' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8307' />
@@ -2142,7 +2150,9 @@
     <tag k='name' v='Aménagement cyclable au marché de la Gare' />
   </node>
   <node id='-655212612' action='modify' lat='45.3994537176' lon='-71.88921666291'>
+    <tag k='TODO:planned_end' v='2025-06-17' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-17' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8308' />
@@ -2151,7 +2161,7 @@
   </node>
   <node id='-3441146996' action='modify' lat='45.39816788146' lon='-71.87664487213'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8309' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -2167,14 +2177,16 @@
   </node>
   <node id='-320674461' action='modify' lat='45.38705678276' lon='-71.92645755033'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8311' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Aménagement cyclable sur la rue Galt Ouest, entre les rues Cabana et Tétreault' />
   </node>
   <node id='-4255052546' action='modify' lat='45.39823203802' lon='-71.91117170758'>
+    <tag k='TODO:planned_end' v='2025-06-18' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-18' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8312' />
@@ -2183,7 +2195,7 @@
   </node>
   <node id='-1316577033' action='modify' lat='45.40327696888' lon='-71.90178488579'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8313' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -2258,5 +2270,85 @@
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2025/05/08/laure-letarte-lavoie-brigue-un-deuxieme-mandat-PJOO3NGPL5GABFMB5EB5MYQ64Q/' />
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Aménagement de jeux d&apos;eau au parc Bureau?' />
+  </node>
+  <node id='-1122542261' action='modify' lat='45.3863778' lon='-71.90112824012'>
+    <tag k='TODO:planned_end' v='2025-06-17' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-17' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8503' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable à l&apos;angle des rues de l&apos;Ancienne-Carrière et Kingston' />
+  </node>
+  <node id='-4279346791' action='modify' lat='45.41230440354' lon='-71.87553822175'>
+    <tag k='TODO:planned_end' v='2025-06-17' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-17' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8504' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable dans le parc Adrien-Cambron, près de la 7e Avenue Nord et de la rue Zéphirin-Cormier' />
+  </node>
+  <node id='-3263618621' action='modify' lat='45.40134549841' lon='-71.90778573915'>
+    <tag k='TODO:planned_end' v='2025-06-17' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-17' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8505' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable à l&apos;angle des rues de l&apos;Ontario et Walton' />
+  </node>
+  <node id='-4181770383' action='modify' lat='45.40327041874' lon='-71.87977206469'>
+    <tag k='TODO:planned_end' v='2025-06-17' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-17' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8506' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable à l&apos;angle des rues Murray et du Conseil' />
+  </node>
+  <node id='-409160765' action='modify' lat='45.40847675571' lon='-71.8726322358'>
+    <tag k='TODO:planned_end' v='2025-06-18' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-18' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8507' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur la 10e Avenue Nord, à l&apos;angle de la rue King Est' />
+  </node>
+  <node id='-3149842366' action='modify' lat='45.4103357775' lon='-71.88439692093'>
+    <tag k='TODO:planned_end' v='2025-06-18' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-18' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8508' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur la rue du Cégep' />
+  </node>
+  <node id='-319201243' action='modify' lat='45.3911298448' lon='-71.89041933917'>
+    <tag k='TODO:planned_end' v='2025-06-18' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-18' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8509' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur la rue LaRocque, à l&apos;angle de la rue de Mère-Teresa' />
+  </node>
+  <node id='-3829498886' action='modify' lat='45.39975095078' lon='-71.89306636896'>
+    <tag k='TODO:planned_end' v='2025-06-18' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-06-18' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='cycleway' />
+    <tag k='TODO:ville:projet' v='8510' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Aménagement cyclable sur la rue Gillespie, à l&apos;angle de la rue King Ouest' />
   </node>
 </osm>
