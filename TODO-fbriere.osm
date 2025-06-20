@@ -1581,7 +1581,7 @@
     <tag k='name' v='Ajout d&apos;un passage piétonnier surélevé' />
   </node>
   <node id='-2630078359' action='modify' lat='45.38219036633' lon='-71.9358694607'>
-    <tag k='TODO:planned_end' v='2025-06-20' />
+    <tag k='TODO:planned_end' v='2025-08-29' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Parent-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
     <tag k='TODO:status' v='ongoing' />
@@ -1805,7 +1805,7 @@
   <node id='-977848378' action='modify' lat='45.38076627532' lon='-71.98489725453'>
     <tag k='TODO:planned_end' v='2025-06-20' />
     <tag k='TODO:start_date' v='2025-04-14' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8257' />
     <tag k='TODO:ville:travaux' v='2025' />
