@@ -1516,7 +1516,7 @@
     <tag k='TODO:planned_end' v='2025-08-08' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Fortier-Sud-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-07-07' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8080' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -2356,7 +2356,7 @@
   <node id='-2929890955' action='modify' lat='45.42241111076' lon='-71.95620974108'>
     <tag k='TODO:planned_end' v='2025-07-11' />
     <tag k='TODO:start_date' v='2025-07-07' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='8540' />
     <tag k='TODO:ville:travaux' v='2025' />
