@@ -1057,8 +1057,10 @@
     <tag k='name' v='Construction de dos d&apos;âne Rue Buck' />
   </node>
   <node id='-2997165241' action='modify' lat='45.40386250794' lon='-71.93943427681'>
+    <tag k='TODO:planned_end' v='2025-07-18' />
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-07-15' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='traffic_signal' />
     <tag k='TODO:ville:projet' v='8162' />
@@ -2356,7 +2358,7 @@
   <node id='-2929890955' action='modify' lat='45.42241111076' lon='-71.95620974108'>
     <tag k='TODO:planned_end' v='2025-07-10' />
     <tag k='TODO:start_date' v='2025-07-07' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='surface' />
     <tag k='TODO:ville:projet' v='8540' />
     <tag k='TODO:ville:travaux' v='2025' />
