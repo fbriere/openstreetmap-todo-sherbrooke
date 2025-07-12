@@ -1835,6 +1835,7 @@
   </node>
   <node id='-2109423607' action='modify' lat='45.47298331917' lon='-71.94568704031'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-07-17' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8253' />
@@ -1911,7 +1912,7 @@
     <tag k='name' v='Amélioration des passages piétonniers de toutes les branches du carrefour giratoire' />
   </node>
   <node id='-672931812' action='modify' lat='45.39975731459' lon='-71.93617086271'>
-    <tag k='TODO:planned_end' v='2025-07-25' />
+    <tag k='TODO:planned_end' v='2025-08-22' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-06-17' />
     <tag k='TODO:status' v='ongoing' />
