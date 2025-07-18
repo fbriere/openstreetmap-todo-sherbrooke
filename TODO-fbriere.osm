@@ -1061,7 +1061,7 @@
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-07-15' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='traffic_signal' />
     <tag k='TODO:ville:projet' v='8162' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1631,8 +1631,9 @@
     <tag k='name' v='Ajout d&apos;un trottoir?' />
   </node>
   <node id='-1910364668' action='modify' lat='45.47319298597' lon='-71.95148528159'>
-    <tag k='TODO:planned_end' v='Été 2025' />
+    <tag k='TODO:planned_end' v='2025-10-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
+    <tag k='TODO:start_date' v='2025-08-11' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8078' />
@@ -1640,8 +1641,9 @@
     <tag k='name' v='Déplacement du trottoir vers le côté nord' />
   </node>
   <node id='-2701592705' action='modify' lat='45.4733923589' lon='-71.95043385565'>
-    <tag k='TODO:planned_end' v='Été 2025' />
+    <tag k='TODO:planned_end' v='2025-10-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
+    <tag k='TODO:start_date' v='2025-08-11' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8078' />
@@ -1650,8 +1652,9 @@
   </node>
   <node id='-2584083941' action='modify' lat='45.47310646542' lon='-71.95213974059'>
     <tag k='TODO:comments' v='Ajout d&apos;arrêts dans toutes les directions' />
-    <tag k='TODO:planned_end' v='Été 2025' />
+    <tag k='TODO:planned_end' v='2025-10-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
+    <tag k='TODO:start_date' v='2025-08-11' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='8078' />
@@ -1660,8 +1663,9 @@
   </node>
   <node id='-1812778899' action='modify' lat='45.47328702989' lon='-71.95088446677'>
     <tag k='TODO:comments' v='Aucune information supplémentaire fournie' />
-    <tag k='TODO:planned_end' v='Été 2025' />
+    <tag k='TODO:planned_end' v='2025-10-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
+    <tag k='TODO:start_date' v='2025-08-11' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='8078' />
@@ -1669,8 +1673,9 @@
     <tag k='name' v='Reconfiguration de l&apos;intersection' />
   </node>
   <node id='-27168996' action='modify' lat='45.39159409809' lon='-72.00849296808'>
-    <tag k='TODO:planned_end' v='Été 2025' />
+    <tag k='TODO:planned_end' v='2025-09-05' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Perles-web.pdf' />
+    <tag k='TODO:start_date' v='2025-07-21' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8082' />
@@ -1678,10 +1683,10 @@
     <tag k='name' v='Ajout d&apos;un trottoir (côté ouest, entre R-220 et le passage piétonnier)' />
   </node>
   <node id='-1573675280' action='modify' lat='45.37407199279' lon='-71.98451400071'>
-    <tag k='TODO:planned_end' v='2025-07-16' />
+    <tag k='TODO:planned_end' v='2025-07-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Fortier-Nord-web.pdf' />
     <tag k='TODO:start_date' v='2025-07-01' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8081' />
     <tag k='TODO:ville:travaux' v='2025' />
