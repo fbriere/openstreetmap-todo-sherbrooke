@@ -1676,7 +1676,7 @@
     <tag k='TODO:planned_end' v='2025-09-05' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Perles-web.pdf' />
     <tag k='TODO:start_date' v='2025-07-21' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8082' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -2369,5 +2369,15 @@
     <tag k='TODO:ville:projet' v='8540' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Asphaltage d&apos;une portion des rues Francis-McCrea et Laure-Conan' />
+  </node>
+  <node id='-2601726023' action='modify' lat='45.39577398352' lon='-71.94002415549'>
+    <tag k='TODO:planned_end' v='2025-08-06' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-08-06' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='8631' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Travaux au passage à niveau' />
   </node>
 </osm>
