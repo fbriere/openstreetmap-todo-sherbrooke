@@ -1686,7 +1686,7 @@
     <tag k='TODO:planned_end' v='2025-07-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Fortier-Nord-web.pdf' />
     <tag k='TODO:start_date' v='2025-07-01' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8081' />
     <tag k='TODO:ville:travaux' v='2025' />
