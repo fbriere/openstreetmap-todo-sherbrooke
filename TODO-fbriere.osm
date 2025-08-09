@@ -1935,10 +1935,10 @@
     <tag k='name' v='Aménagement d&apos;une placette' />
   </node>
   <node id='-4233619602' action='modify' lat='45.41295287847' lon='-71.95721920174'>
-    <tag k='TODO:planned_end' v='2025-06-27' />
+    <tag k='TODO:planned_end' v='2025-08-19' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-04-24' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8265' />
     <tag k='TODO:ville:travaux' v='2025' />
