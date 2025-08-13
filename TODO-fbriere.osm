@@ -300,18 +300,20 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-285701010' action='modify' lat='45.38698095678' lon='-71.92746341497'>
-    <tag k='TODO:planned_end' v='2025' />
+    <tag k='TODO:planned_end' v='2025-09-05' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-08-13' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7008' />
     <tag k='TODO:ville:travaux' v='2024' />
     <tag k='name' v='Modifications géométriques et amélioration du passage piétonnier' />
   </node>
   <node id='-1248127033' action='modify' lat='45.38696400298' lon='-71.92619741231'>
-    <tag k='TODO:planned_end' v='2025' />
+    <tag k='TODO:planned_end' v='2025-09-05' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-08-13' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7026' />
     <tag k='TODO:ville:travaux' v='2024' />
