@@ -748,7 +748,7 @@
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Passage pour cavaliers' />
   </node>
-  <node id='-1712895502' action='modify' lat='45.38477503646' lon='-71.90137625009'>
+  <node id='-704196857' action='modify' lat='45.38485509912' lon='-71.90130517155'>
     <tag k='TODO:planned_end' v='Été 2024' />
     <tag k='TODO:session' v='2024-01-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -2403,5 +2403,15 @@
     <tag k='TODO:ville:projet' v='8666' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Piste à rouleaux (Pumptrack)' />
+  </node>
+  <node id='-649238510' action='modify' lat='45.38473359127' lon='-71.90130114689'>
+    <tag k='TODO:planned_end' v='2025-08-22' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-08-19' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='sidewalk' />
+    <tag k='TODO:ville:projet' v='6963' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Construction d&apos;un trottoir (côté est, entre Jogues et Raoul-Bruneau)' />
   </node>
 </osm>
