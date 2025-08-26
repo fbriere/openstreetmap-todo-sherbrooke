@@ -320,7 +320,9 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-205445503' action='modify' lat='45.38890800734' lon='-71.96852267325'>
+    <tag k='TODO:planned_end' v='2025-10-08' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:start_date' v='2025-08-27' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8214' />
@@ -328,8 +330,10 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-1492646933' action='modify' lat='45.39049028558' lon='-71.96959555686'>
+    <tag k='TODO:planned_end' v='2025-09-05' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-08-25' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8213' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -348,7 +352,9 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-3546669908' action='modify' lat='45.40902977844' lon='-71.92780137599'>
+    <tag k='TODO:planned_end' v='2025-10-10' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
+    <tag k='TODO:start_date' v='2025-08-29' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8216' />
@@ -1838,7 +1844,7 @@
     <tag k='TODO:planned_end' v='2025-09-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-08-25' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='8252' />
     <tag k='TODO:ville:travaux' v='2025' />
