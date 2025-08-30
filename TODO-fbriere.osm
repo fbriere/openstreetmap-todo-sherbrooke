@@ -293,7 +293,7 @@
     <tag k='TODO:session' v='2024-02-20 (7.3.12 - PAFFSR)' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2025-08-11' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8238' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -355,7 +355,7 @@
     <tag k='TODO:planned_end' v='2025-10-10' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2025-08-29' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8216' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1598,7 +1598,7 @@
     <tag k='TODO:planned_end' v='2025-08-29' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Parent-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8084' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1772,7 +1772,9 @@
     <tag k='name' v='Ajout d&apos;une traverse (avec FRCR)' />
   </node>
   <node id='-4275793014' action='modify' lat='45.42047738123' lon='-71.86664164603'>
+    <tag k='TODO:planned_end' v='2025-09-26' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-09-03' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='TODO:ville:projet' v='8161' />
@@ -2426,7 +2428,7 @@
     <tag k='TODO:planned_end' v='2025-08-29' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McManamy-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-08-19' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='8669' />
     <tag k='TODO:ville:travaux' v='2025' />
