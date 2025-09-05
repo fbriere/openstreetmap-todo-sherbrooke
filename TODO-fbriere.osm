@@ -330,7 +330,7 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-1492646933' action='modify' lat='45.39049028558' lon='-71.96959555686'>
-    <tag k='TODO:planned_end' v='2025-09-05' />
+    <tag k='TODO:planned_end' v='2025-09-12' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2025-08-25' />
     <tag k='TODO:status' v='ongoing' />
@@ -1683,7 +1683,7 @@
     <tag k='name' v='Reconfiguration de l&apos;intersection' />
   </node>
   <node id='-27168996' action='modify' lat='45.39159409809' lon='-72.00849296808'>
-    <tag k='TODO:planned_end' v='2025-09-05' />
+    <tag k='TODO:planned_end' v='2025-09-19' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Perles-web.pdf' />
     <tag k='TODO:start_date' v='2025-07-21' />
     <tag k='TODO:status' v='ongoing' />
@@ -1846,7 +1846,7 @@
     <tag k='TODO:planned_end' v='2025-09-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-08-25' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='misc' />
     <tag k='TODO:ville:projet' v='8252' />
     <tag k='TODO:ville:travaux' v='2025' />
