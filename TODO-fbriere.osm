@@ -303,7 +303,7 @@
     <tag k='TODO:planned_end' v='2025-09-05' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2025-08-13' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7008' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -313,7 +313,7 @@
     <tag k='TODO:planned_end' v='2025-09-05' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2025-08-13' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='7026' />
     <tag k='TODO:ville:travaux' v='2024' />
@@ -1516,8 +1516,9 @@
     <tag k='name' v='Immeuble complètement détruit par un incendie' />
   </node>
   <node id='-790981044' action='modify' lat='45.37030080313' lon='-71.99960994267'>
+    <tag k='TODO:planned_end' v='2025-11-28' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Paillard-web.pdf' />
-    <tag k='TODO:start_date' v='Été 2025' />
+    <tag k='TODO:start_date' v='2025-09-15' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8079' />
@@ -1595,10 +1596,10 @@
     <tag k='name' v='Ajout d&apos;un passage piétonnier surélevé' />
   </node>
   <node id='-2630078359' action='modify' lat='45.38219036633' lon='-71.9358694607'>
-    <tag k='TODO:planned_end' v='2025-08-29' />
+    <tag k='TODO:planned_end' v='2025-10-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Parent-web.pdf' />
     <tag k='TODO:start_date' v='2025-04-28' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8084' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1942,6 +1943,7 @@
   </node>
   <node id='-4285999292' action='modify' lat='45.47280825472' lon='-71.94583129732'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-09-08' />
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8263' />
