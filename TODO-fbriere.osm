@@ -1908,16 +1908,20 @@
     <tag k='name' v='Modifications géométriques à l&apos;intersection' />
   </node>
   <node id='-876463988' action='modify' lat='45.42013808278' lon='-71.87055229567'>
+    <tag k='TODO:planned_end' v='2025-09-26' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-09-03' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8219' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-2694171545' action='modify' lat='45.4203592067' lon='-71.86715217115'>
+    <tag k='TODO:planned_end' v='2025-09-26' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-09-03' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8218' />
     <tag k='TODO:ville:travaux' v='2025' />
