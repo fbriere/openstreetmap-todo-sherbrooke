@@ -1615,7 +1615,7 @@
     <tag k='name' v='Bonification du marquage de la traverse pour piétons' />
   </node>
   <node id='-56862709' action='modify' lat='45.38984608141' lon='-71.89283610463'>
-    <tag k='TODO:planned_end' v='2025-09-19' />
+    <tag k='TODO:planned_end' v='2025-09-26' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McManamy-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-05-20' />
     <tag k='TODO:status' v='ongoing' />
@@ -1936,10 +1936,10 @@
     <tag k='name' v='Amélioration des passages piétonniers de toutes les branches du carrefour giratoire' />
   </node>
   <node id='-672931812' action='modify' lat='45.39975731459' lon='-71.93617086271'>
-    <tag k='TODO:planned_end' v='2025-08-22' />
+    <tag k='TODO:planned_end' v='2025-09-26' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-06-17' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8262' />
     <tag k='TODO:ville:travaux' v='2025' />
