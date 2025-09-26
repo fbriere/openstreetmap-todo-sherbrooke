@@ -674,7 +674,7 @@
   </node>
   <node id='-849641445' action='modify' lat='45.44995841755' lon='-71.9463742301'>
     <tag k='TODO:comments' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/11/20/le-projet-residentiel-sur-lancien-golf-prince-de-galles-repris-par-le-groupe-custeau-BHZRJ7PXOBCDHFY65V33TIW2A4/' />
-    <tag k='TODO:planned_end' v='2025-09-26' />
+    <tag k='TODO:planned_end' v='2026-09-25' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Étienne-Desmarteau.pdf' />
     <tag k='TODO:start_date' v='2023-09-22' />
     <tag k='TODO:status' v='ongoing' />
@@ -1801,7 +1801,7 @@
   <node id='-3561800557' action='modify' lat='45.37471959324' lon='-71.89063404144'>
     <tag k='TODO:planned_end' v='2025-09-26' />
     <tag k='TODO:start_date' v='2025-04-23' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8255' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1939,7 +1939,7 @@
     <tag k='TODO:planned_end' v='2025-09-26' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-06-17' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8262' />
     <tag k='TODO:ville:travaux' v='2025' />
