@@ -1615,7 +1615,7 @@
     <tag k='name' v='Bonification du marquage de la traverse pour piétons' />
   </node>
   <node id='-56862709' action='modify' lat='45.38984608141' lon='-71.89283610463'>
-    <tag k='TODO:planned_end' v='2025-09-26' />
+    <tag k='TODO:planned_end' v='2025-10-17' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McManamy-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-05-20' />
     <tag k='TODO:status' v='ongoing' />
@@ -1773,7 +1773,7 @@
     <tag k='name' v='Ajout d&apos;une traverse (avec FRCR)' />
   </node>
   <node id='-4275793014' action='modify' lat='45.42047738123' lon='-71.86664164603'>
-    <tag k='TODO:planned_end' v='2025-09-26' />
+    <tag k='TODO:planned_end' v='2025-10-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-09-03' />
     <tag k='TODO:status' v='ongoing' />
@@ -1873,16 +1873,20 @@
     <tag k='name' v='Aménagement du parc Léonard-Cohen' />
   </node>
   <node id='-1826888661' action='modify' lat='45.42001811791' lon='-71.8736940791'>
+    <tag k='TODO:planned_end' v='2025-10-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-09-03' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='traffic_signal' />
     <tag k='TODO:ville:projet' v='8167' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Ajout d&apos;un feu de circulation' />
   </node>
   <node id='-3685905153' action='modify' lat='45.42008866199' lon='-71.87269545513'>
+    <tag k='TODO:planned_end' v='2025-10-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-09-03' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='traffic_signal' />
     <tag k='TODO:ville:projet' v='8167' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1908,7 +1912,7 @@
     <tag k='name' v='Modifications géométriques à l&apos;intersection' />
   </node>
   <node id='-876463988' action='modify' lat='45.42013808278' lon='-71.87055229567'>
-    <tag k='TODO:planned_end' v='2025-09-26' />
+    <tag k='TODO:planned_end' v='2025-10-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-09-03' />
     <tag k='TODO:status' v='ongoing' />
@@ -1918,7 +1922,7 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-2694171545' action='modify' lat='45.4203592067' lon='-71.86715217115'>
-    <tag k='TODO:planned_end' v='2025-09-26' />
+    <tag k='TODO:planned_end' v='2025-10-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-09-03' />
     <tag k='TODO:status' v='ongoing' />
