@@ -2455,10 +2455,10 @@
     <tag k='name' v='Prolongement de la rue Kesteman' />
   </node>
   <node id='-1578197714' action='modify' lat='45.43437883613' lon='-71.86439722435'>
-    <tag k='TODO:planned_end' v='2028-12-31' />
+    <tag k='TODO:planned_end' v='2027-12-31' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Marie-Paule-Kirouac_Presentation.pdf' />
     <tag k='TODO:start_date' v='2025-09-30' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='new' />
     <tag k='TODO:ville:projet' v='8855' />
     <tag k='TODO:ville:travaux' v='2025' />
