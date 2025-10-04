@@ -1645,7 +1645,7 @@
     <tag k='TODO:planned_end' v='2025-10-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-08-11' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8078' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1655,7 +1655,7 @@
     <tag k='TODO:planned_end' v='2025-10-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-08-11' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='TODO:ville:projet' v='8078' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1666,7 +1666,7 @@
     <tag k='TODO:planned_end' v='2025-10-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-08-11' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='8078' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1677,7 +1677,7 @@
     <tag k='TODO:planned_end' v='2025-10-03' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-08-11' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='geometry' />
     <tag k='TODO:ville:projet' v='8078' />
     <tag k='TODO:ville:travaux' v='2025' />
