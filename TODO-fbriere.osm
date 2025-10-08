@@ -2464,4 +2464,14 @@
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Ouverture de la rue Marie-Paule-Kirouac' />
   </node>
+  <node id='-3308195191' action='modify' lat='45.43818862957' lon='-71.89656187467'>
+    <tag k='TODO:planned_end' v='2026-12-11' />
+    <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Luzerne_info.pdf' />
+    <tag k='TODO:start_date' v='2025-10-13' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='new' />
+    <tag k='TODO:ville:projet' v='8946' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Ouverture de la rue de la Luzerne' />
+  </node>
 </osm>
