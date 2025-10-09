@@ -323,7 +323,7 @@
     <tag k='TODO:planned_end' v='2025-10-08' />
     <tag k='TODO:source' v='https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes' />
     <tag k='TODO:start_date' v='2025-08-27' />
-    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8214' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1932,8 +1932,10 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-2397121289' action='modify' lat='45.39565043501' lon='-71.98462043876'>
+    <tag k='TODO:planned_end' v='2025-10-24' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-10-09' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='8215' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -2465,7 +2467,7 @@
     <tag k='name' v='Ouverture de la rue Marie-Paule-Kirouac' />
   </node>
   <node id='-3308195191' action='modify' lat='45.43818862957' lon='-71.89656187467'>
-    <tag k='TODO:planned_end' v='2026-12-11' />
+    <tag k='TODO:planned_end' v='2027-12-10' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Luzerne_info.pdf' />
     <tag k='TODO:start_date' v='2025-10-13' />
     <tag k='TODO:status' v='planned' />
