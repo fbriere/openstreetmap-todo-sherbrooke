@@ -1932,7 +1932,7 @@
     <tag k='name' v='Amélioration du passage piétonnier' />
   </node>
   <node id='-2397121289' action='modify' lat='45.39565043501' lon='-71.98462043876'>
-    <tag k='TODO:planned_end' v='2025-10-24' />
+    <tag k='TODO:planned_end' v='2025-11-07' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-10-09' />
     <tag k='TODO:status' v='ongoing' />
