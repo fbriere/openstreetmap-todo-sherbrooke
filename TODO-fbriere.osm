@@ -1980,7 +1980,8 @@
   </node>
   <node id='-1342114505' action='modify' lat='45.39867221434' lon='-72.00764671035'>
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:start_date' v='2025-09-22' />
+    <tag k='TODO:status' v='ongoing' />
     <tag k='TODO:type' v='park' />
     <tag k='TODO:ville:projet' v='8267' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -2485,5 +2486,16 @@
     <tag k='TODO:ville:projet' v='8985' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Ouverture de la rue Jocelyne-Bourassa' />
+  </node>
+  <node id='-3813264755' action='modify' lat='45.40500602125' lon='-71.8909635704'>
+    <tag k='TODO:planned_end' v='2025-11-14' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-10-27' />
+    <tag k='TODO:status' v='ongoing' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='9049' />
+    <tag k='TODO:ville:travaux' v='2025' />
+    <tag k='name' v='Démolition du viaduc ferroviaire Frontenac et remplacement par des rails sur remblai' />
+    <tag k='repercussion' v='La démolition du viaduc aura lieu de soir et de nuit, du vendredi 7 novembre à 16 h au samedi 8 novembre à 7 h, ce qui pourrait générer du bruit et des vibrations. Les travaux de remblai et de reconstruction des rails se poursuivront 24 h sur 24 jusqu&apos;au lundi 10 novembre à 17 h.' />
   </node>
 </osm>
