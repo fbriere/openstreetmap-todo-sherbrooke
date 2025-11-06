@@ -1642,7 +1642,7 @@
     <tag k='name' v='Ajout d&apos;un trottoir?' />
   </node>
   <node id='-1910364668' action='modify' lat='45.47319298597' lon='-71.95148528159'>
-    <tag k='TODO:planned_end' v='2025-11-14' />
+    <tag k='TODO:planned_end' v='2025-11-28' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-08-11' />
     <tag k='TODO:status' v='ongoing' />
@@ -1652,7 +1652,7 @@
     <tag k='name' v='Déplacement du trottoir vers le côté nord' />
   </node>
   <node id='-2701592705' action='modify' lat='45.4733923589' lon='-71.95043385565'>
-    <tag k='TODO:planned_end' v='2025-11-14' />
+    <tag k='TODO:planned_end' v='2025-11-28' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-08-11' />
     <tag k='TODO:status' v='ongoing' />
@@ -1663,7 +1663,7 @@
   </node>
   <node id='-2584083941' action='modify' lat='45.47310646542' lon='-71.95213974059'>
     <tag k='TODO:comments' v='Ajout d&apos;arrêts dans toutes les directions' />
-    <tag k='TODO:planned_end' v='2025-11-14' />
+    <tag k='TODO:planned_end' v='2025-11-28' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-08-11' />
     <tag k='TODO:status' v='ongoing' />
@@ -1674,7 +1674,7 @@
   </node>
   <node id='-1812778899' action='modify' lat='45.47328702989' lon='-71.95088446677'>
     <tag k='TODO:comments' v='Aucune information supplémentaire fournie' />
-    <tag k='TODO:planned_end' v='2025-11-14' />
+    <tag k='TODO:planned_end' v='2025-11-28' />
     <tag k='TODO:source' v='https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf' />
     <tag k='TODO:start_date' v='2025-08-11' />
     <tag k='TODO:status' v='ongoing' />
