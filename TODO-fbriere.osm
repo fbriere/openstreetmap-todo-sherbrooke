@@ -2884,7 +2884,7 @@
     <tag k='TODO:planned_end' v='2025-11-12' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2025-11-12' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='crossing' />
     <tag k='TODO:ville:projet' v='9066' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -2903,5 +2903,15 @@
     <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ajout d&apos;un banc' />
+  </node>
+  <node id='-4133294432' action='modify' lat='45.39969389413' lon='-71.8892307648'>
+    <tag k='TODO:planned_end' v='2026-11-15' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:start_date' v='2025-11-15' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='TODO:ville:projet' v='8178' />
+    <tag k='TODO:ville:travaux' v='2025-2026' />
+    <tag k='name' v='Construction d&apos;étages sur l&apos;ancienne Armée du salut, rue Wellington Sud' />
   </node>
 </osm>
