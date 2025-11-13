@@ -2511,7 +2511,6 @@
     <tag k='TODO:ville:projet' v='9049' />
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Démolition du viaduc ferroviaire Frontenac et remplacement par des rails sur remblai' />
-    <tag k='repercussion' v='La démolition du viaduc aura lieu de soir et de nuit, du vendredi 7 novembre à 16 h au samedi 8 novembre à 7 h, ce qui pourrait générer du bruit et des vibrations. Les travaux de remblai et de reconstruction des rails se poursuivront 24 h sur 24 jusqu&apos;au lundi 10 novembre à 17 h.' />
   </node>
   <node id='-3170203510' action='modify' lat='45.40020689591' lon='-71.88927773545'>
     <tag k='TODO:resolution' v='C.M. 2025-0879-00' />
