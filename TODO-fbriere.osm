@@ -2890,4 +2890,18 @@
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Ajout d&apos;une traverse de piéton' />
   </node>
+  <node id='-3090958939' action='modify' lat='45.4130310519' lon='-71.84312939778'>
+    <tag k='TODO:session' v='2025-09-22 (Fleurimont)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un banc' />
+  </node>
+  <node id='-3997259030' action='modify' lat='45.41342551625' lon='-71.84493586689'>
+    <tag k='TODO:session' v='2025-09-22 (Fleurimont)' />
+    <tag k='TODO:source' v='Ville de Sherbrooke' />
+    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:type' v='misc' />
+    <tag k='name' v='Ajout d&apos;un banc' />
+  </node>
 </osm>
