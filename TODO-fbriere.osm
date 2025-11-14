@@ -1017,7 +1017,7 @@
   </node>
   <node id='-4015408127' action='modify' lat='45.39065298679' lon='-71.99373738978'>
     <tag k='TODO:check_date' v='2025-03-22' />
-    <tag k='TODO:planned_end' v='2025-11-14' />
+    <tag k='TODO:planned_end' v='2026-09-18' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
     <tag k='TODO:start_date' v='2024-06-25' />
     <tag k='TODO:status' v='ongoing' />
