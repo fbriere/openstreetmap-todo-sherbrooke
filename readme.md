@@ -44,6 +44,8 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
   - `planned`: Travaux prévus
   - `ongoing`: Travaux en cours
   - `completed`: Travaux (théoriquement) complétés
+  - `resolution`: Travaux qui ont fait l'objet d'une résolution à un conseil ou comité de la Ville
+  - `official`: Travaux qui ont été inscrits à un règlement de la Ville
   - `certain`: Présence confirmée, mais auprès d'une source qui ne peut être citée; doit donc être vérifié sur place
   - `dubious`: Travaux sans aucun progrès visible depuis leur annonce initiale, possiblement annulés entre-temps
 

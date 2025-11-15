@@ -614,7 +614,6 @@
   <node id='-2178036584' action='modify' lat='45.40707638727' lon='-71.85115611706'>
     <tag k='TODO:session' v='Fleurimont/2023-04-24' />
     <tag k='TODO:source' v='Arrondissement de Fleurimont' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Rénovation majeure des jeux modulaires, qui seront aussi accessibles au public' />
   </node>
@@ -629,7 +628,6 @@
     <tag k='TODO:check_date' v='2023-12-25' />
     <tag k='TODO:session' v='2023-06-06' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='restriction' />
     <tag k='name' v='Demi-tour interdit entre Peel et Ozias-Leduc' />
   </node>
@@ -654,21 +652,18 @@
   <node id='-3490138953' action='modify' lat='45.41557685717' lon='-71.87949000244'>
     <tag k='TODO:session' v='2023-09-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Bandes de traverses blanches au sud et à l&apos;ouest de l&apos;intersection' />
   </node>
   <node id='-1895640933' action='modify' lat='45.41559470245' lon='-71.88052807149'>
     <tag k='TODO:session' v='2023-09-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Couloir de traverse du côté sud' />
   </node>
   <node id='-86302928' action='modify' lat='45.41497903703' lon='-71.87964677205'>
     <tag k='TODO:session' v='2023-09-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Corridor de marche de Terrill à Langlois' />
   </node>
@@ -721,21 +716,19 @@
     <tag k='TODO:check_date' v='2023-12-25' />
     <tag k='TODO:session' v='2023-10-17' />
     <tag k='TODO:source' v='Règlement n° 1-168' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-2919624243' action='modify' lat='45.40906972418' lon='-71.88813025705'>
     <tag k='TODO:session' v='2023-12-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Traverse pour piétons' />
   </node>
   <node id='-2801151452' action='modify' lat='45.38851601105' lon='-71.86964250718'>
     <tag k='TODO:session' v='2024-01-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Corridor de marche (côté sud, entre Bowen et Mailhot)' />
   </node>
@@ -743,14 +736,12 @@
     <tag k='TODO:check_date' v='2024-10-22' />
     <tag k='TODO:session' v='2024-01-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Passage pour piétons' />
   </node>
   <node id='-4248342139' action='modify' lat='45.41499864096' lon='-72.03203202367'>
     <tag k='TODO:session' v='2024-01-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Passage pour cavaliers' />
   </node>
@@ -774,7 +765,6 @@
   <node id='-1555903729' action='modify' lat='45.38467142578' lon='-71.90137088567'>
     <tag k='TODO:session' v='2024-01-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Retrait du passage piéton (suite à l&apos;ajout de l&apos;arrêt toutes directions)' />
   </node>
@@ -787,14 +777,12 @@
   <node id='-3703058552' action='modify' lat='45.39243981561' lon='-71.87483847409'>
     <tag k='TODO:session' v='2024-04-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Ajout de bandes rectangulaires blanches' />
   </node>
   <node id='-1543361562' action='modify' lat='45.39111188277' lon='-71.87063277304'>
     <tag k='TODO:session' v='2024-04-09' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Corridor de marche (côté nord, entre Walsh et du Delaware)' />
   </node>
@@ -862,7 +850,6 @@
   <node id='-2638052566' action='modify' lat='45.38945050773' lon='-71.87039673865'>
     <tag k='TODO:session' v='2023-12-19 (Règlement 1-170)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Retrait de ce passage?' />
   </node>
@@ -899,7 +886,6 @@
     <tag k='TODO:check_date' v='2024-08-24' />
     <tag k='TODO:session' v='2024-04-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Ajout d&apos;un corridor de marche (côté sud, entre Berthe-Dostie et Henri-Labonne)' />
   </node>
@@ -907,7 +893,6 @@
     <tag k='TODO:check_date' v='2024-08-24' />
     <tag k='TODO:session' v='2024-04-23' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Ajout d&apos;un couloir de traversée' />
   </node>
@@ -984,7 +969,6 @@
   <node id='-3914846473' action='modify' lat='45.39312282278' lon='-71.88574229781'>
     <tag k='TODO:check_date' v='2024-10-06' />
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/06/04/une-maison-incendiee-de-la-rue-wellington-sera-demolie-4BBA4QJH4ZECZMKVPAGQPZ2B3E/' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 835 Wellington Sud' />
   </node>
@@ -1003,7 +987,6 @@
     <tag k='TODO:check_date' v='2024-10-06' />
     <tag k='TODO:session' v='2024-06-18' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Construction d&apos;un dos d&apos;âne devant le 453 rue de l&apos;Assomption' />
   </node>
@@ -1011,7 +994,6 @@
     <tag k='TODO:check_date' v='2024-10-22' />
     <tag k='TODO:session' v='2024-06-18' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1121,7 +1103,7 @@
     <tag k='TODO:planned_end' v='2024-10' />
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Règlement no 1300-51' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Ajout d&apos;un panneau d&apos;arrêt à l&apos;approche nord' />
   </node>
@@ -1136,28 +1118,24 @@
   <node id='-1162205491' action='modify' lat='45.39110434642' lon='-71.8916505602'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Traverse pour piétons' />
   </node>
   <node id='-4183134231' action='modify' lat='45.39138688837' lon='-71.89162910253'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Traverse pour piétons' />
   </node>
   <node id='-3076494710' action='modify' lat='45.39263005807' lon='-71.89072788298'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Traverse pour piétons (3 approches)' />
   </node>
   <node id='-3203996346' action='modify' lat='45.4126450616' lon='-71.94536984503'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Corridor de marche (côté ouest, entre du Sauvignon et Richard)' />
   </node>
@@ -1165,14 +1143,13 @@
     <tag k='TODO:planned_end' v='2024-10' />
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Règlement no 1300-51' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-3108090579' action='modify' lat='45.39112695171' lon='-71.86925948203'>
     <tag k='TODO:session' v='2024-08-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Traverse pour piétons' />
   </node>
@@ -1180,7 +1157,6 @@
     <tag k='TODO:check_date' v='2024-08-06' />
     <tag k='TODO:session' v='2024-08-20; 2024-11-05' />
     <tag k='TODO:source' v='Règlement no 1, article 5.1.13' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1205,14 +1181,14 @@
   <node id='-2866697999' action='modify' lat='45.48293134118' lon='-71.94645882189'>
     <tag k='TODO:session' v='2024-10-15' />
     <tag k='TODO:source' v='Règlement no 1300-51' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-897400111' action='modify' lat='45.32158631656' lon='-71.96748737812'>
     <tag k='TODO:session' v='2024-10-15' />
     <tag k='TODO:source' v='Règlement no 1300-51' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 70 km/h (jusqu&apos;aux limites de la ville)' />
   </node>
@@ -1221,7 +1197,7 @@
     <tag k='TODO:session' v='2024-10-15' />
     <tag k='TODO:source' v='Règlement no 1300-51' />
     <tag k='TODO:start_date' v='2025-06-02' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='TODO:ville:projet' v='8087' />
     <tag k='TODO:ville:travaux' v='2025' />
@@ -1230,14 +1206,14 @@
   <node id='-3013788658' action='modify' lat='45.4052749094' lon='-71.89698815614'>
     <tag k='TODO:session' v='2024-10-15' />
     <tag k='TODO:source' v='Règlement no 1300-51' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-994869456' action='modify' lat='45.40177591592' lon='-71.936707647'>
     <tag k='TODO:session' v='2024-10-15' />
     <tag k='TODO:source' v='Règlement no 1300-51' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1271,20 +1247,17 @@
   <node id='-2887663023' action='modify' lat='45.41645136928' lon='-71.88204582812'>
     <tag k='TODO:session' v='2024-11-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='crossing' />
     <tag k='name' v='Déplacement de ce passage vers Saint-Michel' />
   </node>
   <node id='-1321554423' action='modify' lat='45.41652558176' lon='-71.88255652919'>
     <tag k='TODO:session' v='2024-11-05' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Fermeture de cette entrée' />
   </node>
   <node id='-4260224935' action='modify' lat='45.35421810521' lon='-71.99847057804'>
     <tag k='TODO:source' v='https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/23/la-piscine-du-parc-central-sera-remplacee-par-des-jeux-deau-L2U36KX2TNG7NMQVXF53WCQD3M/' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Conversion de la piscine en jeux d&apos;eau' />
   </node>
@@ -1293,7 +1266,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-0123-00' />
     <tag k='TODO:session' v='2025-01-21' />
     <tag k='TODO:source' v='Règlement no 1300-51' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1301,7 +1274,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-0125-00' />
     <tag k='TODO:session' v='2025-01-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Ajout de deux dos d&apos;âne, de part et d&apos;autre de la courbe' />
   </node>
@@ -1309,7 +1282,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-0161-00' />
     <tag k='TODO:session' v='2025-02-04' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -1330,7 +1303,7 @@
   <node id='-467786556' action='modify' lat='45.37831697602' lon='-71.90032555278'>
     <tag k='TODO:planned_end' v='2024-09' />
     <tag k='TODO:source' v='Règlement no 1300-51' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt à l&apos;approche nord' />
   </node>
@@ -1417,7 +1390,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-0124-00' />
     <tag k='TODO:session' v='2025-01-21' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='oneway' />
     <tag k='name' v='Ajout d&apos;un sens unique' />
   </node>
@@ -1436,7 +1409,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-0742-00' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Rue Priscilla-Lareau' />
   </node>
@@ -1444,7 +1417,7 @@
     <tag k='TODO:resolution' v='C.D. 2024-0108-00' />
     <tag k='TODO:session' v='2024-05-27 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 10 rue Connolly' />
   </node>
@@ -1452,7 +1425,7 @@
     <tag k='TODO:resolution' v='C.D. 2024-0111-00' />
     <tag k='TODO:session' v='2024-07-04 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 4 rue Speid' />
   </node>
@@ -1460,7 +1433,7 @@
     <tag k='TODO:resolution' v='C.E. 2024-4440-00' />
     <tag k='TODO:session' v='2024-09-04/CE' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Parc Marie-Dupuy-Sagala' />
   </node>
@@ -1469,7 +1442,7 @@
     <tag k='TODO:resolution' v='C.E. 2024-4457-00' />
     <tag k='TODO:session' v='2024-09-11 (CE)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Rue Marjolaine-Hébert' />
   </node>
@@ -1478,7 +1451,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-0743-00' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Place Simone-Bouthillette' />
   </node>
@@ -1487,7 +1460,7 @@
     <tag k='TODO:resolution' v='C.D. 2024-0115-00' />
     <tag k='TODO:session' v='2024-09-23 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 7120 ch. de Saint-Élie' />
   </node>
@@ -1505,7 +1478,7 @@
   <node id='-2578689424' action='modify' lat='45.4719967317' lon='-71.95141285926'>
     <tag k='TODO:session' v='2025-03-11' />
     <tag k='TODO:source' v='Règlement no 1300-51' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -2271,8 +2244,8 @@
   <node id='-2574610360' action='modify' lat='45.38414018263' lon='-71.94007247955'>
     <tag k='TODO:resolution' v='C.M. 2025-0480-00' />
     <tag k='TODO:session' v='2025-05-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:source' v='Règlement no 1300-57' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -2280,15 +2253,15 @@
     <tag k='TODO:resolution' v='C.M. 2025-0480-00' />
     <tag k='TODO:session' v='2025-05-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Chaussée désignée' />
   </node>
   <node id='-4034761307' action='modify' lat='45.38432668346' lon='-71.89197242528'>
     <tag k='TODO:resolution' v='C.M. 2025-0480-00' />
     <tag k='TODO:session' v='2025-05-20' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:source' v='Règlement no 1300-57' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -2296,7 +2269,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-0480-00' />
     <tag k='TODO:session' v='2025-05-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Corridor de marche (côté ouest, entre Darche et Union)' />
   </node>
@@ -2516,20 +2489,19 @@
     <tag k='TODO:resolution' v='C.M. 2025-0879-00' />
     <tag k='TODO:session' v='2025-09-16' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Fontaine Kiona' />
   </node>
   <node id='-3697199380' action='modify' lat='45.47305282254' lon='-71.95207119609'>
     <tag k='TODO:session' v='2025-09-16 (Règlement 1300-58)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
   <node id='-1312374990' action='modify' lat='45.35022061349' lon='-72.02203775467'>
     <tag k='TODO:source' v='Règlement no 1300-51' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 50 (entre Bourque et des Enclaves)' />
   </node>
@@ -2537,7 +2509,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-53-RG' />
     <tag k='TODO:session' v='2025-04-22' />
     <tag k='TODO:source' v='Règlement no 1300-53' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (Albert, Webster et Meadow)' />
   </node>
@@ -2545,7 +2517,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-53-RG' />
     <tag k='TODO:session' v='2025-04-22' />
     <tag k='TODO:source' v='Règlement no 1300-53' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (entre Wellington et du Palais)' />
   </node>
@@ -2553,7 +2525,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-53-RG' />
     <tag k='TODO:session' v='2025-04-22' />
     <tag k='TODO:source' v='Règlement no 1300-53' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30' />
   </node>
@@ -2561,7 +2533,7 @@
     <tag k='TODO:resolution' v='C.D. 2025-0119-00' />
     <tag k='TODO:session' v='2025-03-24 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 2848-2850 rue College' />
   </node>
@@ -2574,7 +2546,7 @@
     <tag k='TODO:resolution' v='C.D. 2025-0120-00' />
     <tag k='TODO:session' v='2025-03-24 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 2856-2858 rue College' />
   </node>
@@ -2582,7 +2554,7 @@
     <tag k='TODO:resolution' v='C.D. 2025-0121-00' />
     <tag k='TODO:session' v='2025-03-24 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition du 1254 rue McCrea' />
   </node>
@@ -2590,7 +2562,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-0480-00' />
     <tag k='TODO:session' v='2025-05-20' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='cycleway' />
     <tag k='name' v='Retrait de l&apos;exception pour vélos au sens unique?' />
   </node>
@@ -2598,7 +2570,7 @@
     <tag k='TODO:resolution' v='C.D. 2025-0123-00' />
     <tag k='TODO:session' v='2025-05-26 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition partielle et agrandissement' />
   </node>
@@ -2606,7 +2578,7 @@
     <tag k='TODO:resolution' v='C.D. 2025-0125-00' />
     <tag k='TODO:session' v='2025-06-16 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition partielle du 97 Kennedy Nord' />
   </node>
@@ -2614,7 +2586,7 @@
     <tag k='TODO:resolution' v='C.D. 2025-0126-00' />
     <tag k='TODO:session' v='2025-06-16 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition complète du 536-538' />
   </node>
@@ -2622,7 +2594,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='stop' />
     <tag k='name' v='Arrêt toutes directions' />
   </node>
@@ -2630,7 +2602,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Conseil et Chalifoux)' />
   </node>
@@ -2638,7 +2610,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Short et Gérin-Lajoie)' />
   </node>
@@ -2646,7 +2618,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Ball et #80)' />
   </node>
@@ -2654,7 +2626,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Neil-Tracy et Albani)' />
   </node>
@@ -2662,7 +2634,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Alexandre et Brooks)' />
   </node>
@@ -2670,7 +2642,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Kennedy et #909)' />
   </node>
@@ -2678,7 +2650,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Mack-Sennett et #5069)' />
   </node>
@@ -2686,7 +2658,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Galt et Forest)' />
   </node>
@@ -2694,7 +2666,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre d&apos;Alençon et 14e Avenue)' />
   </node>
@@ -2702,7 +2674,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre d&apos;Alençon et 14e Avenue)' />
   </node>
@@ -2710,7 +2682,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Kennedy et #901)' />
   </node>
@@ -2718,7 +2690,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Ontario et St-Alphonse)' />
   </node>
@@ -2726,7 +2698,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Ontario et Elm)' />
   </node>
@@ -2734,7 +2706,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Thibault et 75 m au nord de Habitat)' />
   </node>
@@ -2742,7 +2714,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Galt et Forest)' />
   </node>
@@ -2750,7 +2722,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Galt et Forest)' />
   </node>
@@ -2758,7 +2730,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Ball et #88)' />
   </node>
@@ -2766,7 +2738,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Corriger: 30 (en tout temps) (entre Poisson et #5145)' />
   </node>
@@ -2774,7 +2746,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Short et Mère-Teresa)' />
   </node>
@@ -2782,7 +2754,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Conseil et Chalifoux)' />
   </node>
@@ -2790,7 +2762,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Victoria et Desgagné)' />
   </node>
@@ -2798,7 +2770,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Henri-Labonne et Adjutor)' />
   </node>
@@ -2806,7 +2778,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre Frédéric et Florent)' />
   </node>
@@ -2814,7 +2786,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (entre LaRocque et Adélard-Collette)' />
   </node>
@@ -2822,7 +2794,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 30 (en tout temps) (de André jusqu&apos;à 100 m à l&apos;ouest de Bacon)' />
   </node>
@@ -2830,7 +2802,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-1300-57-RG' />
     <tag k='TODO:session' v='2025-08-19' />
     <tag k='TODO:source' v='Règlement no 1300-57' />
-    <tag k='TODO:status' v='completed' />
+    <tag k='TODO:status' v='official' />
     <tag k='TODO:type' v='maxspeed' />
     <tag k='name' v='Ajouter: 60 (de Roger-Caron à King)' />
   </node>
@@ -2838,7 +2810,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-0804-00' />
     <tag k='TODO:session' v='2025-09-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='new' />
     <tag k='name' v='Rue du Castor' />
   </node>
@@ -2846,7 +2818,7 @@
     <tag k='TODO:resolution' v='C.M. 2025-0805-00' />
     <tag k='TODO:session' v='2025-09-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='name' />
     <tag k='name' v='Halte Anna-Canfield' />
   </node>
@@ -2854,28 +2826,25 @@
     <tag k='TODO:resolution' v='C.D. 2025-0128-00' />
     <tag k='TODO:session' v='2025-08-18 (comité de démolition)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='resolution' />
     <tag k='TODO:type' v='demolition' />
     <tag k='name' v='Démolition complète du 1401 Papineau' />
   </node>
   <node id='-354298516' action='modify' lat='45.36256789201' lon='-71.99209686646'>
     <tag k='TODO:session' v='2025-10-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Installation de dos d&apos;âne' />
   </node>
   <node id='-1989012696' action='modify' lat='45.40974526998' lon='-71.84336159281'>
     <tag k='TODO:session' v='2025-10-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='hump' />
     <tag k='name' v='Installation de dos d&apos;âne (entre Daigneau et Jetté)' />
   </node>
   <node id='-3359063548' action='modify' lat='45.41472751405' lon='-71.95325018048'>
     <tag k='TODO:session' v='2025-10-02' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='sidewalk' />
     <tag k='name' v='Ajout d&apos;un corridor de marche (côté est, entre Wilfrid-Grégoire et Nicolas-Scheib)' />
   </node>
@@ -2892,14 +2861,12 @@
   <node id='-3090958939' action='modify' lat='45.4130310519' lon='-71.84312939778'>
     <tag k='TODO:session' v='2025-09-22 (Fleurimont)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ajout d&apos;un banc' />
   </node>
   <node id='-3997259030' action='modify' lat='45.41342551625' lon='-71.84493586689'>
     <tag k='TODO:session' v='2025-09-22 (Fleurimont)' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
     <tag k='TODO:type' v='misc' />
     <tag k='name' v='Ajout d&apos;un banc' />
   </node>
