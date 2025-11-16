@@ -2087,133 +2087,14 @@
     <tag k='TODO:ville:travaux' v='2025' />
     <tag k='name' v='Implantation d&apos;une ligne électrique en arrière-lot du boul. du Mi-Vallon' />
   </node>
-  <node id='-3888243840' action='modify' lat='45.39414612739' lon='-71.92819175752'>
-    <tag k='TODO:planned_end' v='2025-05-30' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-04-29' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8300' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-943175185' action='modify' lat='45.39761934686' lon='-71.91804743103'>
-    <tag k='TODO:planned_end' v='2025-06-18' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-18' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8301' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
   <node id='-2986264590' action='modify' lat='45.38968775816' lon='-71.90574986104'>
+    <tag k='TODO:comments' v='Les cartes de la Ville et de BIXI placent la station jouxtant la caisse, alors que la carte de travaux la plaçait de l&apos;autre côté de Galt, ce qui aurait plus de sens' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
+    <tag k='TODO:status' v='completed' />
     <tag k='TODO:type' v='bicycle' />
     <tag k='TODO:ville:projet' v='8302' />
     <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-493927530' action='modify' lat='45.38951493243' lon='-71.89556670372'>
-    <tag k='TODO:planned_end' v='2025-06-18' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-18' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8303' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-4200235599' action='modify' lat='45.38884068978' lon='-71.91538341552'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8304' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-808868021' action='modify' lat='45.38351385445' lon='-71.89883977863'>
-    <tag k='TODO:planned_end' v='2025-06-17' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-17' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8305' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-540540193' action='modify' lat='45.39474246932' lon='-71.89599176111'>
-    <tag k='TODO:planned_end' v='2025-05-17' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-05-07' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8306' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-2597466567' action='modify' lat='45.3968422427' lon='-71.89649138386'>
-    <tag k='TODO:planned_end' v='2025-06-17' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-17' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8307' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-655212612' action='modify' lat='45.3994537176' lon='-71.88921666291'>
-    <tag k='TODO:planned_end' v='2025-06-17' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-17' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8308' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-3441146996' action='modify' lat='45.39816788146' lon='-71.87664487213'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8309' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-323218492' action='modify' lat='45.40770646048' lon='-71.87573219229'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='planned' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8310' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-320674461' action='modify' lat='45.38705678276' lon='-71.92645755033'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8311' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-4255052546' action='modify' lat='45.39823203802' lon='-71.91117170758'>
-    <tag k='TODO:planned_end' v='2025-06-18' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-18' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8312' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-1316577033' action='modify' lat='45.40327696888' lon='-71.90178488579'>
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8313' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
+    <tag k='name' v='Emplacement de la station BIXI' />
   </node>
   <node id='-3490230829' action='modify' lat='45.40977519759' lon='-71.88360622213'>
     <tag k='TODO:resolution' v='C.M. 2025-0480-00' />
@@ -2291,66 +2172,6 @@
     <tag k='TODO:type' v='park' />
     <tag k='name' v='Aménagement de jeux d&apos;eau au parc Bureau?' />
   </node>
-  <node id='-1122542261' action='modify' lat='45.3863778' lon='-71.90112824012'>
-    <tag k='TODO:planned_end' v='2025-06-17' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-17' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8503' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-4279346791' action='modify' lat='45.41230440354' lon='-71.87553822175'>
-    <tag k='TODO:planned_end' v='2025-06-17' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-17' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8504' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-3263618621' action='modify' lat='45.40134549841' lon='-71.90778573915'>
-    <tag k='TODO:planned_end' v='2025-06-17' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-17' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8505' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-4181770383' action='modify' lat='45.40327041874' lon='-71.87977206469'>
-    <tag k='TODO:planned_end' v='2025-06-17' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-17' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8506' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-409160765' action='modify' lat='45.40847675571' lon='-71.8726322358'>
-    <tag k='TODO:planned_end' v='2025-06-18' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-18' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8507' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-3149842366' action='modify' lat='45.4103357775' lon='-71.88439692093'>
-    <tag k='TODO:planned_end' v='2025-06-18' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-18' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8508' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
   <node id='-319201243' action='modify' lat='45.3911298448' lon='-71.89041933917'>
     <tag k='TODO:planned_end' v='2025-06-18' />
     <tag k='TODO:source' v='Ville de Sherbrooke' />
@@ -2359,17 +2180,7 @@
     <tag k='TODO:type' v='bicycle' />
     <tag k='TODO:ville:projet' v='8509' />
     <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
-  </node>
-  <node id='-3829498886' action='modify' lat='45.39975095078' lon='-71.89306636896'>
-    <tag k='TODO:planned_end' v='2025-06-18' />
-    <tag k='TODO:source' v='Ville de Sherbrooke' />
-    <tag k='TODO:start_date' v='2025-06-18' />
-    <tag k='TODO:status' v='completed' />
-    <tag k='TODO:type' v='bicycle' />
-    <tag k='TODO:ville:projet' v='8510' />
-    <tag k='TODO:ville:travaux' v='2025' />
-    <tag k='name' v='Station BIXI' />
+    <tag k='name' v='Emplacement de la station BIXI' />
   </node>
   <node id='-2929890955' action='modify' lat='45.42241111076' lon='-71.95620974108'>
     <tag k='TODO:planned_end' v='2025-07-10' />
