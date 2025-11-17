@@ -1,8 +1,8 @@
 ## Fichiers
 
-- [`TODO.osm`](#file-todo-osm): La liste elle-même
-- [`TODO.mapcss`](#file-todo-mapcss): [Modèle de rendu de carte JOSM](https://josm.openstreetmap.de/wiki/Fr%3AStyles) (*fortement recommandé*)
-- [`TODO-preset.xml`](#file-todo-preset-xml): [Préréglage](https://josm.openstreetmap.de/wiki/Fr%3APresets) facilitant l'édition ou visualisation d'une entrée de la liste
+- [`TODO.osm`](TODO.osm): La liste elle-même
+- [`TODO.mapcss`](TODO.mapcss): [Modèle de rendu de carte JOSM](https://josm.openstreetmap.de/wiki/Fr%3AStyles) (*fortement recommandé*)
+- [`TODO-preset.xml`](TODO-preset.xml): [Préréglage](https://josm.openstreetmap.de/wiki/Fr%3APresets) facilitant l'édition ou visualisation d'une entrée de la liste
 
 ## Liste des attributs
 
@@ -14,7 +14,7 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
 
 - `TODO:type`: Catégorisation, parmi la liste ci-dessous:
 
-  (La plupart des catégories sont identifiées sur la carte, via [`TODO.mapcss`](#file-todo-mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
+  (La plupart des catégories sont identifiées sur la carte, via [`TODO.mapcss`](TODO.mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
 
   - `bicycle`: Infrascructure pour vélos autre que piste cyclable \[`◼`, magenta]
   - `crossing`: Traverse pour piétons \[`///`, vert]
