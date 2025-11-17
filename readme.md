@@ -1,6 +1,6 @@
 ## Fichiers
 
-- [`TODO-fbriere.osm`](#file-todo-fbriere-osm): La liste elle-même
+- [`TODO.osm`](#file-todo-osm): La liste elle-même
 - [`TODO.mapcss`](#file-todo-mapcss): [Modèle de rendu de carte JOSM](https://josm.openstreetmap.de/wiki/Fr%3AStyles) (*fortement recommandé*)
 - [`TODO-preset.xml`](#file-todo-preset-xml): [Préréglage](https://josm.openstreetmap.de/wiki/Fr%3APresets) facilitant l'édition ou visualisation d'une entrée de la liste
 
