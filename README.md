@@ -2,7 +2,7 @@
 
 ## Fichiers
 
-- [`TODO.osm`](TODO.osm): La liste elle-même
+- [`TODO.geojson`](TODO.geojson): La liste elle-même
 - [`TODO.mapcss`](TODO.mapcss): [Modèle de rendu de carte JOSM](https://josm.openstreetmap.de/wiki/Fr%3AStyles) (*fortement recommandé*)
 - [`TODO-preset.xml`](TODO-preset.xml): [Préréglage](https://josm.openstreetmap.de/wiki/Fr%3APresets) facilitant l'édition ou visualisation d'une entrée de la liste
 
