@@ -23,6 +23,7 @@
 	        &quot;TODO:type&quot; = traffic_signal '🚦' |
 	    '' } {name}"
         icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACQElEQVRYw+XWT4hNURwH8M99nj8jmbJBopSklKUsyBMLxQaRbJSklLIwUoqZhVjYWJAaxUJkJVGEEgtJ7EiyxuIJTcPwxrw5FvdOzXDeffPuzGMx3/pt7umc7/f3+53f9x6mOpJ/QRKYgQVYgmmo4T0+tJu4HNgUuB/4Fqhl8TNwLzC9neRzAmcDA4HwR3wNbGwn+YLAnUA9Qv4jsDdQgvKofRWsnyj5CTr72NHJ4sgdG8IpXEsY/nNvdyq+eOwhvP8745GoB3oDM0eTliNJPM6iJRyg4ww757E0knnAfXQl6QREMVKB7gI97whcDwzHsu/nY2BRbG9pMkYNx7Er5iv9uMqtpMHMlyZInmA7ujKDGYM6tcvoodrojFIzgsDswIbA0cCaMDbLlTiHWZHtgy95eBrVtLVRlJuUdjeOYoXUtd5itdTV5uICFka213H+MN+rbM1LMq8C69CLVVIvT7AM60Ja7mNYG9fuLk4+T4XkopyzNt/fXj0d+7J+H26QwGscTPg+nnuUJ6Aq4lbYhi3oiKx9wv6khb9cXgve4lfk+7QG5DUcwYtWJilPwOesnOPBMC7iRpJz41sVMIgHxnfgU/Qk8YoVE5BlchM/m5xRxaGEviJm1swJ3+BZzvpQanReFXXTUpMH4yAuZUQxPMKVVvve6r/gdtbj+iijGcqmpCtp3qLCPjBShYGQ/nA2Y3k2mu/wKEknRVsFZCK+4Ho73o8l/xmxClQm8fxKUQGVf1WBZLKf5Q3wpMhDd2rgN+rv0tExsecPAAAAAElFTkSuQmCC">
+        <key key="TODO:marker" value="1" match="key" />
         <space />
         <text key="name" text="Description" />
         <text key="TODO:type" text="Type" match="key" />

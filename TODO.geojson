@@ -9,6 +9,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2023-09-05",
                 "TODO:source": "Règlement n° 1-168",
                 "TODO:status": "certain",
@@ -26,6 +27,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2023-09-05",
                 "TODO:source": "Règlement n° 1-168",
                 "TODO:status": "certain",
@@ -43,6 +45,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0804-00",
                 "TODO:session": "2025-09-02",
                 "TODO:source": "Ville de Sherbrooke",
@@ -61,6 +64,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:type": "name",
                 "name": "Confirmer le point de démarcation entre les rues du Pimbina et des Coudriers"
             },
@@ -75,6 +79,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:type": "oneway",
                 "name": "Vérifier deux courts segments `oneway=no`"
             },
@@ -89,6 +94,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Maxar",
                 "TODO:type": "surface",
                 "name": "Vérifier pavage de cette section"
@@ -104,6 +110,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "restriction",
                 "name": "Demi-tour (ouest → est)"
@@ -119,6 +126,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "oneway",
                 "name": "Ajouter: Sens unique sur cette entrée"
@@ -135,6 +143,7 @@
             },
             "properties": {
                 "TODO:comments": "Fermeture pour la saison 2025",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2026-05-18",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2024-09-03",
@@ -155,6 +164,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "maxspeed",
                 "name": "Retirer maxspeed=45"
@@ -170,6 +180,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
                 "name": "Ceci n'est que l'entrée d'un complexe d'habitations et devrait être service=driveway"
@@ -185,6 +196,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
                 "name": "Arrêt toutes directions"
@@ -201,6 +213,7 @@
             },
             "properties": {
                 "TODO:check_date": "2025-03-22",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.D. 2024-0115-00",
                 "TODO:session": "2024-09-23 (comité de démolition)",
                 "TODO:source": "Ville de Sherbrooke",
@@ -219,6 +232,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2023-09-01",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2023-05-29",
@@ -239,6 +253,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9083-00",
                 "TODO:session": "2024-01-23",
                 "TODO:source": "Ville de Sherbrooke",
@@ -257,6 +272,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:type": "misc",
                 "name": "Tous ces segments (ainsi qu'un autre ici, non cartographié) font (officiellement?) partie de la rue de la Pointe-Gervais"
@@ -272,6 +288,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-06-28",
                 "TODO:session": "BROFSED/2023-01-30",
                 "TODO:source": "Ville de Sherbrooke",
@@ -293,6 +310,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-51-RG",
                 "TODO:session": "2025-03-25",
                 "TODO:source": "Règlement no 1300-51",
@@ -311,6 +329,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
                 "name": "Aucun arrêt ici"
@@ -327,6 +346,7 @@
             },
             "properties": {
                 "TODO:comments": "Premier commerce d'un futur Espace Rock-Forest",
+                "TODO:marker": "1",
                 "TODO:planned_end": "Printemps 2026",
                 "TODO:source": "https://www.latribune.ca/affaires/affaires-locales/2024/10/10/deux-nouveaux-super-c-sinstallent-a-sherbrooke-TJ4KQIVSDZFQHKOF5YGWE6ZKPU/",
                 "TODO:status": "planned",
@@ -344,6 +364,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-09-19",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Perles-web.pdf",
                 "TODO:start_date": "2025-07-21",
@@ -364,6 +385,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-09-22",
                 "TODO:status": "ongoing",
@@ -383,6 +405,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires",
                 "TODO:type": "misc",
                 "name": "La halte santé et nature (jardin solidaire)"
@@ -399,6 +422,7 @@
             },
             "properties": {
                 "TODO:check_date": "2025-03-22",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2027-12-31",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Centre-Équestre_II.pdf",
                 "TODO:start_date": "2024-09-30",
@@ -419,6 +443,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "maxspeed",
                 "name": "Déplacer la limite 70/80 ici pour les deux voies"
@@ -434,6 +459,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-11-28",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Paillard-web.pdf",
                 "TODO:start_date": "2025-09-15",
@@ -455,6 +481,7 @@
             },
             "properties": {
                 "TODO:comments": "Ce toponyme remplace celui de \"Parc Pierre-Dansereau\"",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.E. 2024-4440-00",
                 "TODO:session": "2024-09-04/CE",
                 "TODO:source": "Ville de Sherbrooke",
@@ -473,6 +500,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/23/la-piscine-du-parc-central-sera-remplacee-par-des-jeux-deau-L2U36KX2TNG7NMQVXF53WCQD3M/",
                 "TODO:status": "planned",
                 "TODO:type": "park",
@@ -489,6 +517,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-05-07",
                 "TODO:status": "ongoing",
@@ -509,6 +538,7 @@
             },
             "properties": {
                 "TODO:check_date": "2024-08-24",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9367-00",
                 "TODO:session": "2024-04-23",
                 "TODO:source": "Ville de Sherbrooke",
@@ -528,6 +558,7 @@
             },
             "properties": {
                 "TODO:check_date": "2024-08-24",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9367-00",
                 "TODO:session": "2024-04-23",
                 "TODO:source": "Ville de Sherbrooke",
@@ -546,6 +577,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -565,6 +597,7 @@
             },
             "properties": {
                 "TODO:comments": "Ajout d'une voie de virage à droite sur Président-Kennedy",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-10-25",
                 "TODO:source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/09/12/plus-dun-mois-de-travaux-au-coin-bourquepresident-kennedy-M2FQ6W36L5EOJKFSWLE6UMCA4U/",
                 "TODO:start_date": "2024-09-11",
@@ -585,6 +618,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -603,6 +637,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -622,6 +657,7 @@
             },
             "properties": {
                 "TODO:check_date": "2025-03-22",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2026-09-18",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2024-06-25",
@@ -642,6 +678,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -661,6 +698,7 @@
             },
             "properties": {
                 "TODO:check_date": "2023-08-06",
+                "TODO:marker": "1",
                 "TODO:session": "2017-07-03",
                 "TODO:status": "dubious",
                 "TODO:type": "stop",
@@ -677,6 +715,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -695,6 +734,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires",
                 "TODO:type": "misc",
                 "name": "Les Voisins Maraîchers (jardin solidaire)"
@@ -710,6 +750,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2025-10-02",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:type": "hump",
@@ -727,6 +768,7 @@
             },
             "properties": {
                 "TODO:comments": "Arrêt 1669",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
@@ -743,6 +785,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://ici.radio-canada.ca/nouvelle/2065328/aide-demunis-dons-vetements-sherbrooke",
                 "TODO:start_date": "2024-04-30",
                 "TODO:status": "planned",
@@ -760,6 +803,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-05-14",
                 "TODO:status": "planned",
@@ -781,6 +825,7 @@
             "properties": {
                 "TODO:check_date": "2025-03-22",
                 "TODO:comments": "Le marquage au sol sera effectué en 2025",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-11-22",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallon_Info-travaux.pdf",
                 "TODO:start_date": "2024-07-15",
@@ -801,6 +846,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2026-12-11",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Kesterman_presentation.pdf",
                 "TODO:start_date": "2025-09-02",
@@ -822,6 +868,7 @@
             },
             "properties": {
                 "TODO:comments": "\"Des travaux de déboisement seront nécessaires le long de la piste cyclable qui relie le boulevard René-Lévesque à la rue Yamaska. Des arbustes à faible déploiement seront replantés au plus tard l'automne prochain sous la nouvelle ligne électrique.\"",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-05-23",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-04-25",
@@ -842,6 +889,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:type": "misc",
                 "name": "Comment traiter cette rue privée, officiellement sans nom?"
@@ -857,6 +905,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-11-07",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-10-09",
@@ -877,6 +926,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-07-25",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Fortier-Nord-web.pdf",
                 "TODO:start_date": "2025-07-01",
@@ -897,6 +947,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "maxspeed",
                 "name": "Corriger: Aucune limite affichée ici"
@@ -912,6 +963,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-08-22",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Fortier-Sud-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-07-07",
@@ -932,6 +984,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-20",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Megantic-memphremagog-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-05-20",
@@ -952,6 +1005,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-20",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Megantic-memphremagog-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-05-20",
@@ -972,6 +1026,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-20",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Megantic-memphremagog-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-05-20",
@@ -992,6 +1047,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "planned",
                 "TODO:type": "geometry",
@@ -1010,6 +1066,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -1028,6 +1085,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -1046,6 +1104,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "Été 2025",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Veterans-Viel-8-5x14po-web.pdf",
                 "TODO:status": "planned",
@@ -1065,6 +1124,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "Été 2024",
                 "TODO:session": "2025-03-22",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Veterans-Viel-8-5x14po-web.pdf",
@@ -1085,6 +1145,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "Été 2024",
                 "TODO:session": "2025-03-22",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Veterans-Viel-8-5x14po-web.pdf",
@@ -1105,6 +1166,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "Été 2025",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Veterans-Viel-8-5x14po-web.pdf",
                 "TODO:status": "planned",
@@ -1124,6 +1186,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-09-12",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "TODO:start_date": "2025-08-25",
@@ -1144,6 +1207,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-10-08",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "TODO:start_date": "2025-08-27",
@@ -1164,6 +1228,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0161-00",
                 "TODO:session": "2025-02-04",
                 "TODO:source": "Ville de Sherbrooke",
@@ -1182,6 +1247,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2024-10-15",
                 "TODO:source": "Règlement no 1300-51",
                 "TODO:status": "official",
@@ -1199,6 +1265,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "restriction",
                 "name": "Virage à gauche (des Écossais → Albatros)"
@@ -1214,6 +1281,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-08-27",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2024-07-30",
@@ -1235,6 +1303,7 @@
             },
             "properties": {
                 "TODO:check_date": "2023-07-19",
+                "TODO:marker": "1",
                 "TODO:type": "sign",
                 "name": "Place *de* Monseigneur-Moisan"
             },
@@ -1249,6 +1318,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "maxspeed",
                 "name": "Déplacer ligne 80/90 ici"
@@ -1265,6 +1335,7 @@
             },
             "properties": {
                 "TODO:comments": "Le *nom* a déjà été changé, mais c'est tout le reste qui manque...",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.latribune.ca/affaires/2024/05/24/reno-depot-devient-rona-YNUUZJINXNCT7MGO6DDO3TNOIQ/",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
@@ -1281,6 +1352,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2027-12-31",
                 "TODO:resolution": "C.M. 2025-0806-00",
                 "TODO:session": "2025-09-02; 2025-10-02",
@@ -1303,6 +1375,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-08-19",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-04-24",
@@ -1323,6 +1396,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "name",
                 "name": "La portion sud de cette rue est privée et n'a pas de nom"
@@ -1338,6 +1412,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-27",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-04-28",
@@ -1358,6 +1433,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-27",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-04-28",
@@ -1378,6 +1454,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-27",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-04-28",
@@ -1398,6 +1475,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-27",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-04-28",
@@ -1418,6 +1496,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-27",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-04-28",
@@ -1438,6 +1517,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-27",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-04-28",
@@ -1458,6 +1538,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-07-10",
                 "TODO:start_date": "2025-07-07",
                 "TODO:status": "completed",
@@ -1477,6 +1558,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.D. 2025-0121-00",
                 "TODO:session": "2025-03-24 (comité de démolition)",
                 "TODO:source": "Ville de Sherbrooke",
@@ -1495,6 +1577,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Ponton-Saint-Felix_web.pdf",
                 "TODO:status": "planned",
                 "TODO:type": "hump",
@@ -1513,6 +1596,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2025-10-02",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:type": "sidewalk",
@@ -1530,6 +1614,7 @@
             },
             "properties": {
                 "TODO:comments": "Seul le titre du projet fait référence à un trottoir",
+                "TODO:marker": "1",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Ponton-Saint-Felix_web.pdf",
                 "TODO:status": "planned",
                 "TODO:type": "sidewalk",
@@ -1549,6 +1634,7 @@
             },
             "properties": {
                 "TODO:check_date": "2023-12-25",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-06",
                 "TODO:session": "2023-10-17",
                 "TODO:source": "Ville de Sherbrooke",
@@ -1568,6 +1654,7 @@
             },
             "properties": {
                 "TODO:comments": "Ajout d'arrêts dans toutes les directions",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-11-28",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-08-11",
@@ -1588,6 +1675,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2025-09-16 (Règlement 1300-58)",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "official",
@@ -1605,6 +1693,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
                 "name": "Pas d'arrêt à l'approche sud"
@@ -1620,6 +1709,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-11-28",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-08-11",
@@ -1640,6 +1730,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2025-03-11",
                 "TODO:source": "Règlement no 1300-51",
                 "TODO:status": "official",
@@ -1658,6 +1749,7 @@
             },
             "properties": {
                 "TODO:comments": "Aucune information supplémentaire fournie",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-11-28",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-08-11",
@@ -1678,6 +1770,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
@@ -1694,6 +1787,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-11-28",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-08-11",
@@ -1715,6 +1809,7 @@
             },
             "properties": {
                 "TODO:check_date": "2023-12-25",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-06",
                 "TODO:session": "2023-10-17",
                 "TODO:source": "Ville de Sherbrooke",
@@ -1733,6 +1828,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-10-03",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-06-10",
@@ -1753,6 +1849,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-07-12",
                 "TODO:session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -1774,6 +1871,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "Automne 2024",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Croix-2024.pdf",
                 "TODO:status": "planned",
@@ -1794,6 +1892,7 @@
             },
             "properties": {
                 "TODO:comments": "Le toponyme remplace Galt Ouest pour la portion en anse",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0743-00",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Ville de Sherbrooke",
@@ -1813,6 +1912,7 @@
             },
             "properties": {
                 "TODO:comments": "L'église et sa vocation seront conservées; aucune information quant au nom",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/10/29/leglise-marie-mediatrice-officiellement-vendue-MKRHDIJY6VCWVMBYQWTQKOTJFA/",
                 "TODO:status": "completed",
                 "TODO:type": "misc",
@@ -1829,6 +1929,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2024-10-15",
                 "TODO:source": "Règlement no 1300-51",
                 "TODO:status": "official",
@@ -1847,6 +1948,7 @@
             },
             "properties": {
                 "TODO:comments": "Seront installées au pavillon 1",
+                "TODO:marker": "1",
                 "TODO:planned_end": "Août 2023",
                 "TODO:source": "La Tribune (2023-02-08)",
                 "TODO:status": "completed",
@@ -1864,6 +1966,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-09-08",
                 "TODO:status": "planned",
@@ -1883,6 +1986,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-07-17",
                 "TODO:status": "planned",
@@ -1902,6 +2006,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9690-00",
                 "TODO:session": "2024-08-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -1920,6 +2025,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Règlement no 1, article 5.1.13",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
@@ -1937,6 +2043,7 @@
             },
             "properties": {
                 "TODO:check_date": "2015-12-25",
+                "TODO:marker": "1",
                 "TODO:source": "http://sherbrookeblogue.ca/halte-germain-nault-une-nouvelle-place-publique-dans-larrondissement-de-brompton/",
                 "TODO:status": "official",
                 "TODO:type": "name",
@@ -1953,6 +2060,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2023-11-03",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2023-10-24",
@@ -1974,6 +2082,7 @@
             },
             "properties": {
                 "TODO:comments": "Déplacement au sud de l'intersection et ajout de traverse vélo",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-08-30",
                 "TODO:session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -1997,6 +2106,7 @@
             "properties": {
                 "TODO:check_date": "2021-10",
                 "TODO:comments": "Le toponyme officiel contient \"de-Galles\", mais le panneau sur place indique \"De Galles\". Pour l'info, Ramat donnerait raison au panneau. ☺",
+                "TODO:marker": "1",
                 "TODO:source": "https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=206632",
                 "TODO:type": "sign",
                 "name": "Boulevard du Prince-de-Galles / Prince-De Galles"
@@ -2013,6 +2123,7 @@
             },
             "properties": {
                 "TODO:comments": "Déplacement au sud de l'intersection et ajout de traverse vélo",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-09-06",
                 "TODO:session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -2034,6 +2145,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2015-1282-00",
                 "TODO:session": "2015-10-19",
                 "TODO:source": "Ville de Sherbrooke",
@@ -2053,6 +2165,7 @@
             },
             "properties": {
                 "TODO:comments": "Arrêt 278",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "TODO:type": "misc",
                 "name": "Ajout d'un abribus"
@@ -2068,6 +2181,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0480-00",
                 "TODO:session": "2025-05-20",
                 "TODO:source": "Règlement no 1300-57",
@@ -2086,6 +2200,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-08-06",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-08-06",
@@ -2106,6 +2221,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-07-18",
                 "TODO:session": "2024-08-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -2127,6 +2243,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "crossing",
                 "name": "Aucune traverse présente ici"
@@ -2142,6 +2259,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "maxspeed",
                 "name": "Corriger: 70 [→ limite]"
@@ -2157,6 +2275,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Règlement no 1, article 5.1.13",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
@@ -2173,6 +2292,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "Printemps 2025",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Laurentie-Irene-Couture-web.pdf",
                 "TODO:status": "planned",
@@ -2192,6 +2312,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2017-10-02",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "certain",
@@ -2209,6 +2330,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
@@ -2225,6 +2347,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2024-10-15",
                 "TODO:source": "Règlement no 1300-51",
                 "TODO:status": "official",
@@ -2242,6 +2365,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-09-26",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-06-17",
@@ -2262,6 +2386,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Règlement no 1, article 5.1.13",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
@@ -2278,6 +2403,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-10-17",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Parent-web.pdf",
                 "TODO:start_date": "2025-04-28",
@@ -2298,6 +2424,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "hump",
                 "name": "Ajout d'un dos d'âne"
@@ -2313,6 +2440,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "hump",
                 "name": "Ajout d'un dos d'âne"
@@ -2328,6 +2456,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-09-27",
                 "TODO:session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -2349,6 +2478,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
                 "name": "Retrait de cet arrêt"
@@ -2364,6 +2494,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -2382,6 +2513,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -2400,6 +2532,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "Automne 2024",
                 "TODO:source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/23/la-station-service-esso-sur-le-boulevard-queen-victoria-sera-reconstruite-SKJBGFLEIJHRFM6CEIPKPJKKAQ/",
                 "TODO:start_date": "2024-04-22",
@@ -2418,6 +2551,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -2436,6 +2570,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.latribune.ca/2020/06/25/cinq-nouvelles-stations-de-reparation-de-velos-04e78604b3ce18cff174392a44387ab3/",
                 "TODO:status": "certain",
                 "TODO:type": "bicycle",
@@ -2452,6 +2587,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-10-10",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "TODO:start_date": "2025-08-29",
@@ -2472,6 +2608,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-09-12",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "TODO:start_date": "2025-08-13",
@@ -2492,6 +2629,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:type": "misc",
                 "name": "Confirmer tous les tags sur cette entrée"
             },
@@ -2506,6 +2644,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-09-12",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "TODO:start_date": "2025-08-13",
@@ -2526,6 +2665,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "maxspeed",
                 "name": "Corriger: 70"
@@ -2542,6 +2682,7 @@
             },
             "properties": {
                 "TODO:comments": "Aucune information supplémentaire fournie",
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "planned",
                 "TODO:type": "park",
@@ -2561,6 +2702,7 @@
             },
             "properties": {
                 "TODO:comments": "Arrêt 1340",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "TODO:status": "dubious",
                 "TODO:type": "misc",
@@ -2577,6 +2719,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:type": "cycleway",
                 "name": "Pas mal sûr que cycleway=track ne s'applique pas ici..."
             },
@@ -2591,6 +2734,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires",
                 "TODO:type": "misc",
                 "name": "Jardin Jeunes Entrepreneurs (jardin communautaire)"
@@ -2606,6 +2750,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0480-00",
                 "TODO:session": "2025-05-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -2627,6 +2772,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-10-31",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-07-28",
@@ -2647,6 +2793,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-08-08",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-08-07",
@@ -2667,6 +2814,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0480-00",
                 "TODO:session": "2025-05-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -2685,6 +2833,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0480-00",
                 "TODO:session": "2025-05-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -2703,6 +2852,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-11-12",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-11-12",
@@ -2723,6 +2873,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
                 "name": "Arrêt seulement à l'approche ouest"
@@ -2738,6 +2889,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
                 "name": "Arrêt seulement à l'approche est"
@@ -2754,6 +2906,7 @@
             },
             "properties": {
                 "TODO:comments": "Ceci n'est pas vraiment un tourism=viewpoint, mais plutôt un \"balcon\" pour assister aux spectacles",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2019-07-05",
                 "TODO:source": "https://ici.radio-canada.ca/nouvelle/1224407/ameliorations-parc-jacques-cartier-sherbrooke-personnes-mobilite-reduite-handicap",
                 "TODO:start_date": "2019-05-13",
@@ -2773,6 +2926,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:type": "park",
                 "name": "Confirmer nom/vocation de cet immeuble"
             },
@@ -2787,6 +2941,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-10-31",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Garant-2024.pdf",
                 "TODO:start_date": "2024-08-12",
@@ -2807,6 +2962,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "oneway",
                 "name": "Ajouter: 2 entrées"
@@ -2822,6 +2978,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2023-09-02",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Gilles_correspondance_mars_2023_et_fiche_du_projet.pdf",
                 "TODO:start_date": "2023-04-17",
@@ -2842,6 +2999,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-09-11",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2024-09-11",
@@ -2862,6 +3020,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-09-27",
                 "TODO:session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -2884,6 +3043,7 @@
             },
             "properties": {
                 "TODO:comments": "Ce \"sentier\" est en fait officiellement une rue",
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:type": "new",
                 "name": "Rue Gignac"
@@ -2900,6 +3060,7 @@
             },
             "properties": {
                 "TODO:comments": "Le toponyme remplace McManamy pour la portion à l'ouest de Galt Ouest",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.E. 2024-4457-00",
                 "TODO:session": "2024-09-11 (CE)",
                 "TODO:source": "Ville de Sherbrooke",
@@ -2918,6 +3079,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -2936,6 +3098,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.latribune.ca/2020/06/25/cinq-nouvelles-stations-de-reparation-de-velos-04e78604b3ce18cff174392a44387ab3/",
                 "TODO:status": "certain",
                 "TODO:type": "bicycle",
@@ -2952,6 +3115,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -2970,6 +3134,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -2988,6 +3153,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/951/cohabitation-harmonieuse-autour-du-lac-des-nations",
                 "TODO:type": "cycleway",
                 "name": "Déterminer à quelle section s'applique la limite de 20 km/h"
@@ -3003,6 +3169,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-10",
                 "TODO:session": "2024-08-20",
                 "TODO:source": "Règlement no 1300-51",
@@ -3022,6 +3189,7 @@
             },
             "properties": {
                 "TODO:comments": "\"Escalier fermé, date de réouverture non connue pour le moment.\"",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-01",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2024-06-19",
@@ -3042,6 +3210,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0125-00",
                 "TODO:session": "2025-01-21",
                 "TODO:source": "Ville de Sherbrooke",
@@ -3061,6 +3230,7 @@
             },
             "properties": {
                 "TODO:comments": "Les cartes de la Ville et de BIXI placent la station jouxtant la caisse, alors que la carte de travaux la plaçait de l'autre côté de Galt, ce qui aurait plus de sens",
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "completed",
                 "TODO:type": "bicycle",
@@ -3080,6 +3250,7 @@
             },
             "properties": {
                 "TODO:comments": "Le toponyme remplace Kitchener pour la portion au sud de Galt Ouest",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0742-00",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Ville de Sherbrooke",
@@ -3098,6 +3269,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Règlement no 1, article 5.1.13",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
@@ -3114,6 +3286,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "name",
                 "name": "Confirmer: Le dernier segment est Elgin, pas Hyatt"
@@ -3129,6 +3302,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
                 "name": "Arrêts sur Cambrai (et non Fairmount)"
@@ -3144,6 +3318,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2024-01-23",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "certain",
@@ -3161,6 +3336,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9087-00",
                 "TODO:session": "2024-01-23",
                 "TODO:source": "Ville de Sherbrooke",
@@ -3179,6 +3355,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "Été 2024",
                 "TODO:session": "2024-01-23",
                 "TODO:source": "Ville de Sherbrooke",
@@ -3199,6 +3376,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-08-22",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-08-19",
@@ -3219,6 +3397,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
                 "name": "Cette entrée privée ne semble n'avoir qu'une voie, et devrait être service=driveway"
@@ -3234,6 +3413,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -3253,6 +3433,7 @@
             },
             "properties": {
                 "TODO:comments": "\"L'octroi du contrat vers la fin mars. Début des travaux selon l'échéancier de l'entrepreneur, possiblement au printemps. Fin demandée pour les travaux: décembre 2025. Durée de 37 semaines au devis. Barrage fermé ou non aux piétons pendant les travaux? À déterminer par l'entrepreneur.\"",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-12-12",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-04-23",
@@ -3273,6 +3454,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-09",
                 "TODO:source": "Règlement no 1300-51",
                 "TODO:status": "official",
@@ -3290,6 +3472,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-05-16",
                 "TODO:start_date": "2025-04-22",
                 "TODO:status": "completed",
@@ -3309,6 +3492,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-10",
                 "TODO:session": "2024-08-20",
                 "TODO:source": "Règlement no 1300-51",
@@ -3327,6 +3511,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:type": "stop",
                 "name": "Pas d'arrêt à l'approche nord?"
             },
@@ -3341,6 +3526,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -3359,6 +3545,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2023-05-25",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2023-05-24",
@@ -3379,6 +3566,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2024-10-15",
                 "TODO:source": "Règlement no 1300-51",
                 "TODO:status": "official",
@@ -3396,6 +3584,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "Été 2024",
                 "TODO:source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/05/14/deux-immeubles-seront-demolis-au-centre-ville-IIEBH3UIQZFI7I4YBRO5Q7DA4E/",
                 "TODO:status": "planned",
@@ -3413,6 +3602,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2027-12-10",
                 "TODO:session": "2025-10-02",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Luzerne_info.pdf",
@@ -3435,6 +3625,7 @@
             },
             "properties": {
                 "TODO:check_date": "2024-10-22",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-08-29",
                 "TODO:session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -3456,6 +3647,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-08-29",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McManamy-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-08-19",
@@ -3477,6 +3669,7 @@
             },
             "properties": {
                 "TODO:comments": "Arrêts 1780 et 1781",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
@@ -3494,6 +3687,7 @@
             },
             "properties": {
                 "TODO:check_date": "2024-10-22",
+                "TODO:marker": "1",
                 "TODO:session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "TODO:status": "planned",
@@ -3514,6 +3708,7 @@
             },
             "properties": {
                 "TODO:comments": "Arrêts 1780 et 1781",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
@@ -3530,6 +3725,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "hump",
                 "name": "Ajout d'un dos d'âne"
@@ -3545,6 +3741,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "hump",
                 "name": "Ajout d'un dos d'âne"
@@ -3560,6 +3757,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "hump",
                 "name": "Ajout d'un dos d'âne"
@@ -3575,6 +3773,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-06-21",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2023-07-24",
@@ -3596,6 +3795,7 @@
             },
             "properties": {
                 "TODO:check_date": "2023-12-25",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-07-19",
                 "TODO:session": "2023-06-06",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -3618,6 +3818,7 @@
             },
             "properties": {
                 "TODO:check_date": "2023-12-25",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2023-8506-00",
                 "TODO:session": "2023-06-06",
                 "TODO:source": "Ville de Sherbrooke",
@@ -3637,6 +3838,7 @@
             },
             "properties": {
                 "TODO:comments": "Équippement à batterie en place",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-09-27",
                 "TODO:session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -3658,6 +3860,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "hump",
                 "name": "Ajout d'un dos d'âne"
@@ -3674,6 +3877,7 @@
             },
             "properties": {
                 "TODO:comments": "Cette épicerie remplacera le Métro Belvédère",
+                "TODO:marker": "1",
                 "TODO:planned_end": "Automne 2025",
                 "TODO:source": "https://www.latribune.ca/affaires/affaires-locales/2024/10/10/deux-nouveaux-super-c-sinstallent-a-sherbrooke-TJ4KQIVSDZFQHKOF5YGWE6ZKPU/",
                 "TODO:status": "planned",
@@ -3691,6 +3895,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -3709,6 +3914,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-11-14",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McManamy-8-5x14po-web.pdf",
                 "TODO:start_date": "2025-05-20",
@@ -3729,6 +3935,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-53-RG",
                 "TODO:session": "2025-04-22",
                 "TODO:source": "Règlement no 1300-53",
@@ -3747,6 +3954,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.latribune.ca/affaires/affaires-locales/2024/10/10/deux-nouveaux-super-c-sinstallent-a-sherbrooke-TJ4KQIVSDZFQHKOF5YGWE6ZKPU/",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
@@ -3763,6 +3971,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -3781,6 +3990,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -3799,6 +4009,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0805-00",
                 "TODO:session": "2025-09-02",
                 "TODO:source": "Ville de Sherbrooke",
@@ -3817,6 +4028,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0480-00",
                 "TODO:session": "2025-05-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -3835,6 +4047,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.latribune.ca/2020/06/25/cinq-nouvelles-stations-de-reparation-de-velos-04e78604b3ce18cff174392a44387ab3/",
                 "TODO:status": "completed",
                 "TODO:type": "bicycle",
@@ -3851,6 +4064,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0480-00",
                 "TODO:session": "2025-05-20",
                 "TODO:source": "Règlement no 1300-57",
@@ -3870,6 +4084,7 @@
             },
             "properties": {
                 "TODO:check_date": "2023-12-25",
+                "TODO:marker": "1",
                 "TODO:session": "2023-10-17",
                 "TODO:source": "Règlement n° 1-168",
                 "TODO:status": "official",
@@ -3887,6 +4102,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/art-culture-et-patrimoine/collection-d-uvres-d-art/18/la-ville-de-sherbrooke-et-ses-habitants",
                 "TODO:status": "certain",
                 "TODO:type": "name",
@@ -3903,6 +4119,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9690-00",
                 "TODO:session": "2024-08-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -3921,6 +4138,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9690-00",
                 "TODO:session": "2024-08-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -3939,6 +4157,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-10",
                 "TODO:session": "2024-08-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -3957,6 +4176,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-05-20",
                 "TODO:start_date": "2024-05-13",
                 "TODO:status": "completed",
@@ -3976,6 +4196,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-11-14",
                 "TODO:resolution": "C.M. 2025-0775-00",
                 "TODO:session": "2025-08-19",
@@ -3998,6 +4219,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-53-RG",
                 "TODO:session": "2025-04-22",
                 "TODO:source": "Règlement no 1300-53",
@@ -4016,6 +4238,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2024-09-23 (Fleurimont)",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "certain",
@@ -4033,6 +4256,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9690-00",
                 "TODO:session": "2024-08-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4051,6 +4275,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-09-26",
                 "TODO:start_date": "2025-04-23",
                 "TODO:status": "completed",
@@ -4070,6 +4295,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -4088,6 +4314,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-53-RG",
                 "TODO:session": "2025-04-22",
                 "TODO:source": "Règlement no 1300-53",
@@ -4106,6 +4333,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-18",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-06-18",
@@ -4126,6 +4354,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "restriction",
                 "name": "Virages à gauche vers Kennedy (8h - 18h)"
@@ -4141,6 +4370,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Pelerins-2023.pdf",
                 "TODO:status": "planned",
                 "TODO:type": "cycleway",
@@ -4159,6 +4389,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -4177,6 +4408,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "planned",
                 "TODO:type": "park",
@@ -4196,6 +4428,7 @@
             },
             "properties": {
                 "TODO:check_date": "2024-10-22",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9087-00",
                 "TODO:session": "2024-01-23",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4214,6 +4447,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
                 "name": "Arrêts aux approches ouest et sud"
@@ -4229,6 +4463,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -4247,6 +4482,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0879-00",
                 "TODO:session": "2025-09-16",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4265,6 +4501,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/",
                 "TODO:status": "ongoing",
                 "TODO:type": "misc",
@@ -4283,6 +4520,7 @@
             "properties": {
                 "TODO:check_date": "2023-12-25",
                 "TODO:comments": "La Ville a déclaré la fermeture de la \"ruelle\" Therrien, mais la rue figure encore dans ses données",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2021-6413-00",
                 "TODO:session": "2021-05-03",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4300,6 +4538,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:type": "footway",
                 "name": "Confirmer que ce passage existe encore"
             },
@@ -4315,6 +4554,7 @@
             },
             "properties": {
                 "TODO:check_date": "2025-04-14",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2026-12-31",
                 "TODO:resolution": "C.D. 2024-0117-00",
                 "TODO:session": "2024-11-25 (comité de démolition)",
@@ -4334,6 +4574,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2023-8940-00",
                 "TODO:session": "2023-12-05",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4352,6 +4593,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2022-06-21",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "certain",
@@ -4369,6 +4611,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://ici.radio-canada.ca/nouvelle/2166994/grand-espace-inauguration-spectacle-jeunes",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
@@ -4385,6 +4628,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2023-03-07",
                 "TODO:source": "Règlement n° 1-168",
                 "TODO:status": "certain",
@@ -4402,6 +4646,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0220-00",
                 "TODO:session": "2025-03-11",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4422,6 +4667,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0220-00",
                 "TODO:session": "2025-03-11",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4443,6 +4689,7 @@
             },
             "properties": {
                 "TODO:comments": "covered=yes shelter=no bench=no",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sts.qc.ca/2023/10/23/la-sts-ajoute-des-marquises-a-certains-arrets-achalandes/",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
@@ -4460,6 +4707,7 @@
             },
             "properties": {
                 "TODO:check_date": "2024-10-06",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/06/04/une-maison-incendiee-de-la-rue-wellington-sera-demolie-4BBA4QJH4ZECZMKVPAGQPZ2B3E/",
                 "TODO:type": "demolition",
                 "name": "Démolition du 835 Wellington Sud"
@@ -4475,6 +4723,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.D. 2025-0125-00",
                 "TODO:session": "2025-06-16 (comité de démolition)",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4493,6 +4742,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "TODO:status": "planned",
                 "TODO:type": "crossing",
@@ -4511,6 +4761,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "hump",
                 "name": "Ajout d'un dos d'âne"
@@ -4526,6 +4777,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "misc",
                 "name": "Halte Roland-Roy (stationnement public)"
@@ -4541,6 +4793,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "TODO:status": "planned",
                 "TODO:type": "crossing",
@@ -4559,6 +4812,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0480-00",
                 "TODO:session": "2025-05-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4579,6 +4833,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "hump",
                 "name": "Ajout d'un dos d'âne"
@@ -4594,6 +4849,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2023-01-24",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "certain",
@@ -4612,6 +4868,7 @@
             },
             "properties": {
                 "TODO:check_date": "2024-08-06",
+                "TODO:marker": "1",
                 "TODO:session": "2024-08-20; 2024-11-05",
                 "TODO:source": "Règlement no 1, article 5.1.13",
                 "TODO:status": "official",
@@ -4629,6 +4886,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9897-00",
                 "TODO:session": "2024-11-05",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4648,6 +4906,7 @@
             },
             "properties": {
                 "TODO:comments": "Réduction de la largeur d'approche de la rue de la Bruère",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-11-02",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2024-10-22",
@@ -4668,6 +4927,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9897-00",
                 "TODO:session": "2024-11-05",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4686,6 +4946,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.D. 2025-0126-00",
                 "TODO:session": "2025-06-16 (comité de démolition)",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4704,6 +4965,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2017-2936-00",
                 "TODO:session": "2017-07-03",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4722,6 +4984,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2023-8693-00",
                 "TODO:session": "2023-09-05",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4740,6 +5003,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2023-8693-00",
                 "TODO:session": "2023-09-05",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4758,6 +5022,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2023-8693-00",
                 "TODO:session": "2023-09-05",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4777,6 +5042,7 @@
             },
             "properties": {
                 "TODO:check_date": "2024-10-06",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9563-00",
                 "TODO:session": "2024-06-18",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4796,6 +5062,7 @@
             },
             "properties": {
                 "TODO:check_date": "2023-06-03",
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "dubious",
                 "TODO:type": "cycleway",
@@ -4812,6 +5079,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9315-00",
                 "TODO:session": "2024-04-09",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4830,6 +5098,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-09-25",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs",
                 "TODO:start_date": "2024-09-16",
@@ -4850,6 +5119,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "stop",
                 "name": "Arrêts sur Sideleau seulement"
@@ -4866,6 +5136,7 @@
             },
             "properties": {
                 "TODO:comments": "Possibilité que ce projet soit fait en même temps que la reconstruction sur La Salle",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "TODO:status": "planned",
                 "TODO:type": "crossing",
@@ -4884,6 +5155,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-10-24",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-09-03",
@@ -4904,6 +5176,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2024",
                 "TODO:status": "certain",
@@ -4924,6 +5197,7 @@
             },
             "properties": {
                 "TODO:check_date": "2024-10-06",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-06-05",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2024-06-05",
@@ -4944,6 +5218,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-10-24",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-09-03",
@@ -4965,6 +5240,7 @@
             },
             "properties": {
                 "TODO:comments": "Arrêt 246",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "TODO:type": "misc",
                 "name": "Ajout d'un abribus"
@@ -4980,6 +5256,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9315-00",
                 "TODO:session": "2024-04-09",
                 "TODO:source": "Ville de Sherbrooke",
@@ -4998,6 +5275,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-10-24",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-09-03",
@@ -5018,6 +5296,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2023-00001-170-RG",
                 "TODO:session": "2023-12-19",
                 "TODO:source": "Règlement 1-170",
@@ -5035,6 +5314,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2023-06-16",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2022-08-08",
@@ -5055,6 +5335,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9084-00",
                 "TODO:session": "2024-01-23",
                 "TODO:source": "Ville de Sherbrooke",
@@ -5074,6 +5355,7 @@
             },
             "properties": {
                 "TODO:comments": "Emplacement inconnu",
+                "TODO:marker": "1",
                 "TODO:source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2025/05/08/laure-letarte-lavoie-brigue-un-deuxieme-mandat-PJOO3NGPL5GABFMB5EB5MYQ64Q/",
                 "TODO:type": "park",
                 "name": "Aménagement de jeux d'eau au parc Bureau?"
@@ -5089,6 +5371,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2024-9693-00",
                 "TODO:session": "2024-08-20",
                 "TODO:source": "Ville de Sherbrooke",
@@ -5107,6 +5390,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-11-29",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Paysans-2024.pdf",
                 "TODO:start_date": "2024-09-20",
@@ -5127,6 +5411,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -5145,6 +5430,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-10-24",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-09-03",
@@ -5165,6 +5451,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-10-24",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2025-09-03",
@@ -5185,6 +5472,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -5203,6 +5491,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -5221,6 +5510,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -5239,6 +5529,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2023-08-25",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf",
                 "TODO:start_date": "2023-05-08",
@@ -5259,6 +5550,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-27",
                 "TODO:session": "2024-10-15",
                 "TODO:source": "Règlement no 1300-51",
@@ -5281,6 +5573,7 @@
             },
             "properties": {
                 "TODO:comments": "Le trottoir partiel sur Lloyd ne sera pas reconstruit",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2023-11-24",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/RobertPeel2023.pdf",
                 "TODO:start_date": "2023-08-03",
@@ -5301,6 +5594,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2027-12-31",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Marie-Paule-Kirouac_Presentation.pdf",
                 "TODO:start_date": "2025-09-30",
@@ -5321,6 +5615,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires",
                 "TODO:type": "misc",
                 "name": "Jardin du parc Maillé (jardin solidaire)"
@@ -5337,6 +5632,7 @@
             },
             "properties": {
                 "TODO:comments": "Ajout d'un arrêt à l'approche est",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-0123-00",
                 "TODO:session": "2025-01-21",
                 "TODO:source": "Règlement no 1300-51",
@@ -5355,6 +5651,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-11-22",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Quatre-Saisons-2024.pdf",
                 "TODO:start_date": "2024-09-12",
@@ -5375,6 +5672,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2021-09-22",
                 "TODO:source": "Maxar",
                 "TODO:start_date": "2021-06-14",
@@ -5395,6 +5693,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-06-07",
                 "TODO:session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -5416,6 +5715,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "planned",
                 "TODO:type": "park",
@@ -5435,6 +5735,7 @@
             },
             "properties": {
                 "TODO:check_date": "2023-06-20",
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2021-6905-00",
                 "TODO:session": "2021-10-04",
                 "TODO:source": "Ville de Sherbrooke",
@@ -5453,6 +5754,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-27",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Lavigerie-web.pdf",
                 "TODO:start_date": "2025-06-02",
@@ -5474,6 +5776,7 @@
             },
             "properties": {
                 "TODO:comments": "Ajout d'une courte portion de trottoir du côté ouest",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2025-06-27",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Lavigerie-web.pdf",
                 "TODO:start_date": "2025-06-02",
@@ -5494,6 +5797,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -5512,6 +5816,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2027-12-31",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Quatre-Saison_presentation.pdf",
                 "TODO:start_date": "2025-01-22",
@@ -5532,6 +5837,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.D. 2025-0128-00",
                 "TODO:session": "2025-08-18 (comité de démolition)",
                 "TODO:source": "Ville de Sherbrooke",
@@ -5550,6 +5856,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.D. 2024-0111-00",
                 "TODO:session": "2024-07-04 (comité de démolition)",
                 "TODO:source": "Ville de Sherbrooke",
@@ -5569,6 +5876,7 @@
             },
             "properties": {
                 "TODO:check_date": "2023-06-20",
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "official",
                 "TODO:type": "name",
@@ -5585,6 +5893,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "planned",
                 "TODO:type": "sidewalk",
@@ -5603,6 +5912,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.D. 2025-0123-00",
                 "TODO:session": "2025-05-26 (comité de démolition)",
                 "TODO:source": "Ville de Sherbrooke",
@@ -5622,6 +5932,7 @@
             },
             "properties": {
                 "TODO:comments": "Retrait permanent ou saisonnier?",
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-05-01",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2024-04-22",
@@ -5642,6 +5953,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.D. 2024-0108-00",
                 "TODO:session": "2024-05-27 (comité de démolition)",
                 "TODO:source": "Ville de Sherbrooke",
@@ -5660,6 +5972,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2021-11-05",
                 "TODO:source": "Maxar",
                 "TODO:start_date": "2021-09-07",
@@ -5680,6 +5993,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:type": "cycleway",
                 "name": "Déterminer l'emplacement de la transition asphalte/gravier"
             },
@@ -5694,6 +6008,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.D. 2025-0120-00",
                 "TODO:session": "2025-03-24 (comité de démolition)",
                 "TODO:source": "Ville de Sherbrooke",
@@ -5712,6 +6027,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.D. 2025-0119-00",
                 "TODO:session": "2025-03-24 (comité de démolition)",
                 "TODO:source": "Ville de Sherbrooke",
@@ -5730,6 +6046,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:status": "certain",
                 "TODO:type": "crossing",
                 "name": "Traverse avec feux"
@@ -5745,6 +6062,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "Fleurimont/2023-04-24",
                 "TODO:source": "Arrondissement de Fleurimont",
                 "TODO:type": "park",
@@ -5762,6 +6080,7 @@
             },
             "properties": {
                 "TODO:check_date": "2024-10-22",
+                "TODO:marker": "1",
                 "TODO:session": "2024-06-18",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "resolution",
@@ -5779,6 +6098,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2024-09-04",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2024-09-04",
@@ -5799,6 +6119,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2025-09-22 (Fleurimont)",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:type": "misc",
@@ -5815,6 +6136,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2025-10-02",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:type": "hump",
@@ -5831,6 +6153,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:session": "2025-09-22 (Fleurimont)",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:type": "misc",
@@ -5847,6 +6170,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2026-12-31",
                 "TODO:session": "2024-06-04",
                 "TODO:source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Clovis-Dagnau-info.pdf",
@@ -5868,6 +6192,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:resolution": "C.M. 2025-1300-57-RG",
                 "TODO:session": "2025-08-19",
                 "TODO:source": "Règlement no 1300-57",
@@ -5886,6 +6211,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:source": "https://ici.radio-canada.ca/nouvelle/2151511/feu-incendie-maison-renard-sherbrooke",
                 "TODO:status": "certain",
                 "TODO:type": "demolition",
@@ -5903,6 +6229,7 @@
             },
             "properties": {
                 "TODO:comments": "Implantations de plusieurs dos d'âne et peut-être d'une traverse surélevée.",
+                "TODO:marker": "1",
                 "TODO:planned_end": "Été 2024",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:status": "planned",
@@ -5922,6 +6249,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2023-06-22",
                 "TODO:source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est",
                 "TODO:start_date": "2022-08-25",
@@ -5942,6 +6270,7 @@
                 "type": "Point"
             },
             "properties": {
+                "TODO:marker": "1",
                 "TODO:planned_end": "2023-09-15",
                 "TODO:source": "Ville de Sherbrooke",
                 "TODO:start_date": "2023-07-10",
