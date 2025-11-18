@@ -77,3 +77,7 @@ Pour soumettre une modification, assurez-vous d'installer préalablement
 suivante :
 
     git config filter.geojson.clean "jq --indent 4 --sort-keys '.features |= sort_by(.geometry.coordinates)'"
+
+## Auteur
+
+Frédéric Brière - fbriere@fbriere.net
