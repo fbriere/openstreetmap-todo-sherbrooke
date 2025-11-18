@@ -1,6 +1,7 @@
 # OpenStreetMap: Liste TODO pour Sherbrooke
 
-[Consulter la carte](https://fbriere.github.io/openstreetmap-todo-sherbrooke/)
+[Consulter la carte:
+<img src="carte.png">](https://fbriere.github.io/openstreetmap-todo-sherbrooke/)
 
 ## Fichiers
 
