@@ -8,13 +8,14 @@
 
 ## Liste des attributs
 
-Noter que le nom de tous les attributs (à l'exception de `name`) débute par `TODO:`, pour éviter tout conflit avec les attributs officiels.
+(Toutes les entrées ont également un attribut `TODO:marker` servant à les
+identifier.)
 
 ### Description et catégorisation
 
 - `name`: Courte description
 
-- `TODO:type`: Catégorisation, parmi la liste ci-dessous:
+- `type`: Catégorisation, parmi la liste ci-dessous:
 
   (La plupart des catégories sont identifiées sur la carte, via [`TODO.mapcss`](TODO.mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
 
@@ -41,7 +42,7 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
 
 ### État/évolution
 
-- `TODO:status`: État de l'avancement des travaux (ou confirmation dans le cas de `certain`)
+- `status`: État de l'avancement des travaux (ou confirmation dans le cas de `certain`)
 
   - `planned`: Travaux prévus
   - `ongoing`: Travaux en cours
@@ -51,23 +52,23 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
   - `certain`: Présence confirmée, mais auprès d'une source qui ne peut être citée; doit donc être vérifié sur place
   - `dubious`: Travaux sans aucun progrès visible depuis leur annonce initiale, possiblement annulés entre-temps
 
-- `TODO:start_date`: Date prévue du début des travaux
-- `TODO:planned_end`: Date prévue de la fin des travaux
-- `TODO:check_date`: Date de la dernière vérification faite sur place
+- `start_date`: Date prévue du début des travaux
+- `planned_end`: Date prévue de la fin des travaux
+- `check_date`: Date de la dernière vérification faite sur place
 
 ### Sources
 
-- `TODO:source`: Source
+- `source`: Source
 
-- `TODO:session`: Date d'une séance d'un conseil ou comité de la Ville agissant comme source
+- `session`: Date d'une séance d'un conseil ou comité de la Ville agissant comme source
 
-- `TODO:resolution`: Résolution d'un conseil ou comité de la Ville agissant comme source
+- `resolution`: Résolution d'un conseil ou comité de la Ville agissant comme source
 
 ### Autres
 
-- `TODO:comments`: Commentaires
+- `comments`: Commentaires
 
-(Les attributs débutant par `TODO:ville:` sont à usage interne et peuvent être ignorés.)
+(Les attributs débutant par `ville:` sont à usage interne et peuvent être ignorés.)
 
 ## Contribuer
 

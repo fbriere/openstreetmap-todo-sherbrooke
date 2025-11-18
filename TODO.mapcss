@@ -5,7 +5,7 @@ meta
 }
 
 
-node["TODO:type"]
+node["TODO:marker"][type]
 {
     text: "name";
     symbol-shape: circle;
@@ -14,19 +14,19 @@ node["TODO:type"]
     text-color: white;
 }
 
-node["TODO:status"="completed"]
+node["TODO:marker"][status=completed]
 {
     font-size: 10;
 }
 
-node["TODO:status"="certain"]
+node["TODO:marker"][status=certain]
 {
     font-size: 10;
     font-weight: bold;
 }
 
 
-node["TODO:type"="bicycle"]
+node["TODO:marker"][type=bicycle]
 {
     text-color: magenta;
     symbol-fill-color: magenta;
@@ -34,42 +34,42 @@ node["TODO:type"="bicycle"]
     symbol-size: 6;
 }
 
-node["TODO:type"="crossing"]
+node["TODO:marker"][type=crossing]
 {
     text: concat(" ///  ", tag("name"));
     text-color: limegreen;
     symbol-fill-color: limegreen;
 }
 
-node["TODO:type"="cycleway"]
+node["TODO:marker"][type=cycleway]
 {
     text-color: magenta;
     symbol-fill-color: magenta;
 }
 
-node["TODO:type"="demolition"]
+node["TODO:marker"][type=demolition]
 {
     text: concat(" 🕇 ", tag("name"));
 }
 
-node["TODO:type"="footway"]
+node["TODO:marker"][type=footway]
 {
     text-color: lime;
     symbol-fill-color: lime;
 }
 
-node["TODO:type"="geometry"]
+node["TODO:marker"][type=geometry]
 {
     text-color: orange;
     symbol-fill-color: orange;
 }
 
-node["TODO:type"="hump"]
+node["TODO:marker"][type=hump]
 {
     text: concat(" ◠ ", tag("name"));
 }
 
-node["TODO:type"="maxspeed"]
+node["TODO:marker"][type=maxspeed]
 {
     symbol-shape: square;
     symbol-size: 8;
@@ -78,27 +78,27 @@ node["TODO:type"="maxspeed"]
     symbol-fill-color: white;
 }
 
-node["TODO:type"="misc"]
+node["TODO:marker"][type=misc]
 {
 }
 
-node["TODO:type"="name"]
+node["TODO:marker"][type=name]
 {
     text: concat("N: ", tag("name"));
 }
 
-node["TODO:type"="new"]
+node["TODO:marker"][type=new]
 {
     text-color: aqua;
     symbol-fill-color: aqua;
 }
 
-node["TODO:type"="oneway"]
+node["TODO:marker"][type=oneway]
 {
     text: concat(" ⮕ ", tag("name"));
 }
 
-node["TODO:type"="park"]
+node["TODO:marker"][type=park]
 {
     text-color: lawngreen;
     symbol-fill-color: lawngreen;
@@ -106,12 +106,12 @@ node["TODO:type"="park"]
     symbol-size: 7;
 }
 
-node["TODO:type"="restriction"]
+node["TODO:marker"][type=restriction]
 {
     text: concat(" ✘ ", tag("name"));
 }
 
-node["TODO:type"="sidewalk"]
+node["TODO:marker"][type=sidewalk]
 {
     text-color: lime;
     symbol-fill-color: lime;
@@ -119,30 +119,30 @@ node["TODO:type"="sidewalk"]
     symbol-size: 6;
 }
 
-node["TODO:type"="sign"]
+node["TODO:marker"][type=sign]
 {
     text: concat(" ≠ ", tag("name"));
 }
 
-node["TODO:type"="stop"]
+node["TODO:marker"][type=stop]
 {
     text-color: red;
     symbol-fill-color: red;
     symbol-shape: octagon;
     symbol-size: 7;
 }
-node["TODO:type"="stop"]["name"="Arrêt toutes directions"]
+node["TODO:marker"][type=stop][name="Arrêt toutes directions"]
 {
     text: "";
 }
 
-node["TODO:type"="surface"]
+node["TODO:marker"][type=surface]
 {
     text-color: lightblue;
     symbol-fill-color: lightblue;
 }
 
-node["TODO:type"="traffic_signal"]
+node["TODO:marker"][type=traffic_signal]
 {
     text-color: yellow;
     symbol-fill-color: yellow;

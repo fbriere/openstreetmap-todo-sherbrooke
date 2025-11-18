@@ -2,48 +2,48 @@
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
     <item name="TODO Entry" type="node" preset_name_label="true"
         name_template="?{
-	        &quot;TODO:type&quot; = bicycle        '🚲' |
-	        &quot;TODO:type&quot; = crossing       '🚸' |
-	        &quot;TODO:type&quot; = cycleway       '🚲' |
-	        &quot;TODO:type&quot; = demolition     '💣' |
-	        &quot;TODO:type&quot; = footway        '🚶' |
-	        &quot;TODO:type&quot; = geometry       '🟗'  |
-	        &quot;TODO:type&quot; = hump           '◠ ' |
-	        &quot;TODO:type&quot; = misc           '　' |
-	        &quot;TODO:type&quot; = maxspeed       '🚄' |
-	        &quot;TODO:type&quot; = name           '📛' |
-	        &quot;TODO:type&quot; = new            '🆕' |
-	        &quot;TODO:type&quot; = oneway         '⮕ ' |
-	        &quot;TODO:type&quot; = park           '⛺' |
-	        &quot;TODO:type&quot; = restriction    '🚫' |
-	        &quot;TODO:type&quot; = sidewalk       '🚶' |
-	        &quot;TODO:type&quot; = sign           '≠ ' |
-	        &quot;TODO:type&quot; = stop           '🛑' |
-	        &quot;TODO:type&quot; = surface        '🐎' |
-	        &quot;TODO:type&quot; = traffic_signal '🚦' |
+	        type = bicycle        '🚲' |
+	        type = crossing       '🚸' |
+	        type = cycleway       '🚲' |
+	        type = demolition     '💣' |
+	        type = footway        '🚶' |
+	        type = geometry       '🟗'  |
+	        type = hump           '◠ ' |
+	        type = misc           '　' |
+	        type = maxspeed       '🚄' |
+	        type = name           '📛' |
+	        type = new            '🆕' |
+	        type = oneway         '⮕ ' |
+	        type = park           '⛺' |
+	        type = restriction    '🚫' |
+	        type = sidewalk       '🚶' |
+	        type = sign           '≠ ' |
+	        type = stop           '🛑' |
+	        type = surface        '🐎' |
+	        type = traffic_signal '🚦' |
 	    '' } {name}"
         icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACQElEQVRYw+XWT4hNURwH8M99nj8jmbJBopSklKUsyBMLxQaRbJSklLIwUoqZhVjYWJAaxUJkJVGEEgtJ7EiyxuIJTcPwxrw5FvdOzXDeffPuzGMx3/pt7umc7/f3+53f9x6mOpJ/QRKYgQVYgmmo4T0+tJu4HNgUuB/4Fqhl8TNwLzC9neRzAmcDA4HwR3wNbGwn+YLAnUA9Qv4jsDdQgvKofRWsnyj5CTr72NHJ4sgdG8IpXEsY/nNvdyq+eOwhvP8745GoB3oDM0eTliNJPM6iJRyg4ww757E0knnAfXQl6QREMVKB7gI97whcDwzHsu/nY2BRbG9pMkYNx7Er5iv9uMqtpMHMlyZInmA7ujKDGYM6tcvoodrojFIzgsDswIbA0cCaMDbLlTiHWZHtgy95eBrVtLVRlJuUdjeOYoXUtd5itdTV5uICFka213H+MN+rbM1LMq8C69CLVVIvT7AM60Ja7mNYG9fuLk4+T4XkopyzNt/fXj0d+7J+H26QwGscTPg+nnuUJ6Aq4lbYhi3oiKx9wv6khb9cXgve4lfk+7QG5DUcwYtWJilPwOesnOPBMC7iRpJz41sVMIgHxnfgU/Qk8YoVE5BlchM/m5xRxaGEviJm1swJ3+BZzvpQanReFXXTUpMH4yAuZUQxPMKVVvve6r/gdtbj+iijGcqmpCtp3qLCPjBShYGQ/nA2Y3k2mu/wKEknRVsFZCK+4Ho73o8l/xmxClQm8fxKUQGVf1WBZLKf5Q3wpMhDd2rgN+rv0tExsecPAAAAAElFTkSuQmCC">
         <key key="TODO:marker" value="1" match="key" />
         <space />
         <text key="name" text="Description" />
-        <text key="TODO:type" text="Type" match="key" />
+        <text key="type" text="Type" />
         <space />
-        <combo key="TODO:status" text="Status"
+        <combo key="status" text="Status"
             values="planned,ongoing,completed,resolution,official,certain,dubious" />
-        <text key="TODO:start_date" text="Start Date" />
-        <text key="TODO:planned_end" text="Planned End" />
-        <text key="TODO:check_date" text="Check Date" />
+        <text key="start_date" text="Start Date" />
+        <text key="planned_end" text="Planned End" />
+        <text key="check_date" text="Check Date" />
         <space />
-        <text key="TODO:source" text="Source" />
-        <text key="TODO:session" text="City Council Meeting Date" />
-        <text key="TODO:resolution" text="City Council Resolution" />
+        <text key="source" text="Source" />
+        <text key="session" text="City Council Meeting Date" />
+        <text key="resolution" text="City Council Resolution" />
         <space />
-        <text key="TODO:comments" text="Comments" />
+        <text key="comments" text="Comments" />
         <space />
         <item_separator />
         <label text="Usage interne:" />
-        <text key="TODO:ville:travaux" text="Travaux" />
-        <text key="TODO:ville:projet" text="Projet" />
+        <text key="ville:travaux" text="Travaux" />
+        <text key="ville:projet" text="Projet" />
         <space />
     </item>
 </presets>
