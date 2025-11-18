@@ -68,3 +68,11 @@ Noter que le nom de tous les attributs (à l'exception de `name`) débute par `T
 - `TODO:comments`: Commentaires
 
 (Les attributs débutant par `TODO:ville:` sont à usage interne et peuvent être ignorés.)
+
+## Contribuer
+
+Pour soumettre une modification, assurez-vous d'installer préalablement
+[jq](https://jqlang.org/) et d'activer le tri du fichier JSON avec la commande
+suivante :
+
+    git config filter.geojson.clean "jq --indent 4 --sort-keys '.features |= sort_by(.geometry.coordinates)'"
