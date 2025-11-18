@@ -6049,7 +6049,7 @@
                 "TODO:marker": "1",
                 "name": "Traverse avec feux",
                 "status": "certain",
-                "type": "crossing"
+                "type": "traffic_signal"
             },
             "type": "Feature"
         },
@@ -6276,7 +6276,7 @@
                 "source": "Ville de Sherbrooke",
                 "start_date": "2023-07-10",
                 "status": "completed",
-                "type": "park",
+                "type": "footway",
                 "ville:projet": "4685",
                 "ville:travaux": "2022"
             },
