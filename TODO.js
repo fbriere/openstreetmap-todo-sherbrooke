@@ -111,23 +111,20 @@ function onEachFeature(feature, layer) {
 let layers = [];
 let layers_map = {};
 let overlays = {};
-let type;
-for (type in types) {
-    if (typeof types[type] !== 'function') {
-        let layer = L.geoJSON(null, {
-            onEachFeature,
-            pointToLayer
-        });
-        layers.push(layer);
-        layers_map[type] = layer;
+for (const type of Object.keys(types)) {
+    let layer = L.geoJSON(null, {
+        onEachFeature,
+        pointToLayer
+    });
+    layers.push(layer);
+    layers_map[type] = layer;
 
-        overlays[type] = {
-            active: true,
-            name: types[type],
-            icon: `<img src="${ get_icon_url(type) }" />`,
-            layer: layer
-        };
-    }
+    overlays[type] = {
+        active: true,
+        name: types[type],
+        icon: `<img src="${ get_icon_url(type) }" />`,
+        layer: layer
+    };
 }
 
 const overlayers = [
@@ -159,9 +156,8 @@ const overlayers = [
 ];
 
 function fillMap(map, entries, add_control) {
-    let i;
-    for (i = 0; i < layers.length; i++) {
-        layers[i].addTo(map);
+    for (const layer of Object.values(layers)) {
+        layer.addTo(map);
     }
     if (add_control) {
         map.addControl( new L.Control.PanelLayers(null, overlayers, {
@@ -173,8 +169,7 @@ function fillMap(map, entries, add_control) {
         //}).addTo(map);
     }
 
-    const features = entries.features;
-    for (i = 0; i < features.length; i++) {
-        layers_map[features[i].properties.type].addData(features[i]);
+    for (const feature of Object.values(entries.features)) {
+        layers_map[feature.properties.type].addData(feature);
     }
 }
