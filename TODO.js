@@ -134,7 +134,7 @@ function fillMap(map, entries, add_control) {
                     icon: `<img src="${ get_icon_url(type) }" />`,
                     layer: layers[type],
                 })),
-            }
+            },
         ];
         L.control.panelLayers(null, overlayers, {
             selectorGroup: true,
