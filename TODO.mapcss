@@ -5,7 +5,7 @@ meta
 }
 
 
-node["TODO:marker"][type]
+node["TODO:marker"]
 {
     text: "name";
     symbol-shape: circle;
