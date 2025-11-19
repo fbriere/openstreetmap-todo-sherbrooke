@@ -109,55 +109,29 @@ function onEachFeature(feature, layer) {
 }
 
 let layers = {};
-let overlays = {};
 for (const type of Object.keys(types)) {
-    let layer = L.geoJSON(null, {
+    layers[type] = L.geoJSON(null, {
         onEachFeature,
-        pointToLayer
+        pointToLayer,
     });
-    layers[type] = layer;
-
-    overlays[type] = {
-        active: true,
-        name: types[type],
-        icon: `<img src="${ get_icon_url(type) }" />`,
-        layer: layer
-    };
 }
-
-const overlayers = [
-    {
-        group: "Tout sélectionner",
-        layers: [
-            overlays.stop,
-            overlays.demolition,
-            overlays.hump,
-            overlays.traffic_signal,
-            overlays.geometry,
-            overlays.maxspeed,
-            overlays.name,
-            overlays["new"],
-            overlays.sign,
-            overlays.park,
-            overlays.crossing,
-            overlays.restriction,
-            overlays.oneway,
-            overlays.footway,
-            overlays.surface,
-            overlays.sidewalk,
-            overlays.bicycle,
-            overlays.cycleway,
-
-            overlays.misc,
-        ]
-    }
-];
 
 function fillMap(map, entries, add_control) {
     for (const layer of Object.values(layers)) {
         layer.addTo(map);
     }
     if (add_control) {
+        const overlayers = [
+            {
+                group: "Tout sélectionner",
+                layers: Object.keys(types).map(type => ({
+                    active: true,
+                    name: types[type],
+                    icon: `<img src="${ get_icon_url(type) }" />`,
+                    layer: layers[type],
+                })),
+            }
+        ];
         L.control.panelLayers(null, overlayers, {
             selectorGroup: true,
             groupCheckboxes: true,  // ?
