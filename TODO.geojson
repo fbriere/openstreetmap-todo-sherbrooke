@@ -2682,9 +2682,9 @@
             },
             "properties": {
                 "TODO:marker": "1",
-                "comments": "Aucune information supplémentaire fournie",
-                "name": "Parc du Bois-Beckett",
+                "name": "Parc du Bois-Beckett - Aménagement des sentiers de la partie nord",
                 "source": "Ville de Sherbrooke",
+                "start_date": "2025-09-02",
                 "status": "planned",
                 "type": "park",
                 "ville:projet": "8270",
