@@ -66,44 +66,55 @@ function pointToLayer(feature, latlng) {
 }
 
 function onEachFeature(feature, layer) {
+	function row(header, contents) {
+		return [
+			"<tr class=\"popup-table-row\">",
+			  "<th class=\"popup-table-row-header\">",
+			    header,
+			    ":",
+			  "</th>",
+			  "<td class=\"popup-table-row-contents\">",
+			    contents,
+			  "</td>",
+			"</tr>"
+		].join('');
+	}
 	layer.bindTooltip(feature.properties.name);
-	var icon_tag = "<img src=\"" + get_icon_url(feature, true) + "\" width=32 height=32 /> ";
-	popupContents = "<h3>" + icon_tag + feature.properties.name + "</h3>"
+	var icon_tag = "<img class=\"popup-title-icon\" src=\"" + get_icon_url(feature, true) + "\" /> ";
+	popupContents = "<span class=\"popup-title\">" + icon_tag + feature.properties.name + "</span>"
 		+ "<table>"
-	  + "<tr><th>Type:</th><td>"
-		+ feature.properties.type + "</td></tr>"
-	  + "<tr><th>État:</th><td>" + (feature.properties.status || "inconnu") + "</td></tr>";
+	  + row("Type", feature.properties.type)
+	  + row("État", (feature.properties.status || "inconnu"));
 	if (feature.properties.start_date) {
-	  popupContents += "<tr><th>Début:</th><td>" + feature.properties.start_date + "</td></tr>"
+	  popupContents += row("Début", feature.properties.start_date);
 	}
 	if (feature.properties.planned_end) {
-	  popupContents += "<tr><th>Fin:</th><td>" + feature.properties.planned_end + "</td></tr>"
+	  popupContents += row("Fin", feature.properties.planned_end);
 	}
 	if (feature.properties.check_date) {
-	  popupContents += "<tr><th>Vérification:</th><td>" + feature.properties.check_date + "</td></tr>"
+	  popupContents += row("Vérification", feature.properties.check_date)
 	}
 	if (feature.properties.source) {
 		source = feature.properties.source;
 		if (source.slice(0, 4) == "http") {
 			source = '<a href="' + source + '">' + source + '</a>';
 		}
-	  popupContents += "<tr><th>Source:</th><td>" + source + "</td></tr>"
+	  popupContents += row("Source", source);
 	}
 	if (feature.properties.session) {
-	  popupContents += "<tr><th>Séance:</th><td>" + feature.properties.session + "</td></tr>"
+	  popupContents += row("Séance" + feature.properties.session);
 	}
 	if (feature.properties.resolution) {
-	  popupContents += "<tr><th>Résolution:</th><td>" + feature.properties.resolution + "</td></tr>";
+	  popupContents += row("Résolution" + feature.properties.resolution);
 	}
 	if (feature.properties.comments) {
-	  popupContents += "<tr><th>Commentaires:</th><td>" + feature.properties.comments + "</td></tr>";
+	  popupContents += row("Commentaires" + feature.properties.comments);
 	}
 	if (feature.properties["ville:projet"]) {
-	  popupContents += "<tr><th>Projet:</th><td>"
-			+ "<a href=\"" + "https://cartes.ville.sherbrooke.qc.ca/arcgis/rest/services/Travaux/Travaux_Diffusion/MapServer/1/query?where=numeroprojet=" + feature.properties["ville:projet"] + "&outFields=*\">"
+	  popupContents += row("Projet",
+			"<a href=\"" + "https://cartes.ville.sherbrooke.qc.ca/arcgis/rest/services/Travaux/Travaux_Diffusion/MapServer/1/query?where=numeroprojet=" + feature.properties["ville:projet"] + "&outFields=*\">"
 			+ feature.properties["ville:projet"]
-			+ "</a>"
-			"</td></tr>";
+			+ "</a>");
 	}
 	popupContents += "</table>";
 	layer.bindPopup(popupContents);
@@ -134,7 +145,7 @@ for (type in types) {
 
 var overlayers = [
 	{
-		group: "<b>Tout sélectionner</b>",
+		group: "Tout sélectionner",
 		layers: [
 			overlays.stop,
 			overlays.demolition,

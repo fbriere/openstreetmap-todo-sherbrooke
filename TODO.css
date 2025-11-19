@@ -1,0 +1,22 @@
+span.leaflet-panel-layers-title {
+	font-size: 120%;
+	font-weight: bold;
+}
+
+img.popup-title-icon {
+	width: 32px;
+    height: 32px;
+}
+
+span.popup-title {
+	font-size: 130%;
+	font-weight: bold;
+}
+
+tr.popup-table-row {
+}
+th.popup-table-row-header {
+	font-weight: bold;
+}
+td.popup-table-row-contents {
+}
