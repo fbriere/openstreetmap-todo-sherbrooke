@@ -1,26 +1,34 @@
 "use strict";
 
 const types = {
-    stop: "Arrêt",
-    demolition: "Démolition",
-    hump: "Dos d'âne",
-    traffic_signal: "Feu de circulation",
-    geometry: "Géométrie",
-    maxspeed: "Limite de vitesse",
-    name: "Nom",
-    "new": "Nouvelle rue",
-    sign: "Panneau erroné",
-    park: "Parc",
-    crossing: "Passage piétonnier",
-    restriction: "Restriction",
-    oneway: "Sens unique",
-    footway: "Sentier piétonnier",
-    surface: "Surface",
-    sidewalk: "Trottoir",
-    bicycle: "Vélo",
-    cycleway: "Voie cyclable",
+    "Véhicules": {
+        stop: "Arrêt",
+        hump: "Dos d'âne",
+        traffic_signal: "Feu de circulation",
+        maxspeed: "Limite de vitesse",
+        restriction: "Restriction",
+        oneway: "Sens unique",
+    },
+    "Vélos": {
+        cycleway: "Voie cyclable",
+        bicycle: "Vélo",
+    },
+    "Piétons": {
+        crossing: "Passage piétonnier",
+        footway: "Sentier piétonnier",
+        sidewalk: "Trottoir",
+    },
+    "Autres": {
+        demolition: "Démolition",
+        geometry: "Géométrie",
+        name: "Nom",
+        "new": "Nouvelle rue",
+        sign: "Panneau erroné",
+        park: "Parc",
+        surface: "Surface",
 
-    misc: "Autre",
+        misc: "Autre",
+    },
 }
 
 function get_icon_url(type, show_stop_all) {
@@ -109,11 +117,13 @@ function onEachFeature(feature, layer) {
 }
 
 let layers = {};
-for (const type of Object.keys(types)) {
-    layers[type] = L.geoJSON(null, {
-        onEachFeature,
-        pointToLayer,
-    });
+for (const [k, v] of Object.entries(types)) {
+    for (const type of (typeof v === "object" ? Object.keys(v) : [k])) {
+        layers[type] = L.geoJSON(null, {
+            onEachFeature,
+            pointToLayer,
+        });
+    }
 }
 
 function fillMap(map, entries, add_control) {
@@ -125,17 +135,23 @@ function fillMap(map, entries, add_control) {
     }
 
     if (add_control) {
-        const overlayers = [
-            {
-                group: "Tout sélectionner",
-                layers: Object.keys(types).map(type => ({
-                    active: true,
-                    name: types[type],
-                    icon: `<img src="${ get_icon_url(type) }" />`,
-                    layer: layers[type],
-                })),
-            },
-        ];
+        function map_layer(type, name) {
+            return {
+                active: true,
+                name: name,
+                icon: `<img src="${ get_icon_url(type) }" />`,
+                layer: layers[type],
+            };
+        }
+        const overlayers = Object.entries(types).map(
+            ([k, v]) => (
+                typeof v === "object" ?
+                    ({
+                        group: k,
+                        layers: Object.entries(v).map(([k,v]) => map_layer(k, v)),
+                    })
+                    : map_layer(k, v)));
+        console.log(overlayers);
         L.control.panelLayers(null, overlayers, {
             selectorGroup: true,
             groupCheckboxes: true,  // ?

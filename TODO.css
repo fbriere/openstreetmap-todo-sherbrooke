@@ -1,3 +1,8 @@
+/* https://stackoverflow.com/a/8539107 */
+div.leaflet-panel-layers-group ~ div.leaflet-panel-layers-group {
+    border-top: 1px black solid;
+}
+
 span.leaflet-panel-layers-title {
     font-size: 16px;
     font-weight: bold;
