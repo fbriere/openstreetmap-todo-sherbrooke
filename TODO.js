@@ -173,7 +173,7 @@ function fillMap(map, entries, add_control) {
         //}).addTo(map);
     }
 
-    var features = entries["features"]
+    var features = entries.features;
     for (i = 0; i < features.length; i++) {
         layers_map[features[i].properties.type].addData(features[i]);
     }
