@@ -24,9 +24,9 @@ const types = {
 }
 
 function get_icon_url(type, show_stop_all) {
-    var state = "default";
+    let state = "default";
     if (type.properties) {
-        var props = type.properties;
+        const props = type.properties;
         type = props.type;
         if (show_stop_all && type == "stop" && props.name == "Arrêt toutes directions") {
             type = "stop-all";
@@ -38,7 +38,7 @@ function get_icon_url(type, show_stop_all) {
 }
 
 function pointToLayer(feature, latlng) {
-    var radius;
+    let radius;
     switch (feature.properties.status) {
         case "certain":
         case "completed":
@@ -80,8 +80,8 @@ function onEachFeature(feature, layer) {
         ].join('');
     }
     layer.bindTooltip(feature.properties.name);
-    var icon_tag = `<img class="popup-title-icon" src="${ get_icon_url(feature, true) }" />`;
-    var popupContents = `<span class="popup-title">${icon_tag} ${feature.properties.name}</span>`;
+    const icon_tag = `<img class="popup-title-icon" src="${ get_icon_url(feature, true) }" />`;
+    let popupContents = `<span class="popup-title">${icon_tag} ${feature.properties.name}</span>`;
 
     popupContents += "<table>";
     popupContents += row("Type", feature.properties.type);
@@ -90,7 +90,7 @@ function onEachFeature(feature, layer) {
     popupContents += row("Fin", feature.properties.planned_end);
     popupContents += row("Vérification", feature.properties.check_date)
     if (feature.properties.source) {
-        var source = feature.properties.source;
+        let source = feature.properties.source;
         if (source.slice(0, 4) == "http") {
             source = `<a href="${source}">${source}</a>`;
         }
@@ -100,7 +100,7 @@ function onEachFeature(feature, layer) {
     popupContents += row("Résolution", feature.properties.resolution);
     popupContents += row("Commentaires", feature.properties.comments);
     if (feature.properties["ville:projet"]) {
-        var url = `https://cartes.ville.sherbrooke.qc.ca/arcgis/rest/services/Travaux/Travaux_Diffusion/MapServer/1/query?where=numeroprojet=${ feature.properties["ville:projet"] }&outFields=*`;
+        const url = `https://cartes.ville.sherbrooke.qc.ca/arcgis/rest/services/Travaux/Travaux_Diffusion/MapServer/1/query?where=numeroprojet=${ feature.properties["ville:projet"] }&outFields=*`;
         popupContents += row("Projet",
             `<a href="${url}">${ feature.properties["ville:projet"] }</a>`);
     }
@@ -108,13 +108,13 @@ function onEachFeature(feature, layer) {
     layer.bindPopup(popupContents);
 }
 
-var layers = [];
-var layers_map = {};
-var overlays = {};
-var type;
+let layers = [];
+let layers_map = {};
+let overlays = {};
+let type;
 for (type in types) {
     if (typeof types[type] !== 'function') {
-        var layer = L.geoJSON(null, {
+        let layer = L.geoJSON(null, {
             onEachFeature,
             pointToLayer
         });
@@ -130,7 +130,7 @@ for (type in types) {
     }
 }
 
-var overlayers = [
+const overlayers = [
     {
         group: "Tout sélectionner",
         layers: [
@@ -159,7 +159,7 @@ var overlayers = [
 ];
 
 function fillMap(map, entries, add_control) {
-    var i;
+    let i;
     for (i = 0; i < layers.length; i++) {
         layers[i].addTo(map);
     }
@@ -173,7 +173,7 @@ function fillMap(map, entries, add_control) {
         //}).addTo(map);
     }
 
-    var features = entries.features;
+    const features = entries.features;
     for (i = 0; i < features.length; i++) {
         layers_map[features[i].properties.type].addData(features[i]);
     }
