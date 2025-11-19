@@ -34,3 +34,15 @@ th.popup-table-row-header {
 }
 td.popup-table-row-contents {
 }
+
+/* planned ongoing completed resolution official certain dubious unknown */
+img.marker-status-planned {
+    filter: grayscale(100%);
+    opacity: 0.5;
+}
+img.marker-status-resolution {
+    opacity: 0.6;
+}
+img.marker-status-dubious {
+    filter: grayscale(100%);
+}

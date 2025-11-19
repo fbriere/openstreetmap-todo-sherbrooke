@@ -32,17 +32,15 @@ const types = {
 }
 
 function get_icon_url(type, show_stop_all) {
-    let state = "default";
     if (type.properties) {
         const props = type.properties;
         type = props.type;
         if (show_stop_all && type === "stop" && props.name === "Arrêt toutes directions") {
             type = "stop-all";
         }
-        state = props.status || "unknown";
     }
 
-    return `img/icons/${state}/${type}.png`;
+    return `img/icons/${type}.png`;
 }
 
 function pointToLayer(feature, latlng) {
@@ -71,6 +69,7 @@ function pointToLayer(feature, latlng) {
             icon: L.icon({
                 iconUrl: get_icon_url(feature),
                 iconSize: [radius * 2, radius * 2],
+                className: `marker-status-${feature.properties.status}`,
             })
         });
 }
@@ -88,7 +87,7 @@ function onEachFeature(feature, layer) {
         ].join('');
     }
     layer.bindTooltip(feature.properties.name);
-    const icon_tag = `<img class="popup-title-icon" src="${ get_icon_url(feature, true) }" />`;
+    const icon_tag = `<img class="popup-title-icon marker-status-${feature.properties.status}" src="${ get_icon_url(feature, true) }" />`;
     let popupContents = `<span class="popup-title">${icon_tag} ${feature.properties.name}</span>`;
 
     popupContents += "<table>";
