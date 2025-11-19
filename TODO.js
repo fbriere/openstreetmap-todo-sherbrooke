@@ -108,16 +108,14 @@ function onEachFeature(feature, layer) {
     layer.bindPopup(popupContents);
 }
 
-let layers = [];
-let layers_map = {};
+let layers = {};
 let overlays = {};
 for (const type of Object.keys(types)) {
     let layer = L.geoJSON(null, {
         onEachFeature,
         pointToLayer
     });
-    layers.push(layer);
-    layers_map[type] = layer;
+    layers[type] = layer;
 
     overlays[type] = {
         active: true,
@@ -170,6 +168,6 @@ function fillMap(map, entries, add_control) {
     }
 
     for (const feature of Object.values(entries.features)) {
-        layers_map[feature.properties.type].addData(feature);
+        layers[feature.properties.type].addData(feature);
     }
 }
