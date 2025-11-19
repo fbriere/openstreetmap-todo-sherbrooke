@@ -1,3 +1,5 @@
+"use strict";
+
 const types = {
     stop: "Arrêt",
     demolition: "Démolition",
@@ -79,7 +81,7 @@ function onEachFeature(feature, layer) {
     }
     layer.bindTooltip(feature.properties.name);
     var icon_tag = `<img class="popup-title-icon" src="${ get_icon_url(feature, true) }" />`;
-    popupContents = `<span class="popup-title">${icon_tag} ${feature.properties.name}</span>`;
+    var popupContents = `<span class="popup-title">${icon_tag} ${feature.properties.name}</span>`;
 
     popupContents += "<table>";
     popupContents += row("Type", feature.properties.type);
@@ -88,7 +90,7 @@ function onEachFeature(feature, layer) {
     popupContents += row("Fin", feature.properties.planned_end);
     popupContents += row("Vérification", feature.properties.check_date)
     if (feature.properties.source) {
-        source = feature.properties.source;
+        var source = feature.properties.source;
         if (source.slice(0, 4) == "http") {
             source = `<a href="${source}">${source}</a>`;
         }
@@ -109,9 +111,10 @@ function onEachFeature(feature, layer) {
 var layers = [];
 var layers_map = {};
 var overlays = {};
+var type;
 for (type in types) {
     if (typeof types[type] !== 'function') {
-        layer = L.geoJSON(null, {
+        var layer = L.geoJSON(null, {
             onEachFeature,
             pointToLayer
         });
@@ -156,6 +159,7 @@ var overlayers = [
 ];
 
 function fillMap(map, entries, add_control) {
+    var i;
     for (i = 0; i < layers.length; i++) {
         layers[i].addTo(map);
     }
@@ -169,7 +173,7 @@ function fillMap(map, entries, add_control) {
         //}).addTo(map);
     }
 
-    features = entries["features"]
+    var features = entries["features"]
     for (i = 0; i < features.length; i++) {
         layers_map[features[i].properties.type].addData(features[i]);
     }
