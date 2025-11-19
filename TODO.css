@@ -3,6 +3,11 @@ span.leaflet-panel-layers-title {
     font-weight: bold;
 }
 
+img.panel-icon {
+    width: 24px;
+    height: 24px;
+}
+
 img.popup-title-icon {
     width: 32px;
     height: 32px;
