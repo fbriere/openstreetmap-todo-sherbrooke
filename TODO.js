@@ -158,13 +158,10 @@ function fillMap(map, entries, add_control) {
         layer.addTo(map);
     }
     if (add_control) {
-        map.addControl( new L.Control.PanelLayers(null, overlayers, {
+        L.control.panelLayers(null, overlayers, {
             selectorGroup: true,
-            groupCheckboxes: true
-        }) );
-        //L.control.layers(null, overlays, {
-        //  collapsed: false
-        //}).addTo(map);
+            groupCheckboxes: true,  // ?
+        }).addTo(map);
     }
 
     for (const feature of Object.values(entries.features)) {
