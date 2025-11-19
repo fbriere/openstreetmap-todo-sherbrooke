@@ -20,7 +20,7 @@ const types = {
     bicycle: "Vélo",
     cycleway: "Voie cyclable",
 
-    misc: "Autre"
+    misc: "Autre",
 }
 
 function get_icon_url(type, show_stop_all) {
@@ -153,7 +153,7 @@ const overlayers = [
             overlays.bicycle,
             overlays.cycleway,
 
-            overlays.misc
+            overlays.misc,
         ]
     }
 ];
