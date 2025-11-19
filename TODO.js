@@ -120,6 +120,10 @@ function fillMap(map, entries, add_control) {
     for (const layer of Object.values(layers)) {
         layer.addTo(map);
     }
+    for (const feature of Object.values(entries.features)) {
+        layers[feature.properties.type].addData(feature);
+    }
+
     if (add_control) {
         const overlayers = [
             {
@@ -136,9 +140,5 @@ function fillMap(map, entries, add_control) {
             selectorGroup: true,
             groupCheckboxes: true,  // ?
         }).addTo(map);
-    }
-
-    for (const feature of Object.values(entries.features)) {
-        layers[feature.properties.type].addData(feature);
     }
 }
