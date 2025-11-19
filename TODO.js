@@ -67,6 +67,9 @@ function pointToLayer(feature, latlng) {
 
 function onEachFeature(feature, layer) {
 	function row(header, contents) {
+		if (! contents) {
+			return "";
+		}
 		return [
 			"<tr class=\"popup-table-row\">",
 			  "<th class=\"popup-table-row-header\">",
@@ -85,15 +88,9 @@ function onEachFeature(feature, layer) {
 		+ "<table>"
 	  + row("Type", feature.properties.type)
 	  + row("État", (feature.properties.status || "inconnu"));
-	if (feature.properties.start_date) {
-	  popupContents += row("Début", feature.properties.start_date);
-	}
-	if (feature.properties.planned_end) {
-	  popupContents += row("Fin", feature.properties.planned_end);
-	}
-	if (feature.properties.check_date) {
-	  popupContents += row("Vérification", feature.properties.check_date)
-	}
+	popupContents += row("Début", feature.properties.start_date);
+	popupContents += row("Fin", feature.properties.planned_end);
+	popupContents += row("Vérification", feature.properties.check_date)
 	if (feature.properties.source) {
 		source = feature.properties.source;
 		if (source.slice(0, 4) == "http") {
@@ -101,15 +98,9 @@ function onEachFeature(feature, layer) {
 		}
 	  popupContents += row("Source", source);
 	}
-	if (feature.properties.session) {
-	  popupContents += row("Séance" + feature.properties.session);
-	}
-	if (feature.properties.resolution) {
-	  popupContents += row("Résolution" + feature.properties.resolution);
-	}
-	if (feature.properties.comments) {
-	  popupContents += row("Commentaires" + feature.properties.comments);
-	}
+	popupContents += row("Séance" + feature.properties.session);
+	popupContents += row("Résolution" + feature.properties.resolution);
+	popupContents += row("Commentaires" + feature.properties.comments);
 	if (feature.properties["ville:projet"]) {
 	  popupContents += row("Projet",
 			"<a href=\"" + "https://cartes.ville.sherbrooke.qc.ca/arcgis/rest/services/Travaux/Travaux_Diffusion/MapServer/1/query?where=numeroprojet=" + feature.properties["ville:projet"] + "&outFields=*\">"
