@@ -62,7 +62,7 @@ function pointToLayer(feature, latlng) {
     return L.marker(latlng, {
             icon: L.icon({
                 iconUrl: get_icon_url(feature),
-                iconSize: [radius * 2, radius * 2]
+                iconSize: [radius * 2, radius * 2],
             })
         });
 }
@@ -76,7 +76,7 @@ function onEachFeature(feature, layer) {
             `<tr class="popup-table-row">`,
               `<th class="popup-table-row-header">${header}:</th>`,
               `<td class="popup-table-row-contents">${contents}</td>`,
-            `</tr>`
+            `</tr>`,
         ].join('');
     }
     layer.bindTooltip(feature.properties.name);
