@@ -3,7 +3,7 @@ span.leaflet-panel-layers-title {
     font-weight: bold;
 }
 
-img.panel-icon {
+.leaflet-panel-layers-icon img {
     width: 24px;
     height: 24px;
 }

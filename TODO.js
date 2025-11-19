@@ -118,12 +118,10 @@ for (type in types) {
         layers.push(layer);
         layers_map[type] = layer;
 
-        var type_descr = types[type];
-        type_descr = `<img class="panel-icon" src="${ get_icon_url(type) }" /> ${type_descr}`;
         overlays[type] = {
             active: true,
-            name: type_descr,
-            //icon: get_icon_url(type),
+            name: types[type],
+            icon: `<img src="${ get_icon_url(type) }" />`,
             layer: layer
         };
     }
