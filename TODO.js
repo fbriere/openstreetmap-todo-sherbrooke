@@ -28,7 +28,7 @@ function get_icon_url(type, show_stop_all) {
     if (type.properties) {
         const props = type.properties;
         type = props.type;
-        if (show_stop_all && type == "stop" && props.name == "Arrêt toutes directions") {
+        if (show_stop_all && type === "stop" && props.name === "Arrêt toutes directions") {
             type = "stop-all";
         }
         state = props.status || "unknown";
@@ -91,7 +91,7 @@ function onEachFeature(feature, layer) {
     popupContents += row("Vérification", feature.properties.check_date)
     if (feature.properties.source) {
         let source = feature.properties.source;
-        if (source.slice(0, 4) == "http") {
+        if (source.slice(0, 4) === "http") {
             source = `<a href="${source}">${source}</a>`;
         }
       popupContents += row("Source", source);
