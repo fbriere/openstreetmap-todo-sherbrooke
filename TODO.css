@@ -11,8 +11,20 @@ input.todo-layers-checkall {
 .leaflet-panel-layers {
 	background: rgba(255,255,255,0.8);
 }
-.leaflet-panel-layers-group, .todo-layers-headerX {
-	background: rgba(255,255,255,0.6);
+:nth-child(1 of .leaflet-panel-layers-group) {
+	background: rgba(255,200,200,0.6);
+}
+:nth-child(2 of .leaflet-panel-layers-group) {
+	background: rgba(255,200,255,0.6);
+}
+:nth-child(3 of .leaflet-panel-layers-group) {
+	background: rgba(200,255,200,0.6);
+}
+:nth-child(4 of .leaflet-panel-layers-group) {
+	background: rgba(200,255,255,0.6);
+}
+:nth-child(5 of .leaflet-panel-layers-group) {
+	background: rgba(200,200,200,0.6);
 }
 
 span.leaflet-panel-layers-title {
@@ -28,7 +40,7 @@ label.leaflet-panel-layers-title {
 	line-height: 24px;
     width: 24px;
     height: 24px;
-    margin-left: 4px;
+    margin-left: 2px;
     margin-right: 6px;
 }
 .leaflet-panel-layers-icon img {
