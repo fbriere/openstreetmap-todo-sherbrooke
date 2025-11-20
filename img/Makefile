@@ -13,10 +13,10 @@ all: signs
 
 signs: $(SIGNS_DEST)
 
-test:
-	@echo $(SIGNS_DEST)
+clean:
+	rm -rf $(SIGNS_DEST)
 
-.PHONY: all signs test
+.PHONY: all signs clean
 
 
 icons.thick/%: icons.orig/%
