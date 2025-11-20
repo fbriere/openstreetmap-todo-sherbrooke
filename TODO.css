@@ -6,6 +6,7 @@ div.leaflet-panel-layers-group ~ div.leaflet-panel-layers-group {
 div.todo-layers-header {
     border-bottom: 3px black solid;
     font-size: 16px;
+    cursor: pointer;
 }
 
 span.leaflet-panel-layers-title {

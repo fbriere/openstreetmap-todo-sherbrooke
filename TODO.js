@@ -198,12 +198,13 @@ function fillMap(map, entries, add_control) {
 
         let header = L.DomUtil.create('div', "todo-layers-header");
         document.getElementsByClassName("leaflet-panel-layers-overlays")[0].prepend(header);
+        let label = L.DomUtil.create('label', '', header);
 
-        let checkall = L.DomUtil.create('input', 'todo-layers-checkall', header);
+        let checkall = L.DomUtil.create('input', 'todo-layers-checkall', label);
         checkall.type  = 'checkbox';
         update_checkall(checkall);
 
-        let checkallTextElem = L.DomUtil.create('span', 'todo-layers-checkall-text', header);
+        let checkallTextElem = L.DomUtil.create('span', 'todo-layers-checkall-text', label);
         checkallTextElem.innerHTML = checkallText;
 
         L.DomEvent.on(checkall, 'click', onCheckAllClick);
