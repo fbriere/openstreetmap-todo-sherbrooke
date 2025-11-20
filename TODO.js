@@ -1,5 +1,7 @@
 "use strict";
 
+const checkallText = "Tout sélectionner";
+
 const types = {
     "Règles": {
         stop: "Arrêt",
@@ -127,6 +129,42 @@ for (const [k, v] of Object.entries(types)) {
     }
 }
 
+function getAllCheckboxes() {
+    const elems = document.getElementsByClassName('leaflet-panel-layers-selector');
+    return [...elems].filter(
+        function(input) { return input.value !== 'group' });
+}
+
+function update_checkall(checkall) {
+    let checked = 0, total = 0;
+    for (const input of getAllCheckboxes()) {
+        total++;
+        if (input.checked) {
+            checked++;
+        }
+    }
+    function set_state(indeterminate, checked) {
+        checkall.indeterminate = indeterminate;
+        checkall.checked = checked;
+    }
+    if (checked === total) {
+        set_state(false, true);
+    } else if (checked === 0) {
+        set_state(false, false);
+    } else {
+        set_state(true, (checked / total) >= 0.5);
+    }
+}
+
+function onCheckAllClick() {
+    const checked = this.checked;
+    for (const input of getAllCheckboxes()) {
+        if (input.checked !== checked) {
+            input.click();
+        }
+    }
+}
+
 function fillMap(map, entries, add_control) {
     for (const layer of Object.values(layers)) {
         layer.addTo(map);
@@ -152,9 +190,27 @@ function fillMap(map, entries, add_control) {
                         layers: Object.entries(v).map(([k,v]) => map_layer(k, v)),
                     })
                     : map_layer(k, v)));
-        L.control.panelLayers(null, overlayers, {
+        let panel = new L.Control.PanelLayers(null, overlayers, {
             selectorGroup: true,
             groupCheckboxes: true,  // ?
-        }).addTo(map);
+        });
+        panel.addTo(map);
+
+        let header = L.DomUtil.create('div', "todo-layers-header");
+        document.getElementsByClassName("leaflet-panel-layers-overlays")[0].prepend(header);
+
+        let checkall = L.DomUtil.create('input', 'todo-layers-checkall', header);
+        checkall.type  = 'checkbox';
+        update_checkall(checkall);
+
+        let checkallTextElem = L.DomUtil.create('span', 'todo-layers-checkall-text', header);
+        checkallTextElem.innerHTML = checkallText;
+
+        L.DomEvent.on(checkall, 'click', onCheckAllClick);
+
+        panel.on('panel:selected',
+            function () { update_checkall(checkall) });
+        panel.on('panel:unselected',
+            function () { update_checkall(checkall) });
     }
 }

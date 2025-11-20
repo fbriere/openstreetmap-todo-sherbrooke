@@ -3,6 +3,11 @@ div.leaflet-panel-layers-group ~ div.leaflet-panel-layers-group {
     border-top: 1px black solid;
 }
 
+div.todo-layers-header {
+    border-bottom: 3px black solid;
+    font-size: 16px;
+}
+
 span.leaflet-panel-layers-title {
     font-size: 16px;
     font-weight: bold;
