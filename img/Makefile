@@ -2,8 +2,8 @@ IM_CONVERT := convert
 IM_REMOVE_DATE := +set date:create +set date:modify
 
 
-SIGNS := $(patsubst panneau/%,%,$(wildcard panneau/*.png))
-DEST_SIGNS := $(patsubst %,panneau2/%,$(SIGNS))
+SIGNS := $(patsubst icons.orig/panneaux-qc/%,%,$(wildcard icons.orig/panneaux-qc/*.png))
+DEST_SIGNS := $(patsubst %,icons.thick/panneaux-qc/%,$(SIGNS))
 
 
 all: signs
@@ -16,11 +16,9 @@ test:
 .PHONY: all signs test
 
 
-panneau2/%: panneau/% panneau2
+icons.thick/panneaux-qc/%: icons.orig/panneaux-qc/%
+	@mkdir --parents $(dir $@)
 	$(IM_CONVERT) $< -gravity center -background transparent -extent 256x256 \( +clone -channel A -morphology EdgeOut:5 Octagon +channel +level-colors black \) -compose DstOver -composite $(IM_REMOVE_DATE) $@
-
-panneau2:
-	mkdir --parent $@
 
 
 $(DEST_SIGNS): Makefile
