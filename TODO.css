@@ -1,12 +1,18 @@
-/* https://stackoverflow.com/a/8539107 */
-div.leaflet-panel-layers-group ~ div.leaflet-panel-layers-group {
-    border-top: 1px black solid;
-}
-
 div.todo-layers-header {
     border-bottom: 3px black solid;
     font-size: 16px;
     cursor: pointer;
+}
+
+input.todo-layers-checkall {
+    float: right;
+}
+
+.leaflet-panel-layers {
+	background: rgba(255,255,255,0.8);
+}
+.leaflet-panel-layers-group, .todo-layers-headerX {
+	background: rgba(255,255,255,0.6);
 }
 
 span.leaflet-panel-layers-title {
@@ -18,6 +24,13 @@ label.leaflet-panel-layers-title {
     font-size: 16px;
 }
 
+.leaflet-panel-layers-icon {
+	line-height: 24px;
+    width: 24px;
+    height: 24px;
+    margin-left: 4px;
+    margin-right: 6px;
+}
 .leaflet-panel-layers-icon img {
     width: 24px;
     height: 24px;
