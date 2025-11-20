@@ -1,7 +1,6 @@
 div.todo-layers-header {
-    border-bottom: 3px black solid;
-    font-size: 16px;
-    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
 }
 
 input.todo-layers-checkall {

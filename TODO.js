@@ -196,9 +196,9 @@ function fillMap(map, entries, add_control) {
         });
         panel.addTo(map);
 
-        let header = L.DomUtil.create('div', "todo-layers-header");
+        let header = L.DomUtil.create('div', "todo-layers-header leaflet-panel-layers-item");
         document.getElementsByClassName("leaflet-panel-layers-overlays")[0].prepend(header);
-        let label = L.DomUtil.create('label', '', header);
+        let label = L.DomUtil.create('label', 'leaflet-panel-layers-title', header);
 
         let checkall = L.DomUtil.create('input', 'todo-layers-checkall', label);
         checkall.type  = 'checkbox';
