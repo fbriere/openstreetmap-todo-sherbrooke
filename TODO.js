@@ -1,9 +1,8 @@
 "use strict";
 
 const types = {
-    "Véhicules": {
+    "Règles": {
         stop: "Arrêt",
-        hump: "Dos d'âne",
         traffic_signal: "Feu de circulation",
         maxspeed: "Limite de vitesse",
         restriction: "Restriction",
@@ -18,6 +17,10 @@ const types = {
         footway: "Sentier piétonnier",
         sidewalk: "Trottoir",
     },
+    "Chaussée": {
+        hump: "Dos d'âne",
+        surface: "Surface",
+    },
     "Autres": {
         demolition: "Démolition",
         geometry: "Géométrie",
@@ -25,7 +28,6 @@ const types = {
         "new": "Nouvelle rue",
         sign: "Panneau erroné",
         park: "Parc",
-        surface: "Surface",
 
         misc: "Autre",
     },
