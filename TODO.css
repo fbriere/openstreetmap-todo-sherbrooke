@@ -1,3 +1,7 @@
+.leaflet-panel-layers-overlays .leaflet-panel-layers-item {
+	margin-bottom: 0px;
+}
+
 div.todo-layers-header {
     font-weight: bold;
     text-align: center;
@@ -16,6 +20,10 @@ label.leaflet-panel-layers-grouplabel {
 
 input.todo-layers-checkall {
     float: right;
+}
+
+.leaflet-panel-layers-group {
+	padding-top: 0px;
 }
 
 .leaflet-panel-layers {
