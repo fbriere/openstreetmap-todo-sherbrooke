@@ -152,7 +152,6 @@ function fillMap(map, entries, add_control) {
                         layers: Object.entries(v).map(([k,v]) => map_layer(k, v)),
                     })
                     : map_layer(k, v)));
-        console.log(overlayers);
         L.control.panelLayers(null, overlayers, {
             selectorGroup: true,
             groupCheckboxes: true,  // ?
