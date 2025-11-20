@@ -21,7 +21,7 @@ test:
 
 icons.thick/%: icons.orig/%
 	@mkdir --parents $(dir $@)
-	$(IM_CONVERT) $< -gravity center -background transparent -extent 256x256 \( +clone -channel A -morphology EdgeOut:5 Octagon +channel +level-colors black \) -compose DstOver -composite $(IM_REMOVE_DATE) $@
+	$(IM_CONVERT) $< -gravity center -background transparent -extent '116.36%x116.36%' \( +clone -channel A -morphology EdgeOut:5 Octagon +channel +level-colors black \) -compose DstOver -composite $(IM_REMOVE_DATE) $@
 
 
 $(SIGNS_DEST): Makefile
