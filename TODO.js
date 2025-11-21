@@ -43,6 +43,7 @@ const statuses = {
     official: "Officiel",
     certain: "Certain",
     dubious: "Douteux",
+    '': "Inconnu",
 };
 
 function get_icon_url(type, show_stop_all) {
@@ -106,7 +107,7 @@ function onEachFeature(feature, layer) {
 
     popupContents += "<table>";
     popupContents += row("Type", feature.properties.type);
-    popupContents += row("État", (statuses[feature.properties.status] || "Inconnu"));
+    popupContents += row("État", (statuses[feature.properties.status || '']));
     popupContents += row("Début", feature.properties.start_date);
     popupContents += row("Fin", feature.properties.planned_end);
     popupContents += row("Vérification", feature.properties.check_date)
@@ -177,7 +178,7 @@ function onCheckAllClick() {
 
 function redrawMap(entries, statuses) {
     const statusFilter = function(feature) {
-        return statuses ? statuses.includes(feature.properties.status) : true;
+        return statuses ? statuses.includes(feature.properties.status || '') : true;
     };
     for (const layer of Object.values(layers)) {
         layer.clearLayers();
