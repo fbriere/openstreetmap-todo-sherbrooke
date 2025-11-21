@@ -106,7 +106,7 @@ function onEachFeature(feature, layer) {
     let popupContents = `<span class="popup-title">${icon_tag} ${feature.properties.name}</span>`;
 
     popupContents += "<table>";
-    const typesFlat = Object.assign.apply(null, Object.values(types));
+    const typesFlat = Object.assign.apply(null, [{}].concat(Object.values(types)));
     popupContents += row("Type", typesFlat[feature.properties.type]);
     popupContents += row("État", (statuses[feature.properties.status || '']));
     popupContents += row("Début", feature.properties.start_date);
