@@ -215,7 +215,6 @@ function fillMap(map, entries, add_control) {
                     : map_layer(k, v)));
         let panel = new L.Control.PanelLayers(null, overlayers, {
             selectorGroup: true,
-            groupCheckboxes: true,  // ?
         });
         panel.addTo(map);
 
