@@ -103,7 +103,7 @@ function onEachFeature(feature, layer) {
     }
     layer.bindTooltip(feature.properties.name);
     const icon_tag = `<img class="popup-title-icon marker-status-${feature.properties.status}" src="${ get_icon_url(feature, true) }" />`;
-    let popupContents = `<span class="popup-title">${icon_tag} ${feature.properties.name}</span>`;
+    let popupContents = `<div class="popup-header">${icon_tag} <span class="popup-title">${feature.properties.name}</span></div>`;
 
     popupContents += "<table>";
     const typesFlat = Object.assign.apply(null, [{}].concat(Object.values(types)));
