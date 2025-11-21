@@ -238,6 +238,7 @@ function fillMap(map, entries, add_control) {
         L.control.select({
             position: "topleft",
             id: 'todo-control',
+            iconMain: '<img src="img/filter.png" />',
             items: [
                 {
                     label: "Filtrer par état",
