@@ -35,6 +35,16 @@ const types = {
     },
 }
 
+const statuses = {
+    planned: "Prévu",
+    ongoing: "En cours",
+    completed: "Complété",
+    resolution: "Résolution",
+    official: "Officiel",
+    certain: "Certain",
+    dubious: "Douteux",
+};
+
 function get_icon_url(type, show_stop_all) {
     if (type.properties) {
         const props = type.properties;
@@ -96,7 +106,7 @@ function onEachFeature(feature, layer) {
 
     popupContents += "<table>";
     popupContents += row("Type", feature.properties.type);
-    popupContents += row("État", (feature.properties.status || "inconnu"));
+    popupContents += row("État", (statuses[feature.properties.status] || "Inconnu"));
     popupContents += row("Début", feature.properties.start_date);
     popupContents += row("Fin", feature.properties.planned_end);
     popupContents += row("Vérification", feature.properties.check_date)
