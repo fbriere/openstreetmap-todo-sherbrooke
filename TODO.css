@@ -7,7 +7,7 @@ div.todo-layers-header {
     text-align: center;
 }
 
-label.leaflet-panel-layers-grouplabel {
+label.leaflet-panel-layers-grouplabel, .leaflet-control-select-menu-line {
     display: block;
 	cursor: pointer;
 	-webkit-touch-callout: none;

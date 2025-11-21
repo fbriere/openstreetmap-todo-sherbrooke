@@ -175,13 +175,24 @@ function onCheckAllClick() {
     }
 }
 
-function fillMap(map, entries, add_control) {
+function redrawMap(entries, statuses) {
+    const statusFilter = function(feature) {
+        return statuses ? statuses.includes(feature.properties.status) : true;
+    };
     for (const layer of Object.values(layers)) {
-        layer.addTo(map);
+        layer.clearLayers();
+        layer.options.filter = statusFilter;
     }
     for (const feature of Object.values(entries.features)) {
         layers[feature.properties.type].addData(feature);
     }
+}
+
+function fillMap(map, entries, add_control) {
+    for (const layer of Object.values(layers)) {
+        layer.addTo(map);
+    }
+    redrawMap(entries);
 
     if (add_control) {
         function map_layer(type, name) {
@@ -223,5 +234,27 @@ function fillMap(map, entries, add_control) {
             function () { update_checkall(checkall) });
         panel.on('panel:unselected',
             function () { update_checkall(checkall) });
+
+        L.control.select({
+            position: "topleft",
+            id: 'todo-control',
+            items: [
+                {
+                    label: "Filtrer par état",
+                    value: 'filter',
+                    items: Object.entries(statuses).map(([key, value]) => {
+                        return { label: value, value: key };
+                    })
+                },
+            ],
+            selectedDefault: Object.keys(statuses),
+            multi: true,
+            iconChecked: "☑",  // "✓", "✔",
+            iconUnchecked: "❒",
+            onSelect: function(selection) {
+                console.log(`selected ${selection}`);
+                redrawMap(entries, selection);
+            },
+        }).addTo(map);
     }
 }
