@@ -17,9 +17,10 @@
 	margin-bottom: 0px;
 }
 
-div.todo-layers-header {
+div#todo-layers-header {
     font-weight: bold;
     text-align: center;
+    margin-bottom: 5px;
 }
 
 label.leaflet-panel-layers-grouplabel, .leaflet-control-select-menu-line {
