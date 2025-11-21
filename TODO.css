@@ -1,3 +1,7 @@
+.todo-filter-button {
+    padding-top: 5px;
+}
+
 .popup-header {
     display: flex;
     align-items: center;
