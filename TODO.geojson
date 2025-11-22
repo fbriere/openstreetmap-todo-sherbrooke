@@ -3223,26 +3223,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.90574986104,
-                    45.38968775816
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "comments": "Les cartes de la Ville et de BIXI placent la station jouxtant la caisse, alors que la carte de travaux la plaçait de l'autre côté de Galt, ce qui aurait plus de sens",
-                "name": "Emplacement de la station BIXI",
-                "source": "Ville de Sherbrooke",
-                "status": "completed",
-                "type": "bicycle",
-                "ville:projet": "8302",
-                "ville:travaux": "2025"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.9057107079,
                     45.38830899422
                 ],
