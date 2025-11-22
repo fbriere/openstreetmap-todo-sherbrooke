@@ -11,8 +11,8 @@ const types = {
         oneway: "Sens unique",
     },
     "Vélos": {
-        cycleway: "Voie cyclable",
         bicycle: "Vélo",
+        cycleway: "Voie cyclable",
     },
     "Piétons": {
         crossing: "Passage piétonnier",
@@ -24,14 +24,13 @@ const types = {
         surface: "Surface",
     },
     "Autres": {
+        misc: "Autre",
         demolition: "Démolition",
         geometry: "Géométrie",
         name: "Nom",
         "new": "Nouvelle rue",
         sign: "Panneau erroné",
         park: "Parc",
-
-        misc: "Autre",
     },
 }
 
