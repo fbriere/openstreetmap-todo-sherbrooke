@@ -4381,25 +4381,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.88994199105,
-                    45.39151968119
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Remplacement surface synthétique",
-                "source": "Ville de Sherbrooke",
-                "status": "planned",
-                "type": "park",
-                "ville:projet": "8438",
-                "ville:travaux": "2025"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.88986610657,
                     45.39665879975
                 ],
