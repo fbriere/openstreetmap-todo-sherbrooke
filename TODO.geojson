@@ -5149,26 +5149,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.87367443562,
-                    45.38160260823
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Aménagement de voies cyclables (entre Acadie et John-Wilson)",
-                "source": "Ville de Sherbrooke",
-                "start_date": "2024",
-                "status": "certain",
-                "type": "cycleway",
-                "ville:projet": "5806",
-                "ville:travaux": "2024"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.8727448258,
                     45.40987338249
                 ],
