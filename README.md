@@ -12,10 +12,11 @@ https://fbriere.github.io/openstreetmap-todo-sherbrooke/
 [<img src="carte.png">](https://fbriere.github.io/openstreetmap-todo-sherbrooke/)
 
 Les entrées de cette liste proviennent d'une multitude de sources (articles de journaux,
-séances du conseil municipal, carte des travaux de la Ville, etc.) et reflètent une
-variété de situations, allant d'un simple fait n'ayant qu'à être confirmé sur
-place (`status=certain`) à un projet qui ne sera entrepris que dans le futur
-(`status=planned`).
+[séances du conseil municipal](https://www.sherbrooke.ca/fr/vie-municipale/seances-du-conseil),
+[carte des travaux de la Ville](https://cartes.ville.sherbrooke.qc.ca/Travaux/), etc.)
+et reflètent une variété de situations, allant d'un simple fait n'ayant qu'à
+être confirmé sur place (`status=certain`) à un projet qui ne sera entrepris
+que dans le futur (`status=planned`).
 
 ## Liste des attributs
 
