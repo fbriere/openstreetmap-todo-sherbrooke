@@ -11,6 +11,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 230739462,5 way 230739461,3 node 2391953018,2 node 8572735603,1",
                 "session": "2023-09-05",
                 "source": "Règlement n° 1-168",
                 "status": "certain",
@@ -29,6 +30,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 230739454,6 node 4181518902,2",
                 "session": "2023-09-05",
                 "source": "Règlement n° 1-168",
                 "status": "certain",
@@ -66,6 +68,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Confirmer le point de démarcation entre les rues du Pimbina et des Coudriers",
+                "osm:elements": "way 373126838,3",
                 "type": "name"
             },
             "type": "Feature"
@@ -81,6 +84,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Vérifier deux courts segments `oneway=no`",
+                "osm:elements": "way 32466890,4 way 32467172,6 way 935508755,1 way 935508754,1",
                 "type": "oneway"
             },
             "type": "Feature"
@@ -96,6 +100,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Vérifier pavage de cette section",
+                "osm:elements": "way 32465245,7",
                 "source": "Maxar",
                 "type": "surface"
             },
@@ -112,6 +117,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Demi-tour (ouest → est)",
+                "osm:elements": "way 27292910,8 way 646036430,6 way 646036429,6",
                 "status": "certain",
                 "type": "restriction"
             },
@@ -128,6 +134,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: Sens unique sur cette entrée",
+                "osm:elements": "way 866072275,2 way 424085124,5 way 866072276,1",
                 "status": "certain",
                 "type": "oneway"
             },
@@ -145,6 +152,7 @@
                 "TODO:marker": "1",
                 "comments": "Fermeture pour la saison 2025",
                 "name": "Parc Villageois - Reconstruction du terrain de soccer",
+                "osm:elements": "way 442078883,1",
                 "planned_end": "2026-05-18",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2024-09-03",
@@ -166,6 +174,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Retirer maxspeed=45",
+                "osm:elements": "way 32466113,7",
                 "status": "certain",
                 "type": "maxspeed"
             },
@@ -182,6 +191,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ceci n'est que l'entrée d'un complexe d'habitations et devrait être service=driveway",
+                "osm:elements": "way 373138546,7",
                 "status": "certain",
                 "type": "misc"
             },
@@ -198,6 +208,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "node 8075243147,1 node 364977922,4 node 8075243146,1 node 8075243145,1 node 8075243057,1 way 1164909869,1 way 32464543,9 way 503662843,5",
                 "status": "certain",
                 "type": "stop"
             },
@@ -215,6 +226,7 @@
                 "TODO:marker": "1",
                 "check_date": "2025-03-22",
                 "name": "Démolition complète du 7120 ch. de Saint-Élie",
+                "osm:elements": "way 941105212,2",
                 "resolution": "C.D. 2024-0115-00",
                 "session": "2024-09-23 (comité de démolition)",
                 "source": "Ville de Sherbrooke",
@@ -234,6 +246,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Asphalage entre le 1239 et le ch. Georges-Vallières",
+                "osm:elements": "way 1182617588,1",
                 "planned_end": "2023-09-01",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2023-05-29",
@@ -255,6 +268,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Passage pour cavaliers",
+                "osm:elements": "way 13807529,12 node 8712905195,1 node 8712905177,1",
                 "resolution": "C.M. 2024-9083-00",
                 "session": "2024-01-23",
                 "source": "Ville de Sherbrooke",
@@ -274,6 +288,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Tous ces segments (ainsi qu'un autre ici, non cartographié) font (officiellement?) partie de la rue de la Pointe-Gervais",
+                "osm:elements": "way 897735043,1 way 897735041,1 way 897735042,1",
                 "source": "Ville de Sherbrooke",
                 "type": "misc"
             },
@@ -290,6 +305,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Transformation du jeu de galets en terrain de pickleball",
+                "osm:elements": "way 421212674,2 way 421212672,2",
                 "planned_end": "2024-06-28",
                 "session": "BROFSED/2023-01-30",
                 "source": "Ville de Sherbrooke",
@@ -312,6 +328,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 50 (entre Bourque et des Enclaves)",
+                "osm:elements": "way 819996705,4",
                 "resolution": "C.M. 2025-1300-51-RG",
                 "session": "2025-03-25",
                 "source": "Règlement no 1300-51",
@@ -331,6 +348,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Aucun arrêt ici",
+                "osm:elements": "node 489011702,5",
                 "status": "certain",
                 "type": "stop"
             },
@@ -366,6 +384,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un trottoir (côté ouest, entre R-220 et le passage piétonnier)",
+                "osm:elements": "way 372539030,7",
                 "planned_end": "2025-09-19",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Perles-web.pdf",
                 "start_date": "2025-07-21",
@@ -424,6 +443,7 @@
                 "TODO:marker": "1",
                 "check_date": "2025-03-22",
                 "name": "Prolongement de la rue du Centre-Équestre",
+                "osm:elements": "way 1370727691,3",
                 "planned_end": "2027-12-31",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Centre-Équestre_II.pdf",
                 "start_date": "2024-09-30",
@@ -445,6 +465,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Déplacer la limite 70/80 ici pour les deux voies",
+                "osm:elements": "way 340962975,19",
                 "status": "certain",
                 "type": "maxspeed"
             },
@@ -461,6 +482,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un trottoir (côté sud, entre Henri-Labonne et Godin)",
+                "osm:elements": "way 27388735,16",
                 "planned_end": "2025-11-28",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Paillard-web.pdf",
                 "start_date": "2025-09-15",
@@ -483,6 +505,7 @@
                 "TODO:marker": "1",
                 "comments": "Ce toponyme remplace celui de \"Parc Pierre-Dansereau\"",
                 "name": "Parc Marie-Dupuy-Sagala",
+                "osm:elements": "way 619503098,2",
                 "resolution": "C.E. 2024-4440-00",
                 "session": "2024-09-04/CE",
                 "source": "Ville de Sherbrooke",
@@ -502,6 +525,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Conversion de la piscine en jeux d'eau",
+                "osm:elements": "way 875553059,2 way 875553056,1",
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/23/la-piscine-du-parc-central-sera-remplacee-par-des-jeux-deau-L2U36KX2TNG7NMQVXF53WCQD3M/",
                 "status": "planned",
                 "type": "park"
@@ -519,6 +543,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Réfection des terrains de tennis",
+                "osm:elements": "way 92927688,6 way 283405833,2",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-05-07",
                 "status": "ongoing",
@@ -540,6 +565,7 @@
                 "TODO:marker": "1",
                 "check_date": "2024-08-24",
                 "name": "Ajout d'un corridor de marche (côté sud, entre Berthe-Dostie et Henri-Labonne)",
+                "osm:elements": "way 621872680,4",
                 "resolution": "C.M. 2024-9367-00",
                 "session": "2024-04-23",
                 "source": "Ville de Sherbrooke",
@@ -560,6 +586,7 @@
                 "TODO:marker": "1",
                 "check_date": "2024-08-24",
                 "name": "Ajout d'un couloir de traversée",
+                "osm:elements": "way 621872680,4 node 5874699136,2",
                 "resolution": "C.M. 2024-9367-00",
                 "session": "2024-04-23",
                 "source": "Ville de Sherbrooke",
@@ -579,6 +606,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Henri-Labonne et Adjutor)",
+                "osm:elements": "way 27388735,16",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -599,6 +627,7 @@
                 "TODO:marker": "1",
                 "comments": "Ajout d'une voie de virage à droite sur Président-Kennedy",
                 "name": "Modifications géométriques à l'intersection",
+                "osm:elements": "way 1424464876,3 way 874810806,6 way 1424464877,4 node 94059140,5 node 54892959,12",
                 "planned_end": "2024-10-25",
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/09/12/plus-dun-mois-de-travaux-au-coin-bourquepresident-kennedy-M2FQ6W36L5EOJKFSWLE6UMCA4U/",
                 "start_date": "2024-09-11",
@@ -620,6 +649,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Corriger: 30 (en tout temps) (entre Poisson et #5145)",
+                "osm:elements": "way 1122560483,4",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -639,6 +669,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Frédéric et Florent)",
+                "osm:elements": "way 621872688,5",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -659,6 +690,7 @@
                 "TODO:marker": "1",
                 "check_date": "2025-03-22",
                 "name": "Piste cyclable sur Estelle-Gobeil",
+                "osm:elements": "way 1311261957,3",
                 "planned_end": "2026-09-18",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2024-06-25",
@@ -680,6 +712,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Kennedy et #901)",
+                "osm:elements": "way 19131756,14",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -700,6 +733,7 @@
                 "TODO:marker": "1",
                 "check_date": "2023-08-06",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 1451074758,1 way 258913307,11 way 381819489,4 node 3849863957,2",
                 "session": "2017-07-03",
                 "status": "dubious",
                 "type": "stop"
@@ -717,6 +751,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Kennedy et #909)",
+                "osm:elements": "way 19804324,5",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -752,6 +787,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Installation de dos d'âne",
+                "osm:elements": "way 874146740,3 node 4895321035,2 node 8138885218,1 node 8138885219,1 node 8138885220,1 node 4895321038,2 node 8138885217,1 node 8138885226,1 node 8138885225,1 node 8138885223,1 node 4895321039,2 node 8138885224,1 node 8138885221,1 node 8138885222,1 node 4895321041,2 node 8138873116,1 node 8139968299,1",
                 "session": "2025-10-02",
                 "source": "Ville de Sherbrooke",
                 "type": "hump"
@@ -770,6 +806,7 @@
                 "TODO:marker": "1",
                 "comments": "Arrêt 1669",
                 "name": "Ajout d'un abribus",
+                "osm:elements": "node 13308244954,1",
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "status": "certain",
                 "type": "misc"
@@ -787,6 +824,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Fermeture du Comtoir familial",
+                "osm:elements": "way 867831922,2",
                 "source": "https://ici.radio-canada.ca/nouvelle/2065328/aide-demunis-dons-vetements-sherbrooke",
                 "start_date": "2024-04-30",
                 "status": "planned",
@@ -827,6 +865,7 @@
                 "check_date": "2025-03-22",
                 "comments": "Le marquage au sol sera effectué en 2025",
                 "name": "Prolongement du boulevard du Mi-Vallon jusqu'au boulevard René-Lévesque",
+                "osm:elements": "way 935571389,7",
                 "planned_end": "2024-11-22",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Mi-Vallon_Info-travaux.pdf",
                 "start_date": "2024-07-15",
@@ -848,6 +887,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Prolongement de la rue Kesteman",
+                "osm:elements": "way 608148003,3",
                 "planned_end": "2026-12-11",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Kesterman_presentation.pdf",
                 "start_date": "2025-09-02",
@@ -891,6 +931,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Comment traiter cette rue privée, officiellement sans nom?",
+                "osm:elements": "way 153036145,6",
                 "source": "Ville de Sherbrooke",
                 "type": "misc"
             },
@@ -907,6 +948,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration des passages piétonniers de toutes les branches du carrefour giratoire",
+                "osm:elements": "node 3850467466,4 node 3588463776,4 node 3850464142,3 node 3850464126,4 node 3850464101,7 node 3850464100,9 node 3850464130,5 node 3850464147,5",
                 "planned_end": "2025-11-07",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-10-09",
@@ -928,6 +970,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un trottoir (côté est, entre Bourque et Partisans)",
+                "osm:elements": "way 10666421,11",
                 "planned_end": "2025-07-25",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Fortier-Nord-web.pdf",
                 "start_date": "2025-07-01",
@@ -949,6 +992,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Corriger: Aucune limite affichée ici",
+                "osm:elements": "way 87781612,8 way 87781598,8",
                 "status": "certain",
                 "type": "maxspeed"
             },
@@ -965,6 +1009,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un trottoir (côté nord, entre Bourque et Gouin)",
+                "osm:elements": "way 88907450,10",
                 "planned_end": "2025-08-22",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Fortier-Sud-8-5x14po-web.pdf",
                 "start_date": "2025-07-07",
@@ -986,6 +1031,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction d'un trottoir (côté nord, entre Mégantic et Barton)",
+                "osm:elements": "way 713189140,3",
                 "planned_end": "2025-06-20",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Megantic-memphremagog-8-5x14po-web.pdf",
                 "start_date": "2025-05-20",
@@ -1007,6 +1053,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'une traverse",
+                "osm:elements": "way 295430150,8 node 2991480973,2 node 7997805711,1 node 7997805714,1",
                 "planned_end": "2025-06-20",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Megantic-memphremagog-8-5x14po-web.pdf",
                 "start_date": "2025-05-20",
@@ -1028,6 +1075,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction d'un trottoir (côté est)",
+                "osm:elements": "way 295430150,8",
                 "planned_end": "2025-06-20",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Megantic-memphremagog-8-5x14po-web.pdf",
                 "start_date": "2025-05-20",
@@ -1049,6 +1097,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Modifications géométriques à l'intersection",
+                "osm:elements": "way 1445810451,2 way 1164679060,1 node 94050762,5",
                 "source": "Ville de Sherbrooke",
                 "status": "planned",
                 "type": "geometry",
@@ -1068,6 +1117,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Neil-Tracy et Albani)",
+                "osm:elements": "way 371669319,6",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -1087,6 +1137,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Mack-Sennett et #5069)",
+                "osm:elements": "way 371669479,7",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -1106,6 +1157,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction d'un trottoir (côté est, entre Vétérans et Villemontel)",
+                "osm:elements": "way 10666618,7",
                 "planned_end": "Été 2025",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Veterans-Viel-8-5x14po-web.pdf",
                 "status": "planned",
@@ -1126,6 +1178,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un trottoir (côté nord, entre Viel et Chambois)",
+                "osm:elements": "way 10666478,12",
                 "planned_end": "Été 2024",
                 "session": "2025-03-22",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Veterans-Viel-8-5x14po-web.pdf",
@@ -1147,6 +1200,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Déplacer l'arrêt toutes directions (et les traverses) de Viel à Chambois",
+                "osm:elements": "node 94296261,6 node 94296260,3 node 5636185289,2",
                 "planned_end": "Été 2024",
                 "session": "2025-03-22",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Veterans-Viel-8-5x14po-web.pdf",
@@ -1168,6 +1222,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction d'un trottoir (côté sud, entre Bertrand-Fabi et Viel)",
+                "osm:elements": "way 10666478,12",
                 "planned_end": "Été 2025",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Veterans-Viel-8-5x14po-web.pdf",
                 "status": "planned",
@@ -1188,6 +1243,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 5854637726,2",
                 "planned_end": "2025-09-12",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "start_date": "2025-08-25",
@@ -1209,6 +1265,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 5875413702,1",
                 "planned_end": "2025-10-08",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "start_date": "2025-08-27",
@@ -1230,6 +1287,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 370913835,4 node 148834652,6 way 370913833,5 way 15089794,17",
                 "resolution": "C.M. 2025-0161-00",
                 "session": "2025-02-04",
                 "source": "Ville de Sherbrooke",
@@ -1249,6 +1307,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 70 km/h (jusqu'aux limites de la ville)",
+                "osm:elements": "way 15089794,17",
                 "session": "2024-10-15",
                 "source": "Règlement no 1300-51",
                 "status": "official",
@@ -1267,6 +1326,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Virage à gauche (des Écossais → Albatros)",
+                "osm:elements": "way 477631135,6 way 239945761,3 node 2477164158,3",
                 "status": "certain",
                 "type": "restriction"
             },
@@ -1283,6 +1343,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Prolongement du trottoir entre le 3575 et le 3525, boul. Industriel",
+                "osm:elements": "way 258852419,11",
                 "planned_end": "2024-08-27",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2024-07-30",
@@ -1305,6 +1366,7 @@
                 "TODO:marker": "1",
                 "check_date": "2023-07-19",
                 "name": "Place *de* Monseigneur-Moisan",
+                "osm:elements": "way 9842322,5",
                 "type": "sign"
             },
             "type": "Feature"
@@ -1320,6 +1382,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Déplacer ligne 80/90 ici",
+                "osm:elements": "way 363611664,5 node 2509573212,3",
                 "status": "certain",
                 "type": "maxspeed"
             },
@@ -1337,6 +1400,7 @@
                 "TODO:marker": "1",
                 "comments": "Le *nom* a déjà été changé, mais c'est tout le reste qui manque...",
                 "name": "Conversion en RONA+",
+                "osm:elements": "relation 11132022,5",
                 "source": "https://www.latribune.ca/affaires/2024/05/24/reno-depot-devient-rona-YNUUZJINXNCT7MGO6DDO3TNOIQ/",
                 "status": "certain",
                 "type": "misc"
@@ -1398,6 +1462,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "La portion sud de cette rue est privée et n'a pas de nom",
+                "osm:elements": "way 156871052,8 way 156871055,10 way 9733500,16",
                 "status": "certain",
                 "type": "name"
             },
@@ -1414,6 +1479,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Conversion de l'arrêt en dos d'âne",
+                "osm:elements": "node 4333898890,3 node 11150274569,1 node 11150274570,1",
                 "planned_end": "2025-06-27",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "start_date": "2025-04-28",
@@ -1435,6 +1501,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un passage piétonnier surélevé",
+                "osm:elements": "way 1202792941,2 way 1122139895,1 way 1446367553,1 node 77012415,6",
                 "planned_end": "2025-06-27",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "start_date": "2025-04-28",
@@ -1456,6 +1523,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "way 9842493,3 way 1202792941,2 node 77012414,7",
                 "planned_end": "2025-06-27",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "start_date": "2025-04-28",
@@ -1477,6 +1545,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout de bandes cyclables (entre Charles-Hamel et Nicolas-Scheib)",
+                "osm:elements": "way 1202792941,2 way 641077871,2",
                 "planned_end": "2025-06-27",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "start_date": "2025-04-28",
@@ -1498,6 +1567,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Pavage (entre Juge-Rivard et Nicolas-Scheib)",
+                "osm:elements": "way 641077871,2",
                 "planned_end": "2025-06-27",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "start_date": "2025-04-28",
@@ -1519,6 +1589,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un trottoir (côté ouest, entre Juge-Rivard et Nicolas-Scheib)",
+                "osm:elements": "way 641077871,2",
                 "planned_end": "2025-06-27",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McCrea-8-5x14po-web.pdf",
                 "start_date": "2025-04-28",
@@ -1540,6 +1611,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Asphaltage d'une portion des rues Francis-McCrea et Laure-Conan",
+                "osm:elements": "way 374776454,7",
                 "planned_end": "2025-07-10",
                 "start_date": "2025-07-07",
                 "status": "completed",
@@ -1560,6 +1632,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Démolition complète du 1254 rue McCrea",
+                "osm:elements": "way 808479365,2",
                 "resolution": "C.D. 2025-0121-00",
                 "session": "2025-03-24 (comité de démolition)",
                 "source": "Ville de Sherbrooke",
@@ -1579,6 +1652,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout de plusieurs dos d'âne",
+                "osm:elements": "way 32273965,10",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Ponton-Saint-Felix_web.pdf",
                 "status": "planned",
                 "type": "hump",
@@ -1598,6 +1672,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un corridor de marche (côté est, entre Wilfrid-Grégoire et Nicolas-Scheib)",
+                "osm:elements": "way 343315123,4",
                 "session": "2025-10-02",
                 "source": "Ville de Sherbrooke",
                 "type": "sidewalk"
@@ -1616,6 +1691,7 @@
                 "TODO:marker": "1",
                 "comments": "Seul le titre du projet fait référence à un trottoir",
                 "name": "Ajout d'un trottoir?",
+                "osm:elements": "way 32269806,10",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Ponton-Saint-Felix_web.pdf",
                 "status": "planned",
                 "type": "sidewalk",
@@ -1636,6 +1712,7 @@
                 "TODO:marker": "1",
                 "check_date": "2023-12-25",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 911550802,5 node 6038250457,9 node 6711200845,7",
                 "planned_end": "2024-06",
                 "session": "2023-10-17",
                 "source": "Ville de Sherbrooke",
@@ -1656,6 +1733,7 @@
                 "TODO:marker": "1",
                 "comments": "Ajout d'arrêts dans toutes les directions",
                 "name": "Réaménagement de l'intersection en angle de 90 degrés",
+                "osm:elements": "way 27440292,14 way 919350105,1 way 354205176,4 node 8538089983,1 node 8538592316,1 node 8538615017,1 node 8538089985,1 node 1040608693,4 node 8538089984,2 node 8538615018,1 node 2895822180,3",
                 "planned_end": "2025-11-28",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf",
                 "start_date": "2025-08-11",
@@ -1677,6 +1755,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 32275578,8 node 2895822180,3 way 354205176,4",
                 "session": "2025-09-16 (Règlement 1300-58)",
                 "source": "Ville de Sherbrooke",
                 "status": "official",
@@ -1695,6 +1774,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Pas d'arrêt à l'approche sud",
+                "osm:elements": "node 7551914128,1 node 7551914127,1 node 7551914129,1 node 77057995,7",
                 "status": "certain",
                 "type": "stop"
             },
@@ -1711,6 +1791,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Déplacement du trottoir vers le côté nord",
+                "osm:elements": "way 27440292,14",
                 "planned_end": "2025-11-28",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf",
                 "start_date": "2025-08-11",
@@ -1732,6 +1813,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 919859184,3 node 8538089982,1 way 27440286,11 way 285940640,3 node 2895822111,2 node 2895822109,2 node 8538089981,1 node 2895822103,2 node 301286568,4 node 2895821999,2 node 8538090219,1 node 8538090224,1",
                 "session": "2025-03-11",
                 "source": "Règlement no 1300-51",
                 "status": "official",
@@ -1751,6 +1833,7 @@
                 "TODO:marker": "1",
                 "comments": "Aucune information supplémentaire fournie",
                 "name": "Reconfiguration de l'intersection",
+                "osm:elements": "way 27440292,14 node 301286444,4 node 8538089987,1 node 8538089988,1",
                 "planned_end": "2025-11-28",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf",
                 "start_date": "2025-08-11",
@@ -1789,6 +1872,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Retrait du trottoir côté sud (et reconstruction du côté nord)",
+                "osm:elements": "way 27440292,14",
                 "planned_end": "2025-11-28",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Cure-Larocque-8-5x14po-web.pdf",
                 "start_date": "2025-08-11",
@@ -1811,6 +1895,7 @@
                 "TODO:marker": "1",
                 "check_date": "2023-12-25",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 911550802,5 node 6038250447,10 node 6711200844,8",
                 "planned_end": "2024-06",
                 "session": "2023-10-17",
                 "source": "Ville de Sherbrooke",
@@ -1851,6 +1936,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 10282883190,1",
                 "planned_end": "2024-07-12",
                 "session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -1873,6 +1959,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction d'un trottoir sur les rues de la Croix et Leblanc, entre l'école des Deux-Rives et la rue du Curé-LaRocque",
+                "osm:elements": "way 27440253,13 way 27440293,7",
                 "planned_end": "Automne 2024",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Croix-2024.pdf",
                 "status": "planned",
@@ -1894,6 +1981,7 @@
                 "TODO:marker": "1",
                 "comments": "Le toponyme remplace Galt Ouest pour la portion en anse",
                 "name": "Place Simone-Bouthillette",
+                "osm:elements": "way 11537171,10",
                 "resolution": "C.M. 2025-0743-00",
                 "session": "2025-08-19",
                 "source": "Ville de Sherbrooke",
@@ -1914,6 +2002,7 @@
                 "TODO:marker": "1",
                 "comments": "L'église et sa vocation seront conservées; aucune information quant au nom",
                 "name": "Vente de l'église Marie-Médiatrice",
+                "osm:elements": "way 44664499,6",
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/10/29/leglise-marie-mediatrice-officiellement-vendue-MKRHDIJY6VCWVMBYQWTQKOTJFA/",
                 "status": "completed",
                 "type": "misc"
@@ -1931,6 +2020,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 43826765,5 way 27440356,6 way 27440258,9 way 43826764,6",
                 "session": "2024-10-15",
                 "source": "Règlement no 1300-51",
                 "status": "official",
@@ -1950,6 +2040,7 @@
                 "TODO:marker": "1",
                 "comments": "Seront installées au pavillon 1",
                 "name": "Construction de classes modulaires",
+                "osm:elements": "way 40205477,9",
                 "planned_end": "Août 2023",
                 "source": "La Tribune (2023-02-08)",
                 "status": "completed",
@@ -1988,6 +2079,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Recouvrement acrylique du terrain de tennis",
+                "osm:elements": "relation 12467689,2",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-07-17",
                 "status": "planned",
@@ -2008,6 +2100,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Corridor de marche (côté ouest, entre du Sauvignon et Richard)",
+                "osm:elements": "way 1446599624,1",
                 "resolution": "C.M. 2024-9690-00",
                 "session": "2024-08-20",
                 "source": "Ville de Sherbrooke",
@@ -2027,6 +2120,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 1272092591,1 node 301286456,3 way 27440253,13 way 919866127,2",
                 "source": "Règlement no 1, article 5.1.13",
                 "status": "certain",
                 "type": "stop"
@@ -2062,6 +2156,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Travaux d'amélioration de la traverse piétonne",
+                "osm:elements": "node 6299236012,2 node 3967139045,3",
                 "planned_end": "2023-11-03",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2023-10-24",
@@ -2084,6 +2179,7 @@
                 "TODO:marker": "1",
                 "comments": "Déplacement au sud de l'intersection et ajout de traverse vélo",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 2642212138,3 node 2642212137,3",
                 "planned_end": "2024-08-30",
                 "session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -2108,6 +2204,7 @@
                 "check_date": "2021-10",
                 "comments": "Le toponyme officiel contient \"de-Galles\", mais le panneau sur place indique \"De Galles\". Pour l'info, Ramat donnerait raison au panneau. ☺",
                 "name": "Boulevard du Prince-de-Galles / Prince-De Galles",
+                "osm:elements": "way 15220940,11 way 89782954,7",
                 "source": "https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=206632",
                 "type": "sign"
             },
@@ -2125,6 +2222,7 @@
                 "TODO:marker": "1",
                 "comments": "Déplacement au sud de l'intersection et ajout de traverse vélo",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 3781498982,1 node 50887300,4",
                 "planned_end": "2024-09-06",
                 "session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -2167,6 +2265,7 @@
                 "TODO:marker": "1",
                 "comments": "Arrêt 278",
                 "name": "Ajout d'un abribus",
+                "osm:elements": "node 12803459792,3",
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "type": "misc"
             },
@@ -2183,6 +2282,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 11737323,14 way 801383608,1 node 105086530,7",
                 "resolution": "C.M. 2025-0480-00",
                 "session": "2025-05-20",
                 "source": "Règlement no 1300-57",
@@ -2202,6 +2302,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Travaux au passage à niveau",
+                "osm:elements": "node 518275667,4 way 37049849,9",
                 "planned_end": "2025-08-06",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-08-06",
@@ -2223,6 +2324,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un feu de circulation standard à la traverse piéton",
+                "osm:elements": "node 7541115514,3 node 4259312229,6",
                 "planned_end": "2025-07-18",
                 "session": "2024-08-20",
                 "source": "Ville de Sherbrooke",
@@ -2245,6 +2347,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Aucune traverse présente ici",
+                "osm:elements": "node 362701391,9",
                 "status": "certain",
                 "type": "crossing"
             },
@@ -2261,6 +2364,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Corriger: 70 [→ limite]",
+                "osm:elements": "way 87622169,17",
                 "status": "certain",
                 "type": "maxspeed"
             },
@@ -2277,6 +2381,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 27440250,8 way 27440332,5 way 27440319,5 node 301286514,2",
                 "source": "Règlement no 1, article 5.1.13",
                 "status": "certain",
                 "type": "stop"
@@ -2294,6 +2399,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Bonification du marquage de la traverse pour piétons",
+                "osm:elements": "node 50177341,7",
                 "planned_end": "Printemps 2025",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Laurentie-Irene-Couture-web.pdf",
                 "status": "planned",
@@ -2314,6 +2420,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 27440329,8 way 89783139,7 node 301286541,2",
                 "session": "2017-10-02",
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
@@ -2332,6 +2439,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Il s'agit officiellement ici d'une entrée privée",
+                "osm:elements": "way 389402848,3",
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
                 "type": "misc"
@@ -2349,6 +2457,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 7357580,9 way 7358053,3 node 54728355,5 node 7540964355,1 node 7540964357,1 node 7540964358,1 node 3964784657,4 node 7540962909,1",
                 "session": "2024-10-15",
                 "source": "Règlement no 1300-51",
                 "status": "official",
@@ -2367,6 +2476,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Aménagement d'une surface multi-sports",
+                "osm:elements": "way 1443486756,1",
                 "planned_end": "2025-09-26",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-06-17",
@@ -2388,6 +2498,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 27440250,8 way 27440277,9 node 301286428,3",
                 "source": "Règlement no 1, article 5.1.13",
                 "status": "certain",
                 "type": "stop"
@@ -2405,6 +2516,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Bonification du marquage de la traverse pour cyclistes",
+                "osm:elements": "way 33255306,9 way 1122136525,2 way 676164264,3 node 362684592,13",
                 "planned_end": "2025-10-17",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Parent-web.pdf",
                 "start_date": "2025-04-28",
@@ -2426,6 +2538,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un dos d'âne",
+                "osm:elements": "way 8164181,16",
                 "status": "certain",
                 "type": "hump"
             },
@@ -2442,6 +2555,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un dos d'âne",
+                "osm:elements": "way 8164181,16",
                 "status": "certain",
                 "type": "hump"
             },
@@ -2458,6 +2572,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 1038872835,6",
                 "planned_end": "2024-09-27",
                 "session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -2480,6 +2595,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Retrait de cet arrêt",
+                "osm:elements": "node 49000275,7",
                 "status": "certain",
                 "type": "stop"
             },
@@ -2496,6 +2612,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Galt et Forest)",
+                "osm:elements": "way 23142990,10",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -2515,6 +2632,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Galt et Forest)",
+                "osm:elements": "way 23142991,7",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -2534,6 +2652,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Reconstruction de la station-service",
+                "osm:elements": "way 911632754,1 way 1411979238,2",
                 "planned_end": "Automne 2024",
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/23/la-station-service-esso-sur-le-boulevard-queen-victoria-sera-reconstruite-SKJBGFLEIJHRFM6CEIPKPJKKAQ/",
                 "start_date": "2024-04-22",
@@ -2553,6 +2672,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Galt et Forest)",
+                "osm:elements": "way 23142992,10",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -2589,6 +2709,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 6727243088,4",
                 "planned_end": "2025-10-10",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "start_date": "2025-08-29",
@@ -2610,6 +2731,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Modifications géométriques et amélioration du passage piétonnier",
+                "osm:elements": "node 3757636961,3",
                 "planned_end": "2025-09-12",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "start_date": "2025-08-13",
@@ -2631,6 +2753,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Confirmer tous les tags sur cette entrée",
+                "osm:elements": "way 548260289,4",
                 "type": "misc"
             },
             "type": "Feature"
@@ -2646,6 +2769,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 3757636960,2",
                 "planned_end": "2025-09-12",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "start_date": "2025-08-13",
@@ -2667,6 +2791,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Corriger: 70",
+                "osm:elements": "way 87622169,17",
                 "status": "certain",
                 "type": "maxspeed"
             },
@@ -2704,6 +2829,7 @@
                 "TODO:marker": "1",
                 "comments": "Arrêt 1340",
                 "name": "Ajout d'un abribus",
+                "osm:elements": "node 12922584792,1",
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "status": "dubious",
                 "type": "misc"
@@ -2721,6 +2847,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Pas mal sûr que cycleway=track ne s'applique pas ici...",
+                "osm:elements": "way 41227403,7",
                 "type": "cycleway"
             },
             "type": "Feature"
@@ -2815,6 +2942,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Chaussée désignée",
+                "osm:elements": "way 11447782,9",
                 "resolution": "C.M. 2025-0480-00",
                 "session": "2025-05-20",
                 "source": "Ville de Sherbrooke",
@@ -2834,6 +2962,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Retrait de l'exception pour vélos au sens unique?",
+                "osm:elements": "way 11447383,10",
                 "resolution": "C.M. 2025-0480-00",
                 "session": "2025-05-20",
                 "source": "Ville de Sherbrooke",
@@ -2853,6 +2982,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'une traverse de piéton",
+                "osm:elements": "way 1448233773,1 way 10527227,15 node 8185192801,1",
                 "planned_end": "2025-11-12",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-11-12",
@@ -2874,6 +3004,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt seulement à l'approche ouest",
+                "osm:elements": "way 1446571767,1 node 53490025,9 node 52944729,9",
                 "status": "certain",
                 "type": "stop"
             },
@@ -2890,6 +3021,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt seulement à l'approche est",
+                "osm:elements": "way 1446571767,1 node 53490025,9 node 52944729,9",
                 "status": "certain",
                 "type": "stop"
             },
@@ -2907,6 +3039,7 @@
                 "TODO:marker": "1",
                 "comments": "Ceci n'est pas vraiment un tourism=viewpoint, mais plutôt un \"balcon\" pour assister aux spectacles",
                 "name": "Améliorer les tags pour ce promontoir pour personnes à mobilité réduite",
+                "osm:elements": "way 1167744807,2",
                 "planned_end": "2019-07-05",
                 "source": "https://ici.radio-canada.ca/nouvelle/1224407/ameliorations-parc-jacques-cartier-sherbrooke-personnes-mobilite-reduite-handicap",
                 "start_date": "2019-05-13",
@@ -2927,6 +3060,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Confirmer nom/vocation de cet immeuble",
+                "osm:elements": "way 724572944,6",
                 "type": "park"
             },
             "type": "Feature"
@@ -2942,6 +3076,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction d'un trottoir sur Garant (côté sud), entre les rues Malouin et Argyll",
+                "osm:elements": "way 6685805,5",
                 "planned_end": "2024-10-31",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Garant-2024.pdf",
                 "start_date": "2024-08-12",
@@ -2963,6 +3098,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 2 entrées",
+                "osm:elements": "way 815731285,1 way 815731286,1",
                 "status": "certain",
                 "type": "oneway"
             },
@@ -2979,6 +3115,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Chaussée désignée pour cyclistes (à l'ouest de St-Gilles)",
+                "osm:elements": "way 31437535,10",
                 "planned_end": "2023-09-02",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Saint-Gilles_correspondance_mars_2023_et_fiche_du_projet.pdf",
                 "start_date": "2023-04-17",
@@ -3000,6 +3137,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction de dos d'âne Rue Buck",
+                "osm:elements": "way 6686582,5 node 1038869932,1 node 53527059,2 way 611554849,2 node 6848914194,1 node 53527056,2 node 53527055,2 node 12498845961,1",
                 "planned_end": "2024-09-11",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2024-09-11",
@@ -3021,6 +3159,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 762946536,3",
                 "planned_end": "2024-09-27",
                 "session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -3044,6 +3183,7 @@
                 "TODO:marker": "1",
                 "comments": "Ce \"sentier\" est en fait officiellement une rue",
                 "name": "Rue Gignac",
+                "osm:elements": "way 89638287,4",
                 "source": "Ville de Sherbrooke",
                 "type": "new"
             },
@@ -3061,6 +3201,7 @@
                 "TODO:marker": "1",
                 "comments": "Le toponyme remplace McManamy pour la portion à l'ouest de Galt Ouest",
                 "name": "Rue Marjolaine-Hébert",
+                "osm:elements": "way 1448233772,1 way 1435929260,1 way 1094964665,4",
                 "resolution": "C.E. 2024-4457-00",
                 "session": "2024-09-11 (CE)",
                 "source": "Ville de Sherbrooke",
@@ -3080,6 +3221,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Ontario et St-Alphonse)",
+                "osm:elements": "way 815731386,1",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -3116,6 +3258,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Victoria et Desgagné)",
+                "osm:elements": "way 374776461,5",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -3135,6 +3278,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Ontario et Elm)",
+                "osm:elements": "way 8829990,7",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -3154,6 +3298,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Déterminer à quelle section s'applique la limite de 20 km/h",
+                "osm:elements": "way 118004029,10",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/951/cohabitation-harmonieuse-autour-du-lac-des-nations",
                 "type": "cycleway"
             },
@@ -3170,6 +3315,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 6959993,16 way 1435332315,2 node 6815639459,4",
                 "planned_end": "2024-10",
                 "session": "2024-08-20",
                 "source": "Règlement no 1300-51",
@@ -3190,6 +3336,7 @@
                 "TODO:marker": "1",
                 "comments": "\"Escalier fermé, date de réouverture non connue pour le moment.\"",
                 "name": "Fermeture (temporaire?) de l'escalier reliant la rue King Ouest à la rue de l'Esplanade",
+                "osm:elements": "way 1058367697,2",
                 "planned_end": "2025-06-01",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2024-06-19",
@@ -3211,6 +3358,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout de deux dos d'âne, de part et d'autre de la courbe",
+                "osm:elements": "way 1435929260,1 node 10027857349,1 node 3646823269,2 node 10027857350,1 node 110285441,9 node 10027857347,2 node 10027857348,1 node 3646823270,3 node 4259409000,3 way 1094964666,4",
                 "resolution": "C.M. 2025-0125-00",
                 "session": "2025-01-21",
                 "source": "Ville de Sherbrooke",
@@ -3231,6 +3379,7 @@
                 "TODO:marker": "1",
                 "comments": "Le toponyme remplace Kitchener pour la portion au sud de Galt Ouest",
                 "name": "Rue Priscilla-Lareau",
+                "osm:elements": "way 48838842,13",
                 "resolution": "C.M. 2025-0742-00",
                 "session": "2025-08-19",
                 "source": "Ville de Sherbrooke",
@@ -3250,6 +3399,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 13481779,9 way 833871971,5 node 122884341,5",
                 "source": "Règlement no 1, article 5.1.13",
                 "status": "certain",
                 "type": "stop"
@@ -3267,6 +3417,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Confirmer: Le dernier segment est Elgin, pas Hyatt",
+                "osm:elements": "way 8829933,5",
                 "status": "certain",
                 "type": "name"
             },
@@ -3283,6 +3434,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêts sur Cambrai (et non Fairmount)",
+                "osm:elements": "way 12361706,12 node 3646857548,1 node 3646857542,1",
                 "status": "certain",
                 "type": "stop"
             },
@@ -3299,6 +3451,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 360085423,11 node 350691100,8",
                 "session": "2024-01-23",
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
@@ -3317,6 +3470,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Retrait du passage piéton (suite à l'ajout de l'arrêt toutes directions)",
+                "osm:elements": "node 6711404120,4",
                 "resolution": "C.M. 2024-9087-00",
                 "session": "2024-01-23",
                 "source": "Ville de Sherbrooke",
@@ -3336,6 +3490,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction d'un trottoir (côté est, entre Raoul-Bruneau et l'abribus)",
+                "osm:elements": "way 360085423,11",
                 "planned_end": "Été 2024",
                 "session": "2024-01-23",
                 "source": "Ville de Sherbrooke",
@@ -3357,6 +3512,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction d'un trottoir (côté est, entre Jogues et Raoul-Bruneau)",
+                "osm:elements": "way 360085423,11",
                 "planned_end": "2025-08-22",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-08-19",
@@ -3378,6 +3534,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Cette entrée privée ne semble n'avoir qu'une voie, et devrait être service=driveway",
+                "osm:elements": "way 912542600,1",
                 "status": "certain",
                 "type": "misc"
             },
@@ -3394,6 +3551,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Thibault et 75 m au nord de Habitat)",
+                "osm:elements": "way 27223220,9",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -3414,6 +3572,7 @@
                 "TODO:marker": "1",
                 "comments": "\"L'octroi du contrat vers la fin mars. Début des travaux selon l'échéancier de l'entrepreneur, possiblement au printemps. Fin demandée pour les travaux: décembre 2025. Durée de 37 semaines au devis. Barrage fermé ou non aux piétons pendant les travaux? À déterminer par l'entrepreneur.\"",
                 "name": "Reconstruction de la passerelle de la gorge de la rivière Magog",
+                "osm:elements": "way 129898665,7",
                 "planned_end": "2025-12-12",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-04-23",
@@ -3435,6 +3594,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt à l'approche nord",
+                "osm:elements": "way 27223166,6 node 298756932,2",
                 "planned_end": "2024-09",
                 "source": "Règlement no 1300-51",
                 "status": "official",
@@ -3453,6 +3613,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Jardin Shermont - Agrandissement",
+                "osm:elements": "way 79560862,8",
                 "planned_end": "2025-05-16",
                 "start_date": "2025-04-22",
                 "status": "completed",
@@ -3473,6 +3634,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un panneau d'arrêt à l'approche nord",
+                "osm:elements": "way 41228750,10 node 255786305,5",
                 "planned_end": "2024-10",
                 "session": "2024-08-20",
                 "source": "Règlement no 1300-51",
@@ -3492,6 +3654,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Pas d'arrêt à l'approche nord?",
+                "osm:elements": "way 854984288,9 node 6711404092,9",
                 "type": "stop"
             },
             "type": "Feature"
@@ -3507,6 +3670,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (de André jusqu'à 100 m à l'ouest de Bacon)",
+                "osm:elements": "way 957251614,9",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -3526,6 +3690,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Retait de deux places de stationnement",
+                "osm:elements": "way 89177859,13",
                 "planned_end": "2023-05-25",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2023-05-24",
@@ -3547,6 +3712,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "node 81580597,6 way 9939430,10",
                 "session": "2024-10-15",
                 "source": "Règlement no 1300-51",
                 "status": "official",
@@ -3565,6 +3731,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Démolition de deux immeubles",
+                "osm:elements": "way 615895989,2 way 615895988,2",
                 "planned_end": "Été 2024",
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/05/14/deux-immeubles-seront-demolis-au-centre-ville-IIEBH3UIQZFI7I4YBRO5Q7DA4E/",
                 "status": "planned",
@@ -3606,6 +3773,7 @@
                 "TODO:marker": "1",
                 "check_date": "2024-10-22",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 10282883177,1 node 10282883178,1",
                 "planned_end": "2025-08-29",
                 "session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -3628,6 +3796,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Travaux de réaménagement de l’approche est de l’intersection",
+                "osm:elements": "way 1190250609,4 node 81485503,4 node 1845370104,3",
                 "planned_end": "2025-08-29",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McManamy-8-5x14po-web.pdf",
                 "start_date": "2025-08-19",
@@ -3650,6 +3819,7 @@
                 "TODO:marker": "1",
                 "comments": "Arrêts 1780 et 1781",
                 "name": "Ajout d'un abribus",
+                "osm:elements": "node 13271024122,1",
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "status": "certain",
                 "type": "misc"
@@ -3668,6 +3838,7 @@
                 "TODO:marker": "1",
                 "check_date": "2024-10-22",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 3919270240,4",
                 "session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "status": "planned",
@@ -3689,6 +3860,7 @@
                 "TODO:marker": "1",
                 "comments": "Arrêts 1780 et 1781",
                 "name": "Ajout d'un abribus",
+                "osm:elements": "node 13271024168,1",
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "status": "certain",
                 "type": "misc"
@@ -3706,6 +3878,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un dos d'âne",
+                "osm:elements": "way 360154316,3",
                 "status": "certain",
                 "type": "hump"
             },
@@ -3722,6 +3895,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un dos d'âne",
+                "osm:elements": "way 360154315,3",
                 "status": "certain",
                 "type": "hump"
             },
@@ -3738,6 +3912,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un dos d'âne",
+                "osm:elements": "way 360154315,3",
                 "status": "certain",
                 "type": "hump"
             },
@@ -3776,6 +3951,7 @@
                 "TODO:marker": "1",
                 "check_date": "2023-12-25",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 10812718027,1",
                 "planned_end": "2024-07-19",
                 "session": "2023-06-06",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -3799,6 +3975,7 @@
                 "TODO:marker": "1",
                 "check_date": "2023-12-25",
                 "name": "Demi-tour interdit entre Peel et Ozias-Leduc",
+                "osm:elements": "way 189928907,9",
                 "resolution": "C.M. 2023-8506-00",
                 "session": "2023-06-06",
                 "source": "Ville de Sherbrooke",
@@ -3819,6 +3996,7 @@
                 "TODO:marker": "1",
                 "comments": "Équippement à batterie en place",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 1076161129,3",
                 "planned_end": "2024-09-27",
                 "session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -3841,6 +4019,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un dos d'âne",
+                "osm:elements": "way 1396308443,2",
                 "status": "certain",
                 "type": "hump"
             },
@@ -3876,6 +4055,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Ball et #80)",
+                "osm:elements": "way 12668726,23",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -3895,6 +4075,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout de bandes cyclables entre Belvédère Sud et Évangéline",
+                "osm:elements": "way 1190250609,4 way 1446528291,1",
                 "planned_end": "2025-11-14",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McManamy-8-5x14po-web.pdf",
                 "start_date": "2025-05-20",
@@ -3916,6 +4097,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (entre Wellington et du Palais)",
+                "osm:elements": "way 477506656,5 way 1387326376,3",
                 "resolution": "C.M. 2025-1300-53-RG",
                 "session": "2025-04-22",
                 "source": "Règlement no 1300-53",
@@ -3935,6 +4117,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Dollarama (et autres commerces?)",
+                "osm:elements": "way 1117587466,3",
                 "source": "https://www.latribune.ca/affaires/affaires-locales/2024/10/10/deux-nouveaux-super-c-sinstallent-a-sherbrooke-TJ4KQIVSDZFQHKOF5YGWE6ZKPU/",
                 "status": "certain",
                 "type": "misc"
@@ -3952,6 +4135,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Ball et #88)",
+                "osm:elements": "way 41199110,10",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -3971,6 +4155,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Alexandre et Brooks)",
+                "osm:elements": "way 13083542,11",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -4009,6 +4194,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Corridor de marche (côté ouest, entre Darche et Union)",
+                "osm:elements": "way 27223211,4",
                 "resolution": "C.M. 2025-0480-00",
                 "session": "2025-05-20",
                 "source": "Ville de Sherbrooke",
@@ -4045,6 +4231,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 27223211,4 way 27223210,2 node 298757930,2",
                 "resolution": "C.M. 2025-0480-00",
                 "session": "2025-05-20",
                 "source": "Règlement no 1300-57",
@@ -4065,6 +4252,7 @@
                 "TODO:marker": "1",
                 "check_date": "2023-12-25",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 27223211,4 way 1446528294,1 node 115706571,3",
                 "session": "2023-10-17",
                 "source": "Règlement n° 1-168",
                 "status": "official",
@@ -4100,6 +4288,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Traverse pour piétons",
+                "osm:elements": "way 1435994027,1",
                 "resolution": "C.M. 2024-9690-00",
                 "session": "2024-08-20",
                 "source": "Ville de Sherbrooke",
@@ -4119,6 +4308,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Traverse pour piétons",
+                "osm:elements": "way 1435994027,1",
                 "resolution": "C.M. 2024-9690-00",
                 "session": "2024-08-20",
                 "source": "Ville de Sherbrooke",
@@ -4138,6 +4328,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 369013474,6 node 115718913,5 way 1435994027,1",
                 "planned_end": "2024-10",
                 "session": "2024-08-20",
                 "source": "Ville de Sherbrooke",
@@ -4157,6 +4348,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Reconstruction du terrain de soccer",
+                "osm:elements": "way 225309631,1",
                 "planned_end": "2025-05-20",
                 "start_date": "2024-05-13",
                 "status": "completed",
@@ -4177,6 +4369,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Démolition du viaduc ferroviaire Frontenac et remplacement par des rails sur remblai",
+                "osm:elements": "way 23138568,11",
                 "planned_end": "2025-11-14",
                 "resolution": "C.M. 2025-0775-00",
                 "session": "2025-08-19",
@@ -4200,6 +4393,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30",
+                "osm:elements": "way 8831473,27 way 1387676463,2 way 477506655,4",
                 "resolution": "C.M. 2025-1300-53-RG",
                 "session": "2025-04-22",
                 "source": "Règlement no 1300-53",
@@ -4219,6 +4413,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "node 120016491,5 way 13044021,6 way 13044599,3",
                 "session": "2024-09-23 (Fleurimont)",
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
@@ -4237,6 +4432,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Traverse pour piétons (3 approches)",
+                "osm:elements": "way 12669473,17 way 12673630,17",
                 "resolution": "C.M. 2024-9690-00",
                 "session": "2024-08-20",
                 "source": "Ville de Sherbrooke",
@@ -4256,6 +4452,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Reconstruction de la patinoire",
+                "osm:elements": "way 144358806,2",
                 "planned_end": "2025-09-26",
                 "start_date": "2025-04-23",
                 "status": "completed",
@@ -4276,6 +4473,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Short et Mère-Teresa)",
+                "osm:elements": "way 12669473,17",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -4295,6 +4493,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (Albert, Webster et Meadow)",
+                "osm:elements": "way 32268167,8 way 48294518,8 way 32272008,14",
                 "resolution": "C.M. 2025-1300-53-RG",
                 "session": "2025-04-22",
                 "source": "Règlement no 1300-53",
@@ -4314,6 +4513,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Emplacement de la station BIXI",
+                "osm:elements": "node 13125777587,2",
                 "planned_end": "2025-06-18",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-06-18",
@@ -4335,6 +4535,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Virages à gauche vers Kennedy (8h - 18h)",
+                "osm:elements": "way 387586631,4 way 23138985,14 way 35193250,9 way 1435662766,1 node 1432370766,3",
                 "status": "certain",
                 "type": "restriction"
             },
@@ -4370,6 +4571,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre LaRocque et Adélard-Collette)",
+                "osm:elements": "way 12673630,17",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -4390,6 +4592,7 @@
                 "TODO:marker": "1",
                 "check_date": "2024-10-22",
                 "name": "Passage pour piétons",
+                "osm:elements": "way 15910152,8",
                 "resolution": "C.M. 2024-9087-00",
                 "session": "2024-01-23",
                 "source": "Ville de Sherbrooke",
@@ -4409,6 +4612,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêts aux approches ouest et sud",
+                "osm:elements": "way 27223224,5 way 27223188,3 node 298757361,2",
                 "status": "certain",
                 "type": "stop"
             },
@@ -4425,6 +4629,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Short et Gérin-Lajoie)",
+                "osm:elements": "way 1164679064,2",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -4444,6 +4649,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Fontaine Kiona",
+                "osm:elements": "node 12232401171,1",
                 "resolution": "C.M. 2025-0879-00",
                 "session": "2025-09-16",
                 "source": "Ville de Sherbrooke",
@@ -4482,6 +4688,7 @@
                 "check_date": "2023-12-25",
                 "comments": "La Ville a déclaré la fermeture de la \"ruelle\" Therrien, mais la rue figure encore dans ses données",
                 "name": "Vérifier: Est-ce que la rue Therrien existe toujours?",
+                "osm:elements": "way 32273980,7",
                 "resolution": "C.M. 2021-6413-00",
                 "session": "2021-05-03",
                 "source": "Ville de Sherbrooke",
@@ -4500,6 +4707,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Confirmer que ce passage existe encore",
+                "osm:elements": "way 37222125,8",
                 "type": "footway"
             },
             "type": "Feature"
@@ -4516,6 +4724,7 @@
                 "TODO:marker": "1",
                 "check_date": "2025-04-14",
                 "name": "Démolition complète du 154 Wellington Sud",
+                "osm:elements": "way 185207149,2",
                 "planned_end": "2026-12-31",
                 "resolution": "C.D. 2024-0117-00",
                 "session": "2024-11-25 (comité de démolition)",
@@ -4536,6 +4745,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Traverse pour piétons",
+                "osm:elements": "way 35193251,14 node 7887153055,1 node 1038874405,2 node 7887153054,1 node 7887153056,1 node 7887153057,1",
                 "resolution": "C.M. 2023-8940-00",
                 "session": "2023-12-05",
                 "source": "Ville de Sherbrooke",
@@ -4555,6 +4765,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 13041704,20 node 5292535444,3 node 119987265,10",
                 "session": "2022-06-21",
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
@@ -4590,6 +4801,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 27223158,6 way 296324025,5 way 27223183,4 node 298757273,5",
                 "session": "2023-03-07",
                 "source": "Règlement n° 1-168",
                 "status": "certain",
@@ -4608,6 +4820,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout de pistes cyclables séparées de la chaussée (entre Wellington Sud et Grandes-Fourches Sud)",
+                "osm:elements": "way 8830848,25 way 184301264,12",
                 "resolution": "C.M. 2025-0220-00",
                 "session": "2025-03-11",
                 "source": "Ville de Sherbrooke",
@@ -4629,6 +4842,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout de bandes cyclables et modifications géométriques (entre Aberdeen et Acadie)",
+                "osm:elements": "way 477506648,7 way 802024211,3 way 477506647,2 way 1435994031,1 way 802024210,4",
                 "resolution": "C.M. 2025-0220-00",
                 "session": "2025-03-11",
                 "source": "Ville de Sherbrooke",
@@ -4651,6 +4865,7 @@
                 "TODO:marker": "1",
                 "comments": "covered=yes shelter=no bench=no",
                 "name": "Ajout d'une marquise à l'arrêt d'autobus",
+                "osm:elements": "node 12803459767,3",
                 "source": "https://www.sts.qc.ca/2023/10/23/la-sts-ajoute-des-marquises-a-certains-arrets-achalandes/",
                 "status": "certain",
                 "type": "misc"
@@ -4669,6 +4884,7 @@
                 "TODO:marker": "1",
                 "check_date": "2024-10-06",
                 "name": "Démolition du 835 Wellington Sud",
+                "osm:elements": "way 797548845,2",
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/06/04/une-maison-incendiee-de-la-rue-wellington-sera-demolie-4BBA4QJH4ZECZMKVPAGQPZ2B3E/",
                 "type": "demolition"
             },
@@ -4685,6 +4901,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Démolition partielle du 97 Kennedy Nord",
+                "osm:elements": "way 845208813,2",
                 "resolution": "C.D. 2025-0125-00",
                 "session": "2025-06-16 (comité de démolition)",
                 "source": "Ville de Sherbrooke",
@@ -4704,6 +4921,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 2427118031,4",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "status": "planned",
                 "type": "crossing",
@@ -4723,6 +4941,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un dos d'âne",
+                "osm:elements": "way 1164679062,1 node 7448761969,1 node 7448761968,1",
                 "status": "certain",
                 "type": "hump"
             },
@@ -4755,6 +4974,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 2427187924,4",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "status": "planned",
                 "type": "crossing",
@@ -4774,6 +4994,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Bandes cyclables unidirectionnelles (entre Terrill et King Est)",
+                "osm:elements": "way 234461243,12",
                 "resolution": "C.M. 2025-0480-00",
                 "session": "2025-05-20",
                 "source": "Ville de Sherbrooke",
@@ -4795,6 +5016,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un dos d'âne",
+                "osm:elements": "way 1164679062,1 node 7448761969,1 node 7448761968,1",
                 "status": "certain",
                 "type": "hump"
             },
@@ -4811,6 +5033,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Corridor piétonnier (de Évangéline à de l'Acadie)",
+                "osm:elements": "way 1164679062,1 way 12672683,9",
                 "session": "2023-01-24",
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
@@ -4830,6 +5053,7 @@
                 "TODO:marker": "1",
                 "check_date": "2024-08-06",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "node 83524556,7 way 387586622,8 way 1396149038,1",
                 "session": "2024-08-20; 2024-11-05",
                 "source": "Règlement no 1, article 5.1.13",
                 "status": "official",
@@ -4868,6 +5092,7 @@
                 "TODO:marker": "1",
                 "comments": "Réduction de la largeur d'approche de la rue de la Bruère",
                 "name": "Modification géométrique et ajout d'un trottoir",
+                "osm:elements": "way 1396149037,1 node 1038871953,2 node 1038872897,3 node 83524556,7 node 2024346336,2",
                 "planned_end": "2024-11-02",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2024-10-22",
@@ -4889,6 +5114,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Déplacement de ce passage vers Saint-Michel",
+                "osm:elements": "node 7859424363,1",
                 "resolution": "C.M. 2024-9897-00",
                 "session": "2024-11-05",
                 "source": "Ville de Sherbrooke",
@@ -4908,6 +5134,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Démolition complète du 536-538",
+                "osm:elements": "way 842718933,1",
                 "resolution": "C.D. 2025-0126-00",
                 "session": "2025-06-16 (comité de démolition)",
                 "source": "Ville de Sherbrooke",
@@ -4946,6 +5173,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Couloir de traverse du côté sud",
+                "osm:elements": "way 10070596,13 node 7859424046,1",
                 "resolution": "C.M. 2023-8693-00",
                 "session": "2023-09-05",
                 "source": "Ville de Sherbrooke",
@@ -4965,6 +5193,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Corridor de marche de Terrill à Langlois",
+                "osm:elements": "way 387586642,3 way 10070596,13",
                 "resolution": "C.M. 2023-8693-00",
                 "session": "2023-09-05",
                 "source": "Ville de Sherbrooke",
@@ -4984,6 +5213,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Bandes de traverses blanches au sud et à l'ouest de l'intersection",
+                "osm:elements": "way 387586642,3 node 7859424070,1 way 387586623,4 node 7859424071,1",
                 "resolution": "C.M. 2023-8693-00",
                 "session": "2023-09-05",
                 "source": "Ville de Sherbrooke",
@@ -5004,6 +5234,7 @@
                 "TODO:marker": "1",
                 "check_date": "2024-10-06",
                 "name": "Construction d'un dos d'âne devant le 453 rue de l'Assomption",
+                "osm:elements": "way 10070596,13",
                 "resolution": "C.M. 2024-9563-00",
                 "session": "2024-06-18",
                 "source": "Ville de Sherbrooke",
@@ -5024,6 +5255,7 @@
                 "TODO:marker": "1",
                 "check_date": "2023-06-03",
                 "name": "Chaussée partagée jusqu'à Galt/Bowen",
+                "osm:elements": "way 164112145,6",
                 "source": "Ville de Sherbrooke",
                 "status": "dubious",
                 "type": "cycleway"
@@ -5041,6 +5273,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout de bandes rectangulaires blanches",
+                "osm:elements": "way 44647647,28 way 164112145,6",
                 "resolution": "C.M. 2024-9315-00",
                 "session": "2024-04-09",
                 "source": "Ville de Sherbrooke",
@@ -5060,6 +5293,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Réaménagement géométrique de l'intersection",
+                "osm:elements": "way 1446049739,1 node 249776867,7",
                 "planned_end": "2024-09-25",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/909/amelioration-de-la-securite-pietonne-sur-trois-axes-majeurs",
                 "start_date": "2024-09-16",
@@ -5081,6 +5315,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêts sur Sideleau seulement",
+                "osm:elements": "node 249775806,3",
                 "status": "certain",
                 "type": "stop"
             },
@@ -5098,6 +5333,7 @@
                 "TODO:marker": "1",
                 "comments": "Possibilité que ce projet soit fait en même temps que la reconstruction sur La Salle",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 10812718028,1",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
                 "status": "planned",
                 "type": "crossing",
@@ -5117,6 +5353,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un feu de circulation",
+                "osm:elements": "node 82797697,6",
                 "planned_end": "2025-10-24",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-09-03",
@@ -5139,6 +5376,7 @@
                 "TODO:marker": "1",
                 "check_date": "2024-10-06",
                 "name": "Construction de dos d'âne",
+                "osm:elements": "way 10070404,16",
                 "planned_end": "2024-06-05",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2024-06-05",
@@ -5160,6 +5398,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un feu de circulation",
+                "osm:elements": "node 82738935,6",
                 "planned_end": "2025-10-24",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-09-03",
@@ -5182,6 +5421,7 @@
                 "TODO:marker": "1",
                 "comments": "Arrêt 246",
                 "name": "Ajout d'un abribus",
+                "osm:elements": "node 13308059004,1",
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "type": "misc"
             },
@@ -5198,6 +5438,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Corridor de marche (côté nord, entre Walsh et du Delaware)",
+                "osm:elements": "way 13035607,6",
                 "resolution": "C.M. 2024-9315-00",
                 "session": "2024-04-09",
                 "source": "Ville de Sherbrooke",
@@ -5217,6 +5458,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 10282989027,1",
                 "planned_end": "2025-10-24",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-09-03",
@@ -5238,6 +5480,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Retrait de ce passage?",
+                "osm:elements": "node 10282883192,1",
                 "resolution": "C.M. 2023-00001-170-RG",
                 "session": "2023-12-19",
                 "source": "Règlement 1-170",
@@ -5277,6 +5520,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Corridor de marche (côté sud, entre Bowen et Mailhot)",
+                "osm:elements": "way 164106612,2",
                 "resolution": "C.M. 2024-9084-00",
                 "session": "2024-01-23",
                 "source": "Ville de Sherbrooke",
@@ -5313,6 +5557,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Traverse pour piétons",
+                "osm:elements": "node 2674210397,3 way 13035607,6",
                 "resolution": "C.M. 2024-9693-00",
                 "session": "2024-08-20",
                 "source": "Ville de Sherbrooke",
@@ -5332,6 +5577,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un trottoir (côté ouest, sur toute la longueur)",
+                "osm:elements": "way 10075247,4",
                 "planned_end": "2024-11-29",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Paysans-2024.pdf",
                 "start_date": "2024-09-20",
@@ -5353,6 +5599,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Conseil et Chalifoux)",
+                "osm:elements": "way 90043538,9",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -5372,6 +5619,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 82797737,3",
                 "planned_end": "2025-10-24",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-09-03",
@@ -5393,6 +5641,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un lien cyclable et modifications géométriques (entre 12e Avenue Nord et Capucines)",
+                "osm:elements": "way 1446049734,1 way 164116187,18 way 1446049733,1",
                 "planned_end": "2025-10-24",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-09-03",
@@ -5414,6 +5663,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre d'Alençon et 14e Avenue)",
+                "osm:elements": "way 90043662,15",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -5433,6 +5683,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre d'Alençon et 14e Avenue)",
+                "osm:elements": "way 90044098,13",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -5452,6 +5703,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 30 (en tout temps) (entre Conseil et Chalifoux)",
+                "osm:elements": "way 10532647,8",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -5471,6 +5723,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "FRCR et éclairage au passage piétonnier",
+                "osm:elements": "node 3908503019,3",
                 "planned_end": "2023-08-25",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Bowen_Sud-2023.pdf",
                 "start_date": "2023-05-08",
@@ -5492,6 +5745,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 13036653,6 way 13036949,5 node 3908503022,3 node 119913460,6",
                 "planned_end": "2025-06-27",
                 "session": "2024-10-15",
                 "source": "Règlement no 1300-51",
@@ -5515,6 +5769,7 @@
                 "TODO:marker": "1",
                 "comments": "Le trottoir partiel sur Lloyd ne sera pas reconstruit",
                 "name": "Pavage des rues Robert-Peel, Lloyd et Spring Garden",
+                "osm:elements": "way 164112096,7 way 164112139,6 way 164112116,11",
                 "planned_end": "2023-11-24",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/RobertPeel2023.pdf",
                 "start_date": "2023-08-03",
@@ -5574,6 +5829,7 @@
                 "TODO:marker": "1",
                 "comments": "Ajout d'un arrêt à l'approche est",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 164112052,8 way 164112104,6 node 362701004,3",
                 "resolution": "C.M. 2025-0123-00",
                 "session": "2025-01-21",
                 "source": "Règlement no 1300-51",
@@ -5593,6 +5849,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction de trottoirs (des deux côtés, entre des Lys et le passage piétonnier menant à la rue des Gloires-du-Matin)",
+                "osm:elements": "way 1446049734,1",
                 "planned_end": "2024-11-22",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Quatre-Saisons-2024.pdf",
                 "start_date": "2024-09-12",
@@ -5614,6 +5871,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction d'un jeu d'eau",
+                "osm:elements": "way 841753648,1",
                 "planned_end": "2021-09-22",
                 "source": "Maxar",
                 "start_date": "2021-06-14",
@@ -5635,6 +5893,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Amélioration du passage piétonnier",
+                "osm:elements": "node 91889849,13",
                 "planned_end": "2024-06-07",
                 "session": "2024-02-20 (7.3.12 - PAFFSR)",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
@@ -5696,6 +5955,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction d'un trottoir (côté est, entre Bowen Sud et Longpré)",
+                "osm:elements": "way 249217010,14 way 833604081,3",
                 "planned_end": "2025-06-27",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Lavigerie-web.pdf",
                 "start_date": "2025-06-02",
@@ -5718,6 +5978,7 @@
                 "TODO:marker": "1",
                 "comments": "Ajout d'une courte portion de trottoir du côté ouest",
                 "name": "Ajout d'une traverse (avec FRCR)",
+                "osm:elements": "way 249217010,14",
                 "planned_end": "2025-06-27",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Lavigerie-web.pdf",
                 "start_date": "2025-06-02",
@@ -5739,6 +6000,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 44647647,28 way 239955900,7 way 249217010,14 node 119910397,6",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -5758,6 +6020,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Prolongement des rues des Quatre-Saisons et des Gloires-du-Matin et construction de la rue Hortensias",
+                "osm:elements": "way 240208681,10 way 1446049734,1",
                 "planned_end": "2027-12-31",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Quatre-Saison_presentation.pdf",
                 "start_date": "2025-01-22",
@@ -5779,6 +6042,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Démolition complète du 1401 Papineau",
+                "osm:elements": "way 840186076,2",
                 "resolution": "C.D. 2025-0128-00",
                 "session": "2025-08-18 (comité de démolition)",
                 "source": "Ville de Sherbrooke",
@@ -5798,6 +6062,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Démolition complète du 4 rue Speid",
+                "osm:elements": "way 442923694,3",
                 "resolution": "C.D. 2024-0111-00",
                 "session": "2024-07-04 (comité de démolition)",
                 "source": "Ville de Sherbrooke",
@@ -5818,6 +6083,7 @@
                 "TODO:marker": "1",
                 "check_date": "2023-06-20",
                 "name": "Halte Massawippi",
+                "osm:elements": "way 1304235294,1",
                 "source": "Ville de Sherbrooke",
                 "status": "official",
                 "type": "name"
@@ -5854,6 +6120,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Démolition partielle et agrandissement du 102-104 Queen",
+                "osm:elements": "way 44665814,5 way 442576673,2",
                 "resolution": "C.D. 2025-0123-00",
                 "session": "2025-05-26 (comité de démolition)",
                 "source": "Ville de Sherbrooke",
@@ -5874,6 +6141,7 @@
                 "TODO:marker": "1",
                 "comments": "Retrait permanent ou saisonnier?",
                 "name": "Retrait de la patinoire",
+                "osm:elements": "way 442925538,2",
                 "planned_end": "2024-05-01",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2024-04-22",
@@ -5895,6 +6163,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Démolition complète du 10 rue Connolly",
+                "osm:elements": "way 442976851,2",
                 "resolution": "C.D. 2024-0108-00",
                 "session": "2024-05-27 (comité de démolition)",
                 "source": "Ville de Sherbrooke",
@@ -5914,6 +6183,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Réaménagement du stationnement du Centre Julien Ducharme",
+                "osm:elements": "way 684191356,2 way 684191352,3",
                 "planned_end": "2021-11-05",
                 "source": "Maxar",
                 "start_date": "2021-09-07",
@@ -5935,6 +6205,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Déterminer l'emplacement de la transition asphalte/gravier",
+                "osm:elements": "way 596659178,13",
                 "type": "cycleway"
             },
             "type": "Feature"
@@ -5950,6 +6221,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Démolition complète du 2856-2858 rue College",
+                "osm:elements": "way 849795207,1",
                 "resolution": "C.D. 2025-0120-00",
                 "session": "2025-03-24 (comité de démolition)",
                 "source": "Ville de Sherbrooke",
@@ -5969,6 +6241,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Démolition complète du 2848-2850 rue College",
+                "osm:elements": "way 849795206,1",
                 "resolution": "C.D. 2025-0119-00",
                 "session": "2025-03-24 (comité de démolition)",
                 "source": "Ville de Sherbrooke",
@@ -5988,6 +6261,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Traverse avec feux",
+                "osm:elements": "node 4267279725,5",
                 "status": "certain",
                 "type": "traffic_signal"
             },
@@ -6004,6 +6278,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Rénovation majeure des jeux modulaires, qui seront aussi accessibles au public",
+                "osm:elements": "way 169299690,3",
                 "session": "Fleurimont/2023-04-24",
                 "source": "Arrondissement de Fleurimont",
                 "type": "park"
@@ -6022,6 +6297,7 @@
                 "TODO:marker": "1",
                 "check_date": "2024-10-22",
                 "name": "Arrêt toutes directions",
+                "osm:elements": "way 6271902,12 node 52189967,3",
                 "session": "2024-06-18",
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
@@ -6040,6 +6316,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Construction d'un dos d'âne sur Moulton Hill (au coin St-Francis)",
+                "osm:elements": "way 830438003,1",
                 "planned_end": "2024-09-04",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2024-09-04",
@@ -6078,6 +6355,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Installation de dos d'âne (entre Daigneau et Jetté)",
+                "osm:elements": "way 239954834,5 way 8164470,10",
                 "session": "2025-10-02",
                 "source": "Ville de Sherbrooke",
                 "type": "hump"
@@ -6134,6 +6412,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajouter: 60 (de Roger-Caron à King)",
+                "osm:elements": "way 10583691,16",
                 "resolution": "C.M. 2025-1300-57-RG",
                 "session": "2025-08-19",
                 "source": "Règlement no 1300-57",
@@ -6153,6 +6432,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Immeuble complètement détruit par un incendie",
+                "osm:elements": "way 909172257,2",
                 "source": "https://ici.radio-canada.ca/nouvelle/2151511/feu-incendie-maison-renard-sherbrooke",
                 "status": "certain",
                 "type": "demolition"
@@ -6171,6 +6451,7 @@
                 "TODO:marker": "1",
                 "comments": "Implantations de plusieurs dos d'âne et peut-être d'une traverse surélevée.",
                 "name": "Mesures d'atténuation de la vitesse (entre St. Francis et Fearon)",
+                "osm:elements": "way 13040999,18",
                 "planned_end": "Été 2024",
                 "source": "Ville de Sherbrooke",
                 "status": "planned",
@@ -6191,6 +6472,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Réaménagement de King Est, entre Raby et des Rocheuses",
+                "osm:elements": "way 1176849679,3",
                 "planned_end": "2023-06-22",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/139/reamenagement-d-une-portion-de-la-rue-king-est",
                 "start_date": "2022-08-25",

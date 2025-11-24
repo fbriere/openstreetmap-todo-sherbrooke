@@ -71,7 +71,7 @@ identifier.)
 
 - `comments`: Commentaires
 
-(Les attributs débutant par `ville:` sont à usage interne et peuvent être ignorés.)
+(Les attributs débutant par `osm:` et `ville:` sont à usage interne et peuvent être ignorés.)
 
 ## Contribuer
 
