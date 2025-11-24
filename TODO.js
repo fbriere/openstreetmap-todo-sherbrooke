@@ -107,8 +107,8 @@ function onEachFeature(feature, layer) {
         while (r = re.exec(s)) {
             let [text, type, id, version] = r;
             const url = `https://www.openstreetmap.org/${type}/${id}`;
-            lines.push(`<a href="${url}">${type} ${id}</a>` +
-                `${version ? `, <a href="${url}/history/${version}">v${version}</a>` : ""}`);
+            lines.push(`<a href="${url}" target="_blank">${type} ${id}</a>` +
+                `${version ? `, <a href="${url}/history/${version}" target="_blank">v${version}</a>` : ""}`);
         }
         return lines.join("<br />");
     }
@@ -126,7 +126,7 @@ function onEachFeature(feature, layer) {
     if (feature.properties.source) {
         let source = feature.properties.source;
         if (source.slice(0, 4) === "http") {
-            source = `<a href="${source}">${source}</a>`;
+            source = `<a href="${source}" target="_blank">${source}</a>`;
         }
       popupContents += row("Source", source);
     }
@@ -136,7 +136,7 @@ function onEachFeature(feature, layer) {
     if (feature.properties["ville:projet"]) {
         const url = `https://cartes.ville.sherbrooke.qc.ca/arcgis/rest/services/Travaux/Travaux_Diffusion/MapServer/1/query?where=numeroprojet=${ feature.properties["ville:projet"] }&outFields=*`;
         popupContents += row("Projet",
-            `<a href="${url}">${ feature.properties["ville:projet"] }</a>`);
+            `<a href="${url}" target="_blank">${ feature.properties["ville:projet"] }</a>`);
     }
     //popupContents += row("Éléments", elementsString(feature.properties["osm:elements"]));
     popupContents += "</table>";
