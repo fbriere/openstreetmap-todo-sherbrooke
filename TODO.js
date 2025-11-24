@@ -100,6 +100,18 @@ function onEachFeature(feature, layer) {
             `</tr>`,
         ].join('');
     }
+    function elementsString(s) {
+        const re = /\s*(node|way|relation)\s+(\d+)(?:[,.](\d+))?\s*/y;
+        let lines = [];
+        let r;
+        while (r = re.exec(s)) {
+            let [text, type, id, version] = r;
+            const url = `https://www.openstreetmap.org/${type}/${id}`;
+            lines.push(`<a href="${url}">${type} ${id}</a>` +
+                `${version ? `, <a href="${url}/history/${version}">v${version}</a>` : ""}`);
+        }
+        return lines.join("<br />");
+    }
     layer.bindTooltip(feature.properties.name);
     const icon_tag = `<img class="popup-title-icon marker-status-${feature.properties.status}" src="${ get_icon_url(feature, true) }" />`;
     let popupContents = `<div class="popup-header">${icon_tag} <span class="popup-title">${feature.properties.name}</span></div>`;
@@ -126,6 +138,7 @@ function onEachFeature(feature, layer) {
         popupContents += row("Projet",
             `<a href="${url}">${ feature.properties["ville:projet"] }</a>`);
     }
+    //popupContents += row("Éléments", elementsString(feature.properties["osm:elements"]));
     popupContents += "</table>";
     layer.bindPopup(popupContents);
 }
