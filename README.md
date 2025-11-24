@@ -18,6 +18,12 @@ et reflètent une variété de situations, allant d'un simple fait n'ayant qu'à
 être confirmé sur place (`status=certain`) à un projet qui ne sera entrepris
 que dans le futur (`status=planned`).
 
+Chaque entrée est munie de plusieurs attributs (voir la
+[liste ci-bas](#liste-des-attributs)) fournissant de l'information, mais
+permettant aussi à chacun de les filtrer selon son intérêt personnel.
+(Par exemple, une recherche pour `type=stop status=certain` retournera une liste
+d'arrêts dont la présence est connue.)
+
 ## Liste des attributs
 
 ### Description et catégorisation
@@ -56,8 +62,8 @@ que dans le futur (`status=planned`).
   - `planned`: Travaux prévus
   - `ongoing`: Travaux en cours
   - `completed`: Travaux (théoriquement) complétés
-  - `resolution`: Travaux qui ont fait l'objet d'une résolution à un conseil ou comité de la Ville
-  - `official`: Travaux qui ont été inscrits à un règlement de la Ville
+  - `resolution`: Information qui a fait l'objet d'une résolution à un conseil ou comité de la Ville
+  - `official`: Information qui a été inscrite à un règlement de la Ville
   - `certain`: Présence confirmée, mais auprès d'une source qui ne peut être citée; doit donc être vérifié sur place
   - `dubious`: Travaux sans aucun progrès visible depuis leur annonce initiale, possiblement annulés entre-temps
 
