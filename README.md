@@ -25,7 +25,7 @@ place (`status=certain`) à un projet qui ne sera entrepris que dans le futur
 
 - `type`: Catégorisation, parmi la liste ci-dessous:
 
-  (Lors de l'édition via JOSM, la plupart des catégories sont identifiées sur la carte, via [`TODO.mapcss`](TODO.mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
+  (Lors de l'édition via JOSM, la plupart des catégories sont identifiées sur la carte, via [`TODO.mapcss`](josm/TODO.mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
 
   - `bicycle`: Infrascructure pour vélos autre que piste cyclable \[`◼`, magenta]
   - `crossing`: Traverse pour piétons \[`///`, vert]
@@ -86,8 +86,8 @@ identifier.
 Liste des fichiers:
 
 - [`TODO.geojson`](TODO.geojson): La liste elle-même
-- [`TODO.mapcss`](TODO.mapcss): [Modèle de rendu de carte JOSM](https://josm.openstreetmap.de/wiki/Fr%3AStyles) (*fortement recommandé*)
-- [`TODO-preset.xml`](TODO-preset.xml): [Préréglage](https://josm.openstreetmap.de/wiki/Fr%3APresets) facilitant l'édition ou visualisation d'une entrée de la liste
+- [`TODO.mapcss`](josm/TODO.mapcss): [Modèle de rendu de carte JOSM](https://josm.openstreetmap.de/wiki/Fr%3AStyles) (*fortement recommandé*)
+- [`TODO-preset.xml`](josm/TODO-preset.xml): [Préréglage](https://josm.openstreetmap.de/wiki/Fr%3APresets) facilitant l'édition ou visualisation d'une entrée de la liste
 
 Pour soumettre une modification, assurez-vous d'installer préalablement
 [jq](https://jqlang.org/) et d'activer le tri du fichier JSON avec la commande
