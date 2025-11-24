@@ -1,5 +1,9 @@
 # OpenStreetMap: Liste TODO pour Sherbrooke
 
+Liste d'ajouts/corrections potentiels, présents ou futurs, sur
+[OpenStreetMap](https://www.openstreetmap.org/#map=13/45.3986/-71.9187)
+pour le territoire de la ville de Sherbrooke.
+
 - Consulter les données brutes: [`TODO.geojson`](TODO.geojson)
 
 - Consulter la carte interactive:
@@ -7,16 +11,13 @@ https://fbriere.github.io/openstreetmap-todo-sherbrooke/
 
 [<img src="carte.png">](https://fbriere.github.io/openstreetmap-todo-sherbrooke/)
 
-## Fichiers
-
-- [`TODO.geojson`](TODO.geojson): La liste elle-même
-- [`TODO.mapcss`](TODO.mapcss): [Modèle de rendu de carte JOSM](https://josm.openstreetmap.de/wiki/Fr%3AStyles) (*fortement recommandé*)
-- [`TODO-preset.xml`](TODO-preset.xml): [Préréglage](https://josm.openstreetmap.de/wiki/Fr%3APresets) facilitant l'édition ou visualisation d'une entrée de la liste
+Les entrées de cette liste proviennent d'une multitude de sources (articles de journaux,
+séances du conseil municipal, carte des travaux de la Ville, etc.) et reflètent une
+variété de situations, allant d'un simple fait n'ayant qu'à être confirmé sur
+place (`status=certain`) à un projet qui ne sera entrepris que dans le futur
+(`status=planned`).
 
 ## Liste des attributs
-
-(Toutes les entrées ont également un attribut `TODO:marker` servant à les
-identifier.)
 
 ### Description et catégorisation
 
@@ -24,7 +25,7 @@ identifier.)
 
 - `type`: Catégorisation, parmi la liste ci-dessous:
 
-  (La plupart des catégories sont identifiées sur la carte, via [`TODO.mapcss`](TODO.mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
+  (Lors de l'édition via JOSM, la plupart des catégories sont identifiées sur la carte, via [`TODO.mapcss`](TODO.mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
 
   - `bicycle`: Infrascructure pour vélos autre que piste cyclable \[`◼`, magenta]
   - `crossing`: Traverse pour piétons \[`///`, vert]
@@ -75,9 +76,18 @@ identifier.)
 
 - `comments`: Commentaires
 
+Toutes les entrées ont également un attribut `TODO:marker` servant à les
+identifier.
+
 (Les attributs débutant par `osm:` et `ville:` sont à usage interne et peuvent être ignorés.)
 
 ## Contribuer
+
+Liste des fichiers:
+
+- [`TODO.geojson`](TODO.geojson): La liste elle-même
+- [`TODO.mapcss`](TODO.mapcss): [Modèle de rendu de carte JOSM](https://josm.openstreetmap.de/wiki/Fr%3AStyles) (*fortement recommandé*)
+- [`TODO-preset.xml`](TODO-preset.xml): [Préréglage](https://josm.openstreetmap.de/wiki/Fr%3APresets) facilitant l'édition ou visualisation d'une entrée de la liste
 
 Pour soumettre une modification, assurez-vous d'installer préalablement
 [jq](https://jqlang.org/) et d'activer le tri du fichier JSON avec la commande
