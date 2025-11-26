@@ -45,7 +45,7 @@
         <text key="ville:travaux" text="Travaux" />
         <text key="ville:projet" text="Projet" />
         <space />
-        <text key="osm:elements" text="Elements" />
+        <text key="watch:elements" text="Elements" />
         <space />
     </item>
 </presets>

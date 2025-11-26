@@ -86,7 +86,7 @@ d'arrêts dont la présence est connue.)
 Toutes les entrées ont également un attribut `TODO:marker` servant à les
 identifier.
 
-(Les attributs débutant par `osm:` et `ville:` sont à usage interne et peuvent être ignorés.)
+(Les attributs débutant par `ville:` et `watch:` sont à usage interne et peuvent être ignorés.)
 
 ## Contribuer
 
