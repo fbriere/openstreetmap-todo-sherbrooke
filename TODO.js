@@ -138,7 +138,7 @@ function onEachFeature(feature, layer) {
         popupContents += row("Projet",
             `<a href="${url}" target="_blank">${ feature.properties["ville:projet"] }</a>`);
     }
-    //popupContents += row("Éléments", elementsString(feature.properties["osm:elements"]));
+    //popupContents += row("Éléments", elementsString(feature.properties["watch:elements"]));
     popupContents += "</table>";
     layer.bindPopup(popupContents);
 }
