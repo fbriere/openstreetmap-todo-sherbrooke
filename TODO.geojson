@@ -5345,28 +5345,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.8736940791,
-                    45.42001811791
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Ajout d'un feu de circulation",
-                "osm:elements": "node 82797697,6",
-                "planned_end": "2025-10-24",
-                "source": "Ville de Sherbrooke",
-                "start_date": "2025-09-03",
-                "status": "completed",
-                "type": "traffic_signal",
-                "ville:projet": "8167",
-                "ville:travaux": "2025"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.8727448258,
                     45.40987338249
                 ],
@@ -5384,28 +5362,6 @@
                 "type": "hump",
                 "ville:projet": "7294",
                 "ville:travaux": "2024"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.87269545513,
-                    45.42008866199
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Ajout d'un feu de circulation",
-                "osm:elements": "node 82738935,6",
-                "planned_end": "2025-10-24",
-                "source": "Ville de Sherbrooke",
-                "start_date": "2025-09-03",
-                "status": "completed",
-                "type": "traffic_signal",
-                "ville:projet": "8167",
-                "ville:travaux": "2025"
             },
             "type": "Feature"
         },
