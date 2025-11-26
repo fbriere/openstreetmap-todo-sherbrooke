@@ -34,7 +34,7 @@ d'arrêts dont la présence est connue.)
 
   (Lors de l'édition via JOSM, la plupart des catégories sont identifiées sur la carte, via [`TODO.mapcss`](josm/TODO.mapcss), par un préfixe et/ou une couleur, indiqués ici entre chochets.)
 
-  - `bicycle`: Infrascructure pour vélos autre que piste cyclable \[`◼`, magenta]
+  - `bicycle`: Infrastructure pour vélos autre que piste cyclable \[`◼`, magenta]
   - `crossing`: Traverse pour piétons \[`///`, vert]
   - `cycleway`: Piste cyclable \[magenta]
   - `demolition`: Démolition d'un immeuble \[`🕇`]
