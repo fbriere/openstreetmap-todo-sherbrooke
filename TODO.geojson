@@ -366,12 +366,11 @@
             "properties": {
                 "TODO:marker": "1",
                 "comments": "Premier commerce d'un futur Espace Rock-Forest",
-                "name": "Ouverture d'un Super C (près du Canac)",
-                "planned_end": "Printemps 2026",
+                "name": "Positionnement du Super C",
                 "source": "https://www.latribune.ca/affaires/affaires-locales/2024/10/10/deux-nouveaux-super-c-sinstallent-a-sherbrooke-TJ4KQIVSDZFQHKOF5YGWE6ZKPU/",
-                "status": "planned",
+                "status": "completed",
                 "type": "misc",
-                "watch:area": "45.35984 45.36111 -72.00927 -72.00775 1879a9e4:c6ec5c08"
+                "watch:area": "45.35984 45.36111 -72.00927 -72.00775 4aa0d5be:82cfbc83"
             },
             "type": "Feature"
         },
@@ -2178,6 +2177,24 @@
                 "ville:projet": "6517",
                 "ville:travaux": "2023",
                 "watch:elements": "node 6299236012,2 node 3967139045,3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.94236308604,
+                    45.41209901616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Positionnement du IGA",
+                "source": "https://ici.radio-canada.ca/nouvelle/2210259/super-c-iga-district-golf-rock-forest-supermarche",
+                "status": "completed",
+                "type": "misc",
+                "watch:area": "45.41143 45.41267 -71.94308 -71.94136 db9f5073:e950b83e"
             },
             "type": "Feature"
         },
