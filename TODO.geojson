@@ -3429,6 +3429,23 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.90548271209,
+                    45.38884772732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Entrée interdite par Kitchener",
+                "status": "certain",
+                "type": "restriction",
+                "watch:elements": "way 48838842,13 way 12361706,12"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.90431344756,
                     45.47281386634
                 ],
