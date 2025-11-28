@@ -15,7 +15,7 @@
                 "source": "Règlement n° 1-168",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 230739462,5 way 230739461,3 node 2391953018,2 node 8572735603,1"
+                "watch:elements": "w:230739462,5 w:230739461,3 n:2391953018,2 n:8572735603,1"
             },
             "type": "Feature"
         },
@@ -34,7 +34,7 @@
                 "source": "Règlement n° 1-168",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 230739454,6 node 4181518902,2"
+                "watch:elements": "w:230739454,6 n:4181518902,2"
             },
             "type": "Feature"
         },
@@ -70,7 +70,7 @@
                 "TODO:marker": "1",
                 "name": "Confirmer le point de démarcation entre les rues du Pimbina et des Coudriers",
                 "type": "name",
-                "watch:elements": "way 373126838,3"
+                "watch:elements": "w:373126838,3"
             },
             "type": "Feature"
         },
@@ -86,7 +86,7 @@
                 "TODO:marker": "1",
                 "name": "Vérifier deux courts segments `oneway=no`",
                 "type": "oneway",
-                "watch:elements": "way 32466890,4 way 32467172,6 way 935508755,1 way 935508754,1"
+                "watch:elements": "w:32466890,4 w:32467172,6 w:935508755,1 w:935508754,1"
             },
             "type": "Feature"
         },
@@ -103,7 +103,7 @@
                 "name": "Vérifier pavage de cette section",
                 "source": "Maxar",
                 "type": "surface",
-                "watch:elements": "way 32465245,7"
+                "watch:elements": "w:32465245,7"
             },
             "type": "Feature"
         },
@@ -120,7 +120,7 @@
                 "name": "Demi-tour (ouest → est)",
                 "status": "certain",
                 "type": "restriction",
-                "watch:elements": "way 27292910,8 way 646036430,6 way 646036429,6"
+                "watch:elements": "w:27292910,8 w:646036430,6 w:646036429,6"
             },
             "type": "Feature"
         },
@@ -137,7 +137,7 @@
                 "name": "Ajouter: Sens unique sur cette entrée",
                 "status": "certain",
                 "type": "oneway",
-                "watch:elements": "way 866072275,2 way 424085124,5 way 866072276,1"
+                "watch:elements": "w:866072275,2 w:424085124,5 w:866072276,1"
             },
             "type": "Feature"
         },
@@ -160,7 +160,7 @@
                 "type": "park",
                 "ville:projet": "7129",
                 "ville:travaux": "2024-2025",
-                "watch:elements": "way 442078883,1"
+                "watch:elements": "w:442078883,1"
             },
             "type": "Feature"
         },
@@ -177,7 +177,7 @@
                 "name": "Retirer maxspeed=45",
                 "status": "certain",
                 "type": "maxspeed",
-                "watch:elements": "way 32466113,7"
+                "watch:elements": "w:32466113,7"
             },
             "type": "Feature"
         },
@@ -194,7 +194,7 @@
                 "name": "Ceci n'est que l'entrée d'un complexe d'habitations et devrait être service=driveway",
                 "status": "certain",
                 "type": "misc",
-                "watch:elements": "way 373138546,7"
+                "watch:elements": "w:373138546,7"
             },
             "type": "Feature"
         },
@@ -211,7 +211,7 @@
                 "name": "Arrêt toutes directions",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "node 8075243147,1 node 364977922,4 node 8075243146,1 node 8075243145,1 node 8075243057,1 way 1164909869,1 way 32464543,9 way 503662843,5"
+                "watch:elements": "n:8075243147,1 n:364977922,4 n:8075243146,1 n:8075243145,1 n:8075243057,1 w:1164909869,1 w:32464543,9 w:503662843,5"
             },
             "type": "Feature"
         },
@@ -232,7 +232,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition",
-                "watch:elements": "way 941105212,2"
+                "watch:elements": "w:941105212,2"
             },
             "type": "Feature"
         },
@@ -254,7 +254,7 @@
                 "type": "surface",
                 "ville:projet": "4064",
                 "ville:travaux": "2023",
-                "watch:elements": "way 1182617588,1"
+                "watch:elements": "w:1182617588,1"
             },
             "type": "Feature"
         },
@@ -274,7 +274,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "way 13807529,12 node 8712905195,1 node 8712905177,1"
+                "watch:elements": "w:13807529,12 n:8712905195,1 n:8712905177,1"
             },
             "type": "Feature"
         },
@@ -291,7 +291,7 @@
                 "name": "Tous ces segments (ainsi qu'un autre ici, non cartographié) font (officiellement?) partie de la rue de la Pointe-Gervais",
                 "source": "Ville de Sherbrooke",
                 "type": "misc",
-                "watch:elements": "way 897735043,1 way 897735041,1 way 897735042,1"
+                "watch:elements": "w:897735043,1 w:897735041,1 w:897735042,1"
             },
             "type": "Feature"
         },
@@ -314,7 +314,7 @@
                 "type": "park",
                 "ville:projet": "7126",
                 "ville:travaux": "2024",
-                "watch:elements": "way 421212674,2 way 421212672,2"
+                "watch:elements": "w:421212674,2 w:421212672,2"
             },
             "type": "Feature"
         },
@@ -334,7 +334,7 @@
                 "source": "Règlement no 1300-51",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 819996705,4"
+                "watch:elements": "w:819996705,4"
             },
             "type": "Feature"
         },
@@ -351,7 +351,7 @@
                 "name": "Aucun arrêt ici",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "node 489011702,5"
+                "watch:elements": "n:489011702,5"
             },
             "type": "Feature"
         },
@@ -392,7 +392,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8082",
                 "ville:travaux": "2025",
-                "watch:elements": "way 372539030,7"
+                "watch:elements": "w:372539030,7"
             },
             "type": "Feature"
         },
@@ -453,7 +453,7 @@
                 "type": "new",
                 "ville:projet": "7590",
                 "ville:travaux": "2024",
-                "watch:elements": "way 1370727691,3"
+                "watch:elements": "w:1370727691,3"
             },
             "type": "Feature"
         },
@@ -470,7 +470,7 @@
                 "name": "Déplacer la limite 70/80 ici pour les deux voies",
                 "status": "certain",
                 "type": "maxspeed",
-                "watch:elements": "way 340962975,19"
+                "watch:elements": "w:340962975,19"
             },
             "type": "Feature"
         },
@@ -492,7 +492,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8079",
                 "ville:travaux": "2025",
-                "watch:elements": "way 27388735,16"
+                "watch:elements": "w:27388735,16"
             },
             "type": "Feature"
         },
@@ -513,7 +513,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:elements": "way 619503098,2"
+                "watch:elements": "w:619503098,2"
             },
             "type": "Feature"
         },
@@ -531,7 +531,7 @@
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/04/23/la-piscine-du-parc-central-sera-remplacee-par-des-jeux-deau-L2U36KX2TNG7NMQVXF53WCQD3M/",
                 "status": "planned",
                 "type": "park",
-                "watch:elements": "way 875553059,2 way 875553056,1"
+                "watch:elements": "w:875553059,2 w:875553056,1"
             },
             "type": "Feature"
         },
@@ -552,7 +552,7 @@
                 "type": "park",
                 "ville:projet": "8260",
                 "ville:travaux": "2025",
-                "watch:elements": "way 92927688,6 way 283405833,2"
+                "watch:elements": "w:92927688,6 w:283405833,2"
             },
             "type": "Feature"
         },
@@ -573,7 +573,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "sidewalk",
-                "watch:elements": "way 621872680,4"
+                "watch:elements": "w:621872680,4"
             },
             "type": "Feature"
         },
@@ -594,7 +594,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "way 621872680,4 node 5874699136,2"
+                "watch:elements": "w:621872680,4 n:5874699136,2"
             },
             "type": "Feature"
         },
@@ -614,7 +614,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 27388735,16"
+                "watch:elements": "w:27388735,16"
             },
             "type": "Feature"
         },
@@ -637,7 +637,7 @@
                 "type": "geometry",
                 "ville:projet": "7023",
                 "ville:travaux": "2024",
-                "watch:elements": "way 1424464876,3 way 874810806,6 way 1424464877,4 node 94059140,5 node 54892959,12"
+                "watch:elements": "w:1424464876,3 w:874810806,6 w:1424464877,4 n:94059140,5 n:54892959,12"
             },
             "type": "Feature"
         },
@@ -657,7 +657,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 1122560483,4"
+                "watch:elements": "w:1122560483,4"
             },
             "type": "Feature"
         },
@@ -677,7 +677,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 621872688,5"
+                "watch:elements": "w:621872688,5"
             },
             "type": "Feature"
         },
@@ -700,7 +700,7 @@
                 "type": "cycleway",
                 "ville:projet": "6974",
                 "ville:travaux": "2024",
-                "watch:elements": "way 1311261957,3"
+                "watch:elements": "w:1311261957,3"
             },
             "type": "Feature"
         },
@@ -720,7 +720,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 19131756,14"
+                "watch:elements": "w:19131756,14"
             },
             "type": "Feature"
         },
@@ -739,7 +739,7 @@
                 "session": "2017-07-03",
                 "status": "dubious",
                 "type": "stop",
-                "watch:elements": "way 1451074758,1 way 258913307,11 way 381819489,4 node 3849863957,2"
+                "watch:elements": "w:1451074758,1 w:258913307,11 w:381819489,4 n:3849863957,2"
             },
             "type": "Feature"
         },
@@ -759,7 +759,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 19804324,5"
+                "watch:elements": "w:19804324,5"
             },
             "type": "Feature"
         },
@@ -794,7 +794,7 @@
                 "session": "2025-10-02",
                 "source": "Ville de Sherbrooke",
                 "type": "hump",
-                "watch:elements": "way 874146740,3 node 4895321035,2 node 8138885218,1 node 8138885219,1 node 8138885220,1 node 4895321038,2 node 8138885217,1 node 8138885226,1 node 8138885225,1 node 8138885223,1 node 4895321039,2 node 8138885224,1 node 8138885221,1 node 8138885222,1 node 4895321041,2 node 8138873116,1 node 8139968299,1"
+                "watch:elements": "w:874146740,3 n:4895321035,2 n:8138885218,1 n:8138885219,1 n:8138885220,1 n:4895321038,2 n:8138885217,1 n:8138885226,1 n:8138885225,1 n:8138885223,1 n:4895321039,2 n:8138885224,1 n:8138885221,1 n:8138885222,1 n:4895321041,2 n:8138873116,1 n:8139968299,1"
             },
             "type": "Feature"
         },
@@ -813,7 +813,7 @@
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "status": "certain",
                 "type": "misc",
-                "watch:elements": "node 13308244954,1"
+                "watch:elements": "n:13308244954,1"
             },
             "type": "Feature"
         },
@@ -832,7 +832,7 @@
                 "start_date": "2024-04-30",
                 "status": "planned",
                 "type": "misc",
-                "watch:elements": "way 867831922,2"
+                "watch:elements": "w:867831922,2"
             },
             "type": "Feature"
         },
@@ -877,7 +877,7 @@
                 "type": "new",
                 "ville:projet": "5814",
                 "ville:travaux": "2023",
-                "watch:elements": "way 935571389,7"
+                "watch:elements": "w:935571389,7"
             },
             "type": "Feature"
         },
@@ -899,7 +899,7 @@
                 "type": "new",
                 "ville:projet": "8736",
                 "ville:travaux": "2025",
-                "watch:elements": "way 608148003,3"
+                "watch:elements": "w:608148003,3"
             },
             "type": "Feature"
         },
@@ -939,7 +939,7 @@
                 "name": "Comment traiter cette rue privée, officiellement sans nom?",
                 "source": "Ville de Sherbrooke",
                 "type": "misc",
-                "watch:elements": "way 153036145,6"
+                "watch:elements": "w:153036145,6"
             },
             "type": "Feature"
         },
@@ -961,7 +961,7 @@
                 "type": "crossing",
                 "ville:projet": "8215",
                 "ville:travaux": "2025",
-                "watch:elements": "node 3850467466,4 node 3588463776,4 node 3850464142,3 node 3850464126,4 node 3850464101,7 node 3850464100,9 node 3850464130,5 node 3850464147,5"
+                "watch:elements": "n:3850467466,4 n:3588463776,4 n:3850464142,3 n:3850464126,4 n:3850464101,7 n:3850464100,9 n:3850464130,5 n:3850464147,5"
             },
             "type": "Feature"
         },
@@ -983,7 +983,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8081",
                 "ville:travaux": "2025",
-                "watch:elements": "way 10666421,11"
+                "watch:elements": "w:10666421,11"
             },
             "type": "Feature"
         },
@@ -1000,7 +1000,7 @@
                 "name": "Corriger: Aucune limite affichée ici",
                 "status": "certain",
                 "type": "maxspeed",
-                "watch:elements": "way 87781612,8 way 87781598,8"
+                "watch:elements": "w:87781612,8 w:87781598,8"
             },
             "type": "Feature"
         },
@@ -1022,7 +1022,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8080",
                 "ville:travaux": "2025",
-                "watch:elements": "way 88907450,10"
+                "watch:elements": "w:88907450,10"
             },
             "type": "Feature"
         },
@@ -1044,7 +1044,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8086",
                 "ville:travaux": "2025",
-                "watch:elements": "way 713189140,3"
+                "watch:elements": "w:713189140,3"
             },
             "type": "Feature"
         },
@@ -1066,7 +1066,7 @@
                 "type": "crossing",
                 "ville:projet": "8086",
                 "ville:travaux": "2025",
-                "watch:elements": "way 295430150,8 node 2991480973,2 node 7997805711,1 node 7997805714,1"
+                "watch:elements": "w:295430150,8 n:2991480973,2 n:7997805711,1 n:7997805714,1"
             },
             "type": "Feature"
         },
@@ -1088,7 +1088,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8086",
                 "ville:travaux": "2025",
-                "watch:elements": "way 295430150,8"
+                "watch:elements": "w:295430150,8"
             },
             "type": "Feature"
         },
@@ -1108,7 +1108,7 @@
                 "type": "geometry",
                 "ville:projet": "8168",
                 "ville:travaux": "2025",
-                "watch:elements": "way 1445810451,2 way 1164679060,1 node 94050762,5"
+                "watch:elements": "w:1445810451,2 w:1164679060,1 n:94050762,5"
             },
             "type": "Feature"
         },
@@ -1128,7 +1128,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 371669319,6"
+                "watch:elements": "w:371669319,6"
             },
             "type": "Feature"
         },
@@ -1148,7 +1148,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 371669479,7"
+                "watch:elements": "w:371669479,7"
             },
             "type": "Feature"
         },
@@ -1169,7 +1169,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8090",
                 "ville:travaux": "2025",
-                "watch:elements": "way 10666618,7"
+                "watch:elements": "w:10666618,7"
             },
             "type": "Feature"
         },
@@ -1191,7 +1191,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8090",
                 "ville:travaux": "2025",
-                "watch:elements": "way 10666478,12"
+                "watch:elements": "w:10666478,12"
             },
             "type": "Feature"
         },
@@ -1213,7 +1213,7 @@
                 "type": "stop",
                 "ville:projet": "8090",
                 "ville:travaux": "2025",
-                "watch:elements": "node 94296261,6 node 94296260,3 node 5636185289,2"
+                "watch:elements": "n:94296261,6 n:94296260,3 n:5636185289,2"
             },
             "type": "Feature"
         },
@@ -1234,7 +1234,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8090",
                 "ville:travaux": "2025",
-                "watch:elements": "way 10666478,12"
+                "watch:elements": "w:10666478,12"
             },
             "type": "Feature"
         },
@@ -1256,7 +1256,7 @@
                 "type": "crossing",
                 "ville:projet": "8213",
                 "ville:travaux": "2025",
-                "watch:elements": "node 5854637726,2"
+                "watch:elements": "n:5854637726,2"
             },
             "type": "Feature"
         },
@@ -1278,7 +1278,7 @@
                 "type": "crossing",
                 "ville:projet": "8214",
                 "ville:travaux": "2025",
-                "watch:elements": "node 5875413702,1"
+                "watch:elements": "n:5875413702,1"
             },
             "type": "Feature"
         },
@@ -1298,7 +1298,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "stop",
-                "watch:elements": "way 370913835,4 node 148834652,6 way 370913833,5 way 15089794,17"
+                "watch:elements": "w:370913835,4 n:148834652,6 w:370913833,5 w:15089794,17"
             },
             "type": "Feature"
         },
@@ -1317,7 +1317,7 @@
                 "source": "Règlement no 1300-51",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 15089794,17"
+                "watch:elements": "w:15089794,17"
             },
             "type": "Feature"
         },
@@ -1334,7 +1334,7 @@
                 "name": "Virage à gauche (des Écossais → Albatros)",
                 "status": "certain",
                 "type": "restriction",
-                "watch:elements": "way 477631135,6 way 239945761,3 node 2477164158,3"
+                "watch:elements": "w:477631135,6 w:239945761,3 n:2477164158,3"
             },
             "type": "Feature"
         },
@@ -1356,7 +1356,7 @@
                 "type": "sidewalk",
                 "ville:projet": "6951",
                 "ville:travaux": "2024",
-                "watch:elements": "way 258852419,11"
+                "watch:elements": "w:258852419,11"
             },
             "type": "Feature"
         },
@@ -1373,7 +1373,7 @@
                 "check_date": "2023-07-19",
                 "name": "Place *de* Monseigneur-Moisan",
                 "type": "sign",
-                "watch:elements": "way 9842322,5"
+                "watch:elements": "w:9842322,5"
             },
             "type": "Feature"
         },
@@ -1390,7 +1390,7 @@
                 "name": "Déplacer ligne 80/90 ici",
                 "status": "certain",
                 "type": "maxspeed",
-                "watch:elements": "way 363611664,5 node 2509573212,3"
+                "watch:elements": "w:363611664,5 n:2509573212,3"
             },
             "type": "Feature"
         },
@@ -1409,7 +1409,7 @@
                 "source": "https://www.latribune.ca/affaires/2024/05/24/reno-depot-devient-rona-YNUUZJINXNCT7MGO6DDO3TNOIQ/",
                 "status": "certain",
                 "type": "misc",
-                "watch:elements": "relation 11132022,5"
+                "watch:elements": "r:11132022,5"
             },
             "type": "Feature"
         },
@@ -1472,7 +1472,7 @@
                 "name": "La portion sud de cette rue est privée et n'a pas de nom",
                 "status": "certain",
                 "type": "name",
-                "watch:elements": "way 156871052,8 way 156871055,10 way 9733500,16"
+                "watch:elements": "w:156871052,8 w:156871055,10 w:9733500,16"
             },
             "type": "Feature"
         },
@@ -1494,7 +1494,7 @@
                 "type": "stop",
                 "ville:projet": "8075",
                 "ville:travaux": "2025",
-                "watch:elements": "node 4333898890,3 node 11150274569,1 node 11150274570,1"
+                "watch:elements": "n:4333898890,3 n:11150274569,1 n:11150274570,1"
             },
             "type": "Feature"
         },
@@ -1516,7 +1516,7 @@
                 "type": "crossing",
                 "ville:projet": "8075",
                 "ville:travaux": "2025",
-                "watch:elements": "way 1202792941,2 way 1122139895,1 way 1446367553,1 node 77012415,6"
+                "watch:elements": "w:1202792941,2 w:1122139895,1 w:1446367553,1 n:77012415,6"
             },
             "type": "Feature"
         },
@@ -1538,7 +1538,7 @@
                 "type": "crossing",
                 "ville:projet": "8075",
                 "ville:travaux": "2025",
-                "watch:elements": "way 9842493,3 way 1202792941,2 node 77012414,7"
+                "watch:elements": "w:9842493,3 w:1202792941,2 n:77012414,7"
             },
             "type": "Feature"
         },
@@ -1560,7 +1560,7 @@
                 "type": "cycleway",
                 "ville:projet": "8075",
                 "ville:travaux": "2025",
-                "watch:elements": "way 1202792941,2 way 641077871,2"
+                "watch:elements": "w:1202792941,2 w:641077871,2"
             },
             "type": "Feature"
         },
@@ -1582,7 +1582,7 @@
                 "type": "surface",
                 "ville:projet": "8075",
                 "ville:travaux": "2025",
-                "watch:elements": "way 641077871,2"
+                "watch:elements": "w:641077871,2"
             },
             "type": "Feature"
         },
@@ -1604,7 +1604,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8075",
                 "ville:travaux": "2025",
-                "watch:elements": "way 641077871,2"
+                "watch:elements": "w:641077871,2"
             },
             "type": "Feature"
         },
@@ -1625,7 +1625,7 @@
                 "type": "surface",
                 "ville:projet": "8540",
                 "ville:travaux": "2025",
-                "watch:elements": "way 374776454,7"
+                "watch:elements": "w:374776454,7"
             },
             "type": "Feature"
         },
@@ -1645,7 +1645,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition",
-                "watch:elements": "way 808479365,2"
+                "watch:elements": "w:808479365,2"
             },
             "type": "Feature"
         },
@@ -1665,7 +1665,7 @@
                 "type": "hump",
                 "ville:projet": "8091",
                 "ville:travaux": "2025",
-                "watch:elements": "way 32273965,10"
+                "watch:elements": "w:32273965,10"
             },
             "type": "Feature"
         },
@@ -1683,7 +1683,7 @@
                 "session": "2025-10-02",
                 "source": "Ville de Sherbrooke",
                 "type": "sidewalk",
-                "watch:elements": "way 343315123,4"
+                "watch:elements": "w:343315123,4"
             },
             "type": "Feature"
         },
@@ -1704,7 +1704,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8091",
                 "ville:travaux": "2025",
-                "watch:elements": "way 32269806,10"
+                "watch:elements": "w:32269806,10"
             },
             "type": "Feature"
         },
@@ -1725,7 +1725,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "completed",
                 "type": "stop",
-                "watch:elements": "way 911550802,5 node 6038250457,9 node 6711200845,7"
+                "watch:elements": "w:911550802,5 n:6038250457,9 n:6711200845,7"
             },
             "type": "Feature"
         },
@@ -1748,7 +1748,7 @@
                 "type": "geometry",
                 "ville:projet": "8078",
                 "ville:travaux": "2025",
-                "watch:elements": "way 27440292,14 way 919350105,1 way 354205176,4 node 8538089983,1 node 8538592316,1 node 8538615017,1 node 8538089985,1 node 1040608693,4 node 8538089984,2 node 8538615018,1 node 2895822180,3"
+                "watch:elements": "w:27440292,14 w:919350105,1 w:354205176,4 n:8538089983,1 n:8538592316,1 n:8538615017,1 n:8538089985,1 n:1040608693,4 n:8538089984,2 n:8538615018,1 n:2895822180,3"
             },
             "type": "Feature"
         },
@@ -1767,7 +1767,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 32275578,8 node 2895822180,3 way 354205176,4"
+                "watch:elements": "w:32275578,8 n:2895822180,3 w:354205176,4"
             },
             "type": "Feature"
         },
@@ -1784,7 +1784,7 @@
                 "name": "Pas d'arrêt à l'approche sud",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "node 7551914128,1 node 7551914127,1 node 7551914129,1 node 77057995,7"
+                "watch:elements": "n:7551914128,1 n:7551914127,1 n:7551914129,1 n:77057995,7"
             },
             "type": "Feature"
         },
@@ -1806,7 +1806,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8078",
                 "ville:travaux": "2025",
-                "watch:elements": "way 27440292,14"
+                "watch:elements": "w:27440292,14"
             },
             "type": "Feature"
         },
@@ -1825,7 +1825,7 @@
                 "source": "Règlement no 1300-51",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 919859184,3 node 8538089982,1 way 27440286,11 way 285940640,3 node 2895822111,2 node 2895822109,2 node 8538089981,1 node 2895822103,2 node 301286568,4 node 2895821999,2 node 8538090219,1 node 8538090224,1"
+                "watch:elements": "w:919859184,3 n:8538089982,1 w:27440286,11 w:285940640,3 n:2895822111,2 n:2895822109,2 n:8538089981,1 n:2895822103,2 n:301286568,4 n:2895821999,2 n:8538090219,1 n:8538090224,1"
             },
             "type": "Feature"
         },
@@ -1848,7 +1848,7 @@
                 "type": "geometry",
                 "ville:projet": "8078",
                 "ville:travaux": "2025",
-                "watch:elements": "way 27440292,14 node 301286444,4 node 8538089987,1 node 8538089988,1"
+                "watch:elements": "w:27440292,14 n:301286444,4 n:8538089987,1 n:8538089988,1"
             },
             "type": "Feature"
         },
@@ -1888,7 +1888,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8078",
                 "ville:travaux": "2025",
-                "watch:elements": "way 27440292,14"
+                "watch:elements": "w:27440292,14"
             },
             "type": "Feature"
         },
@@ -1909,7 +1909,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "completed",
                 "type": "stop",
-                "watch:elements": "way 911550802,5 node 6038250447,10 node 6711200844,8"
+                "watch:elements": "w:911550802,5 n:6038250447,10 n:6711200844,8"
             },
             "type": "Feature"
         },
@@ -1954,7 +1954,7 @@
                 "type": "crossing",
                 "ville:projet": "7009",
                 "ville:travaux": "2024",
-                "watch:elements": "node 10282883190,1"
+                "watch:elements": "n:10282883190,1"
             },
             "type": "Feature"
         },
@@ -1975,7 +1975,7 @@
                 "type": "sidewalk",
                 "ville:projet": "7640",
                 "ville:travaux": "2024",
-                "watch:elements": "way 27440253,13 way 27440293,7"
+                "watch:elements": "w:27440253,13 w:27440293,7"
             },
             "type": "Feature"
         },
@@ -1996,7 +1996,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:elements": "way 11537171,10"
+                "watch:elements": "w:11537171,10"
             },
             "type": "Feature"
         },
@@ -2015,7 +2015,7 @@
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/10/29/leglise-marie-mediatrice-officiellement-vendue-MKRHDIJY6VCWVMBYQWTQKOTJFA/",
                 "status": "completed",
                 "type": "misc",
-                "watch:elements": "way 44664499,6"
+                "watch:elements": "w:44664499,6"
             },
             "type": "Feature"
         },
@@ -2034,7 +2034,7 @@
                 "source": "Règlement no 1300-51",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 43826765,5 way 27440356,6 way 27440258,9 way 43826764,6"
+                "watch:elements": "w:43826765,5 w:27440356,6 w:27440258,9 w:43826764,6"
             },
             "type": "Feature"
         },
@@ -2054,7 +2054,7 @@
                 "source": "La Tribune (2023-02-08)",
                 "status": "completed",
                 "type": "misc",
-                "watch:elements": "way 40205477,9"
+                "watch:elements": "w:40205477,9"
             },
             "type": "Feature"
         },
@@ -2097,7 +2097,7 @@
                 "ville:projet": "8253",
                 "ville:travaux": "2025",
                 "watch:area": "45.47262 45.47299 -71.94602 -71.94549 f606f111:1bfe7793",
-                "watch:elements": "relation 12467689,2"
+                "watch:elements": "r:12467689,2"
             },
             "type": "Feature"
         },
@@ -2117,7 +2117,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "sidewalk",
-                "watch:elements": "way 1446599624,1"
+                "watch:elements": "w:1446599624,1"
             },
             "type": "Feature"
         },
@@ -2135,7 +2135,7 @@
                 "source": "Règlement no 1, article 5.1.13",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 1272092591,1 node 301286456,3 way 27440253,13 way 919866127,2"
+                "watch:elements": "w:1272092591,1 n:301286456,3 w:27440253,13 w:919866127,2"
             },
             "type": "Feature"
         },
@@ -2176,7 +2176,7 @@
                 "type": "crossing",
                 "ville:projet": "6517",
                 "ville:travaux": "2023",
-                "watch:elements": "node 6299236012,2 node 3967139045,3"
+                "watch:elements": "n:6299236012,2 n:3967139045,3"
             },
             "type": "Feature"
         },
@@ -2218,7 +2218,7 @@
                 "type": "crossing",
                 "ville:projet": "7010",
                 "ville:travaux": "2024",
-                "watch:elements": "node 2642212138,3 node 2642212137,3"
+                "watch:elements": "n:2642212138,3 n:2642212137,3"
             },
             "type": "Feature"
         },
@@ -2237,7 +2237,7 @@
                 "name": "Boulevard du Prince-de-Galles / Prince-De Galles",
                 "source": "https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=206632",
                 "type": "sign",
-                "watch:elements": "way 15220940,11 way 89782954,7"
+                "watch:elements": "w:15220940,11 w:89782954,7"
             },
             "type": "Feature"
         },
@@ -2261,7 +2261,7 @@
                 "type": "crossing",
                 "ville:projet": "7011",
                 "ville:travaux": "2024",
-                "watch:elements": "node 3781498982,1 node 50887300,4"
+                "watch:elements": "n:3781498982,1 n:50887300,4"
             },
             "type": "Feature"
         },
@@ -2299,7 +2299,7 @@
                 "name": "Ajout d'un abribus",
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "type": "misc",
-                "watch:elements": "node 12803459792,3"
+                "watch:elements": "n:12803459792,3"
             },
             "type": "Feature"
         },
@@ -2319,7 +2319,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 11737323,14 way 801383608,1 node 105086530,7"
+                "watch:elements": "w:11737323,14 w:801383608,1 n:105086530,7"
             },
             "type": "Feature"
         },
@@ -2341,7 +2341,7 @@
                 "type": "misc",
                 "ville:projet": "8631",
                 "ville:travaux": "2025",
-                "watch:elements": "node 518275667,4 way 37049849,9"
+                "watch:elements": "n:518275667,4 w:37049849,9"
             },
             "type": "Feature"
         },
@@ -2364,7 +2364,7 @@
                 "type": "traffic_signal",
                 "ville:projet": "8162",
                 "ville:travaux": "2025",
-                "watch:elements": "node 7541115514,3 node 4259312229,6"
+                "watch:elements": "n:7541115514,3 n:4259312229,6"
             },
             "type": "Feature"
         },
@@ -2381,7 +2381,7 @@
                 "name": "Aucune traverse présente ici",
                 "status": "certain",
                 "type": "crossing",
-                "watch:elements": "node 362701391,9"
+                "watch:elements": "n:362701391,9"
             },
             "type": "Feature"
         },
@@ -2398,7 +2398,7 @@
                 "name": "Corriger: 70 [→ limite]",
                 "status": "certain",
                 "type": "maxspeed",
-                "watch:elements": "way 87622169,17"
+                "watch:elements": "w:87622169,17"
             },
             "type": "Feature"
         },
@@ -2416,7 +2416,7 @@
                 "source": "Règlement no 1, article 5.1.13",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 27440250,8 way 27440332,5 way 27440319,5 node 301286514,2"
+                "watch:elements": "w:27440250,8 w:27440332,5 w:27440319,5 n:301286514,2"
             },
             "type": "Feature"
         },
@@ -2437,7 +2437,7 @@
                 "type": "crossing",
                 "ville:projet": "8083",
                 "ville:travaux": "2025",
-                "watch:elements": "node 50177341,7"
+                "watch:elements": "n:50177341,7"
             },
             "type": "Feature"
         },
@@ -2456,7 +2456,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 27440329,8 way 89783139,7 node 301286541,2"
+                "watch:elements": "w:27440329,8 w:89783139,7 n:301286541,2"
             },
             "type": "Feature"
         },
@@ -2474,7 +2474,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
                 "type": "misc",
-                "watch:elements": "way 389402848,3"
+                "watch:elements": "w:389402848,3"
             },
             "type": "Feature"
         },
@@ -2493,7 +2493,7 @@
                 "source": "Règlement no 1300-51",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 7357580,9 way 7358053,3 node 54728355,5 node 7540964355,1 node 7540964357,1 node 7540964358,1 node 3964784657,4 node 7540962909,1"
+                "watch:elements": "w:7357580,9 w:7358053,3 n:54728355,5 n:7540964355,1 n:7540964357,1 n:7540964358,1 n:3964784657,4 n:7540962909,1"
             },
             "type": "Feature"
         },
@@ -2515,7 +2515,7 @@
                 "type": "park",
                 "ville:projet": "8262",
                 "ville:travaux": "2025",
-                "watch:elements": "way 1443486756,1"
+                "watch:elements": "w:1443486756,1"
             },
             "type": "Feature"
         },
@@ -2533,7 +2533,7 @@
                 "source": "Règlement no 1, article 5.1.13",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 27440250,8 way 27440277,9 node 301286428,3"
+                "watch:elements": "w:27440250,8 w:27440277,9 n:301286428,3"
             },
             "type": "Feature"
         },
@@ -2555,7 +2555,7 @@
                 "type": "crossing",
                 "ville:projet": "8084",
                 "ville:travaux": "2025",
-                "watch:elements": "way 33255306,9 way 1122136525,2 way 676164264,3 node 362684592,13"
+                "watch:elements": "w:33255306,9 w:1122136525,2 w:676164264,3 n:362684592,13"
             },
             "type": "Feature"
         },
@@ -2572,7 +2572,7 @@
                 "name": "Ajout d'un dos d'âne",
                 "status": "certain",
                 "type": "hump",
-                "watch:elements": "way 8164181,16"
+                "watch:elements": "w:8164181,16"
             },
             "type": "Feature"
         },
@@ -2589,7 +2589,7 @@
                 "name": "Ajout d'un dos d'âne",
                 "status": "certain",
                 "type": "hump",
-                "watch:elements": "way 8164181,16"
+                "watch:elements": "w:8164181,16"
             },
             "type": "Feature"
         },
@@ -2612,7 +2612,7 @@
                 "type": "crossing",
                 "ville:projet": "7007",
                 "ville:travaux": "2024",
-                "watch:elements": "node 1038872835,6"
+                "watch:elements": "n:1038872835,6"
             },
             "type": "Feature"
         },
@@ -2629,7 +2629,7 @@
                 "name": "Retrait de cet arrêt",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "node 49000275,7"
+                "watch:elements": "n:49000275,7"
             },
             "type": "Feature"
         },
@@ -2649,7 +2649,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 23142990,10"
+                "watch:elements": "w:23142990,10"
             },
             "type": "Feature"
         },
@@ -2669,7 +2669,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 23142991,7"
+                "watch:elements": "w:23142991,7"
             },
             "type": "Feature"
         },
@@ -2689,7 +2689,7 @@
                 "start_date": "2024-04-22",
                 "status": "completed",
                 "type": "misc",
-                "watch:elements": "way 911632754,1 way 1411979238,2"
+                "watch:elements": "w:911632754,1 w:1411979238,2"
             },
             "type": "Feature"
         },
@@ -2709,7 +2709,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 23142992,10"
+                "watch:elements": "w:23142992,10"
             },
             "type": "Feature"
         },
@@ -2749,7 +2749,7 @@
                 "type": "crossing",
                 "ville:projet": "8216",
                 "ville:travaux": "2025",
-                "watch:elements": "node 6727243088,4"
+                "watch:elements": "n:6727243088,4"
             },
             "type": "Feature"
         },
@@ -2771,7 +2771,7 @@
                 "type": "crossing",
                 "ville:projet": "7008",
                 "ville:travaux": "2024",
-                "watch:elements": "node 3757636961,3"
+                "watch:elements": "n:3757636961,3"
             },
             "type": "Feature"
         },
@@ -2787,7 +2787,7 @@
                 "TODO:marker": "1",
                 "name": "Confirmer tous les tags sur cette entrée",
                 "type": "misc",
-                "watch:elements": "way 548260289,4"
+                "watch:elements": "w:548260289,4"
             },
             "type": "Feature"
         },
@@ -2809,7 +2809,7 @@
                 "type": "crossing",
                 "ville:projet": "7026",
                 "ville:travaux": "2024",
-                "watch:elements": "node 3757636960,2"
+                "watch:elements": "n:3757636960,2"
             },
             "type": "Feature"
         },
@@ -2826,7 +2826,7 @@
                 "name": "Corriger: 70",
                 "status": "certain",
                 "type": "maxspeed",
-                "watch:elements": "way 87622169,17"
+                "watch:elements": "w:87622169,17"
             },
             "type": "Feature"
         },
@@ -2866,7 +2866,7 @@
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "status": "dubious",
                 "type": "misc",
-                "watch:elements": "node 12922584792,1"
+                "watch:elements": "n:12922584792,1"
             },
             "type": "Feature"
         },
@@ -2882,7 +2882,7 @@
                 "TODO:marker": "1",
                 "name": "Pas mal sûr que cycleway=track ne s'applique pas ici...",
                 "type": "cycleway",
-                "watch:elements": "way 41227403,7"
+                "watch:elements": "w:41227403,7"
             },
             "type": "Feature"
         },
@@ -2984,7 +2984,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "cycleway",
-                "watch:elements": "way 11447782,9"
+                "watch:elements": "w:11447782,9"
             },
             "type": "Feature"
         },
@@ -3004,7 +3004,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "cycleway",
-                "watch:elements": "way 11447383,10"
+                "watch:elements": "w:11447383,10"
             },
             "type": "Feature"
         },
@@ -3026,7 +3026,7 @@
                 "type": "crossing",
                 "ville:projet": "9066",
                 "ville:travaux": "2025",
-                "watch:elements": "way 1448233773,1 way 10527227,15 node 8185192801,1"
+                "watch:elements": "w:1448233773,1 w:10527227,15 n:8185192801,1"
             },
             "type": "Feature"
         },
@@ -3043,7 +3043,7 @@
                 "name": "Arrêt seulement à l'approche ouest",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 1446571767,1 node 53490025,9 node 52944729,9"
+                "watch:elements": "w:1446571767,1 n:53490025,9 n:52944729,9"
             },
             "type": "Feature"
         },
@@ -3060,7 +3060,7 @@
                 "name": "Arrêt seulement à l'approche est",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 1446571767,1 node 53490025,9 node 52944729,9"
+                "watch:elements": "w:1446571767,1 n:53490025,9 n:52944729,9"
             },
             "type": "Feature"
         },
@@ -3082,7 +3082,7 @@
                 "type": "misc",
                 "ville:projet": "1498",
                 "ville:travaux": "2019",
-                "watch:elements": "way 1167744807,2"
+                "watch:elements": "w:1167744807,2"
             },
             "type": "Feature"
         },
@@ -3098,7 +3098,7 @@
                 "TODO:marker": "1",
                 "name": "Confirmer nom/vocation de cet immeuble",
                 "type": "park",
-                "watch:elements": "way 724572944,6"
+                "watch:elements": "w:724572944,6"
             },
             "type": "Feature"
         },
@@ -3120,7 +3120,7 @@
                 "type": "sidewalk",
                 "ville:projet": "6954",
                 "ville:travaux": "2024",
-                "watch:elements": "way 6685805,5"
+                "watch:elements": "w:6685805,5"
             },
             "type": "Feature"
         },
@@ -3137,7 +3137,7 @@
                 "name": "Ajouter: 2 entrées",
                 "status": "certain",
                 "type": "oneway",
-                "watch:elements": "way 815731285,1 way 815731286,1"
+                "watch:elements": "w:815731285,1 w:815731286,1"
             },
             "type": "Feature"
         },
@@ -3159,7 +3159,7 @@
                 "type": "cycleway",
                 "ville:projet": "4095",
                 "ville:travaux": "2023",
-                "watch:elements": "way 31437535,10"
+                "watch:elements": "w:31437535,10"
             },
             "type": "Feature"
         },
@@ -3181,7 +3181,7 @@
                 "type": "hump",
                 "ville:projet": "7659",
                 "ville:travaux": "2024",
-                "watch:elements": "way 6686582,5 node 1038869932,1 node 53527059,2 way 611554849,2 node 6848914194,1 node 53527056,2 node 53527055,2 node 12498845961,1"
+                "watch:elements": "w:6686582,5 n:1038869932,1 n:53527059,2 w:611554849,2 n:6848914194,1 n:53527056,2 n:53527055,2 n:12498845961,1"
             },
             "type": "Feature"
         },
@@ -3204,7 +3204,7 @@
                 "type": "crossing",
                 "ville:projet": "7006",
                 "ville:travaux": "2024",
-                "watch:elements": "node 762946536,3"
+                "watch:elements": "n:762946536,3"
             },
             "type": "Feature"
         },
@@ -3222,7 +3222,7 @@
                 "name": "Rue Gignac",
                 "source": "Ville de Sherbrooke",
                 "type": "new",
-                "watch:elements": "way 89638287,4"
+                "watch:elements": "w:89638287,4"
             },
             "type": "Feature"
         },
@@ -3243,7 +3243,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:elements": "way 1448233772,1 way 1435929260,1 way 1094964665,4"
+                "watch:elements": "w:1448233772,1 w:1435929260,1 w:1094964665,4"
             },
             "type": "Feature"
         },
@@ -3263,7 +3263,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 815731386,1"
+                "watch:elements": "w:815731386,1"
             },
             "type": "Feature"
         },
@@ -3301,7 +3301,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 374776461,5"
+                "watch:elements": "w:374776461,5"
             },
             "type": "Feature"
         },
@@ -3321,7 +3321,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 8829990,7"
+                "watch:elements": "w:8829990,7"
             },
             "type": "Feature"
         },
@@ -3338,7 +3338,7 @@
                 "name": "Déterminer à quelle section s'applique la limite de 20 km/h",
                 "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/951/cohabitation-harmonieuse-autour-du-lac-des-nations",
                 "type": "cycleway",
-                "watch:elements": "way 118004029,10"
+                "watch:elements": "w:118004029,10"
             },
             "type": "Feature"
         },
@@ -3358,7 +3358,7 @@
                 "source": "Règlement no 1300-51",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 6959993,16 way 1435332315,2 node 6815639459,4"
+                "watch:elements": "w:6959993,16 w:1435332315,2 n:6815639459,4"
             },
             "type": "Feature"
         },
@@ -3381,7 +3381,7 @@
                 "type": "footway",
                 "ville:projet": "7368",
                 "ville:travaux": "2024",
-                "watch:elements": "way 1058367697,2"
+                "watch:elements": "w:1058367697,2"
             },
             "type": "Feature"
         },
@@ -3401,7 +3401,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "hump",
-                "watch:elements": "way 1435929260,1 node 10027857349,1 node 3646823269,2 node 10027857350,1 node 110285441,9 node 10027857347,2 node 10027857348,1 node 3646823270,3 node 4259409000,3 way 1094964666,4"
+                "watch:elements": "w:1435929260,1 n:10027857349,1 n:3646823269,2 n:10027857350,1 n:110285441,9 n:10027857347,2 n:10027857348,1 n:3646823270,3 n:4259409000,3 w:1094964666,4"
             },
             "type": "Feature"
         },
@@ -3422,7 +3422,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:elements": "way 48838842,13"
+                "watch:elements": "w:48838842,13"
             },
             "type": "Feature"
         },
@@ -3439,7 +3439,7 @@
                 "name": "Entrée interdite par Kitchener",
                 "status": "certain",
                 "type": "restriction",
-                "watch:elements": "way 48838842,13 way 12361706,12"
+                "watch:elements": "w:48838842,13 w:12361706,12"
             },
             "type": "Feature"
         },
@@ -3457,7 +3457,7 @@
                 "source": "Règlement no 1, article 5.1.13",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 13481779,9 way 833871971,5 node 122884341,5"
+                "watch:elements": "w:13481779,9 w:833871971,5 n:122884341,5"
             },
             "type": "Feature"
         },
@@ -3474,7 +3474,7 @@
                 "name": "Confirmer: Le dernier segment est Elgin, pas Hyatt",
                 "status": "certain",
                 "type": "name",
-                "watch:elements": "way 8829933,5"
+                "watch:elements": "w:8829933,5"
             },
             "type": "Feature"
         },
@@ -3491,7 +3491,7 @@
                 "name": "Arrêts sur Cambrai (et non Fairmount)",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 12361706,12 node 3646857548,1 node 3646857542,1"
+                "watch:elements": "w:12361706,12 n:3646857548,1 n:3646857542,1"
             },
             "type": "Feature"
         },
@@ -3510,7 +3510,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 360085423,11 node 350691100,8"
+                "watch:elements": "w:360085423,11 n:350691100,8"
             },
             "type": "Feature"
         },
@@ -3530,7 +3530,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "node 6711404120,4"
+                "watch:elements": "n:6711404120,4"
             },
             "type": "Feature"
         },
@@ -3552,7 +3552,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8165",
                 "ville:travaux": "2025",
-                "watch:elements": "way 360085423,11"
+                "watch:elements": "w:360085423,11"
             },
             "type": "Feature"
         },
@@ -3574,7 +3574,7 @@
                 "type": "sidewalk",
                 "ville:projet": "6963",
                 "ville:travaux": "2025",
-                "watch:elements": "way 360085423,11"
+                "watch:elements": "w:360085423,11"
             },
             "type": "Feature"
         },
@@ -3591,7 +3591,7 @@
                 "name": "Cette entrée privée ne semble n'avoir qu'une voie, et devrait être service=driveway",
                 "status": "certain",
                 "type": "misc",
-                "watch:elements": "way 912542600,1"
+                "watch:elements": "w:912542600,1"
             },
             "type": "Feature"
         },
@@ -3611,7 +3611,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 27223220,9"
+                "watch:elements": "w:27223220,9"
             },
             "type": "Feature"
         },
@@ -3634,7 +3634,7 @@
                 "type": "misc",
                 "ville:projet": "8166",
                 "ville:travaux": "2025",
-                "watch:elements": "way 129898665,7"
+                "watch:elements": "w:129898665,7"
             },
             "type": "Feature"
         },
@@ -3653,7 +3653,7 @@
                 "source": "Règlement no 1300-51",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 27223166,6 node 298756932,2"
+                "watch:elements": "w:27223166,6 n:298756932,2"
             },
             "type": "Feature"
         },
@@ -3674,7 +3674,7 @@
                 "type": "misc",
                 "ville:projet": "8258",
                 "ville:travaux": "2025",
-                "watch:elements": "way 79560862,8"
+                "watch:elements": "w:79560862,8"
             },
             "type": "Feature"
         },
@@ -3694,7 +3694,7 @@
                 "source": "Règlement no 1300-51",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 41228750,10 node 255786305,5"
+                "watch:elements": "w:41228750,10 n:255786305,5"
             },
             "type": "Feature"
         },
@@ -3710,7 +3710,7 @@
                 "TODO:marker": "1",
                 "name": "Pas d'arrêt à l'approche nord?",
                 "type": "stop",
-                "watch:elements": "way 854984288,9 node 6711404092,9"
+                "watch:elements": "w:854984288,9 n:6711404092,9"
             },
             "type": "Feature"
         },
@@ -3730,7 +3730,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 957251614,9"
+                "watch:elements": "w:957251614,9"
             },
             "type": "Feature"
         },
@@ -3752,7 +3752,7 @@
                 "type": "geometry",
                 "ville:projet": "6061",
                 "ville:travaux": "2023",
-                "watch:elements": "way 89177859,13"
+                "watch:elements": "w:89177859,13"
             },
             "type": "Feature"
         },
@@ -3771,7 +3771,7 @@
                 "source": "Règlement no 1300-51",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "node 81580597,6 way 9939430,10"
+                "watch:elements": "n:81580597,6 w:9939430,10"
             },
             "type": "Feature"
         },
@@ -3790,7 +3790,7 @@
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/05/14/deux-immeubles-seront-demolis-au-centre-ville-IIEBH3UIQZFI7I4YBRO5Q7DA4E/",
                 "status": "planned",
                 "type": "demolition",
-                "watch:elements": "way 615895989,2 way 615895988,2"
+                "watch:elements": "w:615895989,2 w:615895988,2"
             },
             "type": "Feature"
         },
@@ -3837,7 +3837,7 @@
                 "type": "crossing",
                 "ville:projet": "8238",
                 "ville:travaux": "2025",
-                "watch:elements": "node 10282883177,1 node 10282883178,1"
+                "watch:elements": "n:10282883177,1 n:10282883178,1"
             },
             "type": "Feature"
         },
@@ -3859,7 +3859,7 @@
                 "type": "geometry",
                 "ville:projet": "8669",
                 "ville:travaux": "2025",
-                "watch:elements": "way 1190250609,4 node 81485503,4 node 1845370104,3"
+                "watch:elements": "w:1190250609,4 n:81485503,4 n:1845370104,3"
             },
             "type": "Feature"
         },
@@ -3878,7 +3878,7 @@
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "status": "certain",
                 "type": "misc",
-                "watch:elements": "node 13271024122,1"
+                "watch:elements": "n:13271024122,1"
             },
             "type": "Feature"
         },
@@ -3900,7 +3900,7 @@
                 "type": "crossing",
                 "ville:projet": "8239",
                 "ville:travaux": "2025",
-                "watch:elements": "node 3919270240,4"
+                "watch:elements": "n:3919270240,4"
             },
             "type": "Feature"
         },
@@ -3919,7 +3919,7 @@
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "status": "certain",
                 "type": "misc",
-                "watch:elements": "node 13271024168,1"
+                "watch:elements": "n:13271024168,1"
             },
             "type": "Feature"
         },
@@ -3936,7 +3936,7 @@
                 "name": "Ajout d'un dos d'âne",
                 "status": "certain",
                 "type": "hump",
-                "watch:elements": "way 360154316,3"
+                "watch:elements": "w:360154316,3"
             },
             "type": "Feature"
         },
@@ -3953,7 +3953,7 @@
                 "name": "Ajout d'un dos d'âne",
                 "status": "certain",
                 "type": "hump",
-                "watch:elements": "way 360154315,3"
+                "watch:elements": "w:360154315,3"
             },
             "type": "Feature"
         },
@@ -3970,7 +3970,7 @@
                 "name": "Ajout d'un dos d'âne",
                 "status": "certain",
                 "type": "hump",
-                "watch:elements": "way 360154315,3"
+                "watch:elements": "w:360154315,3"
             },
             "type": "Feature"
         },
@@ -4016,7 +4016,7 @@
                 "type": "crossing",
                 "ville:projet": "7012",
                 "ville:travaux": "2024",
-                "watch:elements": "node 10812718027,1"
+                "watch:elements": "n:10812718027,1"
             },
             "type": "Feature"
         },
@@ -4037,7 +4037,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "restriction",
-                "watch:elements": "way 189928907,9"
+                "watch:elements": "w:189928907,9"
             },
             "type": "Feature"
         },
@@ -4061,7 +4061,7 @@
                 "type": "crossing",
                 "ville:projet": "6967",
                 "ville:travaux": "2024",
-                "watch:elements": "node 1076161129,3"
+                "watch:elements": "n:1076161129,3"
             },
             "type": "Feature"
         },
@@ -4078,7 +4078,7 @@
                 "name": "Ajout d'un dos d'âne",
                 "status": "certain",
                 "type": "hump",
-                "watch:elements": "way 1396308443,2"
+                "watch:elements": "w:1396308443,2"
             },
             "type": "Feature"
         },
@@ -4098,7 +4098,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 12668726,23"
+                "watch:elements": "w:12668726,23"
             },
             "type": "Feature"
         },
@@ -4120,7 +4120,7 @@
                 "type": "cycleway",
                 "ville:projet": "8077",
                 "ville:travaux": "2025",
-                "watch:elements": "way 1190250609,4 way 1446528291,1"
+                "watch:elements": "w:1190250609,4 w:1446528291,1"
             },
             "type": "Feature"
         },
@@ -4140,7 +4140,7 @@
                 "source": "Règlement no 1300-53",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 477506656,5 way 1387326376,3"
+                "watch:elements": "w:477506656,5 w:1387326376,3"
             },
             "type": "Feature"
         },
@@ -4159,7 +4159,7 @@
                 "status": "certain",
                 "type": "misc",
                 "watch:area": "45.37585 45.37803 -71.89372 -71.89231 fe5e1be0:6dd34597",
-                "watch:elements": "way 1117587466,3"
+                "watch:elements": "w:1117587466,3"
             },
             "type": "Feature"
         },
@@ -4179,7 +4179,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 41199110,10"
+                "watch:elements": "w:41199110,10"
             },
             "type": "Feature"
         },
@@ -4199,7 +4199,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 13083542,11"
+                "watch:elements": "w:13083542,11"
             },
             "type": "Feature"
         },
@@ -4239,7 +4239,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "sidewalk",
-                "watch:elements": "way 27223211,4"
+                "watch:elements": "w:27223211,4"
             },
             "type": "Feature"
         },
@@ -4277,7 +4277,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 27223211,4 way 27223210,2 node 298757930,2"
+                "watch:elements": "w:27223211,4 w:27223210,2 n:298757930,2"
             },
             "type": "Feature"
         },
@@ -4297,7 +4297,7 @@
                 "source": "Règlement n° 1-168",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 27223211,4 way 1446528294,1 node 115706571,3"
+                "watch:elements": "w:27223211,4 w:1446528294,1 n:115706571,3"
             },
             "type": "Feature"
         },
@@ -4315,7 +4315,7 @@
                 "source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/art-culture-et-patrimoine/collection-d-uvres-d-art/18/la-ville-de-sherbrooke-et-ses-habitants",
                 "status": "certain",
                 "type": "name",
-                "watch:elements": "node 6708943238,2 node 6708943239,2"
+                "watch:elements": "n:6708943238,2 n:6708943239,2"
             },
             "type": "Feature"
         },
@@ -4335,7 +4335,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "way 1435994027,1"
+                "watch:elements": "w:1435994027,1"
             },
             "type": "Feature"
         },
@@ -4355,7 +4355,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "way 1435994027,1"
+                "watch:elements": "w:1435994027,1"
             },
             "type": "Feature"
         },
@@ -4375,7 +4375,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "completed",
                 "type": "stop",
-                "watch:elements": "way 369013474,6 node 115718913,5 way 1435994027,1"
+                "watch:elements": "w:369013474,6 n:115718913,5 w:1435994027,1"
             },
             "type": "Feature"
         },
@@ -4396,7 +4396,7 @@
                 "type": "park",
                 "ville:projet": "5921",
                 "ville:travaux": "2023",
-                "watch:elements": "way 225309631,1"
+                "watch:elements": "w:225309631,1"
             },
             "type": "Feature"
         },
@@ -4420,7 +4420,7 @@
                 "type": "misc",
                 "ville:projet": "9049",
                 "ville:travaux": "2025",
-                "watch:elements": "way 23138568,11"
+                "watch:elements": "w:23138568,11"
             },
             "type": "Feature"
         },
@@ -4440,7 +4440,7 @@
                 "source": "Règlement no 1300-53",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 8831473,27 way 1387676463,2 way 477506655,4"
+                "watch:elements": "w:8831473,27 w:1387676463,2 w:477506655,4"
             },
             "type": "Feature"
         },
@@ -4459,7 +4459,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "node 120016491,5 way 13044021,6 way 13044599,3"
+                "watch:elements": "n:120016491,5 w:13044021,6 w:13044599,3"
             },
             "type": "Feature"
         },
@@ -4479,7 +4479,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "way 12669473,17 way 12673630,17"
+                "watch:elements": "w:12669473,17 w:12673630,17"
             },
             "type": "Feature"
         },
@@ -4500,7 +4500,7 @@
                 "type": "park",
                 "ville:projet": "8255",
                 "ville:travaux": "2025",
-                "watch:elements": "way 144358806,2"
+                "watch:elements": "w:144358806,2"
             },
             "type": "Feature"
         },
@@ -4520,7 +4520,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 12669473,17"
+                "watch:elements": "w:12669473,17"
             },
             "type": "Feature"
         },
@@ -4540,7 +4540,7 @@
                 "source": "Règlement no 1300-53",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 32268167,8 way 48294518,8 way 32272008,14"
+                "watch:elements": "w:32268167,8 w:48294518,8 w:32272008,14"
             },
             "type": "Feature"
         },
@@ -4562,7 +4562,7 @@
                 "type": "bicycle",
                 "ville:projet": "8509",
                 "ville:travaux": "2025",
-                "watch:elements": "node 13125777587,2"
+                "watch:elements": "n:13125777587,2"
             },
             "type": "Feature"
         },
@@ -4579,7 +4579,7 @@
                 "name": "Virages à gauche vers Kennedy (8h - 18h)",
                 "status": "certain",
                 "type": "restriction",
-                "watch:elements": "way 387586631,4 way 23138985,14 way 35193250,9 way 1435662766,1 node 1432370766,3"
+                "watch:elements": "w:387586631,4 w:23138985,14 w:35193250,9 w:1435662766,1 n:1432370766,3"
             },
             "type": "Feature"
         },
@@ -4619,7 +4619,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 12673630,17"
+                "watch:elements": "w:12673630,17"
             },
             "type": "Feature"
         },
@@ -4640,7 +4640,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "way 15910152,8"
+                "watch:elements": "w:15910152,8"
             },
             "type": "Feature"
         },
@@ -4657,7 +4657,7 @@
                 "name": "Arrêts aux approches ouest et sud",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 27223224,5 way 27223188,3 node 298757361,2"
+                "watch:elements": "w:27223224,5 w:27223188,3 n:298757361,2"
             },
             "type": "Feature"
         },
@@ -4677,7 +4677,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 1164679064,2"
+                "watch:elements": "w:1164679064,2"
             },
             "type": "Feature"
         },
@@ -4698,7 +4698,7 @@
                 "status": "resolution",
                 "type": "name",
                 "watch:area": "45.39989 45.40091 -71.88969 -71.88840 b2934aa6:28e0e432",
-                "watch:elements": "node 12232401171,1"
+                "watch:elements": "n:12232401171,1"
             },
             "type": "Feature"
         },
@@ -4738,7 +4738,7 @@
                 "source": "Ville de Sherbrooke",
                 "type": "name",
                 "watch:area": "45.39989 45.40091 -71.88969 -71.88840 b2934aa6:28e0e432",
-                "watch:elements": "way 32273980,7"
+                "watch:elements": "w:32273980,7"
             },
             "type": "Feature"
         },
@@ -4754,7 +4754,7 @@
                 "TODO:marker": "1",
                 "name": "Confirmer que ce passage existe encore",
                 "type": "footway",
-                "watch:elements": "way 37222125,8"
+                "watch:elements": "w:37222125,8"
             },
             "type": "Feature"
         },
@@ -4776,7 +4776,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "planned",
                 "type": "demolition",
-                "watch:elements": "way 185207149,2"
+                "watch:elements": "w:185207149,2"
             },
             "type": "Feature"
         },
@@ -4796,7 +4796,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "way 35193251,14 node 7887153055,1 node 1038874405,2 node 7887153054,1 node 7887153056,1 node 7887153057,1"
+                "watch:elements": "w:35193251,14 n:7887153055,1 n:1038874405,2 n:7887153054,1 n:7887153056,1 n:7887153057,1"
             },
             "type": "Feature"
         },
@@ -4815,7 +4815,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 13041704,20 node 5292535444,3 node 119987265,10"
+                "watch:elements": "w:13041704,20 n:5292535444,3 n:119987265,10"
             },
             "type": "Feature"
         },
@@ -4852,7 +4852,7 @@
                 "source": "Règlement n° 1-168",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 27223158,6 way 296324025,5 way 27223183,4 node 298757273,5"
+                "watch:elements": "w:27223158,6 w:296324025,5 w:27223183,4 n:298757273,5"
             },
             "type": "Feature"
         },
@@ -4874,7 +4874,7 @@
                 "type": "cycleway",
                 "ville:projet": "8159",
                 "ville:travaux": "2025",
-                "watch:elements": "way 8830848,25 way 184301264,12"
+                "watch:elements": "w:8830848,25 w:184301264,12"
             },
             "type": "Feature"
         },
@@ -4896,7 +4896,7 @@
                 "type": "cycleway",
                 "ville:projet": "8160",
                 "ville:travaux": "2026",
-                "watch:elements": "way 477506648,7 way 802024211,3 way 477506647,2 way 1435994031,1 way 802024210,4"
+                "watch:elements": "w:477506648,7 w:802024211,3 w:477506647,2 w:1435994031,1 w:802024210,4"
             },
             "type": "Feature"
         },
@@ -4915,7 +4915,7 @@
                 "source": "https://www.sts.qc.ca/2023/10/23/la-sts-ajoute-des-marquises-a-certains-arrets-achalandes/",
                 "status": "certain",
                 "type": "misc",
-                "watch:elements": "node 12803459767,3"
+                "watch:elements": "n:12803459767,3"
             },
             "type": "Feature"
         },
@@ -4933,7 +4933,7 @@
                 "name": "Démolition du 835 Wellington Sud",
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2024/06/04/une-maison-incendiee-de-la-rue-wellington-sera-demolie-4BBA4QJH4ZECZMKVPAGQPZ2B3E/",
                 "type": "demolition",
-                "watch:elements": "way 797548845,2"
+                "watch:elements": "w:797548845,2"
             },
             "type": "Feature"
         },
@@ -4953,7 +4953,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition",
-                "watch:elements": "way 845208813,2"
+                "watch:elements": "w:845208813,2"
             },
             "type": "Feature"
         },
@@ -4973,7 +4973,7 @@
                 "type": "crossing",
                 "ville:projet": "8211",
                 "ville:travaux": "2025",
-                "watch:elements": "node 2427118031,4"
+                "watch:elements": "n:2427118031,4"
             },
             "type": "Feature"
         },
@@ -4990,7 +4990,7 @@
                 "name": "Ajout d'un dos d'âne",
                 "status": "certain",
                 "type": "hump",
-                "watch:elements": "way 1164679062,1 node 7448761969,1 node 7448761968,1"
+                "watch:elements": "w:1164679062,1 n:7448761969,1 n:7448761968,1"
             },
             "type": "Feature"
         },
@@ -5027,7 +5027,7 @@
                 "type": "crossing",
                 "ville:projet": "8212",
                 "ville:travaux": "2025",
-                "watch:elements": "node 2427187924,4"
+                "watch:elements": "n:2427187924,4"
             },
             "type": "Feature"
         },
@@ -5049,7 +5049,7 @@
                 "type": "cycleway",
                 "ville:projet": "8407",
                 "ville:travaux": "2025",
-                "watch:elements": "way 234461243,12"
+                "watch:elements": "w:234461243,12"
             },
             "type": "Feature"
         },
@@ -5066,7 +5066,7 @@
                 "name": "Ajout d'un dos d'âne",
                 "status": "certain",
                 "type": "hump",
-                "watch:elements": "way 1164679062,1 node 7448761969,1 node 7448761968,1"
+                "watch:elements": "w:1164679062,1 n:7448761969,1 n:7448761968,1"
             },
             "type": "Feature"
         },
@@ -5085,7 +5085,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
                 "type": "sidewalk",
-                "watch:elements": "way 1164679062,1 way 12672683,9"
+                "watch:elements": "w:1164679062,1 w:12672683,9"
             },
             "type": "Feature"
         },
@@ -5105,7 +5105,7 @@
                 "source": "Règlement no 1, article 5.1.13",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "node 83524556,7 way 387586622,8 way 1396149038,1"
+                "watch:elements": "n:83524556,7 w:387586622,8 w:1396149038,1"
             },
             "type": "Feature"
         },
@@ -5149,7 +5149,7 @@
                 "ville:projet": "7807",
                 "ville:travaux": "2024",
                 "watch:area": "45.41646 45.41662 -71.88265 -71.88217 8aca9b49:5efe48a0",
-                "watch:elements": "way 1396149037,1 node 1038871953,2 node 1038872897,3 node 83524556,7 node 2024346336,2"
+                "watch:elements": "w:1396149037,1 n:1038871953,2 n:1038872897,3 n:83524556,7 n:2024346336,2"
             },
             "type": "Feature"
         },
@@ -5169,7 +5169,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "node 7859424363,1"
+                "watch:elements": "n:7859424363,1"
             },
             "type": "Feature"
         },
@@ -5189,7 +5189,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition",
-                "watch:elements": "way 842718933,1"
+                "watch:elements": "w:842718933,1"
             },
             "type": "Feature"
         },
@@ -5229,7 +5229,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "way 10070596,13 node 7859424046,1"
+                "watch:elements": "w:10070596,13 n:7859424046,1"
             },
             "type": "Feature"
         },
@@ -5249,7 +5249,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "sidewalk",
-                "watch:elements": "way 387586642,3 way 10070596,13"
+                "watch:elements": "w:387586642,3 w:10070596,13"
             },
             "type": "Feature"
         },
@@ -5269,7 +5269,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "way 387586642,3 node 7859424070,1 way 387586623,4 node 7859424071,1"
+                "watch:elements": "w:387586642,3 n:7859424070,1 w:387586623,4 n:7859424071,1"
             },
             "type": "Feature"
         },
@@ -5290,7 +5290,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "hump",
-                "watch:elements": "way 10070596,13"
+                "watch:elements": "w:10070596,13"
             },
             "type": "Feature"
         },
@@ -5309,7 +5309,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "dubious",
                 "type": "cycleway",
-                "watch:elements": "way 164112145,6"
+                "watch:elements": "w:164112145,6"
             },
             "type": "Feature"
         },
@@ -5329,7 +5329,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "way 44647647,28 way 164112145,6"
+                "watch:elements": "w:44647647,28 w:164112145,6"
             },
             "type": "Feature"
         },
@@ -5351,7 +5351,7 @@
                 "type": "geometry",
                 "ville:projet": "7015",
                 "ville:travaux": "2024",
-                "watch:elements": "way 1446049739,1 node 249776867,7"
+                "watch:elements": "w:1446049739,1 n:249776867,7"
             },
             "type": "Feature"
         },
@@ -5368,7 +5368,7 @@
                 "name": "Arrêts sur Sideleau seulement",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "node 249775806,3"
+                "watch:elements": "n:249775806,3"
             },
             "type": "Feature"
         },
@@ -5389,7 +5389,7 @@
                 "type": "crossing",
                 "ville:projet": "8217",
                 "ville:travaux": "2025",
-                "watch:elements": "node 10812718028,1"
+                "watch:elements": "n:10812718028,1"
             },
             "type": "Feature"
         },
@@ -5412,7 +5412,7 @@
                 "type": "hump",
                 "ville:projet": "7294",
                 "ville:travaux": "2024",
-                "watch:elements": "way 10070404,16"
+                "watch:elements": "w:10070404,16"
             },
             "type": "Feature"
         },
@@ -5430,7 +5430,7 @@
                 "name": "Ajout d'un abribus",
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "type": "misc",
-                "watch:elements": "node 13308059004,1"
+                "watch:elements": "n:13308059004,1"
             },
             "type": "Feature"
         },
@@ -5450,7 +5450,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "sidewalk",
-                "watch:elements": "way 13035607,6"
+                "watch:elements": "w:13035607,6"
             },
             "type": "Feature"
         },
@@ -5472,7 +5472,7 @@
                 "type": "crossing",
                 "ville:projet": "8219",
                 "ville:travaux": "2025",
-                "watch:elements": "node 10282989027,1"
+                "watch:elements": "n:10282989027,1"
             },
             "type": "Feature"
         },
@@ -5491,7 +5491,7 @@
                 "session": "2023-12-19",
                 "source": "Règlement 1-170",
                 "type": "crossing",
-                "watch:elements": "node 10282883192,1"
+                "watch:elements": "n:10282883192,1"
             },
             "type": "Feature"
         },
@@ -5533,7 +5533,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "sidewalk",
-                "watch:elements": "way 164106612,2"
+                "watch:elements": "w:164106612,2"
             },
             "type": "Feature"
         },
@@ -5571,7 +5571,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "node 2674210397,3 way 13035607,6"
+                "watch:elements": "n:2674210397,3 w:13035607,6"
             },
             "type": "Feature"
         },
@@ -5593,7 +5593,7 @@
                 "type": "sidewalk",
                 "ville:projet": "6998",
                 "ville:travaux": "2024",
-                "watch:elements": "way 10075247,4"
+                "watch:elements": "w:10075247,4"
             },
             "type": "Feature"
         },
@@ -5613,7 +5613,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 90043538,9"
+                "watch:elements": "w:90043538,9"
             },
             "type": "Feature"
         },
@@ -5635,7 +5635,7 @@
                 "type": "crossing",
                 "ville:projet": "8218",
                 "ville:travaux": "2025",
-                "watch:elements": "node 82797737,3"
+                "watch:elements": "n:82797737,3"
             },
             "type": "Feature"
         },
@@ -5657,7 +5657,7 @@
                 "type": "cycleway",
                 "ville:projet": "8161",
                 "ville:travaux": "2025",
-                "watch:elements": "way 1446049734,1 way 164116187,18 way 1446049733,1"
+                "watch:elements": "w:1446049734,1 w:164116187,18 w:1446049733,1"
             },
             "type": "Feature"
         },
@@ -5677,7 +5677,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 90043662,15"
+                "watch:elements": "w:90043662,15"
             },
             "type": "Feature"
         },
@@ -5697,7 +5697,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 90044098,13"
+                "watch:elements": "w:90044098,13"
             },
             "type": "Feature"
         },
@@ -5717,7 +5717,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 10532647,8"
+                "watch:elements": "w:10532647,8"
             },
             "type": "Feature"
         },
@@ -5739,7 +5739,7 @@
                 "type": "crossing",
                 "ville:projet": "5827",
                 "ville:travaux": "2023",
-                "watch:elements": "node 3908503019,3"
+                "watch:elements": "n:3908503019,3"
             },
             "type": "Feature"
         },
@@ -5762,7 +5762,7 @@
                 "type": "stop",
                 "ville:projet": "8087",
                 "ville:travaux": "2025",
-                "watch:elements": "way 13036653,6 way 13036949,5 node 3908503022,3 node 119913460,6"
+                "watch:elements": "w:13036653,6 w:13036949,5 n:3908503022,3 n:119913460,6"
             },
             "type": "Feature"
         },
@@ -5785,7 +5785,7 @@
                 "type": "surface",
                 "ville:projet": "5801",
                 "ville:travaux": "2023",
-                "watch:elements": "way 164112096,7 way 164112139,6 way 164112116,11"
+                "watch:elements": "w:164112096,7 w:164112139,6 w:164112116,11"
             },
             "type": "Feature"
         },
@@ -5845,7 +5845,7 @@
                 "source": "Règlement no 1300-51",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 164112052,8 way 164112104,6 node 362701004,3"
+                "watch:elements": "w:164112052,8 w:164112104,6 n:362701004,3"
             },
             "type": "Feature"
         },
@@ -5867,7 +5867,7 @@
                 "type": "sidewalk",
                 "ville:projet": "7639",
                 "ville:travaux": "2024",
-                "watch:elements": "way 1446049734,1"
+                "watch:elements": "w:1446049734,1"
             },
             "type": "Feature"
         },
@@ -5889,7 +5889,7 @@
                 "type": "park",
                 "ville:projet": "3512",
                 "ville:travaux": "2021",
-                "watch:elements": "way 841753648,1"
+                "watch:elements": "w:841753648,1"
             },
             "type": "Feature"
         },
@@ -5912,7 +5912,7 @@
                 "type": "crossing",
                 "ville:projet": "6952",
                 "ville:travaux": "2024",
-                "watch:elements": "node 91889849,13"
+                "watch:elements": "n:91889849,13"
             },
             "type": "Feature"
         },
@@ -5975,7 +5975,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8087",
                 "ville:travaux": "2025",
-                "watch:elements": "way 249217010,14 way 833604081,3"
+                "watch:elements": "w:249217010,14 w:833604081,3"
             },
             "type": "Feature"
         },
@@ -5998,7 +5998,7 @@
                 "type": "crossing",
                 "ville:projet": "8087",
                 "ville:travaux": "2025",
-                "watch:elements": "way 249217010,14"
+                "watch:elements": "w:249217010,14"
             },
             "type": "Feature"
         },
@@ -6018,7 +6018,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "way 44647647,28 way 239955900,7 way 249217010,14 node 119910397,6"
+                "watch:elements": "w:44647647,28 w:239955900,7 w:249217010,14 n:119910397,6"
             },
             "type": "Feature"
         },
@@ -6040,7 +6040,7 @@
                 "type": "new",
                 "ville:projet": "6973",
                 "ville:travaux": "2025",
-                "watch:elements": "way 240208681,10 way 1446049734,1"
+                "watch:elements": "w:240208681,10 w:1446049734,1"
             },
             "type": "Feature"
         },
@@ -6060,7 +6060,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition",
-                "watch:elements": "way 840186076,2"
+                "watch:elements": "w:840186076,2"
             },
             "type": "Feature"
         },
@@ -6080,7 +6080,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition",
-                "watch:elements": "way 442923694,3"
+                "watch:elements": "w:442923694,3"
             },
             "type": "Feature"
         },
@@ -6099,7 +6099,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "official",
                 "type": "name",
-                "watch:elements": "way 1304235294,1"
+                "watch:elements": "w:1304235294,1"
             },
             "type": "Feature"
         },
@@ -6139,7 +6139,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition",
-                "watch:elements": "way 44665814,5 way 442576673,2"
+                "watch:elements": "w:44665814,5 w:442576673,2"
             },
             "type": "Feature"
         },
@@ -6162,7 +6162,7 @@
                 "type": "park",
                 "ville:projet": "7142",
                 "ville:travaux": "2024",
-                "watch:elements": "way 442925538,2"
+                "watch:elements": "w:442925538,2"
             },
             "type": "Feature"
         },
@@ -6182,7 +6182,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition",
-                "watch:elements": "way 442976851,2"
+                "watch:elements": "w:442976851,2"
             },
             "type": "Feature"
         },
@@ -6204,7 +6204,7 @@
                 "type": "geometry",
                 "ville:projet": "3392",
                 "ville:travaux": "2021",
-                "watch:elements": "way 684191356,2 way 684191352,3"
+                "watch:elements": "w:684191356,2 w:684191352,3"
             },
             "type": "Feature"
         },
@@ -6220,7 +6220,7 @@
                 "TODO:marker": "1",
                 "name": "Déterminer l'emplacement de la transition asphalte/gravier",
                 "type": "cycleway",
-                "watch:elements": "way 596659178,13"
+                "watch:elements": "w:596659178,13"
             },
             "type": "Feature"
         },
@@ -6240,7 +6240,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition",
-                "watch:elements": "way 849795207,1"
+                "watch:elements": "w:849795207,1"
             },
             "type": "Feature"
         },
@@ -6260,7 +6260,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition",
-                "watch:elements": "way 849795206,1"
+                "watch:elements": "w:849795206,1"
             },
             "type": "Feature"
         },
@@ -6277,7 +6277,7 @@
                 "name": "Traverse avec feux",
                 "status": "certain",
                 "type": "traffic_signal",
-                "watch:elements": "node 4267279725,5"
+                "watch:elements": "n:4267279725,5"
             },
             "type": "Feature"
         },
@@ -6295,7 +6295,7 @@
                 "session": "Fleurimont/2023-04-24",
                 "source": "Arrondissement de Fleurimont",
                 "type": "park",
-                "watch:elements": "way 169299690,3"
+                "watch:elements": "w:169299690,3"
             },
             "type": "Feature"
         },
@@ -6315,7 +6315,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "stop",
-                "watch:elements": "way 6271902,12 node 52189967,3"
+                "watch:elements": "w:6271902,12 n:52189967,3"
             },
             "type": "Feature"
         },
@@ -6337,7 +6337,7 @@
                 "type": "hump",
                 "ville:projet": "7300",
                 "ville:travaux": "2024",
-                "watch:elements": "way 830438003,1"
+                "watch:elements": "w:830438003,1"
             },
             "type": "Feature"
         },
@@ -6373,7 +6373,7 @@
                 "session": "2025-10-02",
                 "source": "Ville de Sherbrooke",
                 "type": "hump",
-                "watch:elements": "way 239954834,5 way 8164470,10"
+                "watch:elements": "w:239954834,5 w:8164470,10"
             },
             "type": "Feature"
         },
@@ -6434,7 +6434,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "way 10583691,16"
+                "watch:elements": "w:10583691,16"
             },
             "type": "Feature"
         },
@@ -6452,7 +6452,7 @@
                 "source": "https://ici.radio-canada.ca/nouvelle/2151511/feu-incendie-maison-renard-sherbrooke",
                 "status": "certain",
                 "type": "demolition",
-                "watch:elements": "way 909172257,2"
+                "watch:elements": "w:909172257,2"
             },
             "type": "Feature"
         },
@@ -6474,7 +6474,7 @@
                 "type": "hump",
                 "ville:projet": "6964",
                 "ville:travaux": "2024",
-                "watch:elements": "way 13040999,18"
+                "watch:elements": "w:13040999,18"
             },
             "type": "Feature"
         },
@@ -6496,7 +6496,7 @@
                 "type": "geometry",
                 "ville:projet": "4091",
                 "ville:travaux": "2023",
-                "watch:elements": "way 1176849679,3"
+                "watch:elements": "w:1176849679,3"
             },
             "type": "Feature"
         },
