@@ -4068,26 +4068,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.89325452119,
-                    45.37662500624
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "comments": "Cette épicerie remplacera le Métro Belvédère",
-                "name": "Ouverture d'un Super C",
-                "planned_end": "Automne 2025",
-                "source": "https://www.latribune.ca/affaires/affaires-locales/2024/10/10/deux-nouveaux-super-c-sinstallent-a-sherbrooke-TJ4KQIVSDZFQHKOF5YGWE6ZKPU/",
-                "status": "planned",
-                "type": "misc",
-                "watch:area": "45.37585 45.37803 -71.89372 -71.89231 fe5e1be0:6dd34597"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.89310915735,
                     45.39833049641
                 ],
