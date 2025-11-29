@@ -2596,6 +2596,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.93476439059,
+                    45.38143679539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Déplacer la limite 50/70 ici",
+                "status": "certain",
+                "type": "maxspeed"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.93475902617,
                     45.41049851514
                 ],
