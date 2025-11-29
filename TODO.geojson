@@ -54,7 +54,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "new",
-                "watch:area": "45.36955 45.37191 -72.09082 -72.08610 5b1bf407:ce3f7c81"
+                "watch:area": "45.36955 45.37191 -72.09082 -72.08610 2a468bb3:9b124711"
             },
             "type": "Feature"
         },
@@ -370,7 +370,7 @@
                 "source": "https://www.latribune.ca/affaires/affaires-locales/2024/10/10/deux-nouveaux-super-c-sinstallent-a-sherbrooke-TJ4KQIVSDZFQHKOF5YGWE6ZKPU/",
                 "status": "completed",
                 "type": "misc",
-                "watch:area": "45.35984 45.36111 -72.00927 -72.00775 4aa0d5be:82cfbc83"
+                "watch:area": "45.35984 45.36111 -72.00927 -72.00775 e21ba2f5:2178852b"
             },
             "type": "Feature"
         },
@@ -413,7 +413,7 @@
                 "type": "park",
                 "ville:projet": "8267",
                 "ville:travaux": "2025",
-                "watch:area": "45.39860 45.39890 -72.00788 -72.00722 b1bef5cf:e8ffbfbf"
+                "watch:area": "45.39860 45.39890 -72.00788 -72.00722 964bbb1f:b9b94f62"
             },
             "type": "Feature"
         },
@@ -430,7 +430,7 @@
                 "name": "La halte santé et nature (jardin solidaire)",
                 "source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires",
                 "type": "misc",
-                "watch:area": "45.39911 45.39943 -72.00769 -72.00702 d2de0d5a:733744d7"
+                "watch:area": "45.39911 45.39943 -72.00769 -72.00702 260e8395:15853ec6"
             },
             "type": "Feature"
         },
@@ -776,7 +776,7 @@
                 "name": "Les Voisins Maraîchers (jardin solidaire)",
                 "source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires",
                 "type": "misc",
-                "watch:area": "45.36178 45.36238 -71.99316 -71.99211 cd2ec20d:0fff3ec6"
+                "watch:area": "45.36178 45.36238 -71.99316 -71.99211 8fc67a16:f8917da8"
             },
             "type": "Feature"
         },
@@ -853,7 +853,7 @@
                 "type": "park",
                 "ville:projet": "8268",
                 "ville:travaux": "2025",
-                "watch:area": "45.36841 45.36871 -71.99097 -71.99051 19a7275f:3dc473fe"
+                "watch:area": "45.36841 45.36871 -71.99097 -71.99051 7f5c1622:7ceedac3"
             },
             "type": "Feature"
         },
@@ -922,7 +922,7 @@
                 "type": "misc",
                 "ville:projet": "8289",
                 "ville:travaux": "2025",
-                "watch:area": "45.39031 45.39096 -71.98611 -71.98477 a25d249a:1bed48c9"
+                "watch:area": "45.39031 45.39096 -71.98611 -71.98477 05a0227f:6c0bff21"
             },
             "type": "Feature"
         },
@@ -1433,7 +1433,7 @@
                 "type": "new",
                 "ville:projet": "8985",
                 "ville:travaux": "2025",
-                "watch:area": "45.44072 45.44253 -71.95992 -71.95618 8e829c4b:218df9cf"
+                "watch:area": "45.44072 45.44253 -71.95992 -71.95618 235264ed:52251f88"
             },
             "type": "Feature"
         },
@@ -1866,7 +1866,7 @@
                 "source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires",
                 "status": "certain",
                 "type": "misc",
-                "watch:area": "45.48397 45.48472 -71.95103 -71.95008 e1356042:5485f782"
+                "watch:area": "45.48397 45.48472 -71.95103 -71.95008 74e6da0f:79323e42"
             },
             "type": "Feature"
         },
@@ -1931,7 +1931,7 @@
                 "type": "park",
                 "ville:projet": "8256",
                 "ville:travaux": "2025",
-                "watch:area": "45.42048 45.42111 -71.94935 -71.94826 dd0603e8:3f7b3650"
+                "watch:area": "45.42048 45.42111 -71.94935 -71.94826 1421f682:00f684aa"
             },
             "type": "Feature"
         },
@@ -2075,7 +2075,7 @@
                 "type": "park",
                 "ville:projet": "8263",
                 "ville:travaux": "2025",
-                "watch:area": "45.47262 45.47299 -71.94602 -71.94549 f606f111:1bfe7793"
+                "watch:area": "45.47262 45.47299 -71.94602 -71.94549 337e5505:4476eca0"
             },
             "type": "Feature"
         },
@@ -2096,7 +2096,7 @@
                 "type": "park",
                 "ville:projet": "8253",
                 "ville:travaux": "2025",
-                "watch:area": "45.47262 45.47299 -71.94602 -71.94549 f606f111:1bfe7793",
+                "watch:area": "45.47262 45.47299 -71.94602 -71.94549 337e5505:4476eca0",
                 "watch:elements": "r:12467689,2"
             },
             "type": "Feature"
@@ -2194,7 +2194,7 @@
                 "source": "https://ici.radio-canada.ca/nouvelle/2210259/super-c-iga-district-golf-rock-forest-supermarche",
                 "status": "completed",
                 "type": "misc",
-                "watch:area": "45.41143 45.41267 -71.94308 -71.94136 db9f5073:e950b83e"
+                "watch:area": "45.41143 45.41267 -71.94308 -71.94136 fcc16646:83ada73d"
             },
             "type": "Feature"
         },
@@ -2281,7 +2281,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "official",
                 "type": "name",
-                "watch:area": "45.47561 45.47631 -71.94119 -71.93983 07ea0392:725e5ecf"
+                "watch:area": "45.47561 45.47631 -71.94119 -71.93983 b67c141f:757f518a"
             },
             "type": "Feature"
         },
@@ -2727,7 +2727,7 @@
                 "source": "https://www.latribune.ca/2020/06/25/cinq-nouvelles-stations-de-reparation-de-velos-04e78604b3ce18cff174392a44387ab3/",
                 "status": "certain",
                 "type": "bicycle",
-                "watch:area": "45.39406 45.39435 -71.92805 -71.92756 c906892b:83367972"
+                "watch:area": "45.39406 45.39435 -71.92805 -71.92756 d33de35d:9821d9e2"
             },
             "type": "Feature"
         },
@@ -2847,7 +2847,7 @@
                 "type": "park",
                 "ville:projet": "8270",
                 "ville:travaux": "2025",
-                "watch:area": "45.42594 45.43108 -71.92469 -71.91370 08a464a5:639dad59"
+                "watch:area": "45.42594 45.43108 -71.92469 -71.91370 65999508:ff6ea625"
             },
             "type": "Feature"
         },
@@ -2899,7 +2899,7 @@
                 "name": "Jardin Jeunes Entrepreneurs (jardin communautaire)",
                 "source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires",
                 "type": "misc",
-                "watch:area": "45.38512 45.38586 -71.91968 -71.91883 f2e79a85:ecec54e7"
+                "watch:area": "45.38512 45.38586 -71.91968 -71.91883 c92276ae:97112209"
             },
             "type": "Feature"
         },
@@ -2942,7 +2942,7 @@
                 "type": "misc",
                 "ville:projet": "8649",
                 "ville:travaux": "2025",
-                "watch:area": "45.39347 45.39451 -71.91864 -71.91743 10d156a8:c6aa6d68"
+                "watch:area": "45.39347 45.39451 -71.91864 -71.91743 19a28eeb:d3e64122"
             },
             "type": "Feature"
         },
@@ -2964,7 +2964,7 @@
                 "type": "misc",
                 "ville:projet": "8666",
                 "ville:travaux": "2025",
-                "watch:area": "45.39347 45.39451 -71.91864 -71.91743 10d156a8:c6aa6d68"
+                "watch:area": "45.39347 45.39451 -71.91864 -71.91743 19a28eeb:d3e64122"
             },
             "type": "Feature"
         },
@@ -3281,7 +3281,7 @@
                 "source": "https://www.latribune.ca/2020/06/25/cinq-nouvelles-stations-de-reparation-de-velos-04e78604b3ce18cff174392a44387ab3/",
                 "status": "certain",
                 "type": "bicycle",
-                "watch:area": "45.38428 45.38470 -71.90891 -71.90849 58fb0296:7c30f3c8"
+                "watch:area": "45.38428 45.38470 -71.90891 -71.90849 9b7094af:1fe143c6"
             },
             "type": "Feature"
         },
@@ -3813,7 +3813,7 @@
                 "type": "new",
                 "ville:projet": "8946",
                 "ville:travaux": "2025",
-                "watch:area": "45.43700 45.43942 -71.89771 -71.89395 117a2859:d7f90a16"
+                "watch:area": "45.43700 45.43942 -71.89771 -71.89395 8631fcff:c87f7f5e"
             },
             "type": "Feature"
         },
@@ -3992,7 +3992,7 @@
                 "type": "park",
                 "ville:projet": "5929",
                 "ville:travaux": "2023",
-                "watch:area": "45.39459 45.39496 -71.89419 -71.89344 7da94748:45200fa2"
+                "watch:area": "45.39459 45.39496 -71.89419 -71.89344 a937b971:c1d637f0"
             },
             "type": "Feature"
         },
@@ -4158,7 +4158,7 @@
                 "source": "https://www.latribune.ca/affaires/affaires-locales/2024/10/10/deux-nouveaux-super-c-sinstallent-a-sherbrooke-TJ4KQIVSDZFQHKOF5YGWE6ZKPU/",
                 "status": "certain",
                 "type": "misc",
-                "watch:area": "45.37585 45.37803 -71.89372 -71.89231 fe5e1be0:6dd34597",
+                "watch:area": "45.37585 45.37803 -71.89372 -71.89231 fd2f9b61:332520fb",
                 "watch:elements": "w:1117587466,3"
             },
             "type": "Feature"
@@ -4219,7 +4219,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:area": "45.40464 45.40497 -71.89243 -71.89172 b23969b3:1e5020bf"
+                "watch:area": "45.40464 45.40497 -71.89243 -71.89172 eac70ae0:6f1b2709"
             },
             "type": "Feature"
         },
@@ -4599,7 +4599,7 @@
                 "type": "cycleway",
                 "ville:projet": "5843+",
                 "ville:travaux": "2023",
-                "watch:area": "45.41488 45.41715 -71.89200 -71.88864 469d1366:107145ca"
+                "watch:area": "45.41488 45.41715 -71.89200 -71.88864 8302ef99:fe6bf613"
             },
             "type": "Feature"
         },
@@ -4697,7 +4697,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 b2934aa6:28e0e432",
+                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 9b19741d:1dcf6ba5",
                 "watch:elements": "n:12232401171,1"
             },
             "type": "Feature"
@@ -4716,7 +4716,7 @@
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/",
                 "status": "ongoing",
                 "type": "misc",
-                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 b2934aa6:28e0e432"
+                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 9b19741d:1dcf6ba5"
             },
             "type": "Feature"
         },
@@ -4737,7 +4737,7 @@
                 "session": "2021-05-03",
                 "source": "Ville de Sherbrooke",
                 "type": "name",
-                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 b2934aa6:28e0e432",
+                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 9b19741d:1dcf6ba5",
                 "watch:elements": "w:32273980,7"
             },
             "type": "Feature"
@@ -4833,7 +4833,7 @@
                 "source": "https://ici.radio-canada.ca/nouvelle/2166994/grand-espace-inauguration-spectacle-jeunes",
                 "status": "certain",
                 "type": "misc",
-                "watch:area": "45.39780 45.39820 -71.88794 -71.88735 6c7e1a3d:52ed55a1"
+                "watch:area": "45.39780 45.39820 -71.88794 -71.88735 c5d7e2f5:e4135bf6"
             },
             "type": "Feature"
         },
@@ -5007,7 +5007,7 @@
                 "name": "Halte Roland-Roy (stationnement public)",
                 "status": "certain",
                 "type": "misc",
-                "watch:area": "45.40128 45.40205 -71.88472 -71.88402 3d63fdfc:b0b834cd"
+                "watch:area": "45.40128 45.40205 -71.88472 -71.88402 e23434a1:bf9e43d1"
             },
             "type": "Feature"
         },
@@ -5125,7 +5125,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "misc",
-                "watch:area": "45.41646 45.41662 -71.88265 -71.88217 8aca9b49:5efe48a0"
+                "watch:area": "45.41646 45.41662 -71.88265 -71.88217 e405e8da:6c5bab0a"
             },
             "type": "Feature"
         },
@@ -5148,7 +5148,7 @@
                 "type": "sidewalk",
                 "ville:projet": "7807",
                 "ville:travaux": "2024",
-                "watch:area": "45.41646 45.41662 -71.88265 -71.88217 8aca9b49:5efe48a0",
+                "watch:area": "45.41646 45.41662 -71.88265 -71.88217 e405e8da:6c5bab0a",
                 "watch:elements": "w:1396149037,1 n:1038871953,2 n:1038872897,3 n:83524556,7 n:2024346336,2"
             },
             "type": "Feature"
@@ -5209,7 +5209,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:area": "45.37373 45.37463 -71.88193 -71.88060 30116b41:fb68c4c5"
+                "watch:area": "45.37373 45.37463 -71.88193 -71.88060 499831e3:90f6c80c"
             },
             "type": "Feature"
         },
@@ -5513,7 +5513,7 @@
                 "type": "park",
                 "ville:projet": "4679",
                 "ville:travaux": "2023",
-                "watch:area": "45.39258 45.39474 -71.87158 -71.86806 3afa3053:f3bdb611"
+                "watch:area": "45.39258 45.39474 -71.87158 -71.86806 ddffb13e:c9c4d983"
             },
             "type": "Feature"
         },
@@ -5551,7 +5551,7 @@
                 "name": "Aménagement de jeux d'eau au parc Bureau?",
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2025/05/08/laure-letarte-lavoie-brigue-un-deuxieme-mandat-PJOO3NGPL5GABFMB5EB5MYQ64Q/",
                 "type": "park",
-                "watch:area": "45.39258 45.39474 -71.87158 -71.86806 3afa3053:f3bdb611"
+                "watch:area": "45.39258 45.39474 -71.87158 -71.86806 ddffb13e:c9c4d983"
             },
             "type": "Feature"
         },
@@ -5807,7 +5807,7 @@
                 "type": "new",
                 "ville:projet": "8855",
                 "ville:travaux": "2025",
-                "watch:area": "45.43271 45.43610 -71.86608 -71.86206 5c1139fc:897f46ba"
+                "watch:area": "45.43271 45.43610 -71.86608 -71.86206 8e751149:72728513"
             },
             "type": "Feature"
         },
@@ -5824,7 +5824,7 @@
                 "name": "Jardin du parc Maillé (jardin solidaire)",
                 "source": "https://www.sherbrooke.ca/fr/culture-sports-et-loisirs/loisirs-et-vie-de-quartier/jardins-communautaires-collectifs-et-solidaires",
                 "type": "misc",
-                "watch:area": "45.42408 45.42534 -71.86376 -71.86219 c1df1c54:dcdb20aa"
+                "watch:area": "45.42408 45.42534 -71.86376 -71.86219 e7b1255f:d708c8a2"
             },
             "type": "Feature"
         },
@@ -5932,7 +5932,7 @@
                 "type": "park",
                 "ville:projet": "8271",
                 "ville:travaux": "2025",
-                "watch:area": "45.43070 45.43129 -71.86204 -71.86096 a0123b91:be414b9e"
+                "watch:area": "45.43070 45.43129 -71.86204 -71.86096 f2446dc9:f7001fea"
             },
             "type": "Feature"
         },
@@ -5953,7 +5953,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "official",
                 "type": "name",
-                "watch:area": "45.36808 45.36898 -71.86057 -71.85912 44863f92:79845164"
+                "watch:area": "45.36808 45.36898 -71.86057 -71.85912 36c28587:e57e12dc"
             },
             "type": "Feature"
         },
@@ -6119,7 +6119,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8266",
                 "ville:travaux": "2025",
-                "watch:area": "45.36750 45.36805 -71.85651 -71.85553 622c3b54:72959c84"
+                "watch:area": "45.36750 45.36805 -71.85651 -71.85553 b90d3925:99718688"
             },
             "type": "Feature"
         },
@@ -6355,7 +6355,7 @@
                 "session": "2025-09-22 (Fleurimont)",
                 "source": "Ville de Sherbrooke",
                 "type": "misc",
-                "watch:area": "45.41329 45.41356 -71.84516 -71.84468 0d08669d:11d9d6d8"
+                "watch:area": "45.41329 45.41356 -71.84516 -71.84468 eb857f77:c1939273"
             },
             "type": "Feature"
         },
@@ -6391,7 +6391,7 @@
                 "session": "2025-09-22 (Fleurimont)",
                 "source": "Ville de Sherbrooke",
                 "type": "misc",
-                "watch:area": "45.41277 45.41319 -71.84349 -71.84285 5159a3b9:3771cbd3"
+                "watch:area": "45.41277 45.41319 -71.84349 -71.84285 b3f5af5f:ff17cb7a"
             },
             "type": "Feature"
         },
@@ -6414,7 +6414,7 @@
                 "type": "new",
                 "ville:projet": "8138",
                 "ville:travaux": "2025",
-                "watch:area": "45.42147 45.42352 -71.84435 -71.84015 a6930d1b:a8cdab15"
+                "watch:area": "45.42147 45.42352 -71.84435 -71.84015 5740a367:2aa77447"
             },
             "type": "Feature"
         },
@@ -6518,7 +6518,7 @@
                 "type": "footway",
                 "ville:projet": "4685",
                 "ville:travaux": "2022",
-                "watch:area": "45.36064 45.36377 -71.81533 -71.81145 4ff62158:5313e562"
+                "watch:area": "45.36064 45.36377 -71.81533 -71.81145 b58b7a01:375c0896"
             },
             "type": "Feature"
         }
