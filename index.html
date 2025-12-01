@@ -18,9 +18,6 @@
                 integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
                 crossorigin=""></script>
 
-        <link rel="stylesheet" href="https://unpkg.com/leaflet.fullscreen@latest/Control.FullScreen.css" />
-        <script src="https://unpkg.com/leaflet.fullscreen@latest/Control.FullScreen.js"></script>
-
         <link rel="stylesheet" href="https://opengeo.tech/maps/leaflet-panel-layers/src/leaflet-panel-layers.css" />
         <script src="https://opengeo.tech/maps/leaflet-panel-layers/src/leaflet-panel-layers.js"></script>
 
@@ -55,8 +52,6 @@
             const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             }).addTo(map);
-
-            L.control.fullscreen().addTo(map);
 
             L.controlCredits({
                 imageurl: 'img/github.png',
