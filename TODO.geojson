@@ -3204,29 +3204,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.91223383486,
-                    45.39177491224
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Amélioration du passage piétonnier",
-                "planned_end": "2024-09-27",
-                "session": "2024-02-20 (7.3.12 - PAFFSR)",
-                "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
-                "start_date": "2024-07-15",
-                "status": "completed",
-                "type": "crossing",
-                "ville:projet": "7006",
-                "ville:travaux": "2024",
-                "watch:elements": "n:762946536,3"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.91204071581,
                     45.42495976572
                 ],
@@ -3445,23 +3422,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.90548271209,
-                    45.38884772732
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Entrée interdite par Kitchener",
-                "status": "certain",
-                "type": "restriction",
-                "watch:elements": "w:48838842,13 w:12361706,12"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.90431344756,
                     45.47281386634
                 ],
@@ -3491,23 +3451,6 @@
                 "status": "certain",
                 "type": "name",
                 "watch:elements": "w:8829933,5"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.90302849889,
-                    45.38888163943
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Arrêts sur Cambrai (et non Fairmount)",
-                "status": "certain",
-                "type": "stop",
-                "watch:elements": "w:12361706,12 n:3646857548,1 n:3646857542,1"
             },
             "type": "Feature"
         },
@@ -3854,28 +3797,6 @@
                 "ville:projet": "8238",
                 "ville:travaux": "2025",
                 "watch:elements": "n:10282883177,1 n:10282883178,1"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.89575826064,
-                    45.38971609724
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Travaux de réaménagement de l’approche est de l’intersection",
-                "planned_end": "2025-08-29",
-                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McManamy-8-5x14po-web.pdf",
-                "start_date": "2025-08-19",
-                "status": "completed",
-                "type": "geometry",
-                "ville:projet": "8669",
-                "ville:travaux": "2025",
-                "watch:elements": "w:1190250609,4 n:81485503,4 n:1845370104,3"
             },
             "type": "Feature"
         },
