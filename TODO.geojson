@@ -1356,7 +1356,7 @@
                 "type": "sidewalk",
                 "ville:projet": "6951",
                 "ville:travaux": "2024",
-                "watch:elements": "w:258852419,11"
+                "watch:elements": "w:258852419,12"
             },
             "type": "Feature"
         },
@@ -4831,7 +4831,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "w:13041704,20 n:5292535444,3 n:119987265,10"
+                "watch:elements": "w:13041704,21 n:5292535444,3 n:119987265,10"
             },
             "type": "Feature"
         },
@@ -5673,7 +5673,7 @@
                 "type": "cycleway",
                 "ville:projet": "8161",
                 "ville:travaux": "2025",
-                "watch:elements": "w:1446049734,1 w:164116187,18 w:1446049733,1"
+                "watch:elements": "w:1446049734,2 w:164116187,19 w:1446049733,2"
             },
             "type": "Feature"
         },
@@ -5883,7 +5883,7 @@
                 "type": "sidewalk",
                 "ville:projet": "7639",
                 "ville:travaux": "2024",
-                "watch:elements": "w:1446049734,1"
+                "watch:elements": "w:1446049734,2"
             },
             "type": "Feature"
         },
@@ -6056,7 +6056,7 @@
                 "type": "new",
                 "ville:projet": "6973",
                 "ville:travaux": "2025",
-                "watch:elements": "w:240208681,10 w:1446049734,1"
+                "watch:elements": "w:240208681,10 w:1446049734,2"
             },
             "type": "Feature"
         },
@@ -6220,7 +6220,7 @@
                 "type": "geometry",
                 "ville:projet": "3392",
                 "ville:travaux": "2021",
-                "watch:elements": "w:684191356,2 w:684191352,3"
+                "watch:elements": "w:684191356,3 w:684191352,4"
             },
             "type": "Feature"
         },
@@ -6490,7 +6490,7 @@
                 "type": "hump",
                 "ville:projet": "6964",
                 "ville:travaux": "2024",
-                "watch:elements": "w:13040999,18"
+                "watch:elements": "w:13040999,19"
             },
             "type": "Feature"
         },
