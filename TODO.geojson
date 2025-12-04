@@ -791,6 +791,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Installation de dos d'âne",
+                "resolution": "C.M. 2025-0946-00",
                 "session": "2025-10-02",
                 "source": "Ville de Sherbrooke",
                 "type": "hump",
@@ -1425,7 +1426,7 @@
                 "TODO:marker": "1",
                 "name": "Ouverture de la rue Jocelyne-Bourassa",
                 "planned_end": "2027-12-31",
-                "resolution": "C.M. 2025-0806-00",
+                "resolution": "C.M. 2025-0806-00; C.M. 2025-0906-00",
                 "session": "2025-09-02; 2025-10-02",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Jocelyne-Bourassa-info.pdf",
                 "start_date": "2025-10-27",
@@ -1680,6 +1681,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un corridor de marche (côté est, entre Wilfrid-Grégoire et Nicolas-Scheib)",
+                "resolution": "C.M. 2025-0948-00",
                 "session": "2025-10-02",
                 "source": "Ville de Sherbrooke",
                 "type": "sidewalk",
@@ -3765,6 +3767,7 @@
                 "TODO:marker": "1",
                 "name": "Ouverture de la rue de la Luzerne",
                 "planned_end": "2027-12-10",
+                "resolution": "C.M. 2025-0905-00",
                 "session": "2025-10-02",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Luzerne_info.pdf",
                 "start_date": "2025-10-13",
@@ -6307,6 +6310,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Installation de dos d'âne (entre Daigneau et Jetté)",
+                "resolution": "C.M. 2025-0947-00",
                 "session": "2025-10-02",
                 "source": "Ville de Sherbrooke",
                 "type": "hump",
