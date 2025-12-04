@@ -48,6 +48,7 @@
             },
             "properties": {
                 "TODO:marker": "1",
+                "comments": "Voir aussi documents du 2025-11-18",
                 "name": "Rue du Castor",
                 "resolution": "C.M. 2025-0804-00",
                 "session": "2025-09-02",
@@ -5873,6 +5874,25 @@
                 "ville:projet": "8271",
                 "ville:travaux": "2025",
                 "watch:area": "45.43070 45.43129 -71.86204 -71.86096 f2446dc9:f7001fea"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.86027940545,
+                    45.40367298626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Démolition complète du 1279 Conseil",
+                "resolution": "C.D. 2025-0130-00",
+                "session": "2025-11-18 (comité de démolition)",
+                "source": "Ville de Sherbrooke",
+                "status": "resolution",
+                "type": "demolition"
             },
             "type": "Feature"
         },
