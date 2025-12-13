@@ -168,23 +168,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -72.04246045232,
-                    45.35156469638
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Retirer maxspeed=45",
-                "status": "certain",
-                "type": "maxspeed",
-                "watch:elements": "w:32466113,7"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -72.04097986758,
                     45.33985803555
                 ],
@@ -316,26 +299,6 @@
                 "ville:projet": "7126",
                 "ville:travaux": "2024",
                 "watch:elements": "w:421212674,2 w:421212672,2"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.02203775467,
-                    45.35022061349
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Ajouter: 50 (entre Bourque et des Enclaves)",
-                "resolution": "C.M. 2025-1300-51-RG",
-                "session": "2025-03-25",
-                "source": "Règlement no 1300-51",
-                "status": "official",
-                "type": "maxspeed",
-                "watch:elements": "w:819996705,4"
             },
             "type": "Feature"
         },
@@ -658,7 +621,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "w:1122560483,4"
+                "watch:elements": "w:1122560483,5"
             },
             "type": "Feature"
         },
@@ -4120,7 +4083,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "w:41199110,10"
+                "watch:elements": "w:41199110,11"
             },
             "type": "Feature"
         },
@@ -5985,28 +5948,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.85774879301,
-                    45.4217900002
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Prolongement des rues des Quatre-Saisons et des Gloires-du-Matin et construction de la rue Hortensias",
-                "planned_end": "2027-12-31",
-                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Quatre-Saison_presentation.pdf",
-                "start_date": "2025-01-22",
-                "status": "ongoing",
-                "type": "new",
-                "ville:projet": "6973",
-                "ville:travaux": "2025",
-                "watch:elements": "w:240208681,10 w:1446049734,2"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.85751945049,
                     45.41642579578
                 ],
@@ -6457,7 +6398,7 @@
                 "type": "geometry",
                 "ville:projet": "4091",
                 "ville:travaux": "2023",
-                "watch:elements": "w:1176849679,3"
+                "watch:elements": "w:1176849679,4"
             },
             "type": "Feature"
         },
