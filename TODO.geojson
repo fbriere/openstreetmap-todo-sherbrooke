@@ -6323,6 +6323,29 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.84051157117,
+                    45.42319961473
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Construction d'un passage piétonnier entre François-Xavier-Bureau et de l'Alaska",
+                "planned_end": "2026-12-31",
+                "session": "2024-06-04",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Clovis-Dagnau-info.pdf",
+                "start_date": "2025-03-21",
+                "status": "completed",
+                "type": "footway",
+                "ville:projet": "8138",
+                "ville:travaux": "2025",
+                "watch:area": "45.42268 45.42343 -71.84238 -71.83984 592818cb:c300b94d"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.84046375469,
                     45.42543048885
                 ],
