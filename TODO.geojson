@@ -5201,6 +5201,44 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.87734902039,
+                    45.41207924458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Marquage de passage piétonnier",
+                "session": "2025-12-16",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "crossing",
+                "watch:elements": "w:10070468,10"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.87667712703,
+                    45.41224399971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Marquage de passage piétonnier",
+                "session": "2025-12-16",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "crossing",
+                "watch:elements": "w:13129686,4 n:7878457213,1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.87530519724,
                     45.39156396046
                 ],
