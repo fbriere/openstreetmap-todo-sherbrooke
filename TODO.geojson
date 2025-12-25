@@ -15,7 +15,7 @@
                 "source": "Règlement n° 1-168",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "w:230739462,5 w:230739461,3 n:2391953018,2 n:8572735603,1"
+                "watch:elements": "w:230739462,6 w:230739461,3 n:2391953018,2 n:8572735603,1"
             },
             "type": "Feature"
         },
@@ -34,7 +34,7 @@
                 "source": "Règlement n° 1-168",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "w:230739454,7 n:4181518902,2"
+                "watch:elements": "n:13401389544,1 w:230739462,6"
             },
             "type": "Feature"
         },
