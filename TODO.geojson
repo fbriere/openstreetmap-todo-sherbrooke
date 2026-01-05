@@ -1009,7 +1009,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8086",
                 "ville:travaux": "2025",
-                "watch:elements": "w:713189140,3"
+                "watch:elements": "w:713189140,4"
             },
             "type": "Feature"
         },
@@ -1031,7 +1031,7 @@
                 "type": "crossing",
                 "ville:projet": "8086",
                 "ville:travaux": "2025",
-                "watch:elements": "w:295430150,8 n:2991480973,2 n:7997805711,1 n:7997805714,1"
+                "watch:elements": "w:295430150,10 n:2991480973,2 n:7997805711,1 n:7997805714,1"
             },
             "type": "Feature"
         },
@@ -1053,7 +1053,7 @@
                 "type": "sidewalk",
                 "ville:projet": "8086",
                 "ville:travaux": "2025",
-                "watch:elements": "w:295430150,8"
+                "watch:elements": "w:295430150,10"
             },
             "type": "Feature"
         },
