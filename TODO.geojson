@@ -1398,7 +1398,7 @@
                 "type": "new",
                 "ville:projet": "8985",
                 "ville:travaux": "2025",
-                "watch:area": "45.44072 45.44253 -71.95992 -71.95618 235264ed:48481f25"
+                "watch:area": "45.44072 45.44253 -71.95992 -71.95618 1f745877:81c4e576"
             },
             "type": "Feature"
         },
@@ -3552,12 +3552,12 @@
                 "TODO:marker": "1",
                 "comments": "\"L'octroi du contrat vers la fin mars. Début des travaux selon l'échéancier de l'entrepreneur, possiblement au printemps. Fin demandée pour les travaux: décembre 2025. Durée de 37 semaines au devis. Barrage fermé ou non aux piétons pendant les travaux? À déterminer par l'entrepreneur.\"",
                 "name": "Reconstruction de la passerelle de la gorge de la rivière Magog",
-                "planned_end": "2025-12-12",
+                "planned_end": "2026-04-15",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-04-23",
-                "status": "completed",
+                "status": "ongoing",
                 "type": "misc",
-                "ville:projet": "8166",
+                "ville:projet": "8166;9148",
                 "ville:travaux": "2025",
                 "watch:elements": "w:129898665,7"
             },
