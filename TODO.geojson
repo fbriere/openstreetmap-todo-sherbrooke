@@ -1321,7 +1321,7 @@
                 "type": "sidewalk",
                 "ville:projet": "6951",
                 "ville:travaux": "2024",
-                "watch:elements": "w:258852419,12"
+                "watch:elements": "w:258852419,16"
             },
             "type": "Feature"
         },
@@ -1437,7 +1437,7 @@
                 "name": "La portion sud de cette rue est privée et n'a pas de nom",
                 "status": "certain",
                 "type": "name",
-                "watch:elements": "w:156871052,8 w:156871055,10 w:9733500,16"
+                "watch:elements": "w:156871052,9 w:156871055,11 w:9733500,16"
             },
             "type": "Feature"
         },
@@ -4800,7 +4800,7 @@
                 "type": "cycleway",
                 "ville:projet": "8160",
                 "ville:travaux": "2026",
-                "watch:elements": "w:477506648,7 w:802024211,3 w:477506647,2 w:1435994031,1 w:802024210,4"
+                "watch:elements": "w:477506648,8 w:802024211,3 w:477506647,2 w:1435994031,1 w:802024210,4"
             },
             "type": "Feature"
         },
@@ -6459,7 +6459,7 @@
                 "type": "geometry",
                 "ville:projet": "4091",
                 "ville:travaux": "2023",
-                "watch:elements": "w:1176849679,4"
+                "watch:elements": "w:1176849679,5"
             },
             "type": "Feature"
         },
