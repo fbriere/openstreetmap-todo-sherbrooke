@@ -1962,7 +1962,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:elements": "w:11537171,10"
+                "watch:elements": "w:11537171,11"
             },
             "type": "Feature"
         },
@@ -2966,7 +2966,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "cycleway",
-                "watch:elements": "w:11447782,9"
+                "watch:elements": "w:11447782,10"
             },
             "type": "Feature"
         },
