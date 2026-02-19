@@ -994,6 +994,28 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.97914719303,
+                    45.36556588228
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ouverture de la rue Hollis-Smith et prolongement de la rue Homère",
+                "planned_end": "2026-10-31",
+                "source": "Ville de Sherbrooke",
+                "start_date": "2026-02-23",
+                "status": "planned",
+                "type": "new",
+                "ville:projet": "9238",
+                "ville:travaux": "2026",
+                "watch:elements": "w:1311122111,1 w:1311122112,1 w:480839827,3 w:19134304,6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.97834696847,
                     45.39393104274
                 ],
