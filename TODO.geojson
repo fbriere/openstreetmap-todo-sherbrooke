@@ -15,7 +15,7 @@
                 "source": "Règlement n° 1-168",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "w:230739462,6 w:230739461,3 n:2391953018,2 n:8572735603,1"
+                "watch:elements": "w:230739462,7 w:230739461,4 n:2391953018,2 n:8572735603,1"
             },
             "type": "Feature"
         },
@@ -34,7 +34,7 @@
                 "source": "Règlement n° 1-168",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "n:13401389544,1 w:230739462,6"
+                "watch:elements": "n:13401389544,1 w:230739462,7"
             },
             "type": "Feature"
         },
@@ -516,7 +516,7 @@
                 "type": "park",
                 "ville:projet": "8260",
                 "ville:travaux": "2025",
-                "watch:elements": "w:92927688,6 w:283405833,2"
+                "watch:elements": "w:92927688,7 w:283405833,3"
             },
             "type": "Feature"
         },
@@ -818,7 +818,7 @@
                 "type": "park",
                 "ville:projet": "8268",
                 "ville:travaux": "2025",
-                "watch:area": "45.36841 45.36871 -71.99097 -71.99051 7f5c1622:7ceedac3"
+                "watch:area": "45.36841 45.36871 -71.99097 -71.99051 4820aa5a:3bdc461e"
             },
             "type": "Feature"
         },
@@ -1005,7 +1005,7 @@
                 "planned_end": "2027-12-10",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Hollis-Smith_présentation.pdf",
                 "start_date": "2026-02-25",
-                "status": "ongoing",
+                "status": "planned",
                 "type": "new",
                 "ville:projet": "9238",
                 "ville:travaux": "2026",
@@ -2946,7 +2946,7 @@
                 "type": "misc",
                 "ville:projet": "8649",
                 "ville:travaux": "2025",
-                "watch:area": "45.39347 45.39451 -71.91864 -71.91743 62239ccc:9507cf4a"
+                "watch:area": "45.39347 45.39451 -71.91864 -71.91743 a110ac8b:e556bb3d"
             },
             "type": "Feature"
         },
@@ -2968,7 +2968,7 @@
                 "type": "misc",
                 "ville:projet": "8666",
                 "ville:travaux": "2025",
-                "watch:area": "45.39347 45.39451 -71.91864 -71.91743 62239ccc:9507cf4a"
+                "watch:area": "45.39347 45.39451 -71.91864 -71.91743 a110ac8b:e556bb3d"
             },
             "type": "Feature"
         },
@@ -4405,7 +4405,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "w:12669473,17 w:12673630,17"
+                "watch:elements": "w:12669473,18 w:12673630,17"
             },
             "type": "Feature"
         },
@@ -4446,7 +4446,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "w:12669473,17"
+                "watch:elements": "w:12669473,18"
             },
             "type": "Feature"
         },
