@@ -3581,7 +3581,7 @@
                 "type": "misc",
                 "ville:projet": "8166;9148",
                 "ville:travaux": "2025",
-                "watch:elements": "w:129898665,7"
+                "watch:elements": "w:129898665,8"
             },
             "type": "Feature"
         },
@@ -4145,7 +4145,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:area": "45.40464 45.40497 -71.89243 -71.89172 eac70ae0:6f1b2709"
+                "watch:area": "45.40464 45.40497 -71.89243 -71.89172 23d9161d:9751f48b"
             },
             "type": "Feature"
         },
@@ -4623,7 +4623,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 9b19741d:1dcf6ba5",
+                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 125d3baf:b94c8715",
                 "watch:elements": "n:12232401171,1"
             },
             "type": "Feature"
@@ -4642,7 +4642,7 @@
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/",
                 "status": "ongoing",
                 "type": "misc",
-                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 9b19741d:1dcf6ba5"
+                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 125d3baf:b94c8715"
             },
             "type": "Feature"
         },
@@ -4663,7 +4663,7 @@
                 "session": "2021-05-03",
                 "source": "Ville de Sherbrooke",
                 "type": "name",
-                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 9b19741d:1dcf6ba5",
+                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 125d3baf:b94c8715",
                 "watch:elements": "w:32273980,7"
             },
             "type": "Feature"
