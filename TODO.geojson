@@ -22,6 +22,31 @@
         {
             "geometry": {
                 "coordinates": [
+                    -72.0916498568,
+                    45.36529684114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "comments": "Voir aussi documents du 2025-11-18",
+                "name": "Ouverture de la rue du Castor",
+                "planned_end": "2027-12-03",
+                "resolution": "C.M. 2025-0804-00",
+                "session": "2025-09-02",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Castor_info.pdf",
+                "start_date": "2026-03-30",
+                "status": "planned",
+                "type": "new",
+                "ville:projet": "9375",
+                "ville:travaux": "2026",
+                "watch:area": "45.36955 45.37191 -72.09082 -72.08610 2a468bb3:9b124711"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -72.09084126182,
                     45.30790789632
                 ],
@@ -35,27 +60,6 @@
                 "status": "certain",
                 "type": "stop",
                 "watch:elements": "n:13401389544,1 w:230739462,7"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.08966736317,
-                    45.370267723
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "comments": "Voir aussi documents du 2025-11-18",
-                "name": "Rue du Castor",
-                "resolution": "C.M. 2025-0804-00",
-                "session": "2025-09-02",
-                "source": "Ville de Sherbrooke",
-                "status": "resolution",
-                "type": "new",
-                "watch:area": "45.36955 45.37191 -72.09082 -72.08610 2a468bb3:9b124711"
             },
             "type": "Feature"
         },
