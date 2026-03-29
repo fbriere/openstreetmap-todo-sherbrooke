@@ -1315,23 +1315,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.96480915084,
-                    45.4487098948
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Virage à gauche (des Écossais → Albatros)",
-                "status": "certain",
-                "type": "restriction",
-                "watch:elements": "w:477631135,6 w:239945761,3 n:2477164158,3"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.9636372012,
                     45.40496109715
                 ],
@@ -2380,23 +2363,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.93821911335,
-                    45.34813403326
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Corriger: 70 [→ limite]",
-                "status": "certain",
-                "type": "maxspeed",
-                "watch:elements": "w:87622169,17"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.93786666265,
                     45.46945545184
                 ],
@@ -2818,23 +2784,6 @@
                 "ville:projet": "7026",
                 "ville:travaux": "2024",
                 "watch:elements": "n:3757636960,2"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.92585949421,
-                    45.36387577541
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Corriger: 70",
-                "status": "certain",
-                "type": "maxspeed",
-                "watch:elements": "w:87622169,17"
             },
             "type": "Feature"
         },
@@ -6404,26 +6353,6 @@
                 "ville:projet": "8138",
                 "ville:travaux": "2025",
                 "watch:area": "45.42268 45.42343 -71.84238 -71.83984 592818cb:c300b94d"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.84046375469,
-                    45.42543048885
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Ajouter: 60 (de Roger-Caron à King)",
-                "resolution": "C.M. 2025-1300-57-RG",
-                "session": "2025-08-19",
-                "source": "Règlement no 1300-57",
-                "status": "official",
-                "type": "maxspeed",
-                "watch:elements": "w:10583691,16"
             },
             "type": "Feature"
         },
