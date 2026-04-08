@@ -1139,7 +1139,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "w:371669479,7"
+                "watch:elements": "w:371669479,8"
             },
             "type": "Feature"
         },
@@ -3197,7 +3197,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "w:815731386,1"
+                "watch:elements": "w:815731386,2"
             },
             "type": "Feature"
         },
@@ -3235,7 +3235,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "w:374776461,6"
+                "watch:elements": "w:374776461,7"
             },
             "type": "Feature"
         },
