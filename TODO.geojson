@@ -459,7 +459,7 @@
                 "status": "completed",
                 "type": "sidewalk",
                 "ville:projet": "8079",
-                "ville:travaux": "2025",
+                "ville:travaux": "2026",
                 "watch:elements": "w:27388735,16"
             },
             "type": "Feature"
@@ -789,6 +789,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.99120869706,
+                    45.38310342753
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un trottoir (côté nord, entre Maréchal et Magloire)",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Matisse-web.pdf",
+                "status": "planned",
+                "type": "sidewalk",
+                "ville:projet": "9269",
+                "ville:travaux": "2026",
+                "watch:elements": "w:164125603,6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.99110473839,
                     45.34868581292
                 ],
@@ -959,6 +979,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.98321982282,
+                    45.368666924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un trottoir (côté sud-ouest, entre Gaspé et Viau)",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Gibraltar-Viau-web.pdf",
+                "status": "planned",
+                "type": "sidewalk",
+                "ville:projet": "9296",
+                "ville:travaux": "2026",
+                "watch:elements": "w:19133363,20"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.98240043879,
                     45.34938567707
                 ],
@@ -1014,6 +1054,26 @@
                 "ville:projet": "9238",
                 "ville:travaux": "2026",
                 "watch:elements": "w:1311122111,1 w:1311122112,1 w:480839827,3 w:19134304,6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.97859573817,
+                    45.3684503106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un trottoir (côté est, entre Gibraltar et Guillaume)",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Gibraltar-Viau-web.pdf",
+                "status": "planned",
+                "type": "sidewalk",
+                "ville:projet": "9296",
+                "ville:travaux": "2026",
+                "watch:elements": "w:1164760300,2"
             },
             "type": "Feature"
         },
@@ -1248,6 +1308,27 @@
                 "ville:projet": "8213",
                 "ville:travaux": "2025",
                 "watch:elements": "n:5854637726,2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.96924061558,
+                    45.42806344896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Amélioration du lien cyclable (entre Mgr-Fortier et la bretelle)",
+                "planned_end": "Été 2026",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "cycleway",
+                "ville:projet": "9263",
+                "ville:travaux": "2026",
+                "watch:elements": "w:1462840048,3 w:1462840055,3 w:240140551,10 w:1462840052,3 w:1462840047,3"
             },
             "type": "Feature"
         },
@@ -2520,6 +2601,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.9350897575,
+                    45.38708553581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Amélioration du passage piétonnier",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "crossing",
+                "ville:projet": "9275",
+                "ville:travaux": "2026",
+                "watch:elements": "n:10282883176,1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.93489045039,
                     45.39972688965
                 ],
@@ -2790,6 +2891,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.92304559816,
+                    45.4037547609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un lien cyclable (entre Farwell et Jacques-Cartier)",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Portland-web.pdf",
+                "status": "planned",
+                "type": "cycleway",
+                "ville:projet": "9261",
+                "ville:travaux": "2026",
+                "watch:elements": "w:6065895,45 w:258852430,16 w:1451119895,1 w:491547653,2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.92135803469,
                     45.42774201275
                 ],
@@ -2824,6 +2945,46 @@
                 "status": "dubious",
                 "type": "misc",
                 "watch:elements": "n:12922584792,1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.92063419858,
+                    45.40375025659
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un feu de circulation",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Portland-web.pdf",
+                "status": "planned",
+                "type": "traffic_signal",
+                "ville:projet": "9261",
+                "ville:travaux": "2026",
+                "watch:elements": "w:491547652,1 w:7046338,7 w:1219735144,2 w:258852430,16 w:491547653,2 n:49941218,11 n:78859331,10"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.92062564966,
+                    45.40369322243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Semi-fermeture du terre-plein, empêchant le transit par Wood (le virage à gauche est→nord demeurera possible)",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Portland-web.pdf",
+                "status": "planned",
+                "type": "restriction",
+                "ville:projet": "9261",
+                "ville:travaux": "2026",
+                "watch:elements": "w:491547652,1 w:7046338,7 w:1219735144,2 w:258852430,16 w:491547653,2 n:49941218,11 n:78859331,10"
             },
             "type": "Feature"
         },
@@ -3262,6 +3423,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.90716650692,
+                    45.39113905109
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un dos d'âne",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lincoln-web.pdf",
+                "status": "planned",
+                "type": "hump",
+                "ville:projet": "9276",
+                "ville:travaux": "2026",
+                "watch:elements": "w:164113689,9"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.90639736414,
                     45.39536870928
                 ],
@@ -3363,6 +3544,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.90504219605,
+                    45.39114505441
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un dos d'âne",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lincoln-web.pdf",
+                "status": "planned",
+                "type": "hump",
+                "ville:projet": "9276",
+                "ville:travaux": "2026",
+                "watch:elements": "w:1435929262,3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.90431344756,
                     45.47281386634
                 ],
@@ -3392,6 +3593,106 @@
                 "status": "certain",
                 "type": "name",
                 "watch:elements": "w:8829933,5"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.90334958618,
+                    45.39116606603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Intersection ramenée à angle droit",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lincoln-web.pdf",
+                "status": "planned",
+                "type": "geometry",
+                "ville:projet": "9276",
+                "ville:travaux": "2026",
+                "watch:elements": "w:1435929262,3 n:255785490,4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.90299869947,
+                    45.38719297152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Retrait du trottoir (au sud de Joseph-Labrecque)",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Cambrai-Fairmount-web.pdf",
+                "status": "planned",
+                "type": "sidewalk",
+                "ville:projet": "9302",
+                "ville:travaux": "2026",
+                "watch:elements": "w:23616221,12"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.90299869947,
+                    45.38817760852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Retrait du trottoir côté ouest (entre McManamy et Joseph-Labrecque)",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Cambrai-Fairmount-web.pdf",
+                "status": "planned",
+                "type": "sidewalk",
+                "ville:projet": "9302",
+                "ville:travaux": "2026",
+                "watch:elements": "w:23616221,12"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.90163986324,
+                    45.40551361354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Réaménagement du terre-plein (pour relier les pistes cyclables et aménager une traverse piétonnière)",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Moore-web.pdf",
+                "status": "planned",
+                "type": "geometry",
+                "ville:projet": "9299",
+                "ville:travaux": "2026",
+                "watch:elements": "w:374776448,10 w:37050812,19 w:258852435,4 w:23139052,16"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.90140445564,
+                    45.38651274662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Amélioration du passage piétonnier",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "crossing",
+                "ville:projet": "9266",
+                "ville:travaux": "2026",
+                "watch:elements": "n:10593190690,1"
             },
             "type": "Feature"
         },
@@ -3498,6 +3799,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.90097919193,
+                    45.38365690984
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Amélioration du passage piétonnier",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "crossing",
+                "ville:projet": "9265",
+                "ville:travaux": "2026",
+                "watch:elements": "n:6711404119,4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.90039216037,
                     45.37403477872
                 ],
@@ -3560,6 +3881,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.90022459864,
+                    45.40558265604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un passage piétonnier",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Moore-web.pdf",
+                "status": "planned",
+                "type": "crossing",
+                "ville:projet": "9299",
+                "ville:travaux": "2026",
+                "watch:elements": "w:23139052,16 n:81573420,9 n:2641671262,3 n:7638663324,1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.90001591107,
                     45.41415548767
                 ],
@@ -3575,6 +3916,88 @@
                 "ville:projet": "8258",
                 "ville:travaux": "2025",
                 "watch:elements": "w:79560862,8"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.89965981269,
+                    45.40493051199
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Amélioration du passage piétonnier",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "crossing",
+                "ville:projet": "9277",
+                "ville:travaux": "2026",
+                "watch:elements": "n:3781498994,2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.89959627144,
+                    45.38892808251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout de (plusieurs) dos d'ânes (entre Fairmount et Belvédère)",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Cambrai-Fairmount-web.pdf",
+                "status": "planned",
+                "type": "hump",
+                "ville:projet": "9302",
+                "ville:travaux": "2026",
+                "watch:elements": "w:12361706,14"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.89910163826,
+                    45.369195551
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Aménagement du parc des Géologues",
+                "planned_end": "2026-10-30",
+                "source": "Ville de Sherbrooke",
+                "start_date": "2026-05-11",
+                "status": "planned",
+                "type": "park",
+                "ville:projet": "9409",
+                "ville:travaux": "2026",
+                "watch:area": "45.36673 45.37143 -71.90249 -71.89791 190936fd:0b398a62"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.89886492264,
+                    45.40625207982
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout de bandes cyclables (entre Dufferin et Queen-Victoria)",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Moore-web.pdf",
+                "status": "planned",
+                "type": "cycleway",
+                "ville:projet": "9299",
+                "ville:travaux": "2026",
+                "watch:elements": "w:23139052,16 w:1417141658,1"
             },
             "type": "Feature"
         },
@@ -3745,6 +4168,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.8960004439,
+                    45.39027963747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Amélioration du lien cyclable (entre Galt Ouest et Dunant)",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "cycleway",
+                "ville:projet": "9303",
+                "ville:travaux": "2026",
+                "watch:elements": "w:41198233,29 w:1446528297,1 w:477640425,6 w:477462388,3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.89526081622,
                     45.36650648473
                 ],
@@ -3878,6 +4321,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.89377674444,
+                    45.37862366853
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Réaménagement de l'intersection",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "geometry",
+                "ville:projet": "9305",
+                "ville:travaux": "2026",
+                "watch:elements": "w:713845324,3 w:27223179,4 w:1446123345,1 w:225309603,10 n:81485524,5"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.89373731881,
                     45.40249720162
                 ],
@@ -3998,7 +4461,7 @@
                 "status": "completed",
                 "type": "cycleway",
                 "ville:projet": "8077",
-                "ville:travaux": "2025",
+                "ville:travaux": "2026",
                 "watch:elements": "w:1190250609,4 w:1446528291,1"
             },
             "type": "Feature"
@@ -4039,6 +4502,28 @@
                 "type": "misc",
                 "watch:area": "45.37585 45.37803 -71.89372 -71.89231 211ea264:a072a6a2",
                 "watch:elements": "w:1117587466,3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.89227909844,
+                    45.37455133647
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Nouveau module de jeu 2-5 ans",
+                "planned_end": "2026-07-31",
+                "source": "Ville de Sherbrooke",
+                "start_date": "2026-05-19",
+                "status": "planned",
+                "type": "park",
+                "ville:projet": "9410",
+                "ville:travaux": "2026",
+                "watch:area": "45.37447 45.37466 -71.89243 -71.89214 d41d8cd9:d41d8cd9"
             },
             "type": "Feature"
         },
@@ -4819,6 +5304,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.88549922852,
+                    45.41144014904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout de bandes cyclables unidirectionnelles (entre King Est et le parc Victoria)",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "cycleway",
+                "ville:projet": "9284",
+                "ville:travaux": "2026",
+                "watch:elements": "w:234461243,12 w:234461245,6 w:234461248,9 w:32272078,12 w:176330186,4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.88527628914,
                     45.40627296671
                 ],
@@ -4859,6 +5364,27 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.88485336452,
+                    45.4027486137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Retrait de la voie en direction sud",
+                "planned_end": "Automne 2026",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Infos-Conseil-2026.pdf",
+                "status": "planned",
+                "type": "restriction",
+                "ville:projet": "9267",
+                "ville:travaux": "2026",
+                "watch:elements": "w:261749335,6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.88478948832,
                     45.38387834009
                 ],
@@ -4870,6 +5396,27 @@
                 "status": "certain",
                 "type": "hump",
                 "watch:elements": "w:1164679062,1 n:7448761969,1 n:7448761968,1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.88473155532,
+                    45.40287164887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout de bandes cyclables unidirectionnelles (entre St-François et Bowen)",
+                "planned_end": "Automne 2026",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Infos-Conseil-2026.pdf",
+                "status": "planned",
+                "type": "cycleway",
+                "ville:projet": "9267",
+                "ville:travaux": "2026",
+                "watch:elements": "w:10530963,27 w:261749335,6"
             },
             "type": "Feature"
         },
@@ -4907,6 +5454,46 @@
                 "ville:projet": "8212",
                 "ville:travaux": "2025",
                 "watch:elements": "n:2427187924,4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.88409785986,
+                    45.40091904116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Amélioration du lien cyclable",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "cycleway",
+                "ville:projet": "9298",
+                "ville:travaux": "2026",
+                "watch:elements": "w:37222030,10 w:239832281,9"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.88366926334,
+                    45.40129277614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'une portion de trottoir",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "sidewalk",
+                "ville:projet": "9298",
+                "ville:travaux": "2026",
+                "watch:elements": "w:13032786,5"
             },
             "type": "Feature"
         },
@@ -5336,6 +5923,46 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.87233152891,
+                    45.41433312145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Amélioration du lien cyclable (entre Terrill et Papineau)",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "cycleway",
+                "ville:projet": "9304",
+                "ville:travaux": "2026",
+                "watch:elements": "w:164113690,21"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.87179740374,
+                    45.41597640431
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Amélioration du lien cyclable (entre Papineau et Quatre-Saisons)",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "cycleway",
+                "ville:projet": "9385",
+                "ville:travaux": "2026",
+                "watch:elements": "w:1454951654,1 w:1243333921,6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.87119603425,
                     45.41204441151
                 ],
@@ -5348,6 +5975,28 @@
                 "source": "https://www.sts.qc.ca/2024/08/29/de-nouveaux-abribus-dans-votre-quartier/",
                 "type": "misc",
                 "watch:elements": "n:13308059004,1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.8706781933,
+                    45.41006491969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "comments": "Travaux pendant environ deux semaines au total, durant les vacances scolaires.",
+                "name": "Amélioration du lien cyclable (entre Papineau et King Est)",
+                "planned_end": "Été 2026",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "cycleway",
+                "ville:projet": "9295",
+                "ville:travaux": "2026",
+                "watch:elements": "w:164113690,21"
             },
             "type": "Feature"
         },
@@ -5511,6 +6160,28 @@
                 "ville:projet": "6998",
                 "ville:travaux": "2024",
                 "watch:elements": "w:10075247,4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.86817226484,
+                    45.43443796733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Aménagement de l'intersection avec Marie-Paule-Kirouac",
+                "planned_end": "2026-06-02",
+                "source": "Ville de Sherbrooke",
+                "start_date": "2026-06-01",
+                "status": "planned",
+                "type": "geometry",
+                "ville:projet": "9335",
+                "ville:travaux": "2026",
+                "watch:elements": "w:1492339051,1 w:1492339048,1 w:1445865324,3 n:6743238194,5"
             },
             "type": "Feature"
         },
@@ -5748,6 +6419,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.86306584889,
+                    45.38829599797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un trottoir (côté nord, entre Lavigerie et Aubry)",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Dagenais-web.pdf",
+                "status": "planned",
+                "type": "sidewalk",
+                "ville:projet": "9294",
+                "ville:travaux": "2026",
+                "watch:elements": "w:13036753,8"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.86287049764,
                     45.36271664658
                 ],
@@ -5856,6 +6547,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.8610040117,
+                    45.38838493415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un dos d'âne",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Dagenais-web.pdf",
+                "status": "planned",
+                "type": "hump",
+                "ville:projet": "9294",
+                "ville:travaux": "2026",
+                "watch:elements": "w:13036753,8"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.86027940545,
                     45.40367298626
                 ],
@@ -5869,6 +6580,26 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.85997729024,
+                    45.36648718651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Amélioration du passage piétonnier",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "crossing",
+                "ville:projet": "9264",
+                "ville:travaux": "2026",
+                "watch:elements": "n:7939043754,2"
             },
             "type": "Feature"
         },
