@@ -3051,6 +3051,27 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.91813938387,
+                    45.39401822653
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Pumptrack",
+                "planned_end": "2026-06-05",
+                "source": "Ville de Sherbrooke",
+                "start_date": "2026-04-15",
+                "status": "planned",
+                "type": "misc",
+                "ville:projet": "9450",
+                "ville:travaux": "2026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.91781122438,
                     45.39356856126
                 ],
@@ -5726,6 +5747,27 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.87942035563,
+                    45.42570004641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Reconstruction du terrain de baseball",
+                "planned_end": "2027-05-31",
+                "source": "Ville de Sherbrooke",
+                "start_date": "2026-09-02",
+                "status": "planned",
+                "type": "park",
+                "ville:projet": "9455",
+                "ville:travaux": "2026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.87940895692,
                     45.41408922439
                 ],
@@ -5857,6 +5899,27 @@
                 "status": "certain",
                 "type": "stop",
                 "watch:elements": "n:249775806,3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.87452867694,
+                    45.41338267945
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Reconstruction du tennis en surface multi-sports",
+                "planned_end": "2026-10-30",
+                "source": "Ville de Sherbrooke",
+                "start_date": "2026-06-08",
+                "status": "planned",
+                "type": "park",
+                "ville:projet": "9453",
+                "ville:travaux": "2026"
             },
             "type": "Feature"
         },
