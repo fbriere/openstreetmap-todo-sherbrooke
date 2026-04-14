@@ -156,9 +156,8 @@
             },
             "properties": {
                 "TODO:marker": "1",
-                "comments": "Fermeture pour la saison 2025",
                 "name": "Parc Villageois - Reconstruction du terrain de soccer",
-                "planned_end": "2026-05-18",
+                "planned_end": "2026-06-19",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2024-09-03",
                 "status": "ongoing",
@@ -5789,6 +5788,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.87881581896,
+                    45.42627973301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Remplacement du grimpeur rotatif",
+                "planned_end": "2026-09-25",
+                "start_date": "2026-06-01",
+                "status": "planned",
+                "type": "park",
+                "ville:projet": "9459",
+                "ville:travaux": "2026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.87734902039,
                     45.41207924458
                 ],
@@ -6582,7 +6601,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Aménagement d'un sentier",
+                "planned_end": "2026-09-25",
                 "source": "Ville de Sherbrooke",
+                "start_date": "2026-05-19",
                 "status": "planned",
                 "type": "park",
                 "ville:projet": "8271",
