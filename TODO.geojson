@@ -2814,28 +2814,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.92746341497,
-                    45.38698095678
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Modifications géométriques et amélioration du passage piétonnier",
-                "planned_end": "2025-09-12",
-                "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
-                "start_date": "2025-08-13",
-                "status": "completed",
-                "type": "crossing",
-                "ville:projet": "7008",
-                "ville:travaux": "2024",
-                "watch:elements": "n:3757636961,3"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.92629665405,
                     45.38931676491
                 ],
@@ -3093,46 +3071,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.91777527869,
-                    45.38951455257
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Chaussée désignée",
-                "resolution": "C.M. 2025-0480-00",
-                "session": "2025-05-20",
-                "source": "Ville de Sherbrooke",
-                "status": "resolution",
-                "type": "cycleway",
-                "watch:elements": "w:11447782,12"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.91764653265,
-                    45.38834666466
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Retrait de l'exception pour vélos au sens unique?",
-                "resolution": "C.M. 2025-0480-00",
-                "session": "2025-05-20",
-                "source": "Ville de Sherbrooke",
-                "status": "resolution",
-                "type": "cycleway",
-                "watch:elements": "w:11447383,12"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.91746682063,
                     45.38689712867
                 ],
@@ -3140,11 +3078,12 @@
             },
             "properties": {
                 "TODO:marker": "1",
+                "check_date": "2026-04-15",
                 "name": "Ajout d'une traverse de piéton",
                 "planned_end": "2025-11-12",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2025-11-12",
-                "status": "completed",
+                "status": "dubious",
                 "type": "crossing",
                 "ville:projet": "9066",
                 "ville:travaux": "2025",
@@ -4148,30 +4087,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.89615398914,
-                    45.40281546795
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "check_date": "2024-10-22",
-                "name": "Amélioration du passage piétonnier",
-                "planned_end": "2025-08-29",
-                "session": "2024-02-20 (7.3.12 - PAFFSR)",
-                "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
-                "start_date": "2025-08-11",
-                "status": "completed",
-                "type": "crossing",
-                "ville:projet": "8238",
-                "ville:travaux": "2025",
-                "watch:elements": "n:10282883177,1 n:10282883178,1"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.8960004439,
                     45.39027963747
                 ],
@@ -4458,11 +4373,12 @@
             },
             "properties": {
                 "TODO:marker": "1",
+                "check_date": "2026-04-15",
                 "name": "Ajout de bandes cyclables entre Belvédère Sud et Évangéline",
                 "planned_end": "2025-11-14",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_McManamy-8-5x14po-web.pdf",
                 "start_date": "2025-05-20",
-                "status": "completed",
+                "status": "ongoing",
                 "type": "cycleway",
                 "ville:projet": "8077",
                 "ville:travaux": "2026",
@@ -4931,23 +4847,6 @@
                 "ville:projet": "8509",
                 "ville:travaux": "2025",
                 "watch:elements": "n:13125777587,2"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.89029068023,
-                    45.40970012779
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Virages à gauche vers Kennedy (8h - 18h)",
-                "status": "certain",
-                "type": "restriction",
-                "watch:elements": "w:387586631,4 w:23138985,14 w:35193250,9 w:1435662766,1 n:1432370766,3"
             },
             "type": "Feature"
         },
