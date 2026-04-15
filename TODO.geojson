@@ -3039,7 +3039,7 @@
                 "planned_end": "2026-06-05",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2026-04-15",
-                "status": "planned",
+                "status": "ongoing",
                 "type": "misc",
                 "ville:projet": "9450",
                 "ville:travaux": "2026"
@@ -6138,10 +6138,10 @@
             },
             "properties": {
                 "TODO:marker": "1",
-                "name": "Aménagement de l'intersection avec Marie-Paule-Kirouac",
-                "planned_end": "2026-06-02",
+                "name": "Aménagement de l'intersection 12e / Marie-Paule-Kirouac",
+                "planned_end": "2026-05-11",
                 "source": "Ville de Sherbrooke",
-                "start_date": "2026-06-01",
+                "start_date": "2026-05-03",
                 "status": "planned",
                 "type": "geometry",
                 "ville:projet": "9335",
