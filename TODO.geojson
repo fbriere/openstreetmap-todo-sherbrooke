@@ -3042,7 +3042,8 @@
                 "status": "ongoing",
                 "type": "misc",
                 "ville:projet": "9450",
-                "ville:travaux": "2026"
+                "ville:travaux": "2026",
+                "watch:area": "45.39347 45.39451 -71.91864 -71.91743 a110ac8b:e556bb3d"
             },
             "type": "Feature"
         },
@@ -6547,7 +6548,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "demolition",
-                "watch:elements": "way 836920761"
+                "watch:elements": "w:836920761,2"
             },
             "type": "Feature"
         },
