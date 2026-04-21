@@ -3281,7 +3281,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:elements": "w:1448233772,1 w:1435929260,1 w:1094964665,4"
+                "watch:elements": "w:1448233772,1 w:1435929260,2 w:1094964665,4"
             },
             "type": "Feature"
         },
@@ -3459,7 +3459,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "hump",
-                "watch:elements": "w:1435929260,1 n:10027857349,1 n:3646823269,2 n:10027857350,1 n:110285441,9 n:10027857347,2 n:10027857348,1 n:3646823270,3 n:4259409000,3 w:1094964666,6"
+                "watch:elements": "w:1435929260,2 n:10027857349,1 n:3646823269,2 n:10027857350,1 n:110285441,9 n:10027857347,2 n:10027857348,1 n:3646823270,3 n:4259409000,3 w:1094964666,7"
             },
             "type": "Feature"
         },
@@ -4359,7 +4359,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "w:12668726,23"
+                "watch:elements": "w:12668726,24"
             },
             "type": "Feature"
         },
