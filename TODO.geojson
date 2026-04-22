@@ -2694,40 +2694,16 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.93276095543,
-                    45.38638486138
+                    -71.93172708297,
+                    45.3861049675
                 ],
                 "type": "Point"
             },
             "properties": {
                 "TODO:marker": "1",
-                "name": "Ajouter: 30 (en tout temps) (entre Galt et Forest)",
-                "resolution": "C.M. 2025-1300-57-RG",
-                "session": "2025-08-19",
-                "source": "Règlement no 1300-57",
-                "status": "official",
-                "type": "maxspeed",
-                "watch:elements": "w:23142990,10"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.93171107749,
-                    45.38620607504
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Ajouter: 30 (en tout temps) (entre Galt et Forest)",
-                "resolution": "C.M. 2025-1300-57-RG",
-                "session": "2025-08-19",
-                "source": "Règlement no 1300-57",
-                "status": "official",
-                "type": "maxspeed",
-                "watch:elements": "w:23142991,7"
+                "comments": "Considérant la présence d'un dos d'âne à cette hauteur sur les deux rues adjacentes...",
+                "name": "Dos d'âne?",
+                "type": "hump"
             },
             "type": "Feature"
         },
@@ -2748,26 +2724,6 @@
                 "status": "completed",
                 "type": "misc",
                 "watch:elements": "w:911632754,1 w:1411979238,2"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.93071248809,
-                    45.38595876207
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Ajouter: 30 (en tout temps) (entre Galt et Forest)",
-                "resolution": "C.M. 2025-1300-57-RG",
-                "session": "2025-08-19",
-                "source": "Règlement no 1300-57",
-                "status": "official",
-                "type": "maxspeed",
-                "watch:elements": "w:23142992,10"
             },
             "type": "Feature"
         },
