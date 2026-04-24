@@ -4668,6 +4668,27 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.89095928749,
+                    45.39563000281
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "comments": "Aucune information supplémentaire fournie",
+                "name": "Réaménagement",
+                "source": "Ville de Sherbrooke",
+                "start_date": "2026-07-06",
+                "status": "planned",
+                "type": "park",
+                "ville:projet": "9484",
+                "ville:travaux": "2026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.89090178793,
                     45.40224952371
                 ],
