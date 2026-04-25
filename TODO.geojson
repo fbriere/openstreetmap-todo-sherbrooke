@@ -2159,6 +2159,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.94549813962,
+                    45.39088271247
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Arrêt toutes directions",
+                "resolution": "C.M. 2026-1325-00",
+                "session": "2026-03-10",
+                "source": "Ville de Sherbrooke",
+                "status": "resolution",
+                "type": "stop",
+                "watch:elements": "w:11504909,9 w:1502668408,1 n:102572919,7 n:4291221183,2 n:4291221182,2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.94536984503,
                     45.4126450616
                 ],
@@ -2191,6 +2211,23 @@
                 "status": "certain",
                 "type": "stop",
                 "watch:elements": "w:1272092591,1 n:301286456,3 w:27440253,13 w:919866127,2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.94427363307,
+                    45.48560913478
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Arrêt toutes directions",
+                "status": "certain",
+                "type": "stop",
+                "watch:elements": "w:32275285,4 w:43826765,5 w:32274726,5 n:362701899,3"
             },
             "type": "Feature"
         },
@@ -2474,7 +2511,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "stop",
-                "watch:elements": "way 354208027 way 6088813 way 6088814 node 50214617"
+                "watch:elements": "w:354208027,1 w:6088813,4 w:6088814,3 n:50214617,5"
             },
             "type": "Feature"
         },
@@ -3496,6 +3533,26 @@
                 "status": "certain",
                 "type": "stop",
                 "watch:elements": "w:13481779,9 w:833871971,5 n:122884341,5"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.90422895264,
+                    45.39804815308
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout de plusieurs dos d'âne (entre Glacière et Vanier)",
+                "resolution": "C.M. 2026-1325-00",
+                "session": "2026-03-10",
+                "source": "Ville de Sherbrooke",
+                "status": "resolution",
+                "type": "hump",
+                "watch:elements": "w:9933666,13 w:155230168,9"
             },
             "type": "Feature"
         },
@@ -5774,7 +5831,7 @@
                 "name": "Arrêts aux approches nord et est",
                 "status": "certain",
                 "type": "stop",
-                "watch:elements": "way 164112034 way 164106594 node 7948413034"
+                "watch:elements": "w:164112034,7 w:164106594,6 n:7948413034,1"
             },
             "type": "Feature"
         },
@@ -6126,6 +6183,23 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.86876644689,
+                    45.4253983912
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Arrêts aux approches ouest et sud",
+                "status": "certain",
+                "type": "stop",
+                "watch:elements": "w:10075247,4 w:387586604,3 w:841307749,1 n:7849782249,1 n:7849782248,1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.86839183548,
                     45.42343650118
                 ],
@@ -6141,6 +6215,27 @@
                 "type": "sidewalk",
                 "ville:projet": "6998",
                 "ville:travaux": "2024",
+                "watch:elements": "w:10075247,4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.86832878053,
+                    45.42267320183
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "comments": "Ceux-ci seront ajoutés lors de la reconstruction de la rue",
+                "name": "Ajout de plusieurs dos d'âne",
+                "resolution": "C.M. 2026-1323-00",
+                "session": "2026-03-10",
+                "source": "Ville de Sherbrooke",
+                "status": "resolution",
+                "type": "hump",
                 "watch:elements": "w:10075247,4"
             },
             "type": "Feature"
