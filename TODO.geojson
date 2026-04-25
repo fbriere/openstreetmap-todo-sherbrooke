@@ -2461,6 +2461,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.93760409648,
+                    45.40906415845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Arrêt toutes directions",
+                "resolution": "C.M. 2025-1115-00",
+                "session": "2025-12-16",
+                "source": "Ville de Sherbrooke",
+                "status": "resolution",
+                "type": "stop",
+                "watch:elements": "way 354208027 way 6088813 way 6088814 node 50214617"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.93754852355,
                     45.40816358249
                 ],
@@ -5693,6 +5713,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Marquage de passage piétonnier",
+                "resolution": "C.M. 2025-1113-00",
                 "session": "2025-12-16",
                 "source": "Ville de Sherbrooke",
                 "status": "planned",
@@ -5712,6 +5733,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Marquage de passage piétonnier",
+                "resolution": "C.M. 2025-1113-00",
                 "session": "2025-12-16",
                 "source": "Ville de Sherbrooke",
                 "status": "planned",
@@ -5736,6 +5758,23 @@
                 "status": "dubious",
                 "type": "cycleway",
                 "watch:elements": "w:164112145,6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.87494434306,
+                    45.36388196747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Arrêts aux approches nord et est",
+                "status": "certain",
+                "type": "stop",
+                "watch:elements": "way 164112034 way 164106594 node 7948413034"
             },
             "type": "Feature"
         },
