@@ -325,6 +325,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -72.01050902453,
+                    45.39015124692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Traverse pour piétons",
+                "resolution": "C.M. 2026-1300-62-RG",
+                "session": "2026-04-07",
+                "source": "Règlement no 1300-62",
+                "status": "official",
+                "type": "crossing",
+                "watch:elements": "n:6453450811,2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -72.0088040936,
                     45.36034027346
                 ],
@@ -1037,6 +1057,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.97939398167,
+                    45.3381505173
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajouter: 50 sur toute la longueur",
+                "resolution": "C.M. 2026-1300-62-RG",
+                "session": "2026-04-07",
+                "source": "Règlement no 1300-62",
+                "status": "official",
+                "type": "maxspeed",
+                "watch:elements": "w:363611663,11 w:1455298082,1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.97914719303,
                     45.36556588228
                 ],
@@ -1101,6 +1141,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.97770343491,
+                    45.39392540492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Traverse pour piétons",
+                "resolution": "C.M. 2026-1300-62-RG",
+                "session": "2026-04-07",
+                "source": "Règlement no 1300-62",
+                "status": "official",
+                "type": "crossing",
+                "watch:elements": "w:713189140,4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.97745443463,
                     45.39239273191
                 ],
@@ -1110,13 +1170,35 @@
                 "TODO:marker": "1",
                 "name": "Ajout d'une traverse",
                 "planned_end": "2025-06-20",
-                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Fiche_infotravaux_Megantic-memphremagog-8-5x14po-web.pdf",
+                "resolution": "C.M. 2026-1300-62-RG",
+                "session": "2026-04-07",
+                "source": "Règlement no 1300-62",
                 "start_date": "2025-05-20",
-                "status": "completed",
+                "status": "official",
                 "type": "crossing",
                 "ville:projet": "8086",
                 "ville:travaux": "2025",
                 "watch:elements": "w:295430150,10 n:2991480973,2 n:7997805711,1 n:7997805714,1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.97735722551,
+                    45.39026911525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Traverse pour piétons",
+                "resolution": "C.M. 2026-1300-62-RG",
+                "session": "2026-04-07",
+                "source": "Règlement no 1300-62",
+                "status": "official",
+                "type": "crossing",
+                "watch:elements": "w:245377931,15 n:12138382011,1 w:295430150,10"
             },
             "type": "Feature"
         },
