@@ -6021,6 +6021,23 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.87359021215,
+                    45.41646557317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Retirer: 40",
+                "status": "certain",
+                "type": "maxspeed",
+                "watch:elements": "w:1446123335,1 w:258852436,6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.8727448258,
                     45.40987338249
                 ],
