@@ -3470,7 +3470,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un dos d'âne",
+                "planned_end": "2026-07-10",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lincoln-web.pdf",
+                "start_date": "2026-05-11",
                 "status": "planned",
                 "type": "hump",
                 "ville:projet": "9276",
@@ -3591,7 +3593,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un dos d'âne",
+                "planned_end": "2026-07-10",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Lincoln-web.pdf",
+                "start_date": "2026-05-11",
                 "status": "planned",
                 "type": "hump",
                 "ville:projet": "9276",
