@@ -3544,26 +3544,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.90580080368,
-                    45.38973567442
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Ajout de deux dos d'âne, de part et d'autre de la courbe",
-                "resolution": "C.M. 2025-0125-00",
-                "session": "2025-01-21",
-                "source": "Ville de Sherbrooke",
-                "status": "resolution",
-                "type": "hump",
-                "watch:elements": "w:1435929260,2 n:10027857349,1 n:3646823269,2 n:10027857350,1 n:110285441,9 n:10027857347,2 n:10027857348,1 n:3646823270,3 n:4259409000,3 w:1094964666,7"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.9057107079,
                     45.38830899422
                 ],
@@ -4425,30 +4405,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.89337254107,
-                    45.38660232261
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "comments": "Équippement à batterie en place",
-                "name": "Amélioration du passage piétonnier",
-                "planned_end": "2024-09-27",
-                "session": "2024-02-20 (7.3.12 - PAFFSR)",
-                "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
-                "start_date": "2024-07-08",
-                "status": "completed",
-                "type": "crossing",
-                "ville:projet": "6967",
-                "ville:travaux": "2024",
-                "watch:elements": "n:1076161129,3"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.89325989366,
                     45.38721643134
                 ],
@@ -4460,26 +4416,6 @@
                 "status": "certain",
                 "type": "hump",
                 "watch:elements": "w:1396308443,2"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.89310915735,
-                    45.39833049641
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Ajouter: 30 (en tout temps) (entre Ball et #80)",
-                "resolution": "C.M. 2025-1300-57-RG",
-                "session": "2025-08-19",
-                "source": "Règlement no 1300-57",
-                "status": "official",
-                "type": "maxspeed",
-                "watch:elements": "w:12668726,24"
             },
             "type": "Feature"
         },
@@ -4932,26 +4868,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.89062337446,
-                    45.39187661054
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Ajouter: 30 (en tout temps) (entre Short et Mère-Teresa)",
-                "resolution": "C.M. 2025-1300-57-RG",
-                "session": "2025-08-19",
-                "source": "Règlement no 1300-57",
-                "status": "official",
-                "type": "maxspeed",
-                "watch:elements": "w:12669473,18"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.89056770691,
                     45.40304737277
                 ],
@@ -5332,25 +5248,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.88612681538,
-                    45.40355681245
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "comments": "covered=yes shelter=no bench=no",
-                "name": "Ajout d'une marquise à l'arrêt d'autobus",
-                "source": "https://www.sts.qc.ca/2023/10/23/la-sts-ajoute-des-marquises-a-certains-arrets-achalandes/",
-                "status": "certain",
-                "type": "misc",
-                "watch:elements": "n:12803459767,3"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.88603938162,
                     45.39209888971
                 ],
@@ -5659,26 +5556,6 @@
                 "status": "certain",
                 "type": "sidewalk",
                 "watch:elements": "w:1164679062,1 w:12672683,9"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.88265711337,
-                    45.4164032025
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "check_date": "2024-08-06",
-                "name": "Arrêt toutes directions",
-                "session": "2024-08-20; 2024-11-05",
-                "source": "Règlement no 1, article 5.1.13",
-                "status": "official",
-                "type": "stop",
-                "watch:elements": "n:83524556,7 w:387586622,8 w:1396149038,1"
             },
             "type": "Feature"
         },
@@ -6029,23 +5906,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.87472725765,
-                    45.41990785815
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Arrêts sur Sideleau seulement",
-                "status": "certain",
-                "type": "stop",
-                "watch:elements": "n:249775806,3"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.87452867694,
                     45.41338267945
                 ],
@@ -6082,23 +5942,6 @@
                 "ville:projet": "8217",
                 "ville:travaux": "2025",
                 "watch:elements": "n:10812718028,1"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.87359021215,
-                    45.41646557317
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Retirer: 40",
-                "status": "certain",
-                "type": "maxspeed",
-                "watch:elements": "w:1446123335,1 w:258852436,6"
             },
             "type": "Feature"
         },
