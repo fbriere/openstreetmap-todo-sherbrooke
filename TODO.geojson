@@ -5289,6 +5289,27 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.88635051787,
+                    45.39277320898
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Reconfiguration de l'intersection",
+                "planned_end": "Printemps 2026",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/federal-web.pdf",
+                "status": "planned",
+                "type": "geometry",
+                "ville:projet": "9271",
+                "ville:travaux": "2026",
+                "watch:elements": "w:13084432,8 w:1435994030,1 w:13084629,6 n:120441488,4 n:7459161311,1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.88618422627,
                     45.39416326449
                 ],
@@ -5324,6 +5345,48 @@
                 "status": "certain",
                 "type": "misc",
                 "watch:elements": "n:12803459767,3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.88603938162,
+                    45.39209888971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout de (plusieurs) dos d'âne",
+                "planned_end": "Printemps 2026",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/federal-web.pdf",
+                "status": "planned",
+                "type": "hump",
+                "ville:projet": "9271",
+                "ville:travaux": "2026",
+                "watch:elements": "w:13084629,6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.88600719512,
+                    45.3915262771
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Retrait d'un trottoir (côté ouest)",
+                "planned_end": "Printemps 2026",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/federal-web.pdf",
+                "status": "planned",
+                "type": "sidewalk",
+                "ville:projet": "9271",
+                "ville:travaux": "2026",
+                "watch:elements": "w:13084629,6"
             },
             "type": "Feature"
         },
@@ -6354,7 +6417,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Aménagement de l'intersection 12e / Marie-Paule-Kirouac",
-                "planned_end": "2026-05-11",
+                "planned_end": "2026-05-08",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2026-05-03",
                 "status": "planned",
