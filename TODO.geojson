@@ -4840,7 +4840,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "crossing",
-                "watch:elements": "w:12669473,18 w:12673630,17"
+                "watch:elements": "w:12669473,19 w:12673630,17"
             },
             "type": "Feature"
         },
@@ -5599,7 +5599,7 @@
                 "ville:projet": "7807",
                 "ville:travaux": "2024",
                 "watch:area": "45.41646 45.41662 -71.88265 -71.88217 e405e8da:6c5bab0a",
-                "watch:elements": "w:1396149037,1 n:1038871953,2 n:1038872897,3 n:83524556,7 n:2024346336,2"
+                "watch:elements": "w:1396149037,1 n:1038871953,2 n:1038872897,3 n:83524556,8 n:2024346336,3"
             },
             "type": "Feature"
         },
