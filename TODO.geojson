@@ -6030,6 +6030,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.87116611703,
+                    45.398804705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un dos d'âne",
+                "resolution": "C.M. 2026-1419-00",
+                "session": "2026-04-07",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "hump"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.8706781933,
                     45.41006491969
                 ],
