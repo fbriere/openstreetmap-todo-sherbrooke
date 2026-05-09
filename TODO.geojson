@@ -458,6 +458,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -72.00667038694,
+                    45.39533855953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "comments": "Un nouvel immeuble unique sera construit sur ce terrrain",
+                "name": "Démolition complète du 5992-6002",
+                "resolution": "C.M. 2026-1421-00",
+                "session": "2026-04-07",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "demolition"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -72.00111341302,
                     45.37823008194
                 ],
