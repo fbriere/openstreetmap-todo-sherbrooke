@@ -115,6 +115,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -72.04835996166,
+                    45.30879255828
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Arrêts aux approches de la voie ferrée",
+                "status": "certain",
+                "type": "stop"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.04811990395,
+                    45.30874539929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'arrêts sur des Riverains (et retrait de celui sur Sorel à l'approche ouest)",
+                "session": "2026-05-05",
+                "source": "Ville de Sherbrooke",
+                "status": "resolution",
+                "type": "stop"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -72.04772830144,
                     45.33981089958
                 ],
