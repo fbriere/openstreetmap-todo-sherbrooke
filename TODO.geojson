@@ -4394,6 +4394,28 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.89339027721,
+                    45.43084711543
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "comments": "Compte tenu de la durée des travaux (4 mois), j'en déduis qu'une nouvelle patinoire de forme différente sera construite",
+                "name": "Patinoire multi-fonctionnelle",
+                "planned_end": "2026-09-25",
+                "source": "Ville de Sherbrooke",
+                "start_date": "2026-05-19",
+                "status": "ongoing",
+                "type": "park",
+                "ville:projet": "9437",
+                "ville:travaux": "2026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.89325989366,
                     45.38721643134
                 ],
@@ -4484,7 +4506,7 @@
                 "planned_end": "2026-07-31",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2026-05-19",
-                "status": "planned",
+                "status": "ongoing",
                 "type": "park",
                 "ville:projet": "9410",
                 "ville:travaux": "2026",
@@ -6632,7 +6654,7 @@
                 "planned_end": "2026-09-25",
                 "source": "Ville de Sherbrooke",
                 "start_date": "2026-05-19",
-                "status": "planned",
+                "status": "ongoing",
                 "type": "park",
                 "ville:projet": "8271",
                 "ville:travaux": "2025",
