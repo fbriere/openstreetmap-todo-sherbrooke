@@ -3660,7 +3660,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Retrait du trottoir (au sud de Joseph-Labrecque)",
+                "planned_end": "2026-11-20",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Cambrai-Fairmount-web.pdf",
+                "start_date": "2026-05-25",
                 "status": "planned",
                 "type": "sidewalk",
                 "ville:projet": "9302",
@@ -3680,7 +3682,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Retrait du trottoir côté ouest (entre McManamy et Joseph-Labrecque)",
+                "planned_end": "2026-11-20",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Cambrai-Fairmount-web.pdf",
+                "start_date": "2026-05-25",
                 "status": "planned",
                 "type": "sidewalk",
                 "ville:projet": "9302",
@@ -3982,7 +3986,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout de (plusieurs) dos d'ânes (entre Fairmount et Belvédère)",
+                "planned_end": "2026-11-20",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Cambrai-Fairmount-web.pdf",
+                "start_date": "2026-05-25",
                 "status": "planned",
                 "type": "hump",
                 "ville:projet": "9302",
