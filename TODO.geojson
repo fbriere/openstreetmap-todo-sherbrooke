@@ -205,6 +205,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -72.0415321526,
+                    45.34103090165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Démolition de cet immeuble",
+                "resolution": "C.M. 2026-1481-00",
+                "session": "2026-05-05",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "demolition",
+                "watch:elements": "r:11826170,1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -72.04097986758,
                     45.33985803555
                 ],
