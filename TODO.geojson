@@ -2883,7 +2883,7 @@
                 "type": "crossing",
                 "ville:projet": "7007",
                 "ville:travaux": "2024",
-                "watch:elements": "n:1038872835,6"
+                "watch:elements": "n:1038872835,8"
             },
             "type": "Feature"
         },
@@ -2936,7 +2936,7 @@
                 "start_date": "2024-04-22",
                 "status": "completed",
                 "type": "misc",
-                "watch:elements": "w:911632754,1 w:1411979238,2"
+                "watch:elements": "w:911632754,2 w:1411979238,2"
             },
             "type": "Feature"
         },
@@ -4413,7 +4413,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "restriction",
-                "watch:elements": "w:189928907,10"
+                "watch:elements": "w:189928907,11"
             },
             "type": "Feature"
         },
@@ -5058,8 +5058,8 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "name",
-                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 125d3baf:b94c8715",
-                "watch:elements": "n:12232401171,1"
+                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 fa184fb3:c9cb88b9",
+                "watch:elements": "n:12232401171,2"
             },
             "type": "Feature"
         },
@@ -5077,7 +5077,7 @@
                 "source": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2023/10/14/un-nouveau-troncon-de-rue-au-coeur-du-centre-ville-JEMGS3TTXJGEDNTTMLY7HF5YCY/",
                 "status": "ongoing",
                 "type": "misc",
-                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 125d3baf:b94c8715"
+                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 fa184fb3:c9cb88b9"
             },
             "type": "Feature"
         },
@@ -5098,8 +5098,8 @@
                 "session": "2021-05-03",
                 "source": "Ville de Sherbrooke",
                 "type": "name",
-                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 125d3baf:b94c8715",
-                "watch:elements": "w:32273980,7"
+                "watch:area": "45.39989 45.40091 -71.88969 -71.88840 fa184fb3:c9cb88b9",
+                "watch:elements": "w:32273980,8"
             },
             "type": "Feature"
         },
@@ -5278,7 +5278,7 @@
                 "type": "cycleway",
                 "ville:projet": "8160",
                 "ville:travaux": "2026",
-                "watch:elements": "w:477506648,8 w:802024211,3 w:477506647,2 w:1435994031,1 w:802024210,4"
+                "watch:elements": "w:477506648,9 w:802024211,4 w:477506647,2 w:1435994031,1 w:802024210,5"
             },
             "type": "Feature"
         },
