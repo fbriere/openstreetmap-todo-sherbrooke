@@ -5250,8 +5250,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Reconfiguration de l'intersection",
-                "planned_end": "Printemps 2026",
+                "planned_end": "2026-10-03",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/federal-web.pdf",
+                "start_date": "2026-06-10",
                 "status": "planned",
                 "type": "geometry",
                 "ville:projet": "9271",
@@ -5293,8 +5294,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout de (plusieurs) dos d'âne",
-                "planned_end": "Printemps 2026",
+                "planned_end": "2026-10-03",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/federal-web.pdf",
+                "start_date": "2026-06-10",
                 "status": "planned",
                 "type": "hump",
                 "ville:projet": "9271",
@@ -5314,8 +5316,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Retrait d'un trottoir (côté ouest)",
-                "planned_end": "Printemps 2026",
+                "planned_end": "2026-10-03",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/federal-web.pdf",
+                "start_date": "2026-06-10",
                 "status": "planned",
                 "type": "sidewalk",
                 "ville:projet": "9271",
