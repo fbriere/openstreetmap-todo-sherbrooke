@@ -1173,8 +1173,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.97859573817,
-                    45.3684503106
+                    -71.97846541634,
+                    45.36827770297
                 ],
                 "type": "Point"
             },
@@ -1184,7 +1184,7 @@
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Gibraltar-Viau-web.pdf",
                 "status": "planned",
                 "type": "sidewalk",
-                "ville:projet": "9296",
+                "ville:projet": "9296;9685",
                 "ville:travaux": "2026",
                 "watch:elements": "w:1164760300,2"
             },
@@ -3029,7 +3029,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un lien cyclable (entre Farwell et Jacques-Cartier)",
+                "planned_end": "2026-10-30",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Portland-web.pdf",
+                "start_date": "2026-06-29",
                 "status": "planned",
                 "type": "cycleway",
                 "ville:projet": "9261",
@@ -3089,7 +3091,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un feu de circulation",
+                "planned_end": "2026-10-30",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Portland-web.pdf",
+                "start_date": "2026-06-29",
                 "status": "planned",
                 "type": "traffic_signal",
                 "ville:projet": "9261",
@@ -3109,7 +3113,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Semi-fermeture du terre-plein, empêchant le transit par Wood (le virage à gauche est→nord demeurera possible)",
+                "planned_end": "2026-10-30",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Portland-web.pdf",
+                "start_date": "2026-06-29",
                 "status": "planned",
                 "type": "restriction",
                 "ville:projet": "9261",
@@ -5461,6 +5467,28 @@
                 "ville:projet": "9267",
                 "ville:travaux": "2026",
                 "watch:elements": "w:10530963,27 w:261749335,6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.88464378093,
+                    45.41078604883
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Modification des trottoirs et des traverses piétonnes (entre Terrill et Vincent)",
+                "planned_end": "2026-08-14",
+                "source": "Ville de Sherbrooke",
+                "start_date": "2026-06-04",
+                "status": "ongoing",
+                "type": "sidewalk",
+                "ville:projet": "9677",
+                "ville:travaux": "2026",
+                "watch:elements": "w:234461243,12 w:234461248,9 w:234461245,6"
             },
             "type": "Feature"
         },
