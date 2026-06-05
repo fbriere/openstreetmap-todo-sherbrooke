@@ -5394,26 +5394,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.88516229659,
-                    45.41115378346
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Amélioration du passage piétonnier",
-                "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
-                "status": "planned",
-                "type": "crossing",
-                "ville:projet": "8211",
-                "ville:travaux": "2025",
-                "watch:elements": "n:2427118031,4"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.88485336452,
                     45.4027486137
                 ],
@@ -5506,26 +5486,6 @@
                 "status": "certain",
                 "type": "misc",
                 "watch:area": "45.40128 45.40205 -71.88472 -71.88402 e23434a1:bf9e43d1"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.88441127807,
-                    45.41051545999
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Amélioration du passage piétonnier",
-                "source": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/389/securisation-des-passages-pour-pietons-et-pietonnes",
-                "status": "planned",
-                "type": "crossing",
-                "ville:projet": "8212",
-                "ville:travaux": "2025",
-                "watch:elements": "n:2427187924,4"
             },
             "type": "Feature"
         },
