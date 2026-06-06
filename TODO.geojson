@@ -1043,7 +1043,7 @@
                 "type": "crossing",
                 "ville:projet": "8215",
                 "ville:travaux": "2025",
-                "watch:elements": "n:3850467466,4 n:3588463776,4 n:3850464142,3 n:3850464126,4 n:3850464101,7 n:3850464100,9 n:3850464130,5 n:3850464147,5"
+                "watch:elements": "n:3850467466,5 n:3588463776,5 n:3850464142,4 n:3850464126,5 n:3850464101,8 n:3850464100,10 n:3850464130,6 n:3850464147,6"
             },
             "type": "Feature"
         },
@@ -1682,7 +1682,7 @@
                 "name": "La portion sud de cette rue est privée et n'a pas de nom",
                 "status": "certain",
                 "type": "name",
-                "watch:elements": "w:156871052,9 w:156871055,11 w:9733500,16"
+                "watch:elements": "w:156871052,10 w:156871055,12 w:9733500,16"
             },
             "type": "Feature"
         },
@@ -2667,7 +2667,7 @@
                 "source": "Ville de Sherbrooke",
                 "status": "resolution",
                 "type": "stop",
-                "watch:elements": "w:354208027,1 w:6088813,4 w:6088814,3 n:50214617,5"
+                "watch:elements": "w:354208027,2 w:6088813,4 w:6088814,3 n:50214617,5"
             },
             "type": "Feature"
         },
@@ -3014,7 +3014,7 @@
                 "type": "crossing",
                 "ville:projet": "7026",
                 "ville:travaux": "2024",
-                "watch:elements": "n:3757636960,2"
+                "watch:elements": "n:3757636960,4"
             },
             "type": "Feature"
         },
@@ -3057,7 +3057,7 @@
                 "type": "park",
                 "ville:projet": "8270",
                 "ville:travaux": "2025",
-                "watch:area": "45.42594 45.43108 -71.92469 -71.91370 099f5ea5:b617d8eb"
+                "watch:area": "45.42594 45.43108 -71.92469 -71.91370 099f5ea5:a74e6a61"
             },
             "type": "Feature"
         },
@@ -3330,7 +3330,7 @@
                 "type": "cycleway",
                 "ville:projet": "4095",
                 "ville:travaux": "2023",
-                "watch:elements": "w:31437535,10"
+                "watch:elements": "w:31437535,11"
             },
             "type": "Feature"
         },
@@ -3735,7 +3735,7 @@
                 "type": "geometry",
                 "ville:projet": "9299",
                 "ville:travaux": "2026",
-                "watch:elements": "w:374776448,10 w:37050812,19 w:258852435,4 w:23139052,16"
+                "watch:elements": "w:374776448,12 w:37050812,21 w:258852435,5 w:23139052,18"
             },
             "type": "Feature"
         },
@@ -3956,7 +3956,7 @@
                 "type": "crossing",
                 "ville:projet": "9299",
                 "ville:travaux": "2026",
-                "watch:elements": "w:23139052,16 n:81573420,9 n:2641671262,3 n:7638663324,1"
+                "watch:elements": "w:23139052,18 n:81573420,9 n:2641671262,3 n:7638663324,1"
             },
             "type": "Feature"
         },
@@ -3997,7 +3997,7 @@
                 "type": "crossing",
                 "ville:projet": "9277",
                 "ville:travaux": "2026",
-                "watch:elements": "n:3781498994,2"
+                "watch:elements": "n:3781498994,3"
             },
             "type": "Feature"
         },
@@ -4061,7 +4061,7 @@
                 "type": "cycleway",
                 "ville:projet": "9299",
                 "ville:travaux": "2026",
-                "watch:elements": "w:23139052,16 w:1417141658,1"
+                "watch:elements": "w:23139052,18 w:1417141658,1"
             },
             "type": "Feature"
         },
@@ -4117,7 +4117,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "w:957251614,9"
+                "watch:elements": "w:957251614,10"
             },
             "type": "Feature"
         },
@@ -4158,7 +4158,7 @@
                 "source": "Règlement no 1300-51",
                 "status": "official",
                 "type": "stop",
-                "watch:elements": "n:81580597,6 w:9939430,10"
+                "watch:elements": "n:81580597,6 w:9939430,11"
             },
             "type": "Feature"
         },
@@ -4481,7 +4481,7 @@
                 "type": "cycleway",
                 "ville:projet": "8077",
                 "ville:travaux": "2026",
-                "watch:elements": "w:1190250609,4 w:1446528291,1"
+                "watch:elements": "w:1190250609,5 w:1446528291,2"
             },
             "type": "Feature"
         },
@@ -6378,7 +6378,7 @@
                 "type": "cycleway",
                 "ville:projet": "8161",
                 "ville:travaux": "2025",
-                "watch:elements": "w:1446049734,2 w:164116187,19 w:1446049733,2"
+                "watch:elements": "w:1446049734,3 w:164116187,20 w:1446049733,3"
             },
             "type": "Feature"
         },
@@ -6608,7 +6608,7 @@
                 "type": "sidewalk",
                 "ville:projet": "7639",
                 "ville:travaux": "2024",
-                "watch:elements": "w:1446049734,2"
+                "watch:elements": "w:1446049734,3"
             },
             "type": "Feature"
         },
