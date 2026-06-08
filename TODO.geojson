@@ -4061,7 +4061,7 @@
                 "type": "cycleway",
                 "ville:projet": "9299",
                 "ville:travaux": "2026",
-                "watch:elements": "w:23139052,18 w:1417141658,1"
+                "watch:elements": "w:23139052,18 w:1417141658,2"
             },
             "type": "Feature"
         },
@@ -4562,7 +4562,7 @@
                 "source": "Règlement no 1300-57",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "w:41199110,11"
+                "watch:elements": "w:41199110,12"
             },
             "type": "Feature"
         },
@@ -4844,7 +4844,7 @@
                 "source": "Règlement no 1300-53",
                 "status": "official",
                 "type": "maxspeed",
-                "watch:elements": "w:8831473,27 w:1387676463,2 w:477506655,4"
+                "watch:elements": "w:8831473,28 w:1387676463,2 w:477506655,4"
             },
             "type": "Feature"
         },
@@ -5367,7 +5367,7 @@
                 "type": "cycleway",
                 "ville:projet": "9284",
                 "ville:travaux": "2026",
-                "watch:elements": "w:234461243,12 w:234461245,6 w:234461248,9 w:32272078,12 w:176330186,4"
+                "watch:elements": "w:234461243,12 w:234461245,6 w:234461248,9 w:32272078,13 w:176330186,5"
             },
             "type": "Feature"
         },
@@ -5446,7 +5446,7 @@
                 "type": "cycleway",
                 "ville:projet": "9267",
                 "ville:travaux": "2026",
-                "watch:elements": "w:10530963,27 w:261749335,6"
+                "watch:elements": "w:10530963,28 w:261749335,6"
             },
             "type": "Feature"
         },
@@ -5927,7 +5927,7 @@
                 "type": "geometry",
                 "ville:projet": "7015",
                 "ville:travaux": "2024",
-                "watch:elements": "w:1446049739,1 n:249776867,7"
+                "watch:elements": "w:1446049739,3 n:249776867,7"
             },
             "type": "Feature"
         },
@@ -5992,7 +5992,7 @@
                 "type": "hump",
                 "ville:projet": "7294",
                 "ville:travaux": "2024",
-                "watch:elements": "w:10070404,16"
+                "watch:elements": "w:10070404,17"
             },
             "type": "Feature"
         },
@@ -6012,7 +6012,7 @@
                 "type": "cycleway",
                 "ville:projet": "9304",
                 "ville:travaux": "2026",
-                "watch:elements": "w:164113690,21"
+                "watch:elements": "w:164113690,25"
             },
             "type": "Feature"
         },
@@ -6032,7 +6032,7 @@
                 "type": "cycleway",
                 "ville:projet": "9385",
                 "ville:travaux": "2026",
-                "watch:elements": "w:1454951654,1 w:1243333921,6"
+                "watch:elements": "w:1454951654,4 w:1243333921,6"
             },
             "type": "Feature"
         },
@@ -6091,7 +6091,7 @@
                 "type": "cycleway",
                 "ville:projet": "9295",
                 "ville:travaux": "2026",
-                "watch:elements": "w:164113690,21"
+                "watch:elements": "w:164113690,25"
             },
             "type": "Feature"
         },
