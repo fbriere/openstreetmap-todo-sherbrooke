@@ -3033,7 +3033,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un lien cyclable (entre Farwell et Jacques-Cartier)",
+                "planned_end": "2026-10-30",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Portland-web.pdf",
+                "start_date": "2026-06-22",
                 "status": "planned",
                 "type": "cycleway",
                 "ville:projet": "9261",
@@ -3093,7 +3095,9 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un feu de circulation",
+                "planned_end": "2026-10-30",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Portland-web.pdf",
+                "start_date": "2026-06-22",
                 "status": "planned",
                 "type": "traffic_signal",
                 "ville:projet": "9261",
@@ -3112,8 +3116,11 @@
             },
             "properties": {
                 "TODO:marker": "1",
-                "name": "Semi-fermeture du terre-plein, empêchant le transit par Wood (le virage à gauche est→nord demeurera possible)",
+                "comments": "Le virage à gauche est→nord demeurera possible",
+                "name": "Semi-fermeture du terre-plein, empêchant le transit par Wood",
+                "planned_end": "2026-10-30",
                 "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Portland-web.pdf",
+                "start_date": "2026-06-22",
                 "status": "planned",
                 "type": "restriction",
                 "ville:projet": "9261",
