@@ -641,6 +641,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.9949960563,
+                    45.39009200175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Arrêt toutes directions",
+                "session": "2026-06-02",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "stop",
+                "watch:elements": "w:10654457,7 w:1462693429,2 w:89097823,5 n:1033658661,2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.9948056367,
                     45.36832493565
                 ],
@@ -863,6 +882,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.99137267519,
+                    45.36180275643
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un passage piétonnier",
+                "session": "2026-06-02",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "crossing",
+                "watch:elements": "w:19755005,14"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.99132211573,
                     45.34860573519
                 ],
@@ -936,6 +974,25 @@
                 "ville:projet": "8268",
                 "ville:travaux": "2025",
                 "watch:area": "45.36841 45.36871 -71.99097 -71.99051 4820aa5a:3bdc461e"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.98849025866,
+                    45.3857102909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Déplacement des arrêts d'autobus vers Murillo",
+                "session": "2026-06-02",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "misc",
+                "watch:elements": "n:13265575747,1 n:13265237155,1"
             },
             "type": "Feature"
         },
