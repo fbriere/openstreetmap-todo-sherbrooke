@@ -4384,6 +4384,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.89406186476,
+                    45.40505646317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout d'un support à vélo",
+                "resolution": "C.A. AN 2026-1755-00",
+                "session": "2026-04-28/Nations",
+                "source": "Ville de Sherbrooke",
+                "status": "planned",
+                "type": "bicycle",
+                "watch:area": "45.40493 45.40520 -71.89417 -71.89395 4a578eed:8ffb2394"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.89380535428,
                     45.39480961381
                 ],
