@@ -2680,23 +2680,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.93901300967,
-                    45.38402150185
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "TODO:marker": "1",
-                "name": "Aucune traverse présente ici",
-                "status": "certain",
-                "type": "crossing",
-                "watch:elements": "n:362701391,9"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.93786666265,
                     45.46945545184
                 ],
