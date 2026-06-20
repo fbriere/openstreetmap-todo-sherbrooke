@@ -1149,6 +1149,27 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.98271941461,
+                    45.37248012748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "TODO:marker": "1",
+                "name": "Ajout de dos d'âne (face au 919 et 830)",
+                "planned_end": "2026-06-23",
+                "source": "Ville de Sherbrooke",
+                "start_date": "2026-06-23",
+                "status": "planned",
+                "type": "hump",
+                "ville:projet": "9748",
+                "ville:travaux": "2026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.98240043879,
                     45.34938567707
                 ],
@@ -3775,7 +3796,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Réaménagement du terre-plein (pour relier les pistes cyclables et aménager une traverse piétonnière)",
-                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Moore-web.pdf",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Travaux-Moore-web.pdf",
                 "status": "planned",
                 "type": "geometry",
                 "ville:projet": "9299",
@@ -3996,7 +4017,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout d'un passage piétonnier",
-                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Moore-web.pdf",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Travaux-Moore-web.pdf",
                 "status": "planned",
                 "type": "crossing",
                 "ville:projet": "9299",
@@ -4101,7 +4122,7 @@
             "properties": {
                 "TODO:marker": "1",
                 "name": "Ajout de bandes cyclables (entre Dufferin et Queen-Victoria)",
-                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Moore-web.pdf",
+                "source": "https://cartes.ville.sherbrooke.qc.ca/Hyperliens/Travaux/Travaux-Moore-web.pdf",
                 "status": "planned",
                 "type": "cycleway",
                 "ville:projet": "9299",
